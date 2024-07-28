@@ -1,3 +1,5 @@
+***
+[[Types Chapter]]
 cc.52
 **Special values of section:**
 **NaN** - data type is not a number or: 

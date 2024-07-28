@@ -1,3 +1,5 @@
+***
+[[Objects]]
 p.179
 Special values:
 1. .toString( ) - JS interpreter use it under the hood. Like concatenation with "+" operator

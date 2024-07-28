@@ -1,3 +1,5 @@
+***
+[[Types Chapter]]
 Special objects:
 
 1. Those who returns false:

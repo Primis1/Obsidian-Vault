@@ -1,4 +1,5 @@
 ***
+[[Types & Variables]]
 Special values: 
 1. Number - in go it has multiple kinds, like full, positive or negative, and narrowed one for specific amount memory, like 8, 16, 32, 64 bytes 
 	1. uint - positive value 

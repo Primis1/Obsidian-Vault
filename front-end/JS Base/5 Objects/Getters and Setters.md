@@ -1,3 +1,5 @@
+***
+[[Objects]]
 p.183
 Special values:  
 #get - allows us to have access to the values of the method
@@ -16,7 +18,7 @@ const obj = {
 	
 	get method() {
 		return this.x++
-	}
+	},
 }
 obj.method   //=> 4; if we didn't use get before the method, as the result we would get a name of the method   
 ```

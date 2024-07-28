@@ -1,6 +1,6 @@
 ***
+[[Syntax Chapter]]
 Page 44
-
 To know: 
 1. **Js has auto ";" because of the interpreter, which put a ";" automatically by specific rules.**
 

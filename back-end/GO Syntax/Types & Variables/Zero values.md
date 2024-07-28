@@ -1,4 +1,5 @@
 ***
+[[Types & Variables]]
 Special values:
 1. Zeros - in go lang, just like in TS there are true and false values: "", false, 0 
 	1. Those zero could appear if we didn't assign the value to the variable

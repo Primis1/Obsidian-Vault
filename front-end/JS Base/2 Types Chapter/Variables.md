@@ -1,3 +1,5 @@
+***
+[[Types Chapter]]
 cc.80
 Special values: 
 1. variable - ==is named place of memory== where the actual data is stored 

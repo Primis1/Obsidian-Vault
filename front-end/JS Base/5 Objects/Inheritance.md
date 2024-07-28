@@ -1,3 +1,5 @@
+***
+[[Objects]]
 p.173
 Special values:
 Object.assign( ) - global method that used for inheritance between an objects  

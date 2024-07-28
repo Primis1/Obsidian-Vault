@@ -1,3 +1,5 @@
+***
+[[Loops & stuff]]
 Special values:
 1. #while 
 2. #for  

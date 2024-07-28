@@ -1,11 +1,10 @@
-
-Special object 
-
+***
+[[Types Chapter]]
+Special values: 
+1.  non-mutability - 
 To know:
-	1. #object and arrays are never equal true, even with comparison to themself: 
-	
+1.  #object and arrays are never equal true, even with comparison to themself: 
 ```ts
-
 let array: number[] = [1, 2, 3]
 let obj = {x: "hello"}
 
@@ -14,7 +13,7 @@ array === array  // => false
 boj === obj      // => false
 ```
 	
-We can change the current #array && #object(remember that we can't modify the strings, but only create the new one by using methods like .toUpperCase).
+2. We can change the current #array && #object(remember that we can't modify the strings, but only create the new one by using methods like .toUpperCase).
 	
 ```ts
 obj.x = "good-bye"

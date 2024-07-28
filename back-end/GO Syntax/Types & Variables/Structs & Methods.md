@@ -1,9 +1,10 @@
 ***
+[[Types & Variables]]
 Special values:
 1. type - key initialing the type, just like in TS
-2. struct - keyword allows to create an "object" like datatype 
+2. struct - keyword allows to create an "hash" like datatype 
 	1. tags - it is a small piece of metadata attached, in structs we can use tags for encoding purpose
-4. methods - it uses (), where we can define an argument over which the *function* will iterate
+4. methods - it uses ( ), where we can define an argument over which the *function* will iterate
 
 To know: 
 1. Structs:

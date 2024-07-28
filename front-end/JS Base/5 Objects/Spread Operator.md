@@ -1,3 +1,5 @@
+***
+[[Objects]]
 p.179
 Special values:
 [ . . . ] - #spread operator. Operator spreads or divides or parses the properties from the object

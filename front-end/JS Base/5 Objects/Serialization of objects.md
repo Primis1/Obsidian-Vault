@@ -1,7 +1,8 @@
+***
+[[Objects]]
 p174
-
 Special values:
-Serialization -  is the process of translation from one data type to another
+==Serialization== -  is the process of translation from one data type to another
 JSON - JavaScript Object Notation 
 JSON.stringify( ) - creating strings from objects
 JSON.parse( ) - creating objects from strings

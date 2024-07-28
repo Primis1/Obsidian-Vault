@@ -1,4 +1,5 @@
 ***
+[[Loops & stuff]]
 Special values:
 1. #for/in - iterates over unlimited amount of properties in the object 
 2. #for/of - iterates over the values of arrays

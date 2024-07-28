@@ -1,11 +1,13 @@
+***
+[[Loops & stuff]]
 p.145
 Special values:
-#break - stop the process 
-#continue - restarts the loop from the next iteration   
-#return - returns the value. { } for object, ( ) for not 
-#throw - connected to Error object in JS, go with try/catch/finally
-#try, #catch  - are used for checking of exceptions.
-#exception - it is a signal that report the appearance of weird condition or Error. Generation of     #exception is the warning about such unexpected condition or Error.
+1. #break - stop the process 
+2. #continue - continues the loop to next circle    
+3. #return - returns the value. { } for object, ( ) for not 
+4. #throw - connected to Error object in JS, go with try/catch/finally
+5. #try, #catch  - are used for checking of exceptions.
+6. #exception - it is a signal that report the appearance of weird condition or Error. Generation of #exception is the warning about such unexpected condition or Error.
 
 To know: 
 1. #break operator is used to exit from the loop, and often used when there is no purpose to make a logic for stopping the *loop* (yea, only for loops or operator switch... fuck have to read about that too)
@@ -15,7 +17,7 @@ To know:
 		if (arr[i] === target) break;
 	}
 ```
-	2. Also check this syntax a[i], here *i* is in brackets because it is used as value for the array.
+	2. Also check this syntax a[i], here *i* is in brackets because it is used as index for the array
 	```ts
 let matrix = getDataO ; // Получить откуда-то двумерный массив чисел
 // Просуммировать все числа в матрице
@@ -37,10 +39,6 @@ computeSum: if (matrix) {
 ```
 
 2. #continue operator is similar to #break, but instead of exit the loop, it restarts it right after the loop reach the operator. For different loops, this creates different consequences
-	
-	1. In cycle #while it gets back to *check* part, and if === true, the loop starts again 
-	2. In cycle #for it calculates the increment part, and after that *check* expression, if === true, the loop starts again
-	3. In cycle #for/of it returns to next iteration value or property.
 ```ts
 for(let i = 0; i < arr.length; i++) {
 	if(!arr[i]) continue;
@@ -49,8 +47,8 @@ for(let i = 0; i < arr.length; i++) {
 }
 ```
 
-3. #return - remember that every function has a value, so operator #return returns the value of an expression inside of the function.
-	1. can prevent the circle of for loop
+3. #return - used to set an execution value to the function, if won't declare a value to be returned, it changes remain only within the function scope, and function as a variable won't work 
+	1. can exit the loop 
 	```ts
 	function sqr(x: number) {return x*x}
 	sqr(20)  //=> 40, but without return it will throw undefiend   
@@ -94,9 +92,9 @@ factorial()
 	```ts 
 	function parseJson<T>(s: T) {
 		try {
-			reuturn JSON.parse(s)
-		} catch {
-			return undefined 
+			return JSON.parse(s)
+		} catch(e) {
+			return console.log(e) 
 		}
 	}
 ```

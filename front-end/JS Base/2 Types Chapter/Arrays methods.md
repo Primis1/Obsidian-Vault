@@ -1,4 +1,5 @@
 ***
+[[Types Chapter]]
 cc.60 
 Special values:
 ```ts

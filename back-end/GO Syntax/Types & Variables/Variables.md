@@ -1,5 +1,5 @@
-`Well that is typescript buddy)) 
-
+***
+[[Types & Variables]]
 Special values:
 1. #var / #const - a variable in GO, just the same as let & const in JS
 2. := - operator is a shorten non-typed declaration for variables  
@@ -10,6 +10,7 @@ To know:
 	```go
 	func main() {
 		i, f, b, s := 32, true, false, "bla bla"
+
 		fmt.PrintIn(s) //=> compile error 
 	}
 

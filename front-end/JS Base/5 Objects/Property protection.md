@@ -1,3 +1,5 @@
+***
+[[Objects]]
 Special values:
 #In - more advanced description that was in previous chapter
 
@@ -9,4 +11,9 @@ To know:
 	"х" in о  // => true: о имеет собственное свойство "х"
 	"у" in о  // => false: о не имеет свойства "у”
 	"toString" in о  // => true: о наследует свойство toString
+	if ("y" in o ) {
+		do something 
+	} else {
+		o = {y:"y"}
+	}
 ```

@@ -1,5 +1,7 @@
+***
+[[Immutability In React]]
 Special values:
-1. . . . - #spread operator also works with arrays, in simple words it is just a shortcut.
+1. . . . - #spread operator also works with arrays, in simple words it is just a shortcut for adding destructing the array 
 
 To know: 
 1. Every array creates by using a square brackets [ ] and elements within the array should be divided by coma
