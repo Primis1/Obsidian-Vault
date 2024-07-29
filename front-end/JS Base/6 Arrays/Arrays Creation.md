@@ -15,7 +15,7 @@ To know:
 	```ts 
 	let table = [[1, {x: 1, y: 2}], [2, {х: 3, у: 4}]]
 	```
-	4. Values within the array can be skipped([[Arrays and access]]), and attempt to access the values will cause the *undefined*
+	4. Values within the array can be skipped, and attempt to access the values will cause the *undefined*
 	```ts
 	let count = [ 1, ,3];  // Элементы находятся по индексам 0 и 2.
 	//По индексу 1 элемента нет

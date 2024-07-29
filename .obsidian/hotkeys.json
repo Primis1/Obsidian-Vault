@@ -31,5 +31,13 @@
       ],
       "key": "X"
     }
+  ],
+  "graph:open-local": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
   ]
 }

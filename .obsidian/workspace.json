@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "57ee03c877238c1d",
+        "id": "6df2624b28900a40",
         "type": "tabs",
         "children": [
           {
-            "id": "a5235dfb259698c8",
+            "id": "fe07953d5a1c0ce9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/Communications/Http and Comm/Http & Https.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b949e2ee70ca6531",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/GO Syntax/Packages/Separate packages/NET.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71907de0071eab07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/GO Syntax/Packages/Separate packages/LOG.md",
+                "file": "back-end/GO and Web/Web Application Basics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: NET",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 208.5110321044922
+    "width": 200
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/GO Syntax/Packages/Separate packages/NET.md",
+                "file": "back-end/GO and Web/Web Application Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/GO Syntax/Packages/Separate packages/NET.md",
+                "file": "back-end/GO and Web/Web Application Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/GO Syntax/Packages/Separate packages/NET.md"
+                "file": "back-end/GO and Web/Web Application Basics.md"
               }
+            }
+          },
+          {
+            "id": "ae1de151cb3320ed",
+            "type": "leaf",
+            "state": {
+              "type": "review-notes",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,42 +150,41 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "b949e2ee70ca6531",
+  "active": "fe07953d5a1c0ce9",
   "lastOpenFiles": [
-    "HTTP Body.md",
-    "back-end/GO Syntax/Packages/Separate packages/NET.md",
+    "back-end/GO and Web/GO Project Structure.md",
     "back-end/Communications/Http and Comm/Http & Https.md",
-    "back-end/Communications/Http and Comm/Cookies.md",
-    "front-end/JS Base/5 Objects/Serialization of objects.md",
-    "CS/Network/Http & Https.md",
-    "front-end/Authentication/Overall/Authentication && Authorization.md",
-    "back-end/GO Syntax/Packages/Separate packages/LOG.md",
-    "back-end/GO Syntax/Types & Variables/Strings.md",
-    "back-end/Backend.md",
-    "back-end/GO Syntax/Types & Variables/Generics.md",
-    "2024-07-28.md",
-    "front-end/React & Next/Additional Huge & Specific Libs/State Managers/Redux in General.md",
-    "front-end/React & Next/Additional Huge & Specific Libs/State Managers",
-    "front-end/JS Base/7 Async JS/Asynchronous JS.md",
+    "back-end/GO and Web/Web Application Basics.md",
+    "CS/Algos and DS/Data Structures/Linked-lists/Linked List.md",
+    "front-end/JS Base/5 Objects/Object & Array method.md",
     "front-end/JS Base/5 Objects/Objects.md",
-    "front-end/JS Base/4 Operators/Loops & stuff.md",
-    "front-end/JS Base/3 Expressions & Operations/Expressions & Operators.md",
-    "front-end/JS Base/2 Types Chapter/Types Chapter.md",
-    "front-end/JS Base/1 Syntax chapter/Syntax Chapter.md",
     "front-end/JS Base/JavaScript.md",
+    "CS/Programming Concepts/Functions/Recursion.md",
+    "front-end/JS Base/2 Types Chapter/Not changadble object.md",
     "back-end/GO Syntax/Types & Variables/Types & Variables.md",
-    "back-end/GO Syntax/Pointer and Memo/Memory Management.md",
+    "back-end/GO Syntax/Types & Variables/Zero values.md",
     "back-end/GO Syntax/GO.md",
     "back-end/GO and Web/GO WEB.md",
+    "CS/Programming Concepts/Functions/Pure Function.md",
+    "back-end/GO Syntax/Packages/Separate packages/NET.md",
+    "Some shit, idk where to put/Pasted image 20240729024014.png",
+    "CS/Computer Science.md",
+    "back-end/Communications/Communication.md",
+    "Untitled.canvas",
+    "front-end/Front-End.md",
+    "front-end/JS Base/6 Arrays/Arrays Creation.md",
+    "front-end/JS Base/3 Expressions & Operations/Arrays and access.md",
+    "back-end/Communications/Http and Comm/HTTP Body.md",
+    "back-end/Communications/Http and Comm/Cookies.md",
     "back-end/Communications/Http and Comm/What the heck is REST.md",
     "back-end/Communications/REST vs gRPC vs GrapthQL.md",
+    "front-end/React & Next/Additional Huge & Specific Libs/Redux/Local Storage & Session Storage.md",
+    "back-end/Communications/Local Storage & Session Storage.md",
     "back-end/Communications/Http and Comm",
-    "back-end/Communications",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240726213950.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240726200634.png",
     "Some shit, idk where to put/Formatting/Pasted image 20240418163305.png",
@@ -217,11 +198,11 @@
     "CS/Network/Network models/OSI",
     "CS/Network/Network models/TCP",
     "CS/Network/Network models",
+    "CS/Internet/Network",
+    "front-end/React & Next/Additional Huge & Specific Libs/RC Form & Forms",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240705030742.png",
     "Pasted image 20240705030753.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240703233239.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240703010015 1.png",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
