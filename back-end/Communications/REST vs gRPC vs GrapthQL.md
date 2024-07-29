@@ -11,7 +11,7 @@ To know:
 ![[Pasted image 20240523102645.png]]
 
 2. gRPC - is not working with web out of the box, however there is an extension call *gRPC*-*Web*, that is based on HTTP 1.1 but doesn't have some features 
-	1. 
+	1. Made for easier microservice integrations
 
 3. GraphQL - use one route for all requests to the API 
 	1. Front-end describes what data they want, when back-end write code to resolve the request

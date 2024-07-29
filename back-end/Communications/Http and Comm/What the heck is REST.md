@@ -20,11 +20,11 @@ Details:
 	- an optional message body containing data
 
 2. The HTTP verbs( they are similar to CRUD, but they aren't the same)
-	1. GET - request data
-	2. POST - creates data 
-	3. PUT - changes all existing data
-	4. DELETE - deletes data
-	5. PATCH - changes only small amount of data
+	1. ==GET== - request data
+	2. ==POST== - creates data 
+	3. ==PUT== - changes all existing data
+	4. ==DELETE== - deletes data
+	5. ==PATCH== - changes only small amount of data
 
 3. The response from the server contains codes:
 	Good one:

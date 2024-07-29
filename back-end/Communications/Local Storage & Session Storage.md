@@ -18,5 +18,6 @@ To know:
 	1. Cookies help maintain user sessions, allowing websites to remember user data, preferences, and login status across multiple pages or visits.
 	2. We can ==set== ==the== ==expiration== time for cookies, but if we didn't it will ==expire== with the end of the ==session== 
 	3. There are different types of cookies:
+		1. 
  
 ![[Pasted image 20240623170414.png]]

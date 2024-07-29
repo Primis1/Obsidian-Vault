@@ -19,8 +19,9 @@ To know:
 	2. Accept - type of content client can process 
 	3. Cookie
 	4. Accept-Language - preferred language of the client  
-	5. Accept-Encoding -  preferred 
+	5. Accept-Encoding -  preferred encoding 
 	6. Connections - options for connecting manager 
+4. Header attributes are parameters  of headers
 
 ```ts
 GET / HTTP/1.1
