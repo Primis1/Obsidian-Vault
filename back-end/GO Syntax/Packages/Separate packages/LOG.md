@@ -11,6 +11,8 @@ To know:
 import "log"
 
 func() {
-	
+	if myVar, err = something(), err != nil {
+		log.Printf(err)
+	}
 }()
 ```
