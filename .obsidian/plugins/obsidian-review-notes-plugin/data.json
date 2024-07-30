@@ -7,6 +7,22 @@
     {
       "path": "back-end/GO and Web/Web Application Basics.md",
       "filename": "Web Application Basics"
+    },
+    {
+      "path": "back-end/GO Syntax/Packages/Separate packages/NET.md",
+      "filename": "NET"
+    },
+    {
+      "path": "back-end/GO and Web/GO Project Structure.md",
+      "filename": "GO Project Structure"
+    },
+    {
+      "path": "front-end/TypeScript/Decorators.md",
+      "filename": "Decorators"
+    },
+    {
+      "path": "front-end/TypeScript/TypeScript.md",
+      "filename": "TypeScript"
     }
   ]
 }

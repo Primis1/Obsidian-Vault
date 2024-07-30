@@ -70,5 +70,4 @@ To know:
 		conn.Close()
 	}(conn) //=> pass our 
 	```
-
-Implementation: 
+4. After launching the file we can create a client that will connect to our server, or just use ==powercat==
