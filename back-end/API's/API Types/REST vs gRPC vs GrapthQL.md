@@ -1,10 +1,11 @@
 ***
+[[API Types]]
 Special values:
 1. Rest - architecture with not strict set of rules, for requests to the server. Is *based* on #HTTP protocol
-2. gRPC - protocol is a high-performance way for requests to the server, it should be written in its own language, or in of supported; like GO 
+2. gRPC - protocol is a high-performance way for requests to the server 
 3. GraphQL - an API query language for backend and front end
 To know:
-1. REST - uses individual route for any single request to the API
+1. REST - uses separate route for any single request to the API
 	1. REST - can use GET, POST, PUT, DELETE http methods, via URL
 	2. Mostly uses JSON and XML
 ![[Pasted image 20240523102645.png]]

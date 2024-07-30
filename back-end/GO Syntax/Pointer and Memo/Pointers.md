@@ -7,7 +7,7 @@ Special values:
 3. new( ) - used for allocation of initial value with pointing to its zero value 
 
 To know:
-1. Pointers are used for ==creating== a new variable with value AND memory ==socket== of another variable 
+1. Pointers are used for ==creating== a new variable with regular value AND memory ==socket== of another variable 
 	1. POINTERS ARE USED FOR CREATING A POINTER TO SOMETHING(in our case memory sockets)
 	2. The literal explanation is that pointer are "==pointing==" at ==exact place== of the memory, like *0x0002e0*
 
