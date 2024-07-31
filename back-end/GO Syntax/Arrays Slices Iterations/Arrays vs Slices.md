@@ -2,7 +2,7 @@ Special values:
 1. #slices - is a collection of values basically an array, but in Golang it is flexible in size
 2. array - is a data structure, but it fixed in size 
 3. append - function allows to add the elements to the end of slice, and slice only
-4. make([]type, len/cap) - allows to set a length to slice and ==avoid nil accesses== 
+4. make([]type, len/cap) - allows to set a length to slice and ==avoid nil assignment== 
 
 To know: 
 1. ==Arrays== 

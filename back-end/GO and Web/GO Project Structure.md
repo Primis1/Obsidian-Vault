@@ -36,7 +36,7 @@ To know:
 3. Work Flow Folders:\
 	1. /api - used for ?
 	2. /web - specific components of web applications
-	3. /configs - project configuration or default configs 
+	3. /configs - project configuration or default configs, env's, etc
 	4. /build - Continuous Integrations(CI), packaging, cloud (AMI), docker containers 
 	5. /deployment - 
 	6. /test - 

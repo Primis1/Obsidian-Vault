@@ -1,5 +1,5 @@
 ***
-[[Computer Science]]
+[[Data Structures]]
 To know:
 
 Implementation:

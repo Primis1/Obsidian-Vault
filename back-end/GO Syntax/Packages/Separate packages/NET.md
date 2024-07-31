@@ -1,12 +1,12 @@
 ***
 Special values:
 1. #net - package provides a portable interface for network #I/O (input/output), [[TCP & IP]], UPD and UNIX domain sockets. In general it provides access to low-level network primitives
-	1. ==It allows to write TCP server==
+	1. ==It allows to create TCP connection==
 
 3. #net functions:
 	1. net.==Listen== - listen for connection on a port, 
 		1. ==first== argument should be the type of network we're using: =="tcp", "tcp4", "tcp6", "unix" or "unixpacket"==
-		2. ==second==, should an address, if we out unspecified host, .Listen( ) will listen on all unicast address  
+		2. ==second==, should an address, if we put unspecified host, .Listen() will listen on all unicast address  
 		3. Port can be automatically selected by the .Listen( ) because of [bind](https://dev.to/hgsgtk/how-go-handles-network-and-system-calls-when-tcp-server-1nbd)documentation 
 			![[Pasted image 20240729024014.png]]
 	
@@ -18,8 +18,8 @@ Special values:
 To know:
 1. ==All TCP is sends data in bytes, so our logic for receiving data should be implemented in *bytes*== 
 2. net.Listen( ) functions:
-	1. Accept( ) - 
-	2. Close( ) -
+	1. Accept( ) - accept the data from the connection 
+	2. Close( ) - close the current connection
 3. How the process works:
 	1. ==Listen to upcoming connections== 
 	```go

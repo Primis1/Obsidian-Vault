@@ -1,5 +1,5 @@
 ***
-[[Computer Science]]
+[[Data Structures]]
 Special values:
 
 1. Array - is a collection of values. It is good for: static amount of “something”, if i want to jump from element to another. Arrays could only contain values of single type 

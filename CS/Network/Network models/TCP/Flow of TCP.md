@@ -1,7 +1,8 @@
 ***
+[[TCP & IP]]
 Special values:
 1. client/server - devices that initiating a conn, and connecting to 
-2. 3-way hand shake 
+2. 3-way hand shake - algorithm of synchronization, ==after its done, connection is established and requests are possible== 
 
 To know:
 1. Server is a device that all time, passively awaits for the request 
@@ -16,5 +17,3 @@ To know:
 		2. ==Server== Sends a, ==SYN-ACK==, synchronization-acknowledgement message, that consist from two parts: SYN + 1, ACK which is a numeric value too
 		3. ==Client== sent its own ACK: ACK +1 
 		4. ![[Pasted image 20240701105257.png]]
-
-4. Right after byte bidirectional pipeline is established 

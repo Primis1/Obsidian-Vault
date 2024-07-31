@@ -1,48 +1,20 @@
 {
   "files": [
     {
-      "path": "back-end/Communications/Http and Comm/Http & Https.md",
-      "filename": "Http & Https"
-    },
-    {
-      "path": "back-end/GO and Web/Web Application Basics.md",
-      "filename": "Web Application Basics"
-    },
-    {
-      "path": "back-end/GO Syntax/Packages/Separate packages/NET.md",
-      "filename": "NET"
-    },
-    {
-      "path": "back-end/GO and Web/GO Project Structure.md",
-      "filename": "GO Project Structure"
-    },
-    {
-      "path": "front-end/React & Next/Additional Huge & Specific Libs/State Managers/Local Storage & Session Storage.md",
-      "filename": "Local Storage & Session Storage"
-    },
-    {
-      "path": "front-end/TypeScript/Decorators.md",
-      "filename": "Decorators"
-    },
-    {
-      "path": "back-end/DevOps stuff/YML file configs.md",
-      "filename": "YML file configs"
-    },
-    {
-      "path": "back-end/DevOps stuff/CI CD pipeline.md",
-      "filename": "CI CD pipeline"
-    },
-    {
-      "path": "back-end/DevOps stuff/DevOps.md",
-      "filename": "DevOps"
+      "path": "back-end/API's/REST/REST API Design.md",
+      "filename": "REST API Design"
     },
     {
       "path": "back-end/API's/API's.md",
       "filename": "API's"
     },
     {
-      "path": "back-end/API's/REST/What the heck is REST.md",
-      "filename": "What the heck is REST"
+      "path": "REST Implementation.md",
+      "filename": "REST Implementation"
+    },
+    {
+      "path": "back-end/GO Syntax/GO Special Keywords.md",
+      "filename": "GO Special Keywords"
     }
   ]
 }

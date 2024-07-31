@@ -34,14 +34,19 @@ To know:
 	3. Slice's values are pointed by default
 
 4. ==Use cases==:
-	1. ==Assign== to an ==error==. If we compare regular error's value, it is always the same. With pointer variable we can look where it is located in the memory
+	1. ==Escape the function scope==, if we pointing into the memory address function can modify ==the argument variable==   
 	
 	2. Because we're working with the memory space itself, function scopes won't have an effect on the pointed value 
 	
 	3. Pointers are to ==directly== ==access== the value or memory sockets of wrapped variable, cause ==increase== in ==speed==
 ```go
-var w = new(int)
-var w *int
-var bw = &w
+func megaFunc(v *int) int {
+	*v += 1
+}
+
+func main() {
+	number := 0
+	megaFunc(number)  //=> 1 AMAZING 
+}
 ```
 ![[Pasted image 20240711023619.png]]

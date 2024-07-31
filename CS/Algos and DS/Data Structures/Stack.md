@@ -1,5 +1,5 @@
 ***
-[[Computer Science]]
+[[Data Structures]]
 Special values:
 1. #Stack - is a linear data structure, that used for element execution. It uses a "last in, first out" approach.
 ![[Pasted image 20240526000642.png]]

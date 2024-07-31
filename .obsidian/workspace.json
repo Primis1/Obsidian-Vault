@@ -4,95 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "04f905d3c9fc16b4",
+        "id": "5f8e24117070d4b4",
         "type": "tabs",
         "children": [
           {
-            "id": "5b7a9da382fadb1b",
+            "id": "9f9b5fd34d35e104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/GO and Web/GO Project Structure.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4db8990b97d1aecc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/GO and Web/Web Application Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d02adb55fe141e99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/GO and Web/Web Application Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "555fd208a27240d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/API's/API Types/REST vs gRPC vs GrapthQL.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7be913698b6f2dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/Communications/Http and Comm/Http & Https.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1f85c90cc6625bb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/API's/API Types/API Types.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c40124daea71452",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/DevOps stuff/YML file configs.md",
+                "file": "REST Implementation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: http",
+                "query": "file: rest",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/DevOps stuff/YML file configs.md",
+                "file": "REST Implementation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/DevOps stuff/YML file configs.md",
+                "file": "REST Implementation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/DevOps stuff/YML file configs.md"
+                "file": "REST Implementation.md"
               }
             }
           },
@@ -219,6 +147,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -226,36 +155,37 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "7c40124daea71452",
+  "active": "9f9b5fd34d35e104",
   "lastOpenFiles": [
-    "back-end/GO Syntax/Types & Variables/Structs & Methods.md",
+    "back-end/API's/REST/REST API Design.md",
+    "back-end/GO Syntax/GO Special Keywords.md",
+    "REST Implementation.md",
     "back-end/API's/API Types/API Types.md",
-    "back-end/API's/API Types/REST vs gRPC vs GrapthQL.md",
-    "back-end/API's/REST/What the heck is REST.md",
-    "back-end/API's/REST/REST.md",
-    "back-end/API's/REST",
-    "back-end/GO Syntax/Packages/Separate packages/NET.md",
-    "front-end/TypeScript/Decorators.md",
-    "CS/Terminal/Git commands.md",
-    "back-end/DevOps stuff/CI CD pipeline.md",
-    "back-end/GO Syntax/Pointer and Memo/Pointers.md",
-    "CS-Program & C++/OOP design and C++.md",
-    "back-end/Databases/Types of databases.md",
-    "back-end/Communications/Http and Comm/HTTP codes.md",
-    "back-end/Communications/Http and Comm/Http & Https.md",
-    "back-end/Communications/Http and Comm/Cookies.md",
-    "back-end/Communications/Http and Comm/HTTP Body.md",
-    "back-end/Communications/What the heck is REST.md",
     "back-end/API's/API's.md",
+    "CS/Network/Network models/TCP/TCP & IP.md",
+    "back-end/GO Syntax/Arrays Slices Iterations/Arrays vs Slices.md",
+    "back-end/GO Syntax/Pointer and Memo/Pointers.md",
+    "CS/Computer Science.md",
+    "CS/Hardware/BUS & mother-board.md",
+    "CS/Hardware/Types of memory.md",
+    "CS/Hardware/CPU.md",
+    "CS/Network/Network.md",
+    "CS/Network/Browser.md",
+    "back-end/API's/REST/REST.md",
+    "back-end/API's/API Types/REST vs gRPC vs GrapthQL.md",
+    "back-end/Backend.md",
+    "CS/Network/Network models/TCP IP & OSI.md",
+    "CS/Network/Network models/TCP/Flow of TCP.md",
+    "Some shit, idk where to put/Pasted image 20240730133628.png",
+    "CS/Network/Network models/OSI/OSI model.md",
+    "back-end/Communications/REST vs gRPC vs GrapthQL.md",
+    "back-end/Communications/What the heck is REST.md",
+    "CS/Algos and DS/Data Structures.md",
+    "back-end/Communications/Http and Comm/Http & Https.md",
     "back-end/GO and Web/Web Application Basics.md",
-    "back-end/API's",
-    "back-end/GO and Web/MVC.md",
-    "back-end/GO and Web/GO WEB.md",
-    "back-end/GO and Web/GO Project Structure.md",
-    "back-end/DevOps stuff/YML file configs.md",
     "back-end/DevOps stuff/DevOps.md",
-    "front-end/TypeScript/TypeScript.md",
-    "CS/Algos and DS/Big O/Speed of algos.md",
+    "back-end/API's/REST",
+    "back-end/API's",
     "front-end/TypeScript",
     "Some shit, idk where to put/Pasted image 20240729024014.png",
     "Untitled.canvas",
@@ -274,7 +204,6 @@
     "CS/Network/Network models/TCP",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240705030742.png",
     "Pasted image 20240705030753.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240703233239.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

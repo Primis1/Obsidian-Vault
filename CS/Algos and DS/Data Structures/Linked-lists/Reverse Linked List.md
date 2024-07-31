@@ -1,5 +1,5 @@
 ***
-[[Computer Science]]
+[[Data Structures]]
 To know:
 1. We declare three variables:
 	1. next -  is first be ==initialed==, so it can always hold the next value of curr 

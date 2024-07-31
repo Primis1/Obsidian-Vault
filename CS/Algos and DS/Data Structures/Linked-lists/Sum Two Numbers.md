@@ -1,5 +1,5 @@
 ***
-[[Computer Science]]
+[[Data Structures]]
 To know:
 1. Moving the pointer here and there 
 

@@ -1,5 +1,5 @@
 ***
-[[Computer Science]]
+[[Data Structures]]
 Special values:
 1. Linked list - is a linear data structure that consists from nodes, each node has a pointer memory location of next node 
 	1. [[Arrays && Linked lists]]

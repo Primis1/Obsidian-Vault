@@ -5,7 +5,7 @@ Special values:
 
 To know:
 1. Value pairs in the file:
-	1. env - in what environment we're going to run. "local", "prod"
+	1. env - in what environment we're going to run. "local", "prod", "dev"
 	2. storage_path - link to the db file 
 	3. http_server:
 		1. address - address and port of the server. "localhost:8888"

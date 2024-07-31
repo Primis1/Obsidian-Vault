@@ -1,4 +1,5 @@
 ***
+[[TCP IP & OSI]]
 Special values: 
 1. #TCP - Transmission Control Protocol help to deliver HTTP messages, and do that in correct order
 2. #IP - Internet Protocol is the unique number of each computer that helps other computers to find it, it helps requests to deliver a message into the right place 

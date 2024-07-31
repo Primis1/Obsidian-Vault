@@ -5,6 +5,7 @@ Special values:
 2. iota - is a mathematical keyword, used for enumerations, when assigning multiple constants in the same time
 3. string( ) - object, contain bunch of string methods 
 4. int( ) - can convert number into pure integer 
+5. Must"functionName"() - if function returns an error, program will get a "panic"
 
 To know:
 1. iota:
