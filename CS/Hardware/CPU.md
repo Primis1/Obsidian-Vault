@@ -1,6 +1,6 @@
 ***
 Special values: 
-1. IU - input unit, input sys connects external environment. Input devices are keyboards, mouses
+1. IU - input unit, input sys connects external environment. Input devices are keyboards, mouse
 
 2. CPU - Computer Process Unit, place responsible for operation in the system  
 	1. CU - control unit, responsible for controlling of all computer system, gets the instructions from the program in a primary storage, and gives commands to other units 

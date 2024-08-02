@@ -9,12 +9,32 @@
       "filename": "API's"
     },
     {
-      "path": "REST Implementation.md",
+      "path": "back-end/API's/REST/REST Implementation.md",
       "filename": "REST Implementation"
     },
     {
       "path": "back-end/GO Syntax/GO Special Keywords.md",
       "filename": "GO Special Keywords"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Linked-lists/Reverse Linked List.md",
+      "filename": "Reverse Linked List"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Linked-lists/Linked List.md",
+      "filename": "Linked List"
+    },
+    {
+      "path": "back-end/GO and Web/Web Application Basics.md",
+      "filename": "Web Application Basics"
+    },
+    {
+      "path": "back-end/Communications/Http and Comm/Routes && Routers.md",
+      "filename": "Routes && Routers"
+    },
+    {
+      "path": "back-end/DevOps stuff/CI CD pipeline.md",
+      "filename": "CI CD pipeline"
     }
   ]
 }

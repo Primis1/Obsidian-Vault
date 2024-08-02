@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "5f8e24117070d4b4",
+        "id": "061129666f286b17",
         "type": "tabs",
         "children": [
           {
-            "id": "9f9b5fd34d35e104",
+            "id": "2941e5cb53a6c3c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "REST Implementation.md",
+                "file": "back-end/Communications/Http and Comm/HTTP Body.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27b85c26015efcc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back-end/DevOps stuff/CI CD pipeline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: rest",
+                "query": "file: ci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "REST Implementation.md",
+                "file": "back-end/DevOps stuff/CI CD pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "REST Implementation.md",
+                "file": "back-end/DevOps stuff/CI CD pipeline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "REST Implementation.md"
+                "file": "back-end/DevOps stuff/CI CD pipeline.md"
               }
             }
           },
@@ -155,20 +168,25 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "9f9b5fd34d35e104",
+  "active": "27b85c26015efcc3",
   "lastOpenFiles": [
+    "back-end/Communications/Http and Comm/Routes && Routers.md",
+    "back-end/API's/REST/REST Implementation.md",
     "back-end/API's/REST/REST API Design.md",
-    "back-end/GO Syntax/GO Special Keywords.md",
-    "REST Implementation.md",
-    "back-end/API's/API Types/API Types.md",
+    "back-end/Communications/Http and Comm/HTTP Body.md",
+    "CS/Algos and DS/Data Structures/Linked-lists/Reverse Linked List.md",
+    "CS/Algos and DS/Data Structures/Linked-lists/Linked List.md",
+    "back-end/GO and Web/Web Application Basics.md",
+    "CS/Hardware/CPU.md",
     "back-end/API's/API's.md",
+    "back-end/GO Syntax/GO Special Keywords.md",
+    "back-end/API's/API Types/API Types.md",
     "CS/Network/Network models/TCP/TCP & IP.md",
     "back-end/GO Syntax/Arrays Slices Iterations/Arrays vs Slices.md",
     "back-end/GO Syntax/Pointer and Memo/Pointers.md",
     "CS/Computer Science.md",
     "CS/Hardware/BUS & mother-board.md",
     "CS/Hardware/Types of memory.md",
-    "CS/Hardware/CPU.md",
     "CS/Network/Network.md",
     "CS/Network/Browser.md",
     "back-end/API's/REST/REST.md",
@@ -179,11 +197,6 @@
     "Some shit, idk where to put/Pasted image 20240730133628.png",
     "CS/Network/Network models/OSI/OSI model.md",
     "back-end/Communications/REST vs gRPC vs GrapthQL.md",
-    "back-end/Communications/What the heck is REST.md",
-    "CS/Algos and DS/Data Structures.md",
-    "back-end/Communications/Http and Comm/Http & Https.md",
-    "back-end/GO and Web/Web Application Basics.md",
-    "back-end/DevOps stuff/DevOps.md",
     "back-end/API's/REST",
     "back-end/API's",
     "front-end/TypeScript",

@@ -18,11 +18,16 @@ func (ll *LinkedList[T]) ReverseLinkedList() {
 	var prev *Node[T]
 	var next *Node[T]
 	for curr != nil {
-		next = curr.Next
-		curr.Next = prev
-		prev = curr 
-		curr = next
+		next = curr.Next 
+		curr.Next = prev  
+		prev = curr  
+		curr = next  
 	}
 	ll.Head = prev
 }
+```
+
+Recursive implementation:
+```go
+
 ```

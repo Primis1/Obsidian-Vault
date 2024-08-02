@@ -8,17 +8,17 @@ To know:
 3. Architectures and protocols exist just to make the process ==faster== or ==easier== 
 
 4. API "required" components:
-	1. ==Router== - something that handles incoming HTTP requests 
+	1. ==Router== - something that handles incoming HTTP requests( chi & net/http)
 	
 	2. ==Handler== - ==function== that process the received requests and returns response. Each handler corresponds to specific endpoint and HTTP method
 	
-	3. ==Model== - data structure that represents the entities in the entire API. Database tables
+	3. ==Model== - data structure that represents the data entities of entire API. Database tables
 	
 	4. ==Database Layer== - manages interactions with database columns and rows. ORM's can be used here 
 	
-	5. Middleware - function that intercepts HTTP requests/response to perform its validation. Can be used for auth, logging and rate limiting 
+	5. ==Middleware== - function that intercepts HTTP requests/response to perform its validation. Can be used for auth, logging and rate limiting 
 	
-	6. Configuration - setting with behavior of an API, env, etc
+	6. ==Configuration== - setting with behavior of an API, env, etc
 	
 	7. Response handling - ==functions== or ==utilities== to standardizes the format of API responses, handle errors and serialize data to JSON  
 	
