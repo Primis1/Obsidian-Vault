@@ -1,7 +1,7 @@
 ***
 [[back-end/Communications/Http and Comm/Http & Https|Http & Https]]
 Special values:
-1. Http Body - is last, optional with some type of request, part of HTTP message
+1. Http Body - is last "optional" part of HTTP message, that contains the data of the entire request
 
 To know:
 1. The ==type== of ==content== send to client/server is defined in ==Content-Type== header

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2941e5cb53a6c3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/Communications/Http and Comm/HTTP Body.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "27b85c26015efcc3",
             "type": "leaf",
             "state": {
@@ -30,9 +18,20 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "772fb2f2d037f32c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jenkins.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ci",
+                "query": "tag:#CI/CD",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +77,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,10 +168,14 @@
   },
   "active": "27b85c26015efcc3",
   "lastOpenFiles": [
+    "Jenkins.md",
+    "back-end/DevOps stuff/CI CD pipeline.md",
+    "back-end/DevOps stuff/YML file configs.md",
+    "back-end/DevOps stuff/DevOps.md",
+    "back-end/Communications/Http and Comm/HTTP Body.md",
     "back-end/Communications/Http and Comm/Routes && Routers.md",
     "back-end/API's/REST/REST Implementation.md",
     "back-end/API's/REST/REST API Design.md",
-    "back-end/Communications/Http and Comm/HTTP Body.md",
     "CS/Algos and DS/Data Structures/Linked-lists/Reverse Linked List.md",
     "CS/Algos and DS/Data Structures/Linked-lists/Linked List.md",
     "back-end/GO and Web/Web Application Basics.md",
@@ -192,11 +194,7 @@
     "back-end/API's/REST/REST.md",
     "back-end/API's/API Types/REST vs gRPC vs GrapthQL.md",
     "back-end/Backend.md",
-    "CS/Network/Network models/TCP IP & OSI.md",
-    "CS/Network/Network models/TCP/Flow of TCP.md",
     "Some shit, idk where to put/Pasted image 20240730133628.png",
-    "CS/Network/Network models/OSI/OSI model.md",
-    "back-end/Communications/REST vs gRPC vs GrapthQL.md",
     "back-end/API's/REST",
     "back-end/API's",
     "front-end/TypeScript",

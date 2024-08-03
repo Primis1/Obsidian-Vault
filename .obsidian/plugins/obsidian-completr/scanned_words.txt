@@ -1440,6 +1440,7 @@ PUg
 PUH
 PY
 Plural
+Pipelines
 yea
 your
 you
@@ -1961,6 +1962,7 @@ fn
 fV
 fIUnIU
 functional
+facilitating
 and
 as
 any
@@ -3092,6 +3094,7 @@ wc
 wUENaE
 wvPyP
 weather
+workflow
 Can
 Controlled
 Components
@@ -3211,6 +3214,7 @@ Cj
 CwcPEw
 Cacheable
 Configuration
+CD
 used
 user
 ui
@@ -3548,6 +3552,7 @@ IO
 IPt
 IZh
 Interface
+Integration
 FCKN
 Front
 FTP
@@ -3726,6 +3731,7 @@ Db
 DZK
 DJu
 Dc
+Deployment
 has
 have
 hidden
@@ -4562,6 +4568,8 @@ Jeu
 JmV
 JXbDZ
 Jla
+Jenkins
+Jobs
 XML
 XXXX
 XBqB

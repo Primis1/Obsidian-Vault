@@ -35,6 +35,14 @@
     {
       "path": "back-end/DevOps stuff/CI CD pipeline.md",
       "filename": "CI CD pipeline"
+    },
+    {
+      "path": "Jenkins.md",
+      "filename": "Jenkins"
+    },
+    {
+      "path": "back-end/Communications/Http and Comm/HTTP Body.md",
+      "filename": "HTTP Body"
     }
   ]
 }
