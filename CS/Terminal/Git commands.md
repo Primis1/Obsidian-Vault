@@ -15,3 +15,6 @@ Special values:
 To know:
 1. Merge conflict - when some replace another during the merge
 2. DONT FKN MOVE FOLDERS HERE AND THERE 
+```sh
+git 
+```

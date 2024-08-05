@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/DevOps stuff/CI CD pipeline.md",
+                "file": "front-end/TypeScript/Decorators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "32023ddbfcfc3a69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keyof & extends.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CI/CD",
+                "query": "file: git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/DevOps stuff/CI CD pipeline.md",
+                "file": "Keyof & extends.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/DevOps stuff/CI CD pipeline.md",
+                "file": "Keyof & extends.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/DevOps stuff/CI CD pipeline.md"
+                "file": "Keyof & extends.md"
               }
             }
           },
@@ -166,10 +179,14 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "27b85c26015efcc3",
+  "active": "32023ddbfcfc3a69",
   "lastOpenFiles": [
-    "Jenkins.md",
+    "front-end/TypeScript/Decorators.md",
+    "Keyof & extends.md",
+    "front-end/TypeScript/TypeScript.md",
+    "CS/Terminal/Git commands.md",
     "back-end/DevOps stuff/CI CD pipeline.md",
+    "Jenkins.md",
     "back-end/DevOps stuff/YML file configs.md",
     "back-end/DevOps stuff/DevOps.md",
     "back-end/Communications/Http and Comm/HTTP Body.md",
@@ -190,10 +207,6 @@
     "CS/Hardware/BUS & mother-board.md",
     "CS/Hardware/Types of memory.md",
     "CS/Network/Network.md",
-    "CS/Network/Browser.md",
-    "back-end/API's/REST/REST.md",
-    "back-end/API's/API Types/REST vs gRPC vs GrapthQL.md",
-    "back-end/Backend.md",
     "Some shit, idk where to put/Pasted image 20240730133628.png",
     "back-end/API's/REST",
     "back-end/API's",

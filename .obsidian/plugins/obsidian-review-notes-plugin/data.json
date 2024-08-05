@@ -43,6 +43,14 @@
     {
       "path": "back-end/Communications/Http and Comm/HTTP Body.md",
       "filename": "HTTP Body"
+    },
+    {
+      "path": "CS/Terminal/Git commands.md",
+      "filename": "Git commands"
+    },
+    {
+      "path": "Keyof & extends.md",
+      "filename": "Keyof & extends"
     }
   ]
 }
