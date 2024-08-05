@@ -14,4 +14,11 @@ Special values:
 	3. -f - force something 
 To know:
 1. Merge conflict - when some replace another during the merge
+
 2. DONT FKN MOVE FOLDERS HERE AND THERE 
+
+3. Useful commands:
+```sh
+git worktree ../<name-of-new-directory> <name of initial branch>
+
+```

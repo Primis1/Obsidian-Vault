@@ -4,10 +4,10 @@ Special values:
 
 To know:
 1. API can be written in almost any way we want, ==gRPC, REST, SOAP, GraphQL are just the ways, or more like architecture== with its ways to do things. Each has its advantages and disadvantages
-2. API can be called an API if it servers its function - ==be a middle layer between application and data layer== 
+2. API can be called an API if it servers its function - ==be a middle layer between application and data layer and/or provide an interface for easier communication== 
 3. Architectures and protocols exist just to make the process ==faster== or ==easier== 
 
-4. API "required" components:
+4. Web API "required" components:
 	1. ==Router== - something that handles incoming HTTP requests( chi & net/http)
 	
 	2. ==Handler== - ==function== that process the received requests and returns response. Each handler corresponds to specific endpoint and HTTP method
@@ -22,4 +22,4 @@ To know:
 	
 	7. Response handling - ==functions== or ==utilities== to standardizes the format of API responses, handle errors and serialize data to JSON  
 	
-	8. Testing - for nerds 
+	8. Testing - *for nerds* 

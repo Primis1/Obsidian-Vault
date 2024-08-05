@@ -4,34 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "061129666f286b17",
+        "id": "8c63585c72a1e1d6",
         "type": "tabs",
         "children": [
           {
-            "id": "27b85c26015efcc3",
+            "id": "771a816c5dec3584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/DevOps stuff/CI CD pipeline.md",
+                "file": "CS/Algos and DS/Modulo & Bitwise.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "772fb2f2d037f32c",
+            "id": "7808d74cc1825458",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jenkins.md",
+                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62c3f50f52316376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4fa08260a0b5c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "front-end/TypeScript/Decorators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -60,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CI/CD",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/DevOps stuff/CI CD pipeline.md",
+                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/DevOps stuff/CI CD pipeline.md",
+                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/DevOps stuff/CI CD pipeline.md"
+                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md"
               }
             }
           },
@@ -166,55 +191,55 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "27b85c26015efcc3",
+  "active": "62c3f50f52316376",
   "lastOpenFiles": [
-    "Jenkins.md",
-    "back-end/DevOps stuff/CI CD pipeline.md",
-    "back-end/DevOps stuff/YML file configs.md",
-    "back-end/DevOps stuff/DevOps.md",
-    "back-end/Communications/Http and Comm/HTTP Body.md",
-    "back-end/Communications/Http and Comm/Routes && Routers.md",
-    "back-end/API's/REST/REST Implementation.md",
+    "Pasted image 20240805175603.png",
+    "front-end/JS Advanced/Advanced Objects/Everything is an Object.md",
+    "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
+    "front-end/JS Advanced/Advanced Objects",
+    "front-end/JS Syntax/4 Operators/Loops(finally).md",
+    "front-end/JS Syntax/4 Operators/Loops & stuff.md",
+    "front-end/JS Syntax/5 Objects/Error in accessing.md",
+    "front-end/JS Syntax/5 Objects/Overall about the section.md",
+    "front-end/JS Syntax/5 Objects/Spread Operator.md",
+    "front-end/JS Syntax/5 Objects/Serialization of objects.md",
+    "front-end/JS Syntax/5 Objects/Object & Array method.md",
+    "front-end/JS Syntax/5 Objects/Inheritance.md",
+    "front-end/JS Syntax/5 Objects/Getters and Setters.md",
+    "front-end/JS Advanced/sync & async/Asynchronous.md",
+    "front-end/TypeScript/Decorators.md",
+    "front-end/TypeScript/TypeScript.md",
+    "front-end/JS Advanced/JS advanced.md",
+    "Some shit, idk where to put/Pasted image 20240804013549.png",
+    "Some shit, idk where to put/Pasted image 20240804013542.png",
+    "front-end/JS Advanced/sync & async",
+    "front-end/JS Advanced",
+    "CS/Algos and DS/Modulo & Bitwise.md",
+    "CS/Algos and DS/Regex.md",
+    "CS/Algos and DS/Data Structures/Hash.md",
+    "back-end/GO Syntax/Types & Variables/Generics.md",
     "back-end/API's/REST/REST API Design.md",
-    "CS/Algos and DS/Data Structures/Linked-lists/Reverse Linked List.md",
+    "back-end/API's/API's.md",
+    "back-end/API's/REST/REST Implementation.md",
     "CS/Algos and DS/Data Structures/Linked-lists/Linked List.md",
     "back-end/GO and Web/Web Application Basics.md",
-    "CS/Hardware/CPU.md",
-    "back-end/API's/API's.md",
-    "back-end/GO Syntax/GO Special Keywords.md",
-    "back-end/API's/API Types/API Types.md",
-    "CS/Network/Network models/TCP/TCP & IP.md",
-    "back-end/GO Syntax/Arrays Slices Iterations/Arrays vs Slices.md",
-    "back-end/GO Syntax/Pointer and Memo/Pointers.md",
-    "CS/Computer Science.md",
-    "CS/Hardware/BUS & mother-board.md",
-    "CS/Hardware/Types of memory.md",
-    "CS/Network/Network.md",
-    "CS/Network/Browser.md",
-    "back-end/API's/REST/REST.md",
-    "back-end/API's/API Types/REST vs gRPC vs GrapthQL.md",
-    "back-end/Backend.md",
-    "Some shit, idk where to put/Pasted image 20240730133628.png",
+    "back-end/Communications/Http and Comm/Routes && Routers.md",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240804004701.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240730133628.png",
+    "Pasted image 20240804004612.png",
+    "Pasted image 20240804004554.png",
     "back-end/API's/REST",
     "back-end/API's",
     "front-end/TypeScript",
-    "Some shit, idk where to put/Pasted image 20240729024014.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240729024014.png",
     "Untitled.canvas",
     "back-end/Communications/Http and Comm",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240726213950.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240726200634.png",
     "Some shit, idk where to put/Formatting/Pasted image 20240418163305.png",
     "CS/Algos and DS/Data Structures/Linked-lists",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240404155533.png",
-    "Some shit, idk where to put/Z Pictures/Screenshot 2024-04-04 154712.png",
     "CS/Programming Concepts/Memory types",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240711023619.png",
     "back-end/GO and Web",
-    "S",
-    "CS/Network/Network models/OSI",
-    "CS/Network/Network models/TCP",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240705030742.png",
-    "Pasted image 20240705030753.png",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

@@ -1,48 +1,28 @@
 {
   "files": [
     {
-      "path": "back-end/API's/REST/REST API Design.md",
-      "filename": "REST API Design"
+      "path": "CS/Algos and DS/Data Structures/Hash.md",
+      "filename": "Hash"
     },
     {
-      "path": "back-end/API's/API's.md",
-      "filename": "API's"
+      "path": "front-end/TypeScript/Decorators.md",
+      "filename": "Decorators"
     },
     {
-      "path": "back-end/API's/REST/REST Implementation.md",
-      "filename": "REST Implementation"
+      "path": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
+      "filename": "Promises & Asynchronous"
     },
     {
-      "path": "back-end/GO Syntax/GO Special Keywords.md",
-      "filename": "GO Special Keywords"
+      "path": "front-end/JS Syntax/5 Objects/Object & Array method.md",
+      "filename": "Object & Array method"
     },
     {
-      "path": "CS/Algos and DS/Data Structures/Linked-lists/Reverse Linked List.md",
-      "filename": "Reverse Linked List"
+      "path": "front-end/JS Advanced/Advanced Objects/Everything is an Object.md",
+      "filename": "Everything is an Object"
     },
     {
-      "path": "CS/Algos and DS/Data Structures/Linked-lists/Linked List.md",
-      "filename": "Linked List"
-    },
-    {
-      "path": "back-end/GO and Web/Web Application Basics.md",
-      "filename": "Web Application Basics"
-    },
-    {
-      "path": "back-end/Communications/Http and Comm/Routes && Routers.md",
-      "filename": "Routes && Routers"
-    },
-    {
-      "path": "back-end/DevOps stuff/CI CD pipeline.md",
-      "filename": "CI CD pipeline"
-    },
-    {
-      "path": "Jenkins.md",
-      "filename": "Jenkins"
-    },
-    {
-      "path": "back-end/Communications/Http and Comm/HTTP Body.md",
-      "filename": "HTTP Body"
+      "path": "Pasted image 20240805175603.png",
+      "filename": "Pasted image 20240805175603"
     }
   ]
 }

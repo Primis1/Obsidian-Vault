@@ -6,7 +6,7 @@ Special values:
     
 2. Linked-List -  is an element structure, linked between each other by orders of the next element. Is good for: dynamically changeable arrays, if i want to take data one after one.
     
-3. Hybrid structure - array of lists
+3. Hybrid structure - array of lists( #hash-table )
 
 
 To know:

@@ -1,7 +1,7 @@
 Special values:
 
 To know:
-1. Attempt to not existing parameter gives away undefined or null
+1. Attempt to not existing parameter  returns undefined or null
 	```ts
 	book.subtitle  // => undefined: property does not exist
 ```
