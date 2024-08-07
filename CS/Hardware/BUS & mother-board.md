@@ -1,4 +1,5 @@
 ***
+[[Types of memory]]
 Special values:
 1. BUS - is a bunch of protocols, that allows the computer components to communicate between each other
 2. Clock Time - is an amount of time CPU can execute per second, yes it measures in GHz 

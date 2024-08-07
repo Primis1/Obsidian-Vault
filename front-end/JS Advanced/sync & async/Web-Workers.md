@@ -4,8 +4,9 @@ Special values:
 1. Web-worker - incapsulated functionality existing outside of application. Used to create additional thread  
 
 To know:
-1. ==Web Workers== are used to escape the single threaded environment. Key feature of Web-workers is that, they ==don't== ==block== DOM, unlike ==async== code
-	2. ==Requirements== for being a web-worker:
+1. ==The amount of web-workers that can do the job in parallel is depending on the number of CPU cores== 
+2. ==Web Workers== are used to escape the single threaded environment. Key feature of Web-workers is that, they ==don't== ==block== DOM, unlike ==async== code
+	1. ==Requirements== for being a web-worker:
 		1. Live in its own file - process should ==NOT== interact with user interface 
 		2. Function is passed by copy 
 		3. No global states nor variables 

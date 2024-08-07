@@ -1,3 +1,5 @@
+***
+[[Hardware]]
 Special values:
 1. RAM - random access memory, fast, we capable of reading and writing into that memory, it is also temporal/depending from electricity
 	1. SDR - single data rate RAM, 

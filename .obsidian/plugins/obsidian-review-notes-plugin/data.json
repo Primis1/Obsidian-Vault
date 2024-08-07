@@ -1,44 +1,20 @@
 {
   "files": [
     {
-      "path": "CS/Algos and DS/Data Structures/Hash.md",
-      "filename": "Hash"
-    },
-    {
       "path": "front-end/TypeScript/Decorators.md",
       "filename": "Decorators"
-    },
-    {
-      "path": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
-      "filename": "Promises & Asynchronous"
     },
     {
       "path": "front-end/JS Advanced/Advanced Objects/Everything is an Object.md",
       "filename": "Everything is an Object"
     },
     {
-      "path": "front-end/JS Advanced/sync & async/Multithreading in JS.md",
-      "filename": "Multithreading in JS"
-    },
-    {
       "path": "front-end/JS Advanced/sync & async/Asynchronous.md",
       "filename": "Asynchronous"
     },
     {
-      "path": "front-end/JS Advanced/sync & async/Parallelism && Concurrency.md",
-      "filename": "Parallelism && Concurrency"
-    },
-    {
-      "path": "front-end/JS Advanced/sync & async/Web-Workers.md",
-      "filename": "Web-Workers"
-    },
-    {
       "path": "front-end/JS Advanced/Parts of JS/JS Engine.md",
       "filename": "JS Engine"
-    },
-    {
-      "path": "front-end/JS Advanced/Parts of JS/JS Runtime's.md",
-      "filename": "JS Runtime's"
     }
   ]
 }

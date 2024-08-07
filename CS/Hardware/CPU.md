@@ -1,4 +1,5 @@
 ***
+[[Hardware]]
 Special values: 
 1. IU - input unit, input sys connects external environment. Input devices are keyboards, mouse
 
