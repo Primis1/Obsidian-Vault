@@ -21,10 +21,6 @@
       "filename": "Multithreading in JS"
     },
     {
-      "path": "CS/Design & Patterns/Design & Patterns.md",
-      "filename": "Design & Patterns"
-    },
-    {
       "path": "front-end/JS Advanced/sync & async/Asynchronous.md",
       "filename": "Asynchronous"
     },
@@ -35,6 +31,14 @@
     {
       "path": "front-end/JS Advanced/sync & async/Web-Workers.md",
       "filename": "Web-Workers"
+    },
+    {
+      "path": "front-end/JS Advanced/Parts of JS/JS Engine.md",
+      "filename": "JS Engine"
+    },
+    {
+      "path": "front-end/JS Advanced/Parts of JS/JS Runtime's.md",
+      "filename": "JS Runtime's"
     }
   ]
 }
