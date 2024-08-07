@@ -13,24 +13,28 @@
       "filename": "Promises & Asynchronous"
     },
     {
-      "path": "front-end/JS Syntax/5 Objects/Object & Array method.md",
-      "filename": "Object & Array method"
-    },
-    {
       "path": "front-end/JS Advanced/Advanced Objects/Everything is an Object.md",
       "filename": "Everything is an Object"
     },
     {
-      "path": "Pasted image 20240805175603.png",
-      "filename": "Pasted image 20240805175603"
+      "path": "front-end/JS Advanced/sync & async/Multithreading in JS.md",
+      "filename": "Multithreading in JS"
     },
     {
-      "path": "CS/Terminal/Git commands.md",
-      "filename": "Git commands"
+      "path": "CS/Design & Patterns/Design & Patterns.md",
+      "filename": "Design & Patterns"
     },
     {
-      "path": "Keyof & extends.md",
-      "filename": "Keyof & extends"
+      "path": "front-end/JS Advanced/sync & async/Asynchronous.md",
+      "filename": "Asynchronous"
+    },
+    {
+      "path": "front-end/JS Advanced/sync & async/Parallelism && Concurrency.md",
+      "filename": "Parallelism && Concurrency"
+    },
+    {
+      "path": "front-end/JS Advanced/sync & async/Web-Workers.md",
+      "filename": "Web-Workers"
     }
   ]
 }

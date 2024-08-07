@@ -20,7 +20,7 @@ To know:
 
 4. ==Multi==-tread applications:
 	1. ==Pros==: 
-		1. ==faster== ==approach== for multiple CPU-intensive
+		1. ==faster== ==approach== for multiple CPU-intensives
 		2. lead to ==better== ==performance== because of parallel task execution
 	2. ==Cons==:
 		1. can reduce its speed if quantity of intensive tasks becomes abnormal 

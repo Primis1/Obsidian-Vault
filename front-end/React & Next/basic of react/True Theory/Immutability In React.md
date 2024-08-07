@@ -2,6 +2,7 @@
 Special values: 
 1. Immutability - once an object or state was created it can *not* be changed
 	1. remember that method that can change a string does ==*NOT*== exist(but we can modify string objects btw)
+2. `map( )/foEach( )` - ==map== always returns  a new arrays, and can modify the existing one. forEach is the same, but can be used when there is no-need to return value
 
 To know:
 1. Immutable state advantages: 	

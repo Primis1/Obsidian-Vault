@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8c63585c72a1e1d6",
+        "id": "ca02015b9b0f145c",
         "type": "tabs",
         "children": [
           {
-            "id": "771a816c5dec3584",
+            "id": "3c308a964b0215b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Algos and DS/Modulo & Bitwise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7808d74cc1825458",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62c3f50f52316376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4fa08260a0b5c95",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "front-end/TypeScript/Decorators.md",
+                "file": "front-end/JS Advanced/sync & async/Asynchronous.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
+                "file": "front-end/JS Advanced/sync & async/Asynchronous.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
+                "file": "front-end/JS Advanced/sync & async/Asynchronous.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md"
+                "file": "front-end/JS Advanced/sync & async/Asynchronous.md"
               }
             }
           },
@@ -191,40 +154,43 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "62c3f50f52316376",
+  "active": "3c308a964b0215b8",
   "lastOpenFiles": [
-    "Keyof & extends.md",
-    "Pasted image 20240805175603.png",
-    "front-end/JS Advanced/Advanced Objects/Everything is an Object.md",
+    "front-end/JS Advanced/sync & async/Web-Workers.md",
     "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
-    "front-end/JS Advanced/Advanced Objects",
-    "front-end/JS Syntax/4 Operators/Loops(finally).md",
-    "front-end/JS Syntax/4 Operators/Loops & stuff.md",
-    "front-end/JS Syntax/5 Objects/Error in accessing.md",
-    "front-end/JS Syntax/5 Objects/Overall about the section.md",
-    "front-end/JS Syntax/5 Objects/Spread Operator.md",
-    "front-end/JS Syntax/5 Objects/Serialization of objects.md",
-    "front-end/JS Syntax/5 Objects/Object & Array method.md",
-    "front-end/JS Syntax/5 Objects/Inheritance.md",
-    "front-end/JS Syntax/5 Objects/Getters and Setters.md",
+    "front-end/JS Advanced/sync & async/Parallelism && Concurrency.md",
     "front-end/JS Advanced/sync & async/Asynchronous.md",
+    "CS/Design & Patterns/Design & Patterns.md",
+    "front-end/JS Advanced/sync & async/Multithreading in JS.md",
+    "front-end/JS Advanced/Advanced Objects/Everything is an Object.md",
     "front-end/TypeScript/Decorators.md",
-    "front-end/TypeScript/TypeScript.md",
+    "CS/Algos and DS/Data Structures/Hash.md",
+    "front-end/JS Syntax/7 Async JS/Asynchronous JS.md",
+    "Pasted image 20240806033945.png",
+    "CS/Network/Network.md",
+    "back-end/Backend.md",
     "front-end/JS Advanced/JS advanced.md",
+    "back-end/Communications/Http and Comm/Routes && Routers.md",
+    "CS/Design & Patterns/Meta Programming.md",
+    "CS/Programming Concepts/Memory & Data/Threads.md",
+    "front-end/React & Next/basic of react/True Theory/Immutability In React.md",
+    "CS/Computer Science.md",
+    "CS/Design & Patterns",
+    "front-end/JS Advanced/Threading",
+    "front-end/TypeScript/Keyof & extends.md",
+    "front-end/Front-End.md",
+    "CS/Algos and DS/Modulo & Bitwise.md",
+    "front-end/JS Syntax/2 Types Chapter/Not changadble object.md",
+    "front-end/JS Syntax/5 Objects/Object & Array method.md",
+    "front-end/JS Syntax/1 Syntax chapter/Syntax for an objects.md",
+    "front-end/JS Syntax/5 Objects/Object as associated arrays.md",
+    "front-end/JS Syntax/4 Operators/Loops(finally).md",
+    "Some shit, idk where to put/Pasted image 20240805175603.png",
+    "front-end/JS Advanced/Advanced Objects",
     "Some shit, idk where to put/Pasted image 20240804013549.png",
     "Some shit, idk where to put/Pasted image 20240804013542.png",
     "front-end/JS Advanced/sync & async",
     "front-end/JS Advanced",
-    "CS/Algos and DS/Modulo & Bitwise.md",
-    "CS/Algos and DS/Regex.md",
-    "CS/Algos and DS/Data Structures/Hash.md",
-    "back-end/GO Syntax/Types & Variables/Generics.md",
-    "back-end/API's/REST/REST API Design.md",
-    "back-end/API's/API's.md",
-    "back-end/API's/REST/REST Implementation.md",
-    "CS/Algos and DS/Data Structures/Linked-lists/Linked List.md",
-    "back-end/GO and Web/Web Application Basics.md",
-    "back-end/Communications/Http and Comm/Routes && Routers.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240804004701.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240730133628.png",
     "Pasted image 20240804004612.png",
@@ -236,10 +202,7 @@
     "Untitled.canvas",
     "back-end/Communications/Http and Comm",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240726213950.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240726200634.png",
     "CS/Algos and DS/Data Structures/Linked-lists",
-    "CS/Programming Concepts/Memory types",
-    "back-end/GO and Web",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]

@@ -14,6 +14,7 @@ Special values:
 
 6. String( ) - transfers everything into literal string 
 
+
 To know: 
 1. Example of how .toLocaleString( ) works  
 
