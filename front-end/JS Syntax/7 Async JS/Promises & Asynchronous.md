@@ -22,15 +22,19 @@ To know:
 1. Handlers can react on a *settled* promise state, but not on pending  
 2. Promises does ==not have== any protocols to ==terminate== the request process
 
-3. ==then( )== - *returns the promise object immediately after the promise object become settled*. `then( )` has ==two== ==callback== functions as arguments: 
+3.  catch/finally - use then( ) under the hood 
+
+4. ==then( )== - *returns the promise object immediately after the promise object become settled*. `then( )` has ==two== ==callback== functions as arguments: 
 	1. ==onFulfilled== - async function executes when promise becomes fulfill. Its fulfill argument, `value`, is being assigned as the ==fulfill== value of the Promise then( ) is attached to
 	2. ==onRejected== - async function executes when the promise becomes *==rejected==*. Its fulfill argument, `reason`, is being assigned as the ==reject== of the Promise then( ) is attached to
-4. ==catch( )== - *returns the promise object immediately after the promise object become settled*. Method used for promise error handling. Can accept one argument. `catch( )` has an an argument `onRejected`, it work in the same way as in `then( )`
-5. ==finally( )== - *returns the promise object immediately after the promise object become settled*. Method used when we want to do something with the promise, regardless of the promise state. ==Doesn't provide any arguments== ; )
+
+5. ==catch( )== - *returns the promise object immediately after the promise object become settled*. Method used for promise error handling. 
+
+6. ==finally( )== - *returns the promise object immediately after the promise object become settled*. Method used when we want to do something with the promise, regardless of the promise state. ==Doesn't provide any arguments== ; )
 
 - Syntax: 
-1. Object promise contains two ==functions as the parameter==: resolveFunc & rejectFunc.
-2. Promise handlers are object methods that can process the promise state 
+7. Object promise contains two ==functions as the parameter==: resolveFunc & rejectFunc.
+8. Promise handlers are object methods that can process the promise state 
 	1. then( ) - Promise.prototype.then(response => { })  
 	2. catch( ) - Promise.prototype.catch( ) 
 	3. finally( ) - Promise.prototype.finally( )
@@ -38,7 +42,8 @@ To know:
 let isLoading = true 
 
 // fetch returns promise 
-fetch("https://some-path.com").then(resolved => {
+fetch("https://some-path.com")
+.then(resolved => {
     const content = resolved.headers.get("content-type")
     if(content && content.includes("application/json")) {
         return resolved.json

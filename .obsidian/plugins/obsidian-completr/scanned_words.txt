@@ -1264,6 +1264,7 @@ srrrrr
 sfL
 srrrr
 szg
+synchronous
 manipulation
 many
 mentioned
@@ -1534,6 +1535,10 @@ mNNNN
 mKkM
 muHC
 mechanism
+micro
+macro
+mouse
+mutationObserver
 pattern
 preceding
 put
@@ -2070,6 +2075,8 @@ beyond
 bHt
 bYc
 bzr
+blocks
+bottom
 every
 except
 email
@@ -2344,6 +2351,7 @@ exh
 eTj
 eqq
 environments
+events
 PL
 POST
 PUT
@@ -3159,6 +3167,7 @@ kkKk
 kug
 kdY
 kWs
+keyboard
 technology
 things
 that
@@ -3947,6 +3956,8 @@ aJJ
 arb
 ayx
 ame
+accessed
+anyways
 replace
 repeats
 repeat
@@ -5936,6 +5947,7 @@ upi
 uga
 uwY
 uzy
+unpacked
 local
 look
 label
@@ -6182,6 +6194,7 @@ lB
 lCe
 lHpF
 lof
+laying
 Input
 IS
 It
@@ -7990,6 +8003,8 @@ qLY
 qne
 qgj
 qDa
+queues
+queueMicrotask
 URL
 UPD
 UNIX
@@ -8366,6 +8381,8 @@ Mir
 MWW
 MuBSI
 MAk
+Micro
+Macro
 JSON
 JS
 Jesus
@@ -9471,6 +9488,7 @@ Ess
 EWG
 EQb
 EEF
+Events
 Network
 NewWriter
 NewReader

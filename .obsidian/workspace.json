@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "front-end/JS Advanced/Parts of JS/Event Loop.md",
+                "file": "Async &  Await.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: even",
+                "query": "file: async",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front-end/JS Advanced/Parts of JS/Event Loop.md",
+                "file": "Async &  Await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "front-end/JS Advanced/Parts of JS/Event Loop.md",
+                "file": "Async &  Await.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -126,6 +127,16 @@
               "type": "review-notes",
               "state": {}
             }
+          },
+          {
+            "id": "96bf649794789838",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Async &  Await.md"
+              }
+            }
           }
         ],
         "currentTab": 3
@@ -146,11 +157,17 @@
   },
   "active": "737cb6dd7cc1ca4b",
   "lastOpenFiles": [
+    "front-end/JS Syntax/7 Async JS/Asynchronous JS.md",
+    "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
+    "Async &  Await.md",
+    "front-end/React & Next/Next Doc/Optimizing/Lazy Loading.md",
+    "CS/Network/Network models/TCP/Flow of TCP.md",
+    "front-end/React & Next/Next Doc/Data Fetching & caching/Fetching, caching and revalidating.md",
+    "front-end/JS Advanced/Parts of JS/Event Loop.md",
     "Pasted image 20240808005549.png",
     "Pasted image 20240807235907.png",
     "front-end/JS Advanced/Parts of JS/JS Runtime's.md",
     "front-end/JS Advanced/Parts of JS/JS Engine.md",
-    "front-end/JS Advanced/Parts of JS/Event Loop.md",
     "Some shit, idk where to put/Pasted image 20240807171733.png",
     "front-end/JS Advanced/Parts of JS/Flow of JS.md",
     "front-end/JS Advanced/Parts of JS/DOES IT FCK INTERPRETED.md",
@@ -161,7 +178,6 @@
     "Some shit, idk where to put/Pasted image 20240807030814.png",
     "Some shit, idk where to put/Pasted image 20240807030643.png",
     "Some shit, idk where to put/Pasted image 20240807030556.png",
-    "Some shit, idk where to put/Pasted image 20240807030549.png",
     "CS/Hardware/Threads.md",
     "CS/Hardware/Hardware.md",
     "front-end/Front-End.md",
@@ -174,15 +190,10 @@
     "front-end/JS Advanced/Parts of JS",
     "front-end/JS Advanced/sync & async/Asynchronous.md",
     "front-end/JS Advanced/sync & async/Parallelism && Concurrency.md",
-    "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
     "front-end/JS Advanced/Advanced Objects/Everything is an Object.md",
-    "front-end/JS Syntax/7 Async JS/Asynchronous JS.md",
     "CS/Network/Network.md",
     "back-end/Backend.md",
     "front-end/JS Advanced/JS advanced.md",
-    "back-end/Communications/Http and Comm/Routes && Routers.md",
-    "CS/Design & Patterns/Meta Programming.md",
-    "CS/Programming Concepts/Memory & Data/Threads.md",
     "CS/Design & Patterns",
     "front-end/JS Advanced/Threading",
     "front-end/JS Advanced/Advanced Objects",

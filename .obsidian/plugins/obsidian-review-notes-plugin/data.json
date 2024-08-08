@@ -33,12 +33,24 @@
       "filename": "Event Loop"
     },
     {
-      "path": "Pasted image 20240807235907.png",
-      "filename": "Pasted image 20240807235907"
+      "path": "front-end/React & Next/Next Doc/Data Fetching & caching/Fetching, caching and revalidating.md",
+      "filename": "Fetching, caching and revalidating"
     },
     {
-      "path": "Pasted image 20240808005549.png",
-      "filename": "Pasted image 20240808005549"
+      "path": "CS/Network/Network models/TCP/Flow of TCP.md",
+      "filename": "Flow of TCP"
+    },
+    {
+      "path": "front-end/React & Next/Next Doc/Optimizing/Lazy Loading.md",
+      "filename": "Lazy Loading"
+    },
+    {
+      "path": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
+      "filename": "Promises & Asynchronous"
+    },
+    {
+      "path": "Async &  Await.md",
+      "filename": "Async &  Await"
     }
   ]
 }
