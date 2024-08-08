@@ -1,20 +1,44 @@
 {
   "files": [
     {
-      "path": "front-end/TypeScript/Decorators.md",
-      "filename": "Decorators"
-    },
-    {
-      "path": "front-end/JS Advanced/Advanced Objects/Everything is an Object.md",
-      "filename": "Everything is an Object"
-    },
-    {
-      "path": "front-end/JS Advanced/sync & async/Asynchronous.md",
-      "filename": "Asynchronous"
-    },
-    {
       "path": "front-end/JS Advanced/Parts of JS/JS Engine.md",
       "filename": "JS Engine"
+    },
+    {
+      "path": "front-end/JS Advanced/Parts of JS/JS Runtime's.md",
+      "filename": "JS Runtime's"
+    },
+    {
+      "path": "CS/Hardware/BUS & mother-board.md",
+      "filename": "BUS & mother-board"
+    },
+    {
+      "path": "CS/Hardware/CPU.md",
+      "filename": "CPU"
+    },
+    {
+      "path": "CS/Hardware/Hardware.md",
+      "filename": "Hardware"
+    },
+    {
+      "path": "CS/Hardware/Threads.md",
+      "filename": "Threads"
+    },
+    {
+      "path": "CS/Hardware/Types of memory.md",
+      "filename": "Types of memory"
+    },
+    {
+      "path": "front-end/JS Advanced/Parts of JS/Event Loop.md",
+      "filename": "Event Loop"
+    },
+    {
+      "path": "Pasted image 20240807235907.png",
+      "filename": "Pasted image 20240807235907"
+    },
+    {
+      "path": "Pasted image 20240808005549.png",
+      "filename": "Pasted image 20240808005549"
     }
   ]
 }

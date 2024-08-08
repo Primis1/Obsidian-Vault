@@ -19,7 +19,12 @@ To know:
 	6. The ==bytecode== should be ==immediately== run by the program
 
 3. Engines are typically contain a #call-stack and heap
-	1. ==Call== ==Stack== - is the where code is being executed 
+	1. ==Call== ==Stack== - is stack data structure, where the tasks are being organized in the order to execute properly 
 	2. ==Heap== - represents the unstructured memory, that stores all the object needed by the program 
+
+4. Engine responsibilities:
+	1. Memory management 
+	2. Memory allocation 
+	3. Garbage deleting 
 
 ![[Pasted image 20240807171733.png]]
