@@ -1265,6 +1265,8 @@ sfL
 srrrr
 szg
 synchronous
+statements
+synchronously
 manipulation
 many
 mentioned
@@ -3424,6 +3426,7 @@ tfV
 tokens
 tAG
 tAAA
+thing
 find
 from
 for
@@ -3958,6 +3961,7 @@ ayx
 ame
 accessed
 anyways
+asyncReturn
 replace
 repeats
 repeat
@@ -4246,6 +4250,7 @@ release
 rbo
 represent
 rrrrr
+rej
 of
 one
 or
@@ -7151,6 +7156,7 @@ Akx
 Abstract
 AST
 Adnn
+Async
 generally
 gRPC
 getValue

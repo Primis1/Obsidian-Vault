@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Async &  Await.md",
+                "file": "Async & Await.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: async",
+                "query": "file: cac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Async &  Await.md",
+                "file": "Async & Await.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Async &  Await.md",
+                "file": "Async & Await.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Async &  Await.md"
+                "file": "Async & Await.md"
               }
             }
           }
@@ -157,12 +157,12 @@
   },
   "active": "737cb6dd7cc1ca4b",
   "lastOpenFiles": [
-    "front-end/JS Syntax/7 Async JS/Asynchronous JS.md",
     "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
-    "Async &  Await.md",
+    "front-end/React & Next/Next Doc/Data Fetching & caching/Fetching, caching and revalidating.md",
+    "Async & Await.md",
+    "front-end/JS Syntax/7 Async JS/Asynchronous JS.md",
     "front-end/React & Next/Next Doc/Optimizing/Lazy Loading.md",
     "CS/Network/Network models/TCP/Flow of TCP.md",
-    "front-end/React & Next/Next Doc/Data Fetching & caching/Fetching, caching and revalidating.md",
     "front-end/JS Advanced/Parts of JS/Event Loop.md",
     "Pasted image 20240808005549.png",
     "Pasted image 20240807235907.png",
