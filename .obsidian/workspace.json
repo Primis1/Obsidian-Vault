@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "07fe9e0307145625",
+        "id": "7a7a448a75e5cb1b",
         "type": "tabs",
         "children": [
           {
-            "id": "737cb6dd7cc1ca4b",
+            "id": "a802941cea52a8d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Async & Await.md",
+                "file": "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a15118e010697663",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "front-end/JS Advanced/JS advanced.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: cac",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Async & Await.md",
+                "file": "front-end/JS Advanced/JS advanced.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Async & Await.md",
+                "file": "front-end/JS Advanced/JS advanced.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Async & Await.md"
+                "file": "front-end/JS Advanced/JS advanced.md"
               }
             }
           }
@@ -155,16 +167,22 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "737cb6dd7cc1ca4b",
+  "active": "a15118e010697663",
   "lastOpenFiles": [
+    "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
+    "Property vs Method.md",
+    "Studios in Mississauga.md",
+    "front-end/JS Advanced/Advanced Objects/JS object.md",
+    "front-end/JS Syntax/3 Expressions & Operations/Arrays and access.md",
+    "front-end/JS Syntax/5 Objects/Serialization of objects.md",
+    "front-end/JS Advanced/sync & async/Async & Await.md",
+    "Some shit, idk where to put/Pasted image 20240808005549.png",
     "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
     "front-end/React & Next/Next Doc/Data Fetching & caching/Fetching, caching and revalidating.md",
-    "Async & Await.md",
     "front-end/JS Syntax/7 Async JS/Asynchronous JS.md",
     "front-end/React & Next/Next Doc/Optimizing/Lazy Loading.md",
     "CS/Network/Network models/TCP/Flow of TCP.md",
     "front-end/JS Advanced/Parts of JS/Event Loop.md",
-    "Pasted image 20240808005549.png",
     "Pasted image 20240807235907.png",
     "front-end/JS Advanced/Parts of JS/JS Runtime's.md",
     "front-end/JS Advanced/Parts of JS/JS Engine.md",
@@ -188,12 +206,6 @@
     "CS/Algos and DS/Data Structures/Hash.md",
     "front-end/TypeScript/Decorators.md",
     "front-end/JS Advanced/Parts of JS",
-    "front-end/JS Advanced/sync & async/Asynchronous.md",
-    "front-end/JS Advanced/sync & async/Parallelism && Concurrency.md",
-    "front-end/JS Advanced/Advanced Objects/Everything is an Object.md",
-    "CS/Network/Network.md",
-    "back-end/Backend.md",
-    "front-end/JS Advanced/JS advanced.md",
     "CS/Design & Patterns",
     "front-end/JS Advanced/Threading",
     "front-end/JS Advanced/Advanced Objects",
