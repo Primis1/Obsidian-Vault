@@ -29,8 +29,12 @@
       "filename": "Arrays and access"
     },
     {
-      "path": "Property vs Method.md",
+      "path": "front-end/JS Advanced/Advanced Objects/Property vs Method.md",
       "filename": "Property vs Method"
+    },
+    {
+      "path": "Play wright.md",
+      "filename": "Play wright"
     }
   ]
 }
