@@ -1,5 +1,5 @@
 ***
-Special values:
+- Components:
 1. Props:
 	1. totalCount - should parse the total number of data object for count 
 	2. currentPage - number of current page user on 

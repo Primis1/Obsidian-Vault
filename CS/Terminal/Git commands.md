@@ -19,6 +19,6 @@ To know:
 
 3. Useful commands:
 ```sh
-git worktree ../<name-of-new-directory> <name of initial branch>
+git worktree add ../<name-of-new-directory> <name of initial branch>
 
 ```
