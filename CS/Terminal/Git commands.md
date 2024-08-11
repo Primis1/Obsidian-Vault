@@ -21,4 +21,5 @@ To know:
 ```sh
 git worktree add ../<name-of-new-directory> <name of initial branch>
 
+git reset ~HEAD
 ```

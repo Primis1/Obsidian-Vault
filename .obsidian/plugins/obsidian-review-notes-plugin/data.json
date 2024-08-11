@@ -5,40 +5,36 @@
       "filename": "Event Loop"
     },
     {
-      "path": "front-end/JS Advanced/sync & async/Async & Await.md",
-      "filename": "Async & Await"
-    },
-    {
-      "path": "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
-      "filename": "Promises & Asynchronous"
-    },
-    {
-      "path": "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
-      "filename": "Object Prototype"
-    },
-    {
       "path": "Studios in Mississauga.md",
       "filename": "Studios in Mississauga"
     },
     {
-      "path": "front-end/JS Advanced/Advanced Objects/JS object.md",
-      "filename": "JS object"
+      "path": "front-end/Testing/Jest.md",
+      "filename": "Jest"
     },
     {
-      "path": "front-end/JS Syntax/3 Expressions & Operations/Arrays and access.md",
-      "filename": "Arrays and access"
+      "path": "back-end/Communications/Http and Comm/Http & Https.md",
+      "filename": "Http & Https"
     },
     {
-      "path": "front-end/JS Advanced/Advanced Objects/Property vs Method.md",
-      "filename": "Property vs Method"
+      "path": "back-end/GO and Web/Foundation/Web Application Basics.md",
+      "filename": "Web Application Basics"
     },
     {
-      "path": "back-end/DevOps stuff/Play wright.md",
-      "filename": "Play wright"
+      "path": "back-end/GO Syntax/GO Special Keywords.md",
+      "filename": "GO Special Keywords"
     },
     {
-      "path": "CS/Terminal/Git commands.md",
-      "filename": "Git commands"
+      "path": "front-end/JS Advanced/sync & async/Web-Workers.md",
+      "filename": "Web-Workers"
+    },
+    {
+      "path": "Pasted image 20240811031540.png",
+      "filename": "Pasted image 20240811031540"
+    },
+    {
+      "path": "Servermux & Routes.md",
+      "filename": "Servermux & Routes"
     }
   ]
 }

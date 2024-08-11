@@ -1,4 +1,0 @@
-***
-Special values:
-
-To know:

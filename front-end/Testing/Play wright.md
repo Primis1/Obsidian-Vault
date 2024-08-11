@@ -1,4 +1,5 @@
 ***
+[[Testing]]
 Special values:
 1. Play wright - is a testing framework, used for E2E testing 
 2. end-to-end - testing is kind of testing that emulates user's interactions with web-application  
