@@ -9,10 +9,6 @@
       "filename": "Jest"
     },
     {
-      "path": "back-end/Communications/Http and Comm/Http & Https.md",
-      "filename": "Http & Https"
-    },
-    {
       "path": "back-end/GO and Web/Foundation/Web Application Basics.md",
       "filename": "Web Application Basics"
     },
@@ -25,10 +21,6 @@
       "filename": "Web-Workers"
     },
     {
-      "path": "Pasted image 20240811031540.png",
-      "filename": "Pasted image 20240811031540"
-    },
-    {
       "path": "back-end/GO and Web/Foundation/Servermux & Routes.md",
       "filename": "Servermux & Routes"
     },
@@ -37,8 +29,20 @@
       "filename": "Channels in GO"
     },
     {
-      "path": "Goroutine.md",
+      "path": "back-end/GO Base/Channels/Goroutine.md",
       "filename": "Goroutine"
+    },
+    {
+      "path": "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
+      "filename": "RUNTIME"
+    },
+    {
+      "path": "back-end/GO Base/Packages/Separate packages/LOG.md",
+      "filename": "LOG"
+    },
+    {
+      "path": "back-end/GO Base/Packages/Separate packages/NET.md",
+      "filename": "NET"
     }
   ]
 }

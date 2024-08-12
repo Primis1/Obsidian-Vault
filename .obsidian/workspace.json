@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "b818fb4118880c53",
+            "id": "a2d5a994e5a9f971",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,19 +32,19 @@
             }
           },
           {
-            "id": "a2d5a994e5a9f971",
+            "id": "1b95f4ce61932ba6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goroutine.md",
+                "file": "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: we",
+                "query": "directional",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +90,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Goroutine.md",
+                "file": "back-end/GO Base/Channels/Channels in GO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Goroutine.md",
+                "file": "back-end/GO Base/Channels/Channels in GO.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Goroutine.md"
+                "file": "back-end/GO Base/Channels/Channels in GO.md"
               }
             }
           }
@@ -181,12 +182,15 @@
   },
   "active": "a2d5a994e5a9f971",
   "lastOpenFiles": [
+    "back-end/GO Base/Packages/Separate packages/NET.md",
+    "back-end/GO and Web/Foundation/Web Application Basics.md",
+    "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
     "back-end/GO Base/Channels/Channels in GO.md",
-    "Goroutine.md",
+    "back-end/GO Base/Channels/Goroutine.md",
+    "back-end/GO Base/Packages/Separate packages/LOG.md",
     "back-end/GO and Web/Foundation/Servermux & Routes.md",
     "front-end/JS Advanced/sync & async/Web-Workers.md",
     "back-end/GO Base/Channels",
-    "back-end/GO and Web/Foundation/Web Application Basics.md",
     "Pasted image 20240811031540.png",
     "back-end/GO and Web/GO WEB.md",
     "back-end/GO Base/GO Special Keywords.md",
@@ -209,9 +213,6 @@
     "front-end/Testing/Testing.md",
     "Studios in Mississauga.md",
     "front-end/Testing",
-    "back-end/API's/API's.md",
-    "CS/Terminal/Git commands.md",
-    "front-end/JS Advanced/JS advanced.md",
     "Some shit, idk where to put/Pasted image 20240808005549.png",
     "Pasted image 20240807235907.png",
     "Some shit, idk where to put/Pasted image 20240807171733.png",

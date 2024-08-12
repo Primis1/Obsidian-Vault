@@ -12,7 +12,7 @@ Special values:
 	
 	2. net.Dial - connect to a server at an IP address and port 
 	3. net.TCPConn - *bidirectional* TCP connection 
-		1. bidirectional means the move of data in two ways between two points, be sent and re-sent like on the highway 
+		1. bidirectional means the move of data in two ways between two points(send and also receive data)
 	4. net.Conn - *==bidirectional==* network connection interface
 
 To know:
