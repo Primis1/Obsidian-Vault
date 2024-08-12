@@ -5,10 +5,6 @@
       "filename": "Event Loop"
     },
     {
-      "path": "Studios in Mississauga.md",
-      "filename": "Studios in Mississauga"
-    },
-    {
       "path": "front-end/Testing/Jest.md",
       "filename": "Jest"
     },
@@ -21,7 +17,7 @@
       "filename": "Web Application Basics"
     },
     {
-      "path": "back-end/GO Syntax/GO Special Keywords.md",
+      "path": "back-end/GO Base/GO Special Keywords.md",
       "filename": "GO Special Keywords"
     },
     {
@@ -33,8 +29,16 @@
       "filename": "Pasted image 20240811031540"
     },
     {
-      "path": "Servermux & Routes.md",
+      "path": "back-end/GO and Web/Foundation/Servermux & Routes.md",
       "filename": "Servermux & Routes"
+    },
+    {
+      "path": "back-end/GO Base/Channels/Channels in GO.md",
+      "filename": "Channels in GO"
+    },
+    {
+      "path": "Goroutine.md",
+      "filename": "Goroutine"
     }
   ]
 }

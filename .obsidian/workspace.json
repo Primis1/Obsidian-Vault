@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Servermux & Routes.md",
+                "file": "back-end/GO Base/Channels/Channels in GO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a2d5a994e5a9f971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Goroutine.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Servermux & Routes.md",
+                "file": "Goroutine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Servermux & Routes.md",
+                "file": "Goroutine.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Servermux & Routes.md"
+                "file": "Goroutine.md"
               }
             }
           }
@@ -167,14 +179,17 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "b818fb4118880c53",
+  "active": "a2d5a994e5a9f971",
   "lastOpenFiles": [
+    "back-end/GO Base/Channels/Channels in GO.md",
+    "Goroutine.md",
+    "back-end/GO and Web/Foundation/Servermux & Routes.md",
+    "front-end/JS Advanced/sync & async/Web-Workers.md",
+    "back-end/GO Base/Channels",
     "back-end/GO and Web/Foundation/Web Application Basics.md",
-    "Servermux & Routes.md",
     "Pasted image 20240811031540.png",
     "back-end/GO and Web/GO WEB.md",
-    "front-end/JS Advanced/sync & async/Web-Workers.md",
-    "back-end/GO Syntax/GO Special Keywords.md",
+    "back-end/GO Base/GO Special Keywords.md",
     "back-end/GO and Web/Foundation/Routes && Routers.md",
     "back-end/GO and Web/Foundation",
     "back-end/Communications/Http and Comm/Http & Https.md",
@@ -184,9 +199,9 @@
     "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
     "front-end/JS Syntax/3 Expressions & Operations/Arrays and access.md",
     "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
-    "back-end/GO Syntax/Arrays Slices Iterations/Loops.md",
+    "back-end/GO Base/Arrays Slices Iterations/Loops.md",
     "front-end/JS Advanced/Advanced Objects/Property vs Method.md",
-    "back-end/GO Syntax/Function & Ternary/Functions.md",
+    "back-end/GO Base/Function & Ternary/Functions.md",
     "front-end/React & Next/Next Doc/Methods & functions/generateStaticParams.md",
     "front-end/Testing/Jest.md",
     "front-end/Testing/Play wright.md",
@@ -197,8 +212,6 @@
     "back-end/API's/API's.md",
     "CS/Terminal/Git commands.md",
     "front-end/JS Advanced/JS advanced.md",
-    "front-end/JS Advanced/Advanced Objects/JS object.md",
-    "front-end/JS Syntax/5 Objects/Serialization of objects.md",
     "Some shit, idk where to put/Pasted image 20240808005549.png",
     "Pasted image 20240807235907.png",
     "Some shit, idk where to put/Pasted image 20240807171733.png",
@@ -214,7 +227,6 @@
     "front-end/JS Advanced/Advanced Objects",
     "front-end/JS Advanced/sync & async",
     "front-end/JS Advanced",
-    "back-end/API's/REST",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
