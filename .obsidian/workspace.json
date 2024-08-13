@@ -8,36 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a15118e010697663",
+            "id": "b9ef2a8e4404b777",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/GO and Web/Foundation/Web Application Basics.md",
+                "file": "back-end/Databases/Joints & Keys.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a2d5a994e5a9f971",
+            "id": "15c54ee950df5b06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/GO Base/Channels/Channels in GO.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1b95f4ce61932ba6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
+                "file": "CS/Terminal/Git commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "directional",
+                "query": "file: git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -111,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/GO Base/Channels/Channels in GO.md",
+                "file": "CS/Terminal/Git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/GO Base/Channels/Channels in GO.md",
+                "file": "CS/Terminal/Git commands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/GO Base/Channels/Channels in GO.md"
+                "file": "CS/Terminal/Git commands.md"
               }
             }
           }
@@ -180,38 +168,38 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "a2d5a994e5a9f971",
+  "active": "15c54ee950df5b06",
   "lastOpenFiles": [
-    "back-end/GO Base/Packages/Separate packages/NET.md",
-    "back-end/GO and Web/Foundation/Web Application Basics.md",
-    "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
-    "back-end/GO Base/Channels/Channels in GO.md",
+    "front-end/JS Advanced/Advanced Objects/JS object.md",
     "back-end/GO Base/Channels/Goroutine.md",
-    "back-end/GO Base/Packages/Separate packages/LOG.md",
+    "back-end/GO Base/Channels/Channels in GO.md",
     "back-end/GO and Web/Foundation/Servermux & Routes.md",
     "front-end/JS Advanced/sync & async/Web-Workers.md",
+    "back-end/Databases/Database relations.md",
+    "back-end/Databases/Joints & Keys.md",
+    "Pasted image 20240812184304.png",
+    "back-end/Databases/SQL.md",
+    "back-end/Databases/Supabase.md",
+    "back-end/GO and Web/Foundation/Web Application Basics.md",
+    "back-end/GO Base/Errors & Test/Err keyword.md",
+    "back-end/GO Base/GO Special Keywords.md",
+    "back-end/Databases/Types of databases.md",
+    "back-end/GO Base/Types & Variables/Strings.md",
+    "back-end/GO Base/Types & Variables/Types & Variables.md",
+    "back-end/GO Base/Pointer and Memo/Memory Management.md",
+    "back-end/GO Base/Pointer and Memo/Pointers.md",
+    "back-end/GO Base/Pointer and Memo/Memory in GO.md",
+    "Goroutine.md",
+    "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
     "back-end/GO Base/Channels",
     "Pasted image 20240811031540.png",
     "back-end/GO and Web/GO WEB.md",
-    "back-end/GO Base/GO Special Keywords.md",
     "back-end/GO and Web/Foundation/Routes && Routers.md",
     "back-end/GO and Web/Foundation",
     "back-end/Communications/Http and Comm/Http & Https.md",
     "Untitled",
     "back-end/GO and Web/GO Project Structure.md",
     "front-end/JS Advanced/Parts of JS/Event Loop.md",
-    "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
-    "front-end/JS Syntax/3 Expressions & Operations/Arrays and access.md",
-    "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
-    "back-end/GO Base/Arrays Slices Iterations/Loops.md",
-    "front-end/JS Advanced/Advanced Objects/Property vs Method.md",
-    "back-end/GO Base/Function & Ternary/Functions.md",
-    "front-end/React & Next/Next Doc/Methods & functions/generateStaticParams.md",
-    "front-end/Testing/Jest.md",
-    "front-end/Testing/Play wright.md",
-    "Mocks.md",
-    "front-end/Testing/Testing.md",
-    "Studios in Mississauga.md",
     "front-end/Testing",
     "Some shit, idk where to put/Pasted image 20240808005549.png",
     "Pasted image 20240807235907.png",
@@ -221,7 +209,6 @@
     "Some shit, idk where to put/Pasted image 20240807032804.png",
     "Some shit, idk where to put/Pasted image 20240807032759.png",
     "Some shit, idk where to put/Pasted image 20240807030814.png",
-    "Some shit, idk where to put/Pasted image 20240807030643.png",
     "front-end/JS Advanced/Parts of JS",
     "CS/Design & Patterns",
     "front-end/JS Advanced/Threading",

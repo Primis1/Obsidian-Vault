@@ -1,34 +1,6 @@
 {
   "files": [
     {
-      "path": "front-end/JS Advanced/Parts of JS/Event Loop.md",
-      "filename": "Event Loop"
-    },
-    {
-      "path": "front-end/Testing/Jest.md",
-      "filename": "Jest"
-    },
-    {
-      "path": "back-end/GO and Web/Foundation/Web Application Basics.md",
-      "filename": "Web Application Basics"
-    },
-    {
-      "path": "back-end/GO Base/GO Special Keywords.md",
-      "filename": "GO Special Keywords"
-    },
-    {
-      "path": "front-end/JS Advanced/sync & async/Web-Workers.md",
-      "filename": "Web-Workers"
-    },
-    {
-      "path": "back-end/GO and Web/Foundation/Servermux & Routes.md",
-      "filename": "Servermux & Routes"
-    },
-    {
-      "path": "back-end/GO Base/Channels/Channels in GO.md",
-      "filename": "Channels in GO"
-    },
-    {
       "path": "back-end/GO Base/Channels/Goroutine.md",
       "filename": "Goroutine"
     },
@@ -37,12 +9,36 @@
       "filename": "RUNTIME"
     },
     {
-      "path": "back-end/GO Base/Packages/Separate packages/LOG.md",
-      "filename": "LOG"
+      "path": "front-end/JS Advanced/Advanced Objects/JS object.md",
+      "filename": "JS object"
     },
     {
-      "path": "back-end/GO Base/Packages/Separate packages/NET.md",
-      "filename": "NET"
+      "path": "back-end/Databases/Supabase.md",
+      "filename": "Supabase"
+    },
+    {
+      "path": "back-end/Databases/Types of databases.md",
+      "filename": "Types of databases"
+    },
+    {
+      "path": "back-end/Databases/SQL.md",
+      "filename": "SQL"
+    },
+    {
+      "path": "back-end/GO Base/Errors & Test/Err keyword.md",
+      "filename": "Err keyword"
+    },
+    {
+      "path": "back-end/Databases/Database relations.md",
+      "filename": "Database relations"
+    },
+    {
+      "path": "back-end/Databases/Joints & Keys.md",
+      "filename": "Joints & Keys"
+    },
+    {
+      "path": "Pasted image 20240812184304.png",
+      "filename": "Pasted image 20240812184304"
     }
   ]
 }

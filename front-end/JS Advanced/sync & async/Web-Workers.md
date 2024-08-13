@@ -3,7 +3,8 @@
 Special values:
 1. Web-worker - incapsulated functionality existing outside of application. Used to create additional thread  
 2. WW functions:
-	1. 
+	1. `.postMessage( value )` - used for post data into the worker 
+	2. `.onmessage = ( callback )` - used for invoking a handler in the worker, and retrieve send data  `
 
 To know:
 
@@ -53,7 +54,7 @@ Theory:
 	1. ==Requirements== for being a web-worker:
 		1. Live in its own file - process should ==NOT== interact with user interface 
 		2. Function is passed by copy 
-		3. No global states nor variables 
+		3. No global states nor variables, no `window` 
 	
 2. ==Web-Workers=: 
 	1. Should not contain nor interact with:

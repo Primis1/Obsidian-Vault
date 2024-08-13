@@ -5,6 +5,7 @@ Special values:
 	- #goroutine is golang adaptation of `coroutines`, they are allow to pause and resume the flow within the thread 
 - ==work sharing / work stealing== - go uses dual model for task managing within multiple goroutines 
 2. Generally, devs ==should not care much about inner process== of garbage collector or scheduler, because ==a)== GO team change it quiet often; ==b)== GO does ==NOT== provide much utilities to adjust go-runtime  
+3. `select` - key lets the #goroutine wait for multiple channels
 To know:
 1. Go's goroutine are NOT system threads nor processes, they are ==*light-weight*== threads   that are managed by ==GO== ==runtime== and ==queue== within it 
 
@@ -33,5 +34,22 @@ Implementation:
 ```go
 func main() {
 	go fmt.Printf("hello wld)
+}
+```
+2. `select` is similar to switch case
+```go
+func operator(line1, line2 chan string, quit chan struct{}) {
+	for {
+		select {
+		case msg := <- line1:
+			fmt.Printf("Listen on line 1: %s\n ", msg)
+		
+		case msg := <- line2:
+			fmt.Printf("Listen on line 1: %s\n ", msg)
+	
+		case msg := <- quit:
+			fmt.Printf("Listen on line 1: %s\n ", msg)
+		}
+	}
 }
 ```

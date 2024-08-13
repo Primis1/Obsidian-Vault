@@ -1,7 +1,8 @@
 ***
 [[JS advanced]]
 Special values:
-1. object - is data structure 
+1. object - is data structure ...
+
 
 To know:
 1. Each primitive type (function, number, string, Regex, etc) can be be crated by using a constructor #new. In this case their type will be equal to #object, but not really the type it refers to
@@ -24,4 +25,16 @@ myObject[myObject] = "baz";
 myObject["true"]; // "foo"
 myObject["3"]; // "bar"
 myObject["[object Object]"]; // "baz"
+```
+
+Object destructing:
+```ts 
+	const {a, b} = c
+// same like 
+	const a = c.a 
+// we also can destruct the return values from the function
+	function getata() {
+		return a, b
+
+	const {a, b} = await getData()
 ```

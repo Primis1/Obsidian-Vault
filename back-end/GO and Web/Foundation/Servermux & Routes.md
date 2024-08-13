@@ -1,6 +1,6 @@
 ***
 Special values:
-1. Servermux - aka router, it provide light weight(it does ==not== support ==method-based== routing that used in REST)
+1. Servermux - aka router, it provide light weight(it does ==not== support ==method-based== routing that used in REST) routing 
 	1. subtree route - ends wit "/"
 	2. fixed route - end with an empty space 
 

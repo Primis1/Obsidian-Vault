@@ -4,3 +4,12 @@ lOn
 CRUD
 CRUP
 crush
+get
+GET
+Get
+gets
+GetWd
+Getter
+getting
+getValue
+getState
