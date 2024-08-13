@@ -51,6 +51,34 @@
     {
       "path": "Classes.md",
       "filename": "Classes"
+    },
+    {
+      "path": "Pasted image 20240812184304.png",
+      "filename": "Pasted image 20240812184304"
+    },
+    {
+      "path": "back-end/Databases/Database relations.md",
+      "filename": "Database relations"
+    },
+    {
+      "path": "back-end/Databases/Joints & Keys.md",
+      "filename": "Joints & Keys"
+    },
+    {
+      "path": "back-end/Databases/SQL.md",
+      "filename": "SQL"
+    },
+    {
+      "path": "back-end/Databases/Supabase.md",
+      "filename": "Supabase"
+    },
+    {
+      "path": "back-end/GO Base/Errors & Test/Err keyword.md",
+      "filename": "Err keyword"
+    },
+    {
+      "path": "front-end/JS Advanced/Advanced Objects/JS object.md",
+      "filename": "JS object"
     }
   ]
 }

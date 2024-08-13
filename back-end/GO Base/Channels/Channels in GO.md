@@ -1,15 +1,16 @@
 ***
-[[Channels in GO]]
+[[GO]]
 Special values:
 1. #channels - are conduits(турбопровід) through which you can send and receive values ==between== ==goroutines== 
 	1. `chan value` - is special keyword for creating a new channel. Its called in `make(chan int)`
-	2. <- - ==`operator`== used for sending or receiving information on channel 
+	2. `<-` - ==`operator`== used for sending or receiving information on channel 
 2. #channels have the following characteristics:
 	1. They are ==typed== 
 	2. The ==values== are transmitted/received in ==synchronous== way
 	3. The ==values== are transmitted/received in ==FIFO== manner
 	4. They can be either buffered or unbuffered 
-	5. They are directional 
+	5. They are bi-directional 
+	6. Data can have only one initial receiver. Two channels can't take the same data  
 To know:
 
 1. Channels characteristics(detailed):
@@ -26,8 +27,12 @@ To know:
 2. Blocking and Unblocking channels:
 	1. channels are blocked by default and can ==NOT== receive nor send data, until the CH is "==unblocked==" or ==invoked==
 		- Like calling a phone, while call rings audio channel is still blocked, but right after phone on the other side is accepted - channel is unblocked 
-	2. So the channel with prepared data will be blocked until until the receiver is ready to get data. ==SKIP, RECEIVE, DETONATE THE SKIPPED, RUN THE RECEIVER== 
-	3. ==We use goroutine to manage this behavior, because only with goroutines we can WAIT for channel to be waited/received== 
+	
+	2. The channel will await until it receives the data which was send, somewhere, lower on a stream line
+		-  ==SKIP, RECEIVE, DETONATE THE SKIPPED, RUN THE RECEIVER== 
+	
+	3. ==We use goroutine to manage this behavior, because only with goroutines we can indicate to WAIT for code to to be executed== 
+	
 	4. We should ==close the channels== after it's purpose is settled 
 ```go 
 func Janis(ch chan string) {
@@ -35,7 +40,7 @@ func Janis(ch chan string) {
 	msg := <-ch
 	fmt.Println("Jimi said:", msg)
 
-	ch <- "Janis said: Hello Jimi"
+	ch <- "Hello Jimi"
 }
 
 func main() {
