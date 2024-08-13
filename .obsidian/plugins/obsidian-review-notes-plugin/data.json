@@ -43,6 +43,14 @@
     {
       "path": "back-end/GO Base/Packages/Separate packages/NET.md",
       "filename": "NET"
+    },
+    {
+      "path": "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
+      "filename": "JS Value & Reference"
+    },
+    {
+      "path": "Classes.md",
+      "filename": "Classes"
     }
   ]
 }
