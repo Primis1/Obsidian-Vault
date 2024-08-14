@@ -2,8 +2,8 @@
 [[Promises & Asynchronous]]
 Special values:
 1. #async - makes the function return promise object 
-2. #await - 
-
+2. #await - used for defining synchronous code within asynchronous function 
+3. #callback - function that stored as data/argument within the function. It can run even after the main function is finished 
 To know:
 1. #async 
 	- wraps function into the promise, function's ==return== value, becomes ==fulfilled== value of promise  

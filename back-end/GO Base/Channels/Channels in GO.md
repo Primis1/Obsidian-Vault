@@ -36,10 +36,11 @@ To know:
 	4. We should ==close the channels== after it's purpose is settled 
 ```go 
 func Janis(ch chan string) {
-	//this line is blocked until a message is delivered to the channel
+	//this line await for the receiver to put some data into the channel 
 	msg := <-ch
+	//pass the assigned data into the print
 	fmt.Println("Jimi said:", msg)
-
+	//parse new data into the channel, because it is a fck function, dude like cmon 
 	ch <- "Hello Jimi"
 }
 
@@ -49,9 +50,9 @@ func main() {
 	defer close(phone)
 
 	go Janis(phone)
-
+	// parse some data into the channel 
 	phone <- "Hello, Janis"
-
+	// we assign the changed data into the new variable
 	msg := <-phone
 	fmt.Println("Janis Said:", msg)
 }

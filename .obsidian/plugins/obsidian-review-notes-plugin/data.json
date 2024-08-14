@@ -37,48 +37,24 @@
       "filename": "RUNTIME"
     },
     {
-      "path": "back-end/GO Base/Packages/Separate packages/LOG.md",
-      "filename": "LOG"
-    },
-    {
-      "path": "back-end/GO Base/Packages/Separate packages/NET.md",
-      "filename": "NET"
-    },
-    {
       "path": "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
       "filename": "JS Value & Reference"
     },
     {
-      "path": "Classes.md",
+      "path": "front-end/TypeScript/Classes.md",
       "filename": "Classes"
     },
     {
-      "path": "Pasted image 20240812184304.png",
-      "filename": "Pasted image 20240812184304"
+      "path": "front-end/JS Advanced/sync & async/Async & Await.md",
+      "filename": "Async & Await"
     },
     {
-      "path": "back-end/Databases/Database relations.md",
-      "filename": "Database relations"
+      "path": "Context.md",
+      "filename": "Context"
     },
     {
-      "path": "back-end/Databases/Joints & Keys.md",
-      "filename": "Joints & Keys"
-    },
-    {
-      "path": "back-end/Databases/SQL.md",
-      "filename": "SQL"
-    },
-    {
-      "path": "back-end/Databases/Supabase.md",
-      "filename": "Supabase"
-    },
-    {
-      "path": "back-end/GO Base/Errors & Test/Err keyword.md",
-      "filename": "Err keyword"
-    },
-    {
-      "path": "front-end/JS Advanced/Advanced Objects/JS object.md",
-      "filename": "JS object"
+      "path": "back-end/GO and Web/Foundation/Routes && Routers.md",
+      "filename": "Routes && Routers"
     }
   ]
 }

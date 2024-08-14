@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes.md",
+                "file": "front-end/JS Advanced/sync & async/Async & Await.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12027ea9d40a61da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back-end/GO and Web/Foundation/Routes && Routers.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +126,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes.md",
+                "file": "back-end/GO and Web/Foundation/Routes && Routers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Classes.md",
+                "file": "back-end/GO and Web/Foundation/Routes && Routers.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -182,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Classes.md"
+                "file": "back-end/GO and Web/Foundation/Routes && Routers.md"
               }
             }
           }
@@ -203,26 +216,29 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "145803088a01b6de",
+  "active": "12027ea9d40a61da",
   "lastOpenFiles": [
+    "back-end/GO Base/Packages/Separate packages/NET.md",
+    "back-end/GO and Web/Foundation/Servermux & Routes.md",
+    "Context.md",
+    "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
+    "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
+    "back-end/GO Base/Channels/Channels in GO.md",
+    "front-end/JS Advanced/sync & async/Async & Await.md",
+    "front-end/Testing/Jest.md",
+    "front-end/TypeScript/Classes.md",
+    "Some shit, idk where to put/Pasted image 20240812184304.png",
     "back-end/Databases/Supabase.md",
     "back-end/Databases/SQL.md",
     "back-end/Databases/Joints & Keys.md",
     "back-end/Databases/Database relations.md",
-    "Pasted image 20240812184304.png",
-    "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
-    "Classes.md",
     "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
     "front-end/JS Advanced/Advanced Objects/JS object.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240811031540.png",
     "Studios in Mississauga.md",
-    "back-end/GO Base/Channels/Channels in GO.md",
-    "back-end/GO Base/Packages/Separate packages/NET.md",
     "back-end/GO and Web/Foundation/Web Application Basics.md",
-    "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
     "back-end/GO Base/Channels/Goroutine.md",
     "back-end/GO Base/Packages/Separate packages/LOG.md",
-    "back-end/GO and Web/Foundation/Servermux & Routes.md",
     "front-end/JS Advanced/sync & async/Web-Workers.md",
     "back-end/GO Base/Channels",
     "back-end/GO and Web/GO WEB.md",
@@ -233,8 +249,6 @@
     "Untitled",
     "back-end/GO and Web/GO Project Structure.md",
     "front-end/JS Advanced/Parts of JS/Event Loop.md",
-    "front-end/JS Syntax/7 Async JS/Promises & Asynchronous.md",
-    "front-end/JS Syntax/3 Expressions & Operations/Arrays and access.md",
     "front-end/Testing",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240808005549.png",
     "Pasted image 20240807235907.png",
