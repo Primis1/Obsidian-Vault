@@ -57,28 +57,24 @@
       "filename": "CPU"
     },
     {
-      "path": "CS/Hardware/Types of memory.md",
-      "filename": "Types of memory"
-    },
-    {
       "path": "back-end/Databases/Non & Relational DB.md",
       "filename": "Non & Relational DB"
-    },
-    {
-      "path": "back-end/Databases/Tables/SQL.md",
-      "filename": "SQL"
     },
     {
       "path": "back-end/Databases/Databases in general.md",
       "filename": "Databases in general"
     },
     {
-      "path": "back-end/Databases/DB caching.md",
+      "path": "back-end/Databases/DB caching/DB caching.md",
       "filename": "DB caching"
     },
     {
       "path": "back-end/GO Base/Interfaces & Generics/Interfaces.md",
       "filename": "Interfaces"
+    },
+    {
+      "path": "DB cache.md",
+      "filename": "DB cache"
     }
   ]
 }
