@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a15118e010697663",
+            "id": "b8018706df00251f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/GO and Web/Foundation/Web Application Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a2d5a994e5a9f971",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b795ec17ef1f0ad1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "145803088a01b6de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "front-end/JS Advanced/sync & async/Async & Await.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "12027ea9d40a61da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/GO and Web/Foundation/Routes && Routers.md",
+                "file": "front-end/Testing/Jest.md",
                 "mode": "source",
                 "source": false
               }
@@ -79,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chi",
+                "query": "file: rendering",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -147,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/GO and Web/Foundation/Routes && Routers.md",
+                "file": "front-end/Testing/Jest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/GO and Web/Foundation/Routes && Routers.md",
+                "file": "front-end/Testing/Jest.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -195,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/GO and Web/Foundation/Routes && Routers.md"
+                "file": "front-end/Testing/Jest.md"
               }
             }
           }
@@ -216,39 +167,39 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "12027ea9d40a61da",
+  "active": "b8018706df00251f",
   "lastOpenFiles": [
-    "back-end/GO Base/Packages/Separate packages/NET.md",
-    "back-end/GO and Web/Foundation/Servermux & Routes.md",
-    "Context.md",
-    "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
+    "back-end/GO and Web/Foundation/Web Application Basics.md",
+    "CS/Terminal/Git commands.md",
+    "back-end/GO Base/Channels/Goroutine.md",
     "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
-    "back-end/GO Base/Channels/Channels in GO.md",
+    "front-end/React & Next/Next Doc/Server vs Client Rendering/Server & client side/Types of Rendering.md",
+    "back-end/GO and Web/Foundation/Servermux & Routes.md",
     "front-end/JS Advanced/sync & async/Async & Await.md",
+    "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
+    "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
+    "Untitled.md",
     "front-end/Testing/Jest.md",
+    "front-end/JS Advanced/sync & async/Web-Workers.md",
+    "back-end/GO Base/GO Special Keywords.md",
+    "front-end/JS Advanced/Parts of JS/Event Loop.md",
+    "CS/Programming Concepts/Memory & Data/Bits & Bytes.md",
+    "back-end/GO and Web/Foundation/Routes && Routers.md",
+    "back-end/GO Base/Packages/Separate packages/NET.md",
+    "Context.md",
+    "back-end/GO Base/Channels/Channels in GO.md",
     "front-end/TypeScript/Classes.md",
     "Some shit, idk where to put/Pasted image 20240812184304.png",
     "back-end/Databases/Supabase.md",
     "back-end/Databases/SQL.md",
     "back-end/Databases/Joints & Keys.md",
     "back-end/Databases/Database relations.md",
-    "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
     "front-end/JS Advanced/Advanced Objects/JS object.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240811031540.png",
     "Studios in Mississauga.md",
-    "back-end/GO and Web/Foundation/Web Application Basics.md",
-    "back-end/GO Base/Channels/Goroutine.md",
-    "back-end/GO Base/Packages/Separate packages/LOG.md",
-    "front-end/JS Advanced/sync & async/Web-Workers.md",
     "back-end/GO Base/Channels",
-    "back-end/GO and Web/GO WEB.md",
-    "back-end/GO Base/GO Special Keywords.md",
-    "back-end/GO and Web/Foundation/Routes && Routers.md",
     "back-end/GO and Web/Foundation",
-    "back-end/Communications/Http and Comm/Http & Https.md",
     "Untitled",
-    "back-end/GO and Web/GO Project Structure.md",
-    "front-end/JS Advanced/Parts of JS/Event Loop.md",
     "front-end/Testing",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240808005549.png",
     "Pasted image 20240807235907.png",

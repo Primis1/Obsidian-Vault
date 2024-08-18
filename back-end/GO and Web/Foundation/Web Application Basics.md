@@ -3,7 +3,7 @@
 Special values:
 1. Three Parts: 
 	1. Handler - responsible for execution a program logic
-	2. Servemux/Router -  basically describe what to do with client when he entered specific route 
+	2. Servemux/Router -  basically describe what to do with client when he entered specific route, can use the handler
 	3. Web Server - a connection server that listens to TCP/IP requests 
 		1. *Unlike with other langs, go doesn't need Nginx or Apache*
 

@@ -9,32 +9,12 @@
       "filename": "Jest"
     },
     {
-      "path": "back-end/GO and Web/Foundation/Web Application Basics.md",
-      "filename": "Web Application Basics"
-    },
-    {
-      "path": "back-end/GO Base/GO Special Keywords.md",
-      "filename": "GO Special Keywords"
-    },
-    {
-      "path": "front-end/JS Advanced/sync & async/Web-Workers.md",
-      "filename": "Web-Workers"
-    },
-    {
       "path": "back-end/GO and Web/Foundation/Servermux & Routes.md",
       "filename": "Servermux & Routes"
     },
     {
       "path": "back-end/GO Base/Channels/Channels in GO.md",
       "filename": "Channels in GO"
-    },
-    {
-      "path": "back-end/GO Base/Channels/Goroutine.md",
-      "filename": "Goroutine"
-    },
-    {
-      "path": "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
-      "filename": "RUNTIME"
     },
     {
       "path": "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
@@ -55,6 +35,34 @@
     {
       "path": "back-end/GO and Web/Foundation/Routes && Routers.md",
       "filename": "Routes && Routers"
+    },
+    {
+      "path": "CS/Terminal/Git commands.md",
+      "filename": "Git commands"
+    },
+    {
+      "path": "back-end/GO and Web/Foundation/Web Application Basics.md",
+      "filename": "Web Application Basics"
+    },
+    {
+      "path": "back-end/GO Base/GO Special Keywords.md",
+      "filename": "GO Special Keywords"
+    },
+    {
+      "path": "front-end/JS Advanced/sync & async/Web-Workers.md",
+      "filename": "Web-Workers"
+    },
+    {
+      "path": "Untitled.md",
+      "filename": "Untitled"
+    },
+    {
+      "path": "front-end/React & Next/Next Doc/Server vs Client Rendering/Server & client side/Types of Rendering.md",
+      "filename": "Types of Rendering"
+    },
+    {
+      "path": "back-end/GO Base/Channels/Goroutine.md",
+      "filename": "Goroutine"
     }
   ]
 }
