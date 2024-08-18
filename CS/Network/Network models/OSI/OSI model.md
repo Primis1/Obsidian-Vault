@@ -2,7 +2,7 @@
 [[TCP IP & OSI]]
 Special values:
 1. #RPC - remote procedure call, 
-2. #OSI - *framework* that explains the work of computer connections, its power is in independent work of each layer of connection, it is an "alternative" for #TCP & #IP model
+2. #OSI - *framework* that explains the work of computer connections, its power is in independent work of each layer of connection, it is an "cheat-sheet" for #TCP & #IP model
 3. ==Layers== of network connection:
 	1. L7 - ==Application layer==, interacts directly with the user, operates with such communication ==protocols== ==like== #HTTP, FTP, etc 
 	

@@ -1,32 +1,24 @@
 {
   "files": [
     {
-      "path": "front-end/JS Advanced/Parts of JS/Event Loop.md",
-      "filename": "Event Loop"
+      "path": "back-end/Databases/Tables/Database relations.md",
+      "filename": "Database relations"
     },
     {
-      "path": "front-end/Testing/Jest.md",
-      "filename": "Jest"
-    },
-    {
-      "path": "back-end/GO and Web/Foundation/Servermux & Routes.md",
-      "filename": "Servermux & Routes"
-    },
-    {
-      "path": "back-end/GO Base/Channels/Channels in GO.md",
-      "filename": "Channels in GO"
+      "path": "back-end/Databases/Tables/Joints & Keys.md",
+      "filename": "Joints & Keys"
     },
     {
       "path": "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
       "filename": "JS Value & Reference"
     },
     {
-      "path": "front-end/TypeScript/Classes.md",
+      "path": "Classes.md",
       "filename": "Classes"
     },
     {
-      "path": "front-end/JS Advanced/sync & async/Async & Await.md",
-      "filename": "Async & Await"
+      "path": "back-end/GO and Web/Foundation/Servermux/Servermux & Routes.md",
+      "filename": "Servermux & Routes"
     },
     {
       "path": "Context.md",
@@ -37,32 +29,56 @@
       "filename": "Routes && Routers"
     },
     {
-      "path": "CS/Terminal/Git commands.md",
-      "filename": "Git commands"
+      "path": "back-end/GO Base/Channels/Channels in GO.md",
+      "filename": "Channels in GO"
     },
     {
-      "path": "back-end/GO and Web/Foundation/Web Application Basics.md",
-      "filename": "Web Application Basics"
+      "path": "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
+      "filename": "RUNTIME"
     },
     {
-      "path": "back-end/GO Base/GO Special Keywords.md",
-      "filename": "GO Special Keywords"
+      "path": "back-end/GO and Web/Foundation/Servermux & Routes.md",
+      "filename": "Servermux & Routes"
     },
     {
-      "path": "front-end/JS Advanced/sync & async/Web-Workers.md",
-      "filename": "Web-Workers"
+      "path": "front-end/JS Advanced/Advanced Objects/JS object.md",
+      "filename": "JS object"
     },
     {
-      "path": "Untitled.md",
-      "filename": "Untitled"
+      "path": "front-end/JS Advanced/sync & async/Async & Await.md",
+      "filename": "Async & Await"
     },
     {
-      "path": "front-end/React & Next/Next Doc/Server vs Client Rendering/Server & client side/Types of Rendering.md",
-      "filename": "Types of Rendering"
+      "path": "front-end/TypeScript/Classes.md",
+      "filename": "Classes"
     },
     {
-      "path": "back-end/GO Base/Channels/Goroutine.md",
-      "filename": "Goroutine"
+      "path": "CS/Hardware/CPU/CPU.md",
+      "filename": "CPU"
+    },
+    {
+      "path": "CS/Hardware/Types of memory.md",
+      "filename": "Types of memory"
+    },
+    {
+      "path": "back-end/Databases/Non & Relational DB.md",
+      "filename": "Non & Relational DB"
+    },
+    {
+      "path": "back-end/Databases/Tables/SQL.md",
+      "filename": "SQL"
+    },
+    {
+      "path": "back-end/Databases/Databases in general.md",
+      "filename": "Databases in general"
+    },
+    {
+      "path": "back-end/Databases/DB caching.md",
+      "filename": "DB caching"
+    },
+    {
+      "path": "back-end/GO Base/Interfaces & Generics/Interfaces.md",
+      "filename": "Interfaces"
     }
   ]
 }

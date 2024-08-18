@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "7a7a448a75e5cb1b",
+        "id": "08bf224d99c5d2ef",
         "type": "tabs",
         "children": [
           {
-            "id": "b8018706df00251f",
+            "id": "661c3ac7a9f1c5a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "front-end/Testing/Jest.md",
+                "file": "Context.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1b95f4ce61932ba6",
+            "id": "cadeaf9dbb6e572e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
+                "file": "back-end/GO Base/Interfaces & Generics/Interfaces.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f03eb1837abb2b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back-end/Databases/Databases in general.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: rendering",
+                "query": "Relation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front-end/Testing/Jest.md",
+                "file": "back-end/GO Base/Interfaces & Generics/Interfaces.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "front-end/Testing/Jest.md",
+                "file": "back-end/GO Base/Interfaces & Generics/Interfaces.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "front-end/Testing/Jest.md"
+                "file": "back-end/GO Base/Interfaces & Generics/Interfaces.md"
               }
             }
           }
@@ -167,54 +179,54 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "b8018706df00251f",
+  "active": "801a4bac8f3dd1ae",
   "lastOpenFiles": [
-    "back-end/GO and Web/Foundation/Web Application Basics.md",
-    "CS/Terminal/Git commands.md",
-    "back-end/GO Base/Channels/Goroutine.md",
-    "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
-    "front-end/React & Next/Next Doc/Server vs Client Rendering/Server & client side/Types of Rendering.md",
-    "back-end/GO and Web/Foundation/Servermux & Routes.md",
-    "front-end/JS Advanced/sync & async/Async & Await.md",
-    "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
-    "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
-    "Untitled.md",
-    "front-end/Testing/Jest.md",
-    "front-end/JS Advanced/sync & async/Web-Workers.md",
-    "back-end/GO Base/GO Special Keywords.md",
-    "front-end/JS Advanced/Parts of JS/Event Loop.md",
-    "CS/Programming Concepts/Memory & Data/Bits & Bytes.md",
-    "back-end/GO and Web/Foundation/Routes && Routers.md",
-    "back-end/GO Base/Packages/Separate packages/NET.md",
+    "back-end/GO Base/Interfaces & Generics",
     "Context.md",
-    "back-end/GO Base/Channels/Channels in GO.md",
-    "front-end/TypeScript/Classes.md",
-    "Some shit, idk where to put/Pasted image 20240812184304.png",
+    "back-end/GO Base/Interfaces & Generics/Interfaces.md",
+    "back-end/Databases/Non & Relational DB.md",
+    "back-end/Databases/Databases in general.md",
+    "back-end/Databases/Tables",
+    "back-end/Databases/DB caching.md",
+    "back-end/Databases/Tables/Joints & Keys.md",
+    "back-end/Databases/Tables/SQL.md",
+    "back-end/Backend.md",
+    "back-end/GO Base/GO.md",
+    "back-end/Communications/Communication.md",
     "back-end/Databases/Supabase.md",
-    "back-end/Databases/SQL.md",
-    "back-end/Databases/Joints & Keys.md",
-    "back-end/Databases/Database relations.md",
-    "front-end/JS Advanced/Advanced Objects/JS object.md",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240811031540.png",
+    "back-end/Databases/Tables/Database relations.md",
     "Studios in Mississauga.md",
-    "back-end/GO Base/Channels",
-    "back-end/GO and Web/Foundation",
-    "Untitled",
-    "front-end/Testing",
+    "back-end/GO Base/Channels/Goroutine.md",
+    "CS/Hardware/Types of memory.md",
+    "CS/Encoding/ASCII.md",
+    "front-end/JS Advanced/Advanced Objects/JS object.md",
+    "front-end/JS Advanced/sync & async/Async & Await.md",
+    "back-end/GO and Web/Foundation/Servermux/Servermux ID's.md",
+    "back-end/GO and Web/Foundation/Servermux/Servermux Headers.md",
+    "back-end/GO and Web/Foundation/Servermux/Servermux & Routes.md",
+    "back-end/GO and Web/Foundation/Servermux",
+    "Some shit, idk where to put/Pasted image 20240814222133.png",
+    "CS/Hardware/CPU/Threads.md",
+    "CS/Hardware/CPU/Process vs Thread.md",
+    "CS/Hardware/CPU/CPU.md",
+    "CS/Hardware/CPU",
+    "CS/Encoding",
+    "back-end/GO and Web/Foundation/Servermux & Routes.md",
+    "Some shit, idk where to put/Pasted image 20240812184304.png",
+    "Pasted image 20240817053054.png",
+    "Some shit, idk where to put/Pasted image 20240817053209.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240804013542.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240811031540.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240808005549.png",
-    "Pasted image 20240807235907.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240807171733.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240807034130.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240807034100.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240807032804.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240807032759.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240807030814.png",
+    "back-end/GO Base/Channels",
+    "back-end/GO and Web/Foundation",
+    "front-end/Testing",
     "front-end/JS Advanced/Parts of JS",
     "CS/Design & Patterns",
     "front-end/JS Advanced/Threading",
-    "front-end/JS Advanced/Advanced Objects",
-    "front-end/JS Advanced/sync & async",
-    "front-end/JS Advanced",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

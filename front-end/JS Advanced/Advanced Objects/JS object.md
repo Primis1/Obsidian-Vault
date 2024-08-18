@@ -1,7 +1,7 @@
 ***
 [[JS advanced]]
 Special values:
-1. object - is data structure ...
+1. object - is data structure, that represents collection of properties 
 
 
 To know:

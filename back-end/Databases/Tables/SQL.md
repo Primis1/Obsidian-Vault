@@ -1,4 +1,5 @@
 ***
+[[Database relations]]
 Special values:
 1. SQL - standard language for storing  
 2. RDBMS - stands for `Relation DataBase Management System`,  are those kind which use columns and rows system. They are powered by SQL 

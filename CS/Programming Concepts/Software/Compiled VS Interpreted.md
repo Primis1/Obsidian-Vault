@@ -1,12 +1,11 @@
 ***
-[resourse][https://www.canva.com/design/DAGIRCLLQ7A/ofZW0ggxpmXSJXQEnvI-eg/view?utm_content=DAGIRCLLQ7A&utm_campaign=designshare&utm_medium=link&utm_source=editor]
-
 Special values:
 1. #compiler  - is a translation program, that *translates* a PL code into the byte code, and checks its valid, before finishing the translation, if(err) compilation fails, if(!err) compilation success
 2. #interpreter  - is a translation program, that translates a PL into the output code, without any checks, because of it's line by line interpretation
 3. Translation - converting a code from PL A to PL B
 
 To know:
+![[Pasted image 20240814222133.png]]
 1. ==Compilation==
 	2. It is ==faster==, better for ==performance== and doesn't need any middleware for running after the execution. Because it is already in byte code and could be read by the CPU itself. 
 	3. However compilers are relying on the PC architecture, so one compiled-bytecode not be portable to non-native architecture. 

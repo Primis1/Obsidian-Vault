@@ -20,7 +20,7 @@ To know:
 		3. Better for I/O operations 
 	2. ==Cons==: 
 		1. with tons of connections it ==becomes== ==slow==
-		2. unable to execute ==tasks== ==concurrently== 
+		2. unable to execute ==tasks== ==in parallel== 
 
 4. ==Multi==-tread applications:
 	1. ==Pros==: 

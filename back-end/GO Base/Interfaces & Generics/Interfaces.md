@@ -1,0 +1,7 @@
+***
+[[GO]]
+Special values:
+1. #interfaces - used to specify the behavior of an object. They are about doing, not being 
+	- *With interfaces, if something has the same functionality, it can be reused*
+To know:
+1. Interfaces improve compatibility, i.e if we set one kind of behavior, aka `toSpeak()`, we can apply it to different object, like `Cats`, `Dogs`, `Human` in this case, they all will implement the same interface 

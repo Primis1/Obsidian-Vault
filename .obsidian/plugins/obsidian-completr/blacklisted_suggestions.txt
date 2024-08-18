@@ -13,3 +13,6 @@ Getter
 getting
 getValue
 getState
+Relational
+aCI
+ACID
