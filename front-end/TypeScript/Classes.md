@@ -17,7 +17,7 @@ const obj = new FetcClass
 
 // constructor 
 ```
-2. With use of this, we can access the environment variables, `if they are declared`, otherwise this returns and empty object `{}`
+2. With use of this, we can access the environment variables, `if they are declared`, otherwise `this` returns and empty object `{}`
 	 - Each method or inherited class has its own environment 
 3. Suffixes:
 	1. public - default suffix. Properties can used in access in ==subclasses== and via `dot notation`

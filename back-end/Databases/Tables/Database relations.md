@@ -14,5 +14,7 @@ To know:
 - *Database relations helps in DB normalization*. DB normalization is the fck decomposition which i see over and over and over and over again. We divide one big table into bunch of smaller and hope that the DB is going to work well and fast 
 
 1. OTO:
+- one record can have only one foreign key somewhere
 ![[Pasted image 20240812184304.png]]
 2. OTM:
+- one record can be used in multiple tables. Customer can have many orders 

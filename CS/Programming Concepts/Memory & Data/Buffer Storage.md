@@ -1,6 +1,7 @@
 *** 
+[[Memory & Data]]
 Special values:
-1. #buffer - buffer advanced data structure, it temporary storge that helps to transfer data between components but their reading/writing speed is not the same (buffer zone)  
+1. #buffer - buffer advanced data structure, it temporary storge that helps to transfer data between components when their reading/writing speed is not the same (buffer zone) or when we want to reduce amount request
 
 To know:
 1. As an example of use:

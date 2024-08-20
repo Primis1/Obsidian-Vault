@@ -1,11 +1,12 @@
 ***
 [[Routes && Routers]]
-Special values:
-1. Go servermux is based on #net/http, which is part of stnd.lib 
-2. Servermux - aka router, it provide light weight(it does ==not== support ==method-based== routing that used in REST, but we somehow use that ) routing
+Special values: 
+1. Servermux - aka router, it provide light weight(it does ==not== support ==method-based== routing that used in REST, but we somehow use that ) routing
 	1. subtree route - ends wit "/"
 	2. fixed route - end with an empty space 
 
+-  Go servermux is based on #net/http, which is part of stnd.lib
+- #servermux - are kind of handlers which instead of providing the response itself, passes the request right to the second handler 
 To know:
 1. subtree by default work like "==catch-all=="
 	- To remove this behavior we can modify it in route handlers, we should do that because we can ==not modify servermux== 
@@ -16,6 +17,12 @@ func home(w http.ResponseWriter, r *http.Request) {
         return 
     }
     w.Write([]byte("Hello my server"))
+}
+
+func main() {
+	mux := http.NewServerMux
+//activating/establishing the connection 
+	http.ListerAndServe(":4000", home)
 }
 ```
 - Now router is going to show home page, ==only and only when it is "/home"==

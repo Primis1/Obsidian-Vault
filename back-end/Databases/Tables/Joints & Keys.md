@@ -1,7 +1,7 @@
 ***
 [[Database relations]]
 Special values:
-1. #joins (звязки) - operation that combines the rows of two of two or more tables in the DB. Joins are used to perform multi table queries 
+1. #joins (звязки) - operation that combines the rows of two or more tables in the DB. Joins are used to perform multi table queries 
  
 To know:
  

@@ -18,7 +18,7 @@ To know:
 		- running
 		- ready 
 		- blocked 
-
+		
 2. Means 
 	1. Process 
 		- Process means any execution program 
@@ -31,5 +31,5 @@ To know:
 		- Thread is a segment of process 
 		- It is generally faster than process, in most means like creation/termination/switching 
 		- They can actively share memory between each other 
-		- If, example, one user's thread is blocked, all other user threads are going to get blocked  
+		- If, example, one user's thread is blocked, all other user threads are going to get blocked()
 ![[Pasted image 20240817053209.png]]

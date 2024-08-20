@@ -2,7 +2,7 @@
 [[GO WEB]]
 Special values:
 1. #channels - are conduits(турбопровід) through which you can send and receive values ==between== ==goroutines== 
-	1. `chan value` - is special keyword for creating a new channel. Its called in `make(chan int)`
+	1. `chan value` - is special keyword for creating a new channel. Its initialize in `make(chan int)`
 	2. `<-` - ==`operator`== used for sending or receiving information on channel 
 2. #channels have the following characteristics:
 	1. They are ==typed== 

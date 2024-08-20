@@ -1,80 +1,60 @@
 {
   "files": [
     {
+      "path": "CS/Programming Concepts/Memory & Data/Cache.md",
+      "filename": "Cache"
+    },
+    {
+      "path": "back-end/Databases/DB caching/Caching Patterns.md",
+      "filename": "Caching Patterns"
+    },
+    {
+      "path": "back-end/Databases/DB caching/Caching strategies.md",
+      "filename": "Caching strategies"
+    },
+    {
       "path": "back-end/Databases/Tables/Database relations.md",
       "filename": "Database relations"
     },
     {
-      "path": "back-end/Databases/Tables/Joints & Keys.md",
-      "filename": "Joints & Keys"
+      "path": "back-end/GO and Web/Foundation/http.Handlers.md",
+      "filename": "http.Handlers"
     },
     {
-      "path": "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
-      "filename": "JS Value & Reference"
+      "path": "back-end/Databases/DB caching/In-Memory cache.md",
+      "filename": "In-Memory cache"
     },
     {
-      "path": "Classes.md",
-      "filename": "Classes"
+      "path": "CS/Programming Concepts/Memory & Data/Memory & Data.md",
+      "filename": "Memory & Data"
+    },
+    {
+      "path": "CS/Hardware/CPU/Process vs Thread.md",
+      "filename": "Process vs Thread"
+    },
+    {
+      "path": "CS/Programming Concepts/Programming Concepts.md",
+      "filename": "Programming Concepts"
     },
     {
       "path": "back-end/GO and Web/Foundation/Servermux/Servermux & Routes.md",
       "filename": "Servermux & Routes"
     },
     {
-      "path": "Context.md",
-      "filename": "Context"
+      "path": "CS/Hardware/Types of memory.md",
+      "filename": "Types of memory"
     },
     {
-      "path": "back-end/GO and Web/Foundation/Routes && Routers.md",
-      "filename": "Routes && Routers"
+      "path": "CS/Algos and DS/Data Structures/Heap 1.md",
+      "filename": "Heap 1"
     },
     {
-      "path": "back-end/GO Base/Channels/Channels in GO.md",
-      "filename": "Channels in GO"
+      "path": "CS/Algos and DS/Data Structures/Heap.md",
+      "filename": "Heap"
     },
     {
-      "path": "back-end/GO Base/Packages/Separate packages/RUNTIME.md",
-      "filename": "RUNTIME"
-    },
-    {
-      "path": "back-end/GO and Web/Foundation/Servermux & Routes.md",
-      "filename": "Servermux & Routes"
-    },
-    {
-      "path": "front-end/JS Advanced/Advanced Objects/JS object.md",
-      "filename": "JS object"
-    },
-    {
-      "path": "front-end/JS Advanced/sync & async/Async & Await.md",
-      "filename": "Async & Await"
-    },
-    {
-      "path": "front-end/TypeScript/Classes.md",
-      "filename": "Classes"
-    },
-    {
-      "path": "CS/Hardware/CPU/CPU.md",
-      "filename": "CPU"
-    },
-    {
-      "path": "back-end/Databases/Non & Relational DB.md",
-      "filename": "Non & Relational DB"
-    },
-    {
-      "path": "back-end/Databases/Databases in general.md",
-      "filename": "Databases in general"
-    },
-    {
-      "path": "back-end/Databases/DB caching/DB caching.md",
-      "filename": "DB caching"
-    },
-    {
-      "path": "back-end/GO Base/Interfaces & Generics/Interfaces.md",
-      "filename": "Interfaces"
-    },
-    {
-      "path": "DB cache.md",
-      "filename": "DB cache"
+      "path": "CS/Algos and DS/Data Structures/Linked-lists/Sum Two Numbers.md",
+      "filename": "Sum Two Numbers"
     }
   ]
 }

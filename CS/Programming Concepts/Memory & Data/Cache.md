@@ -1,12 +1,15 @@
 ***
-Special values:
+[[Memory & Data]]
+####  Special values:
+1. #cache - is an alternative data storage of the main memory. It stores frequently requested data somewhere, where the speed of its accessing should be faster and more efficient
 
-1. #cache - it is server data which is stored on a client side, in the local memory.
+#### To know:
 
-To know:
+- ==Cache is characteristics:==
 
-1. In #cache server stores a usually repetitive value/data, that should be in fast access to the client, and perhaps doesn't change often(remember all the shit with favicon)\
-
-	1. Cache allows to has an immediate access to the data, because it doesn't need to request, validate, sent back data from the server, because it’s already there
-	
-	2. Just to keep in mind - if a client tries to request the cached data from the server, it will give a ```305``` status code. It practically means: “You already have a data in your cache, so i won't send it again”
+1. Cache in computers acts like a #buffer between CPU. CPU checks the data in faster cache memory, and only after goes into the main memory(RAM)
+	1. If processor finds that the memory location is in cache, a *==Cache== ==Hint==*  occurred and data is read from the cache 
+	2. If processor !finds the data location in cache, a ==cache== ==miss== has occurred  
+2. Cache is costlier than main memory or disk memory, but more economical than CPU registers 
+![[Pasted image 20240818151347.png]]
+3. 
