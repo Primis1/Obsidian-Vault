@@ -1,6 +1,42 @@
 {
   "files": [
     {
+      "path": "back-end/Databases/Tables/Database relations.md",
+      "filename": "Database relations"
+    },
+    {
+      "path": "back-end/GO and Web/Foundation/Servermux/Servermux & Routes.md",
+      "filename": "Servermux & Routes"
+    },
+    {
+      "path": "back-end/GO and Web/Foundation/Servermux & Routes.md",
+      "filename": "Servermux & Routes"
+    },
+    {
+      "path": "back-end/Databases/Non & Relational DB.md",
+      "filename": "Non & Relational DB"
+    },
+    {
+      "path": "back-end/Databases/Databases in general.md",
+      "filename": "Databases in general"
+    },
+    {
+      "path": "back-end/Databases/DB caching/DB caching.md",
+      "filename": "DB caching"
+    },
+    {
+      "path": "back-end/GO Base/Interfaces & Generics/Interfaces.md",
+      "filename": "Interfaces"
+    },
+    {
+      "path": "DB cache.md",
+      "filename": "DB cache"
+    },
+    {
+      "path": "CS/Hardware/CPU/Process vs Thread.md",
+      "filename": "Process vs Thread"
+    },
+    {
       "path": "CS/Programming Concepts/Memory & Data/Cache.md",
       "filename": "Cache"
     },
@@ -13,48 +49,16 @@
       "filename": "Caching strategies"
     },
     {
-      "path": "back-end/Databases/Tables/Database relations.md",
-      "filename": "Database relations"
-    },
-    {
       "path": "back-end/GO and Web/Foundation/http.Handlers.md",
       "filename": "http.Handlers"
     },
     {
-      "path": "back-end/Databases/DB caching/In-Memory cache.md",
-      "filename": "In-Memory cache"
+      "path": "GCF.md",
+      "filename": "GCF"
     },
     {
-      "path": "CS/Programming Concepts/Memory & Data/Memory & Data.md",
-      "filename": "Memory & Data"
-    },
-    {
-      "path": "CS/Hardware/CPU/Process vs Thread.md",
-      "filename": "Process vs Thread"
-    },
-    {
-      "path": "CS/Programming Concepts/Programming Concepts.md",
-      "filename": "Programming Concepts"
-    },
-    {
-      "path": "back-end/GO and Web/Foundation/Servermux/Servermux & Routes.md",
-      "filename": "Servermux & Routes"
-    },
-    {
-      "path": "CS/Hardware/Types of memory.md",
-      "filename": "Types of memory"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Heap 1.md",
-      "filename": "Heap 1"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Heap.md",
-      "filename": "Heap"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Linked-lists/Sum Two Numbers.md",
-      "filename": "Sum Two Numbers"
+      "path": "Coefficient.md",
+      "filename": "Coefficient"
     }
   ]
 }
