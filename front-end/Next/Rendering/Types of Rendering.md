@@ -8,4 +8,6 @@ Special values:
 To know:
 1. CSR - SSR
 
+![[Pasted image 20240425185103.png]]
+
 ![[Pasted image 20240503184107.png]]

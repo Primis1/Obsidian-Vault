@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "08bf224d99c5d2ef",
+        "id": "f8e96f419ffda61b",
         "type": "tabs",
         "children": [
           {
-            "id": "0f03eb1837abb2b9",
+            "id": "2cfa1231cd014c6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/GO and Web/Foundation/Web Application Basics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "784d19137ad71403",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GCF.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71a7b58b8b0c4074",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Coefficient.md",
+                "file": "CS/Algos and DS/Data Structures/Trees/Heap.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: type",
+                "query": "file: cach",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 266.50390243530273
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coefficient.md",
+                "file": "CS/Algos and DS/Data Structures/Trees/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coefficient.md",
+                "file": "CS/Algos and DS/Data Structures/Trees/Heap.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coefficient.md"
+                "file": "CS/Algos and DS/Data Structures/Trees/Heap.md"
               }
             }
           }
@@ -179,54 +154,54 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "71a7b58b8b0c4074",
+  "active": "2cfa1231cd014c6b",
   "lastOpenFiles": [
-    "GCF.md",
-    "Coefficient.md",
-    "back-end/GO and Web/Foundation/Web Application Basics.md",
-    "Math",
-    "Context.md",
-    "CS/Hardware/CPU/CPU.md",
-    "back-end/Databases/Tables/Database relations.md",
+    "CS/Hardware/CPU/Process vs Thread.md",
+    "CS/Programming Concepts/Memory & Data/Memory & Data.md",
+    "back-end/Databases/DB caching/Caching Patterns.md",
+    "CS/Algos and DS/Data Structures/Trees/Heap.md",
+    "front-end/Next/Data Fetching/Server Actions.md",
+    "Some shit, idk where to put/Pasted image 20240821023951.png",
+    "CS/Algos and DS/Big O/Calculate Big O.md",
+    "CS/Programming Concepts/Memory & Data/Cache.md",
     "back-end/GO and Web/Foundation/http.Handlers.md",
+    "Some shit, idk where to put/Pasted image 20240821023941.png",
+    "Some shit, idk where to put/Pasted image 20240821023931.png",
+    "Some shit, idk where to put/Pasted image 20240821023922.png",
+    "Some shit, idk where to put/Pasted image 20240821023916.png",
+    "Some shit, idk where to put/Pasted image 20240821023858.png",
     "back-end/Databases/DB caching/In-Memory cache.md",
     "back-end/Databases/DB caching/Caching strategies.md",
-    "back-end/Databases/DB caching/Caching Patterns.md",
-    "CS/Programming Concepts/Programming Concepts.md",
-    "CS/Programming Concepts/Memory & Data/Memory & Data.md",
-    "Some shit, idk where to put/Pasted image 20240818151347.png",
-    "back-end/Databases/DB caching/DB caching.md",
-    "back-end/Databases/Databases in general.md",
-    "CS/Hardware/Types of memory.md",
-    "Pasted image 20240818151310.png",
+    "front-end/Next/Rendering/Types of Rendering.md",
+    "front-end/Next/Rendering/Different SSR & CSR aproaches.md",
+    "front-end/React/React Docs/True Theory/DOM vs Virtual DOM.md",
+    "front-end/React/React Docs/True Theory/Single vs Multi pages application.md",
+    "front-end/React/React Docs/True Theory/Immutability In React.md",
+    "front-end/Authentication/Overall/Authentication && Authorization.md",
+    "front-end/React/Actual Components/Tittle component.md",
+    "front-end/React/React Docs/Default and Named Import.md",
+    "front-end/React/React Docs/Types of Children.md",
+    "front-end/Next/Foundamental/Layout Files.md",
+    "front-end/Next/Foundamental/Routing in Next.md",
+    "front-end/Next/Methods & functions/generateStaticParams.md",
+    "front-end/Next/Caching & Optimization/Lazy Loading.md",
+    "front-end/React & Next/Next Doc/Server vs Client Rendering/Server & client side/Server vs Client components.md",
+    "front-end/TypeScript/Decorators.md",
+    "front-end/TypeScript/TypeScript.md",
+    "Pasted image 20240821021711.png",
+    "CS/Algos and DS/Data Structures/Trees",
+    "Some shit, idk where to put/Pasted image 20240819023327.png",
+    "Some shit, idk where to put/Pasted image 20240819030035.png",
+    "Some shit, idk where to put/Pasted image 20240819025907.png",
+    "back-end/GO and Web/Foundation/handlers",
     "back-end/Databases/DB caching",
-    "DB cache.md",
-    "back-end/GO Base/Interfaces & Generics/Interfaces.md",
     "back-end/GO Base/Interfaces & Generics",
-    "back-end/Databases/Non & Relational DB.md",
     "back-end/Databases/Tables",
-    "back-end/Databases/Tables/Joints & Keys.md",
-    "back-end/Databases/Tables/SQL.md",
-    "back-end/Backend.md",
-    "back-end/GO Base/GO.md",
-    "back-end/Communications/Communication.md",
-    "back-end/Databases/Supabase.md",
-    "Studios in Mississauga.md",
-    "back-end/GO Base/Channels/Goroutine.md",
     "back-end/GO and Web/Foundation/Servermux",
-    "Some shit, idk where to put/Pasted image 20240814222133.png",
     "CS/Hardware/CPU",
     "CS/Encoding",
-    "Some shit, idk where to put/Pasted image 20240812184304.png",
-    "Pasted image 20240817053054.png",
-    "Some shit, idk where to put/Pasted image 20240817053209.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240804013542.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240811031540.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240808005549.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240807171733.png",
     "back-end/GO Base/Channels",
     "back-end/GO and Web/Foundation",
-    "front-end/Testing",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

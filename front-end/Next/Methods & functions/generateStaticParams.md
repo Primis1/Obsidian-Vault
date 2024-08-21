@@ -4,5 +4,6 @@ Special values:
 	1. It declares and exports right above the page
 
 To know: 
-1. It is useful for generating a prepared slug from the DB, that'll make a beautiful url
-2. We can wrap some data into the URL created by GSP
+1. ==Used for SSG== 
+2. It is useful for generating a prepared slug from the DB, that'll make a beautiful url
+3. We can wrap some data into the URL created by GSP

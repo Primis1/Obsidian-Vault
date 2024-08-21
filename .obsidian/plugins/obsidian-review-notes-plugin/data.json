@@ -5,60 +5,28 @@
       "filename": "Database relations"
     },
     {
-      "path": "back-end/GO and Web/Foundation/Servermux/Servermux & Routes.md",
-      "filename": "Servermux & Routes"
-    },
-    {
-      "path": "back-end/GO and Web/Foundation/Servermux & Routes.md",
-      "filename": "Servermux & Routes"
-    },
-    {
-      "path": "back-end/Databases/Non & Relational DB.md",
-      "filename": "Non & Relational DB"
-    },
-    {
-      "path": "back-end/Databases/Databases in general.md",
-      "filename": "Databases in general"
-    },
-    {
-      "path": "back-end/Databases/DB caching/DB caching.md",
-      "filename": "DB caching"
-    },
-    {
-      "path": "back-end/GO Base/Interfaces & Generics/Interfaces.md",
-      "filename": "Interfaces"
-    },
-    {
-      "path": "DB cache.md",
-      "filename": "DB cache"
+      "path": "back-end/Databases/DB caching/In-Memory cache.md",
+      "filename": "In-Memory cache"
     },
     {
       "path": "CS/Hardware/CPU/Process vs Thread.md",
       "filename": "Process vs Thread"
     },
     {
-      "path": "CS/Programming Concepts/Memory & Data/Cache.md",
-      "filename": "Cache"
+      "path": "CS/Programming Concepts/Programming Concepts.md",
+      "filename": "Programming Concepts"
     },
     {
-      "path": "back-end/Databases/DB caching/Caching Patterns.md",
-      "filename": "Caching Patterns"
+      "path": "back-end/GO and Web/Foundation/Servermux/Servermux & Routes.md",
+      "filename": "Servermux & Routes"
     },
     {
-      "path": "back-end/Databases/DB caching/Caching strategies.md",
-      "filename": "Caching strategies"
+      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
+      "filename": "Heap"
     },
     {
-      "path": "back-end/GO and Web/Foundation/http.Handlers.md",
-      "filename": "http.Handlers"
-    },
-    {
-      "path": "GCF.md",
-      "filename": "GCF"
-    },
-    {
-      "path": "Coefficient.md",
-      "filename": "Coefficient"
+      "path": "CS/Algos and DS/Big O/Calculate Big O.md",
+      "filename": "Calculate Big O"
     }
   ]
 }

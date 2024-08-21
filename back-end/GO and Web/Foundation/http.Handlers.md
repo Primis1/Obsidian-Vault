@@ -6,12 +6,12 @@ type Handler interface {
 	ServeHTTP(ResponseWriter, *Request)
 }
 ```
-	- object can be called a handler if it has ServerHTTP( ) function, i.e satisfies Handler interface
+- object can be called a handler if it has `ServerHTTP( )` function, i.e satisfies Handler interface
 
 2. `http.ListenAndServe("port", handler)` - can work with servermux because, servermux also has `http.Handler` method 
 
 To know:
-1. The simples handler, we can make. This handler takes and object, it can be anything, and implement the method ==Server== on it:
+1. The simples handler, we can make. This handler takes and object, it can be anything, and implement the method ==Server( )== on it:
 ```go 
 type Home struct {}
 

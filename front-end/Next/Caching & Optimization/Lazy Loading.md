@@ -1,6 +1,6 @@
 ***
 Special values:
-1. Lazy loading - also knows as demand-loading. CS meaning is - "don't render this shit, till needed". In nextJS lazy loading allows to defer a CC and imported libraries, and only include them in the client bundle when needed 
+1. Lazy loading - also knows as demand-loading(Cache-aside). CS meaning is - "don't render this shit, till needed". In nextJS lazy loading allows to defer a CC and imported libraries, and only include them in the client bundle when needed 
 2. [dynamic( )](https://nextjs.org/docs/app/building-your-application/optimizing/lazy-loading) - function, applies a lazy loading for a specific component. ==It could be called in CC just like in SC==
 
 To know:
