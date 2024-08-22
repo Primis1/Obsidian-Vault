@@ -1,5 +1,5 @@
 ***
-[[Threads]]
+[[CPU]]
 Special values:
 1. process - is a program dispatched from the ready state and are scheduled in the CPU for the execution, process do NOT share the memory with other processes 
 2. #thread - is the segment of the process, which means that process can have multiple threads and these threads are stored within the process 

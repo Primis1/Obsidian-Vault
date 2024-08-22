@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f8e96f419ffda61b",
+        "id": "08bf224d99c5d2ef",
         "type": "tabs",
         "children": [
           {
-            "id": "2cfa1231cd014c6b",
+            "id": "71a7b58b8b0c4074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Algos and DS/Data Structures/Trees/Heap.md",
+                "file": "front-end/Next/Rendering/Types of Rendering.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f6c63ce04cbfbbbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "front-end/Next/Rendering/Streaming & Hydration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: cach",
+                "query": "file: type",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.50390243530273
+    "width": 200
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Algos and DS/Data Structures/Trees/Heap.md",
+                "file": "front-end/Next/Rendering/Streaming & Hydration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Algos and DS/Data Structures/Trees/Heap.md",
+                "file": "front-end/Next/Rendering/Streaming & Hydration.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -133,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Algos and DS/Data Structures/Trees/Heap.md"
+                "file": "front-end/Next/Rendering/Streaming & Hydration.md"
               }
             }
           }
@@ -154,54 +167,54 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "2cfa1231cd014c6b",
+  "active": "f6c63ce04cbfbbbb",
   "lastOpenFiles": [
+    "Context.md",
+    "Some shit, idk where to put/Pasted image 20240821161117.png",
+    "Some shit, idk where to put/Pasted image 20240821162726.png",
+    "front-end/Next/Rendering/ISR.md",
+    "front-end/Next/Rendering/SSR.md",
+    "front-end/Next/Rendering/SSG.md",
+    "Some shit, idk where to put/Pasted image 20240821153834.png",
+    "front-end/Next/Rendering/Streaming & Hydration.md",
+    "Some shit, idk where to put/Pasted image 20240821152843.png",
+    "Pasted image 20240821155726.png",
+    "front-end/Next/Rendering/CSR.md",
+    "front-end/Next/Rendering/Types of Rendering.md",
+    "front-end/Next/NextJS.md",
+    "front-end/Next/Rendering/Different SSR & CSR aproaches.md",
     "CS/Hardware/CPU/Process vs Thread.md",
-    "CS/Programming Concepts/Memory & Data/Memory & Data.md",
-    "back-end/Databases/DB caching/Caching Patterns.md",
-    "CS/Algos and DS/Data Structures/Trees/Heap.md",
-    "front-end/Next/Data Fetching/Server Actions.md",
+    "back-end/GO and Web/Foundation/Web Application Basics.md",
+    "Math/Coefficient.md",
+    "front-end/React/Libs/Zod/Zod General.md",
+    "front-end/React/Libs/Zod/Zod type for form.md",
+    "front-end/React/Libs/Zod/How Zod works under the hood.md",
+    "front-end/React/Libs/RC Form & Forms/React Hook Form.md",
+    "front-end/React/Libs/RC Form & Forms/Form.md",
+    "front-end/React/Libs/State Managers/Redux in General.md",
+    "front-end/React/Libs/State Managers/Local Storage & Session Storage.md",
+    "front-end/React/React Docs/True Theory/Immutability In React.md",
+    "front-end/React/Libs/TanStack Query/General TSQ.md",
+    "front-end/React/React Docs/True Theory/DOM vs Virtual DOM.md",
+    "front-end/React/React Docs/True Theory/Single vs Multi pages application.md",
+    "front-end/React/React Docs/State & Func/State.md",
+    "front-end/React/React Docs/State & Func/React Hooks.md",
+    "front-end/React/React Docs/State & Func/JSX.md",
+    "front-end/React/Libs/Zod",
+    "front-end/React/Libs/RC Form & Forms",
+    "front-end/React/Libs/State Managers",
+    "front-end/React/Libs/TanStack Query",
+    "front-end/React/React Docs/True Theory",
+    "front-end/React/React Docs/State & Func",
+    "front-end/React/Actual Components",
+    "front-end/React/Libs",
+    "front-end/React/React Docs",
+    "front-end/React",
     "Some shit, idk where to put/Pasted image 20240821023951.png",
-    "CS/Algos and DS/Big O/Calculate Big O.md",
-    "CS/Programming Concepts/Memory & Data/Cache.md",
-    "back-end/GO and Web/Foundation/http.Handlers.md",
     "Some shit, idk where to put/Pasted image 20240821023941.png",
     "Some shit, idk where to put/Pasted image 20240821023931.png",
     "Some shit, idk where to put/Pasted image 20240821023922.png",
     "Some shit, idk where to put/Pasted image 20240821023916.png",
-    "Some shit, idk where to put/Pasted image 20240821023858.png",
-    "back-end/Databases/DB caching/In-Memory cache.md",
-    "back-end/Databases/DB caching/Caching strategies.md",
-    "front-end/Next/Rendering/Types of Rendering.md",
-    "front-end/Next/Rendering/Different SSR & CSR aproaches.md",
-    "front-end/React/React Docs/True Theory/DOM vs Virtual DOM.md",
-    "front-end/React/React Docs/True Theory/Single vs Multi pages application.md",
-    "front-end/React/React Docs/True Theory/Immutability In React.md",
-    "front-end/Authentication/Overall/Authentication && Authorization.md",
-    "front-end/React/Actual Components/Tittle component.md",
-    "front-end/React/React Docs/Default and Named Import.md",
-    "front-end/React/React Docs/Types of Children.md",
-    "front-end/Next/Foundamental/Layout Files.md",
-    "front-end/Next/Foundamental/Routing in Next.md",
-    "front-end/Next/Methods & functions/generateStaticParams.md",
-    "front-end/Next/Caching & Optimization/Lazy Loading.md",
-    "front-end/React & Next/Next Doc/Server vs Client Rendering/Server & client side/Server vs Client components.md",
-    "front-end/TypeScript/Decorators.md",
-    "front-end/TypeScript/TypeScript.md",
-    "Pasted image 20240821021711.png",
-    "CS/Algos and DS/Data Structures/Trees",
-    "Some shit, idk where to put/Pasted image 20240819023327.png",
-    "Some shit, idk where to put/Pasted image 20240819030035.png",
-    "Some shit, idk where to put/Pasted image 20240819025907.png",
-    "back-end/GO and Web/Foundation/handlers",
-    "back-end/Databases/DB caching",
-    "back-end/GO Base/Interfaces & Generics",
-    "back-end/Databases/Tables",
-    "back-end/GO and Web/Foundation/Servermux",
-    "CS/Hardware/CPU",
-    "CS/Encoding",
-    "back-end/GO Base/Channels",
-    "back-end/GO and Web/Foundation",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

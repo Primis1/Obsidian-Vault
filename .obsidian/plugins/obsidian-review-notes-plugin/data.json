@@ -1,32 +1,28 @@
 {
   "files": [
     {
-      "path": "back-end/Databases/Tables/Database relations.md",
-      "filename": "Database relations"
+      "path": "front-end/Next/Rendering/SSR.md",
+      "filename": "SSR"
     },
     {
-      "path": "back-end/Databases/DB caching/In-Memory cache.md",
-      "filename": "In-Memory cache"
+      "path": "front-end/Next/Rendering/SSG.md",
+      "filename": "SSG"
     },
     {
-      "path": "CS/Hardware/CPU/Process vs Thread.md",
-      "filename": "Process vs Thread"
+      "path": "front-end/Next/Rendering/CSR.md",
+      "filename": "CSR"
     },
     {
-      "path": "CS/Programming Concepts/Programming Concepts.md",
-      "filename": "Programming Concepts"
+      "path": "front-end/Next/Rendering/ISR.md",
+      "filename": "ISR"
     },
     {
-      "path": "back-end/GO and Web/Foundation/Servermux/Servermux & Routes.md",
-      "filename": "Servermux & Routes"
+      "path": "front-end/Next/NextJS.md",
+      "filename": "NextJS"
     },
     {
-      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
-      "filename": "Heap"
-    },
-    {
-      "path": "CS/Algos and DS/Big O/Calculate Big O.md",
-      "filename": "Calculate Big O"
+      "path": "front-end/Next/Rendering/Streaming & Hydration.md",
+      "filename": "Streaming & Hydration"
     }
   ]
 }
