@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "08bf224d99c5d2ef",
+        "id": "308581d9eaf84efd",
         "type": "tabs",
         "children": [
           {
-            "id": "71a7b58b8b0c4074",
+            "id": "cea271291cdf6986",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "front-end/Next/Rendering/Types of Rendering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6c63ce04cbfbbbb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "front-end/Next/Rendering/Streaming & Hydration.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20240824204954.png"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: type",
+                "query": "file: db ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front-end/Next/Rendering/Streaming & Hydration.md",
+                "file": "Pasted image 20240824204954.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "front-end/Next/Rendering/Streaming & Hydration.md",
+                "file": "Pasted image 20240824204954.png",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "front-end/Next/Rendering/Streaming & Hydration.md"
+                "file": "Pasted image 20240824204954.png"
               }
             }
           }
@@ -155,7 +140,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,54 +153,53 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "f6c63ce04cbfbbbb",
+  "active": "cea271291cdf6986",
   "lastOpenFiles": [
-    "Context.md",
-    "Some shit, idk where to put/Pasted image 20240821161117.png",
-    "Some shit, idk where to put/Pasted image 20240821162726.png",
-    "front-end/Next/Rendering/ISR.md",
+    "back-end/Databases/Theory/DB planning.md",
+    "Pasted image 20240824204954.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240821162726.png",
+    "Some shit, idk where to put/Untitled.md",
+    "front-end/Next/NextJS.md",
+    "front-end/Next/Rendering/Types of Rendering.md",
+    "front-end/Next/Rendering/CSR.md",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240821152843.png",
+    "back-end/Databases/Theory/Non & Relational DB.md",
+    "front-end/Next/Rendering/Streaming & Hydration.md",
     "front-end/Next/Rendering/SSR.md",
     "front-end/Next/Rendering/SSG.md",
-    "Some shit, idk where to put/Pasted image 20240821153834.png",
-    "front-end/Next/Rendering/Streaming & Hydration.md",
-    "Some shit, idk where to put/Pasted image 20240821152843.png",
-    "Pasted image 20240821155726.png",
-    "front-end/Next/Rendering/CSR.md",
-    "front-end/Next/Rendering/Types of Rendering.md",
-    "front-end/Next/NextJS.md",
-    "front-end/Next/Rendering/Different SSR & CSR aproaches.md",
-    "CS/Hardware/CPU/Process vs Thread.md",
-    "back-end/GO and Web/Foundation/Web Application Basics.md",
+    "front-end/Next/Rendering/ISR.md",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240821161117.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240821153834.png",
     "Math/Coefficient.md",
-    "front-end/React/Libs/Zod/Zod General.md",
-    "front-end/React/Libs/Zod/Zod type for form.md",
-    "front-end/React/Libs/Zod/How Zod works under the hood.md",
-    "front-end/React/Libs/RC Form & Forms/React Hook Form.md",
-    "front-end/React/Libs/RC Form & Forms/Form.md",
-    "front-end/React/Libs/State Managers/Redux in General.md",
-    "front-end/React/Libs/State Managers/Local Storage & Session Storage.md",
-    "front-end/React/React Docs/True Theory/Immutability In React.md",
-    "front-end/React/Libs/TanStack Query/General TSQ.md",
-    "front-end/React/React Docs/True Theory/DOM vs Virtual DOM.md",
-    "front-end/React/React Docs/True Theory/Single vs Multi pages application.md",
-    "front-end/React/React Docs/State & Func/State.md",
-    "front-end/React/React Docs/State & Func/React Hooks.md",
-    "front-end/React/React Docs/State & Func/JSX.md",
-    "front-end/React/Libs/Zod",
-    "front-end/React/Libs/RC Form & Forms",
-    "front-end/React/Libs/State Managers",
-    "front-end/React/Libs/TanStack Query",
-    "front-end/React/React Docs/True Theory",
-    "front-end/React/React Docs/State & Func",
-    "front-end/React/Actual Components",
-    "front-end/React/Libs",
-    "front-end/React/React Docs",
-    "front-end/React",
-    "Some shit, idk where to put/Pasted image 20240821023951.png",
-    "Some shit, idk where to put/Pasted image 20240821023941.png",
-    "Some shit, idk where to put/Pasted image 20240821023931.png",
-    "Some shit, idk where to put/Pasted image 20240821023922.png",
-    "Some shit, idk where to put/Pasted image 20240821023916.png",
+    "Math",
+    "back-end/Databases/Theory",
+    "back-end/Databases/Databases in general.md",
+    "front-end/React/Libs/Prisma/Prisma.md",
+    "back-end/Databases/Tables/Database relations.md",
+    "back-end/Databases/Theory/Normalization.md",
+    "back-end/Databases/Theory/ORM's.md",
+    "Coefficient.md",
+    "Context.md",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240823221644.png",
+    "PrismaClient.md",
+    "back-end/GO Base/Channels/Channels in GO.md",
+    "back-end/GO Base/Channels/Goroutine.md",
+    "CS/Algos and DS/Data Structures/Trees/Heap.md",
+    "front-end/React/Libs/Prisma",
+    "CS/Hardware/CPU/Process vs Thread.md",
+    "CS/Programming Concepts/Memory & Data/Memory & Data.md",
+    "back-end/Databases/DB caching/Caching Patterns.md",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240821023951.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240821023941.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240821023931.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240821023922.png",
+    "CS/Algos and DS/Data Structures/Trees",
+    "back-end/GO and Web/Foundation/handlers",
+    "back-end/Databases/DB caching",
+    "back-end/GO Base/Interfaces & Generics",
+    "back-end/Databases/Tables",
+    "back-end/GO and Web/Foundation/Servermux",
+    "CS/Hardware/CPU",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

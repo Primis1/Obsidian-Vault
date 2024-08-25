@@ -1,6 +1,6 @@
 ***
 [[GO WEB]]
-Special values:
+#### Special values:
 1. #channels - are conduits(турбопровід) through which you can send and receive values ==between== ==goroutines== 
 	1. `chan value` - is special keyword for creating a new channel. Its initialize in `make(chan int)`
 	2. `<-` - ==`operator`== used for sending or receiving information on channel 
@@ -11,7 +11,7 @@ Special values:
 	4. They can be either buffered or unbuffered 
 	5. They are bi-directional 
 	6. Data can have only one initial receiver. Two channels can't take the same data  
-To know:
+#### To know:
 
 1. Channels characteristics(detailed):
 	1. They are ==typed==. You send and receive value ==ONLY== of the same type. You ==can't send string and int over same channel(гаuшники блять)== 
@@ -64,7 +64,8 @@ Janis Said: Hello Jimi
 Implementation:
 1. <- operator points (left side) into the place, data will go ==from== (right side) 
 ```go
-ch <- // data is going into the channel 
+ch <- 12 // data is sent to the channel 
+myVar <- ch // 
 <- ch // data goes in NOWHERE from the channel 
 ```
 2. Usually we want to listen on incoming information on channel, until it closes. To do that we can take for and for/range loops, 

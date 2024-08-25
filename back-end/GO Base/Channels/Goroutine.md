@@ -1,11 +1,15 @@
 ***
 Special values:
 [[Channels in GO]]
-1. #goroutine - function in go that enables multithreading or more like concurrency 
+1. #goroutine - function in go that enables multithreading, concurrency. When go-runtime encounter the goroutine, it does not wait for it be executed
+	- Similar to JS promises, it firstly "skips" the execution of goroutine
 	- #goroutine is golang adaptation of `coroutines`, they are allow to pause and resume the flow within the thread 
 - ==work sharing / work stealing== - go uses dual model for task managing within multiple goroutines 
-2. Generally, devs ==should not care much about inner process== of garbage collector or scheduler, because ==a)== GO team change it quiet often; ==b)== GO does ==NOT== provide much utilities to adjust go-runtime  
-3. `select` - key lets the #goroutine wait for multiple channels
+
+2. *Generally, devs ==should not care much about inner process== of garbage collector or scheduler, because
+	1. ==a)== GO team change it quiet often; 
+	2. ==b)== GO does ==NOT== provide much utilities to adjust go-runtime*  
+
 To know:
 1. Go's goroutine are NOT system threads nor processes, they are ==*light-weight*== threads that are managed by ==GO== ==runtime== and ==queue's== within it 
 
