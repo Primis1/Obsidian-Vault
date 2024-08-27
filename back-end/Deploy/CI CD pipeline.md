@@ -1,5 +1,5 @@
 *** 
-[[DevOps]]
+[[Deployment]]
 Special values:
 1. #CI/CD - Continuous Integration, Continuous Deployment
 2. CI/CD components:

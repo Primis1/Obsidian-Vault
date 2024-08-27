@@ -6,7 +6,10 @@
 2. *anomaly* - issue with database that, perhaps, should not be there, or happen if DB is not normalized 
 
 3. `normal forms` - we applied set of normalizing rules to the data set, this changed `DB` or `tables` are called `normalized forms`
-	1. 
+	1. `first normal form`  : 
+		1. Does the combination of columns make a unique row every single time 
+		2. What filed can be used to uniquely identify the row 
+	2. 
 
 #### To know:
 

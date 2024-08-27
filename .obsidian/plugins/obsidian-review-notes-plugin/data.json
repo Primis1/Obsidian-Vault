@@ -25,16 +25,8 @@
       "filename": "Heap"
     },
     {
-      "path": "CS/Algos and DS/Big O/Calculate Big O.md",
-      "filename": "Calculate Big O"
-    },
-    {
       "path": "front-end/React/Libs/Prisma/Prisma.md",
       "filename": "Prisma"
-    },
-    {
-      "path": "back-end/Databases/Theory/ORM's.md",
-      "filename": "ORM's"
     },
     {
       "path": "front-end/Next/Rendering/Types of Rendering.md",
@@ -45,56 +37,32 @@
       "filename": "Goroutine"
     },
     {
-      "path": "back-end/GO Base/Channels/Channels in GO.md",
-      "filename": "Channels in GO"
-    },
-    {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20240823221644.png",
-      "filename": "Pasted image 20240823221644"
-    },
-    {
-      "path": "back-end/Databases/Theory/DB planning.md",
-      "filename": "DB planning"
-    },
-    {
-      "path": "back-end/Databases/Databases in general.md",
-      "filename": "Databases in general"
-    },
-    {
-      "path": "front-end/Next/NextJS.md",
-      "filename": "NextJS"
-    },
-    {
-      "path": "Pasted image 20240824204954.png",
-      "filename": "Pasted image 20240824204954"
-    },
-    {
-      "path": "back-end/Databases/Theory/Normalization.md",
-      "filename": "Normalization"
-    },
-    {
-      "path": "Untitled.md",
-      "filename": "Untitled"
-    },
-    {
       "path": "Interview/Back/Questions.md",
       "filename": "Questions"
     },
     {
-      "path": "Interview/Front/Questions.md",
-      "filename": "Questions"
+      "path": "back-end/Deploy/Deployment.md",
+      "filename": "Deployment"
     },
     {
-      "path": "Pasted image 20240825050108.png",
-      "filename": "Pasted image 20240825050108"
+      "path": "back-end/GO and Web/Foundation/http.Handlers.md",
+      "filename": "http.Handlers"
     },
     {
-      "path": "Pasted image 20240825050215.png",
-      "filename": "Pasted image 20240825050215"
+      "path": "FLAG.md",
+      "filename": "FLAG"
     },
     {
-      "path": "Pasted image 20240825050428.png",
-      "filename": "Pasted image 20240825050428"
+      "path": "back-end/GO Base/Packages/Separate packages/FMT.md",
+      "filename": "FMT"
+    },
+    {
+      "path": "back-end/GO and Web/Foundation/Servermux/Servermux Headers.md",
+      "filename": "Servermux Headers"
+    },
+    {
+      "path": "SSR by GO.md",
+      "filename": "SSR by GO"
     }
   ]
 }

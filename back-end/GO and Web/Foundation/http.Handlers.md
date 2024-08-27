@@ -1,5 +1,5 @@
 ***
-Special values:
+#### Special values:
 1. `http.Handler` - is an interface that has a `ServerHTTP( )` *function*
 ```go
 type Handler interface {
@@ -10,7 +10,8 @@ type Handler interface {
 
 2. `http.ListenAndServe("port", handler)` - can work with servermux because, servermux also has `http.Handler` method 
 
-To know:
+3. *All HTTP requests are handled in their own #goroutine (handled concurrently)*. Code in high-loaded servers is going to run concurrently ==within== or ==by== my `handlers`  
+#### To know:
 1. The simples handler, we can make. This handler takes and object, it can be anything, and implement the method ==Server( )== on it:
 ```go 
 type Home struct {}

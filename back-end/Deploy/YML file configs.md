@@ -1,5 +1,5 @@
 ***
-[[DevOps]]
+[[CI CD pipeline]]
 Special values:
 1. local.yml - is a environment specification file, that used for deployment? or .env variable access  
 
