@@ -1,13 +1,18 @@
 ***
-Special values:
+#### Special values:
 1. #recursion - is a function that calla itself. This technique is ==not== used for performance, but for readability and over all shorter syntax
 	1. ==base==-==case== - the case of function that doesn't use any recursions, i.e a termination case 
 	2. ==recursive==-==relations/steps== - a recursive set of rules that narrows all other cases into the ==base==-==case== 
-To know:
+#### To know:
+
+##### Facts:
 1. The way to think:
 	1. We should narrow any task to the most simple parts
 	2. from this simple part we should create a base case 
-	3. 
+2. Recursions is dangerous and should be avoided:
+	1. Because of possible `stack overflow`, not only because of infinite circles, *==but during the work with high quantity of data. That will make recursion not suitable for algorithm implementation==* 
+#### Implementation:
+
 2. When we implement a recursion, we basically create another ==copy== ==of== ==the== ==function== but ==NOT== calling the function itself, it allows to create a ==loop== of ==nested== ==functions==  
 3. If we really want, we can ==return== a recursive ==function==, instead of hassling with typing   
 

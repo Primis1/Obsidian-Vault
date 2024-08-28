@@ -1,14 +1,14 @@
 ***
 [[Data Structures]]
-Special values:
+#### Special values:
 - ==Hashing==:
 1. #hash-table - is assorted ==ABSTRACT== data structure that consist from key-value pairs    
 
-2. #hash-function - used for identifying number of index where value should be stored. Its main function is to transfer any ==TYPE/LENGHT==, key into the index-*number* of the array, which later can be used to find our ==value==
+2. #hash-function - used for identifying index where value should be stored. Its main purpose is to transfer any ==TYPE/LENGHT==, key into the index-*number* of the bind array, which later can be used to find our ==value==
 	
 	1. collision - term used for hash-table occurs when #hash-function gives the same value for different input (no- #deterministic cases)
 
-To know:
+#### To know:
 1. How it works/Basics:
 	1. To add data into the hash table we have to specify our key, and value that is attached 
 		1. Key - after we define key we want to store, key goes through #hash-function

@@ -1291,6 +1291,8 @@ ift
 iZe
 irbLs
 invoke
+idex
+insertion
 string
 sorting
 set
@@ -2582,6 +2584,7 @@ production
 printing
 plus
 percent
+principle
 built
 baby
 brackets
@@ -2936,6 +2939,8 @@ bJN
 beC
 bzf
 blP
+bucket
+buckets
 every
 except
 email
@@ -3317,6 +3322,8 @@ ezcI
 exponent
 exponents
 escaped
+extended
+evenly
 PL
 POST
 PUT
@@ -4830,6 +4837,7 @@ tnj
 tvP
 tjU
 tew
+templates
 find
 from
 for
@@ -5560,6 +5568,8 @@ abRm
 acI
 auä
 assignment
+associative
+abstract
 replace
 repeats
 repeat
@@ -5941,6 +5951,8 @@ rmt
 runY
 rrEU
 rwo
+rehashing
+redistributed
 of
 one
 or
@@ -6228,6 +6240,7 @@ onn
 olq
 oAI
 otSj
+overfilling
 character
 computer
 classes
@@ -6745,6 +6758,8 @@ cmE
 course
 crY
 consumes
+customizing
+capacity
 digit
 default
 drop
@@ -7124,6 +7139,8 @@ dMTb
 dmV
 delivering
 developing
+dictionary
+decided
 non
 name
 numbers
@@ -8017,6 +8034,7 @@ CVODK
 Cqh
 CIOx
 CCrp
+Capacity
 used
 user
 ui
@@ -8951,6 +8969,7 @@ IvA
 IEF
 IqM
 IXo
+Initialize
 FCKN
 Front
 FTP
@@ -13554,6 +13573,7 @@ LQrl
 Lab
 Lname
 LMs
+Length
 Each
 Encapsualation
 Env

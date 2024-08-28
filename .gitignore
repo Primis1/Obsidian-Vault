@@ -4,3 +4,8 @@
 .obsidian/plugins/obsidian-completr/scanned_words.txt
 .obsidian/plugins/obsidian-review-notes-plugin/data.json
 .obsidian/workspace.json
+*.json
+*.txt
+.obsidian/plugins/obsidian-completr/scanned_words.txt
+.obsidian/plugins/obsidian-review-notes-plugin/data.json
+.obsidian/workspace.json

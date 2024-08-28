@@ -1,5 +1,4 @@
 ***
-#keyword
 Special values:
 1. defer - allow to delay the function call, until the return of surrounded functions are executed
 2. iota - is a mathematical keyword, used for enumerations, when assigning multiple constants in the same time

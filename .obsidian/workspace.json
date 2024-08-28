@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "62130d1191980254",
+            "id": "3f0154a665d3fad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/GO and Web/Foundation/Servermux/Servermux ID's.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e62d22de283f6734",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SSR by GO.md",
+                "file": "back-end/GO advanced/GO under the hood/GO maps.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Flag",
+                "query": "file: recursi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSR by GO.md",
+                "file": "back-end/GO advanced/GO under the hood/GO maps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSR by GO.md",
+                "file": "back-end/GO advanced/GO under the hood/GO maps.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSR by GO.md"
+                "file": "back-end/GO advanced/GO under the hood/GO maps.md"
               }
             }
           }
@@ -167,15 +155,25 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "e62d22de283f6734",
+  "active": "3f0154a665d3fad5",
   "lastOpenFiles": [
+    "CS/Programming Concepts/Functions/Recursion.md",
+    "Logarithm.md",
+    "back-end/GO advanced/GO under the hood/GO maps.md",
+    "CS/Algos and DS/Data Structures/Hash.md",
+    "back-end/GO Base/GO Special Keywords.md",
+    "back-end/GO advanced/GO under the hood/GO slices.md",
+    "back-end/GO and Web/Configuration/File server.md",
+    "back-end/GO Base/Packages/Separate packages/FLAG.md",
+    "back-end/GO advanced/GO advanced.md",
+    "back-end/GO advanced/GO under the hood",
+    "back-end/GO Base/GO.md",
     "back-end/GO and Web/Foundation/Servermux/Servermux ID's.md",
-    "SSR by GO.md",
+    "back-end/GO Base/Pointer and Memo/Memory in GO.md",
     "back-end/GO and Web/Foundation/Servermux/Servermux Headers.md",
     "back-end/GO and Web/Foundation/Servermux/Servermux & Routes.md",
     "Interview/Back/Questions.md",
     "back-end/GO Base/Packages/Separate packages/FMT.md",
-    "FLAG.md",
     "back-end/GO and Web/Foundation/http.Handlers.md",
     "back-end/GO and Web/Configuration",
     "back-end/Deploy/Deployment.md",
@@ -188,24 +186,15 @@
     "back-end/Deploy/CI CD pipeline.md",
     "back-end/Deploy/YML file configs.md",
     "back-end/Deploy/Jenkins.md",
-    "back-end/Deploy/DevOps.md",
     "back-end/Deploy/Deploy",
-    "Math/Coefficient.md",
-    "Some shit, idk where to put/tips for querying.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050428.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050108.png",
     "Pasted image 20240824204954.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050215.png",
-    "front-end/React/Libs/Prisma/Prisma.md",
     "Interview/Back",
     "Interview/Front",
     "Interview",
-    "back-end/Databases/Theory/DB planning.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821162726.png",
-    "Some shit, idk where to put/Untitled.md",
-    "front-end/Next/NextJS.md",
-    "front-end/Next/Rendering/Types of Rendering.md",
-    "front-end/Next/Rendering/CSR.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821152843.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821161117.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821153834.png",
@@ -214,7 +203,6 @@
     "Some shit, idk where to put/Z Pictures/Pasted image 20240823221644.png",
     "front-end/React/Libs/Prisma",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821023951.png",
-    "CS/Algos and DS/Data Structures/Trees",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
