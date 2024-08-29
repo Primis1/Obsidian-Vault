@@ -1,4 +1,5 @@
 ***
+[[Math]]
 #### Special value:
 1. #coefficient - the number of multiplications of the variable `variable` 
 	- *basically the `x` sign between the variable and the number* 

@@ -6,14 +6,17 @@
 #### To know:
 
 ##### Facts:
+
 1. The way to think:
 	1. We should narrow any task to the most simple parts
 	2. from this simple part we should create a base case 
+
 2. Recursions is dangerous and should be avoided:
 	1. Because of possible `stack overflow`, not only because of infinite circles, *==but during the work with high quantity of data. That will make recursion not suitable for algorithm implementation==* 
 #### Implementation:
 
 2. When we implement a recursion, we basically create another ==copy== ==of== ==the== ==function== but ==NOT== calling the function itself, it allows to create a ==loop== of ==nested== ==functions==  
+
 3. If we really want, we can ==return== a recursive ==function==, instead of hassling with typing   
 
 4. Algorithms with recursions, swapping nodes in linked list

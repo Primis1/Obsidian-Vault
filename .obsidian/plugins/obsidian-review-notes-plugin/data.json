@@ -1,3 +1,52 @@
 {
-  "files": []
+  "files": [
+    {
+      "path": "back-end/GO advanced/GO under the hood/GO maps.md",
+      "filename": "GO maps"
+    },
+    {
+      "path": "Interview/Back/Questions.md",
+      "filename": "Questions"
+    },
+    {
+      "path": "Math/Logarithm.md",
+      "filename": "Logarithm"
+    },
+    {
+      "path": "Math/Graphs.md",
+      "filename": "Graphs"
+    },
+    {
+      "path": "Math/Math.md",
+      "filename": "Math"
+    },
+    {
+      "path": "Math/Coefficient.md",
+      "filename": "Coefficient"
+    },
+    {
+      "path": "Math/Sets.md",
+      "filename": "Sets"
+    },
+    {
+      "path": "back-end/GO advanced/GO under the hood/GO slices.md",
+      "filename": "GO slices"
+    },
+    {
+      "path": "front-end/JS Advanced/Advanced Objects/Execution Context.md",
+      "filename": "Execution Context"
+    },
+    {
+      "path": "front-end/JS Advanced/Advanced Objects/JS object.md",
+      "filename": "JS object"
+    },
+    {
+      "path": "CS/Network/CORS.md",
+      "filename": "CORS"
+    },
+    {
+      "path": "CS/Network/Network models/TCP IP & OSI.md",
+      "filename": "TCP IP & OSI"
+    }
+  ]
 }

@@ -9,7 +9,10 @@
 #### To know:
 
 ##### Facts:
-1. During `append()` operation, in case of `slice` overfilling, go creates bigger array and transfers values from ==smaller== ==to== ==bigger== array 
+1. During `append()` operation, in case of `slice` overfilling, go ==creates== bigger array and transfers values from ==smaller== ==to== ==bigger== array. The ==bigger array== is generally ==x2== times bigger  
+	- ==According to it, we should reduce the amount times when `new/bigger` arrays is created==
+
+2. For ==empty== ==slice== comparison, compare its length  
 
 ##### Work with memory:
 1. `Slices` does not contain any data, ==they do point into the arrays==. This means that two slices can reference to the same data
