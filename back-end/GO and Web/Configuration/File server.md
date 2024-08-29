@@ -1,5 +1,5 @@
 ***
-[[go]]
+[[GO WEB]]
 #### Special values:
 1. file server - go provides tools for sending various files among the network
 	- *We can implement the SSR with that*

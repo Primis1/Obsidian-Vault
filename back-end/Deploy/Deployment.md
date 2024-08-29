@@ -1,6 +1,7 @@
 ***
 #### Special values:
-1. #deployment - process of delivering the application from developing to production 
+1. #deployment - process of delivering the application from developing to production
+	1. Also can be called as: *"Running instance of the app"*
 #### To know:
 
 - Kinds of #deployment:

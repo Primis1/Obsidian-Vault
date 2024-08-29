@@ -10,7 +10,8 @@
 	
 	4. `.Parse()` - parse the flag into terminal  
 #### To know:
-1. Usage:
+
+##### Usage:
 ```go
 func main() {
 	// Define flags
@@ -30,4 +31,11 @@ func main() {
 		fmt.Println("Debug mode is enabled.")
 	}
 }
+```
+
+##### Terminal:
+```go
+go run -age=1213
+
+go run main.go -help 
 ```
