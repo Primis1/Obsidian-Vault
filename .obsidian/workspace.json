@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Network/CORS.md",
+                "file": "HO Function && Closure.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,11 +77,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 205.50390243530273
+    "width": 200
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Network/CORS.md",
+                "file": "HO Function && Closure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Network/CORS.md",
+                "file": "HO Function && Closure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Network/CORS.md"
+                "file": "HO Function && Closure.md"
               }
             }
           }
@@ -166,14 +167,18 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "801a4bac8f3dd1ae",
+  "active": "8b2e414e9c6b0ffd",
   "lastOpenFiles": [
+    "CS/Network/CORS.md",
+    "Some shit, idk where to put/Template/Temp.md",
+    "Some shit, idk where to put/Formatting/Dots as the shortcut.md",
+    "Some shit, idk where to put/Template",
+    "HO Function && Closure.md",
     "back-end/GO advanced/GO under the hood/GO maps.md",
     "CS/Network/Network models/OSI/OSI model.md",
     "CS/Network/Network models/TCP IP & OSI.md",
     "CS/Network/Network models/TCP/TCP & IP.md",
     "CS/Network/Network models/TCP/Flow of TCP.md",
-    "CS/Network/CORS.md",
     "back-end/Communications/Http and Comm/Http & Https.md",
     "front-end/JS Advanced/Advanced Objects/Execution Context.md",
     "front-end/JS Advanced/Advanced Objects/JS object.md",
@@ -193,9 +198,6 @@
     "back-end/GO Base/Packages/Separate packages/FLAG.md",
     "back-end/GO advanced/GO advanced.md",
     "back-end/GO advanced/GO under the hood",
-    "back-end/GO Base/GO.md",
-    "back-end/GO and Web/Foundation/Servermux/Servermux ID's.md",
-    "back-end/GO Base/Pointer and Memo/Memory in GO.md",
     "back-end/GO and Web/Configuration",
     "back-end/GO advanced",
     "back-end/Deploy/Deploy",
@@ -212,7 +214,6 @@
     "Math",
     "back-end/Databases/Theory",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240823221644.png",
-    "front-end/React/Libs/Prisma",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821023951.png",
     "Untitled.canvas",
     "Untitled 1.canvas",

@@ -3624,6 +3624,8 @@ Product
 PfH
 PvU
 POl
+Purpose
+Prevents
 yea
 your
 you
@@ -5585,6 +5587,11 @@ associative
 abstract
 avoided
 asymmetrically
+allowed
+attack
+accidently
+against
+attacker
 replace
 repeats
 repeat
@@ -8370,6 +8377,7 @@ uYXX
 upper
 uninterpreted
 undirected
+useless
 local
 look
 label
@@ -9309,6 +9317,7 @@ FvH
 Fmy
 FQJ
 Fny
+Forgery
 DISCOVERY
 DELETE
 DDD
@@ -9608,6 +9617,7 @@ Duok
 DeFV
 Does
 Decimal
+Drawbacks
 has
 have
 hidden
@@ -10206,6 +10216,7 @@ AYg
 AuL
 AQh
 Akkk
+Allow
 generally
 gRPC
 got
@@ -11312,6 +11323,7 @@ HOOW
 HNm
 HaG
 HrE
+Headers
 query
 questions
 quality
