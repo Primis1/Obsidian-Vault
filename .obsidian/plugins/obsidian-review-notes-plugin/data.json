@@ -49,12 +49,60 @@
       "filename": "TCP IP & OSI"
     },
     {
+      "path": "Advanced Iterators.md",
+      "filename": "Advanced Iterators"
+    },
+    {
+      "path": "front-end/JS Advanced/Parts of JS/Advanced Iterators.md",
+      "filename": "Advanced Iterators"
+    },
+    {
       "path": "HO Function && Closure.md",
       "filename": "HO Function && Closure"
     },
     {
       "path": "Some shit, idk where to put/Template/Temp.md",
       "filename": "Temp"
+    },
+    {
+      "path": "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
+      "filename": "Object Prototype"
+    },
+    {
+      "path": "CS/Terminal/Git commands.md",
+      "filename": "Git commands"
+    },
+    {
+      "path": "CS/Network/Network models/OSI/OSI model.md",
+      "filename": "OSI model"
+    },
+    {
+      "path": "front-end/React/React Docs/State & Func/JSX.md",
+      "filename": "JSX"
+    },
+    {
+      "path": "front-end/React/React Docs/State & Func/State.md",
+      "filename": "State"
+    },
+    {
+      "path": "Untitled.md",
+      "filename": "Untitled"
+    },
+    {
+      "path": "front-end/React/React Docs/State & Func/Hooks.md",
+      "filename": "Hooks"
+    },
+    {
+      "path": "CS/Programming Concepts/Functions/Pure Function.md",
+      "filename": "Pure Function"
+    },
+    {
+      "path": "back-end/GO Base/Types & Variables/Structs & Methods.md",
+      "filename": "Structs & Methods"
+    },
+    {
+      "path": "front-end/TypeScript/Decorators.md",
+      "filename": "Decorators"
     }
   ]
 }

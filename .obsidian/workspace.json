@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HO Function && Closure.md",
+                "file": "front-end/TypeScript/Decorators.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,13 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Network/Network models/OSI/OSI model.md",
+                "file": "front-end/TypeScript/Decorators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HO Function && Closure.md",
+                "file": "front-end/TypeScript/Decorators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HO Function && Closure.md",
+                "file": "front-end/TypeScript/Decorators.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HO Function && Closure.md"
+                "file": "front-end/TypeScript/Decorators.md"
               }
             }
           }
@@ -155,7 +156,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,34 +171,33 @@
   },
   "active": "8b2e414e9c6b0ffd",
   "lastOpenFiles": [
-    "CS/Network/CORS.md",
-    "Some shit, idk where to put/Template/Temp.md",
-    "Some shit, idk where to put/Formatting/Dots as the shortcut.md",
-    "Some shit, idk where to put/Template",
+    "front-end/React/React Docs/State & Func/Hooks.md",
+    "back-end/GO Base/Types & Variables/Structs & Methods.md",
+    "CS/Programming Concepts/Functions/Pure Function.md",
+    "front-end/React/React Docs/True Theory/Immutability In React.md",
+    "front-end/React/React Docs/True Theory/DOM vs Virtual DOM.md",
+    "front-end/React/React Docs/True Theory/Single vs Multi pages application.md",
     "HO Function && Closure.md",
-    "back-end/GO advanced/GO under the hood/GO maps.md",
+    "Untitled.md",
+    "front-end/React/React Docs/State & Func/State.md",
+    "front-end/React/React Docs/State & Func/JSX.md",
     "CS/Network/Network models/OSI/OSI model.md",
-    "CS/Network/Network models/TCP IP & OSI.md",
-    "CS/Network/Network models/TCP/TCP & IP.md",
-    "CS/Network/Network models/TCP/Flow of TCP.md",
-    "back-end/Communications/Http and Comm/Http & Https.md",
+    "front-end/React/React Docs/Types of Children.md",
+    "front-end/TypeScript/Decorators.md",
+    "front-end/React/Libs/Prisma/Prisma.md",
+    "CS/Terminal/Git commands.md",
+    "front-end/JS Advanced/Parts of JS/Advanced Iterators.md",
+    "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
+    "back-end/GO advanced/GO under the hood/GO slices.md",
+    "Math/Graphs.md",
+    "front-end/JS Advanced/Parts of JS/Event Loop.md",
+    "front-end/JS Advanced/Parts of JS/Flow of JS.md",
+    "front-end/JS Syntax/1 Syntax chapter/Syntax for an objects.md",
+    "Some shit, idk where to put/Template/Temp.md",
+    "Advanced Iterators.md",
     "front-end/JS Advanced/Advanced Objects/Execution Context.md",
     "front-end/JS Advanced/Advanced Objects/JS object.md",
-    "back-end/GO advanced/GO under the hood/GO slices.md",
-    "Math/Sets.md",
-    "Math/Logarithm.md",
-    "Math/Graphs.md",
-    "Math/Math.md",
-    "Math/Coefficient.md",
     "Pasted image 20240824204954.png",
-    "CS/Programming Concepts/Functions/Recursion.md",
-    "Interview/Back/Questions.md",
-    "Context.md",
-    "CS/Algos and DS/Data Structures/Hash.md",
-    "back-end/GO Base/GO Special Keywords.md",
-    "back-end/GO and Web/Configuration/File server.md",
-    "back-end/GO Base/Packages/Separate packages/FLAG.md",
-    "back-end/GO advanced/GO advanced.md",
     "back-end/GO advanced/GO under the hood",
     "back-end/GO and Web/Configuration",
     "back-end/GO advanced",
@@ -214,6 +215,7 @@
     "Math",
     "back-end/Databases/Theory",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240823221644.png",
+    "front-end/React/Libs/Prisma",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821023951.png",
     "Untitled.canvas",
     "Untitled 1.canvas",

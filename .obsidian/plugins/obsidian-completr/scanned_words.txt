@@ -1800,6 +1800,9 @@ safely
 symmetrically
 subsets
 scientific
+summarizing
+setter
+subscriptions
 manipulation
 many
 mentioned
@@ -2597,6 +2600,7 @@ percent
 principle
 pairwise
 proper
+plain
 built
 baby
 brackets
@@ -5175,6 +5179,7 @@ fSn
 filed
 formatting
 flag
+facilitates
 and
 as
 any
@@ -5592,6 +5597,8 @@ attack
 accidently
 against
 attacker
+abstraction
+automatisation
 replace
 repeats
 repeat
@@ -6784,6 +6791,8 @@ customizing
 capacity
 circles
 cross
+craeteElement
+closure
 digit
 default
 drop
@@ -8378,6 +8387,7 @@ upper
 uninterpreted
 undirected
 useless
+unordered
 local
 look
 label
@@ -9318,6 +9328,7 @@ Fmy
 FQJ
 Fny
 Forgery
+Formula
 DISCOVERY
 DELETE
 DDD
@@ -9618,6 +9629,7 @@ DeFV
 Does
 Decimal
 Drawbacks
+Defined
 has
 have
 hidden
@@ -12435,6 +12447,7 @@ Jsss
 Jxqss
 JepM
 Jdl
+JSX
 XML
 XXXX
 XBqB
@@ -14188,6 +14201,7 @@ NNNvvv
 NGG
 NNNo
 NzK
+Nodes
 BaaS
 Both
 Basic
