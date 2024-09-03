@@ -50,6 +50,3 @@ func gcd(a,b int) int {
     return a
 }
 ```
-
-3. #LCM steps
-	1. 

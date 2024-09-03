@@ -4,34 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "308581d9eaf84efd",
+        "id": "10bc9382b2279f71",
         "type": "tabs",
         "children": [
           {
-            "id": "2c2cce78a8cfc8c1",
+            "id": "e500c9fbf2b61074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HO Function && Closure.md",
+                "file": "CS/Programming Concepts/Hardware/CPU/Process vs Thread.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ac8836d9da17a75b",
+            "id": "5627b92a2c2304cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Network/Network models/OSI/OSI model.md",
+                "file": "front-end/TypeScript/Decorators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: event lo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HO Function && Closure.md",
+                "file": "front-end/TypeScript/Decorators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "HO Function && Closure.md",
+                "file": "front-end/TypeScript/Decorators.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HO Function && Closure.md"
+                "file": "front-end/TypeScript/Decorators.md"
               }
             }
           }
@@ -167,36 +168,38 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "8b2e414e9c6b0ffd",
+  "active": "5627b92a2c2304cf",
   "lastOpenFiles": [
-    "CS/Network/CORS.md",
-    "Some shit, idk where to put/Template/Temp.md",
-    "Some shit, idk where to put/Formatting/Dots as the shortcut.md",
-    "Some shit, idk where to put/Template",
-    "HO Function && Closure.md",
-    "back-end/GO advanced/GO under the hood/GO maps.md",
-    "CS/Network/Network models/OSI/OSI model.md",
-    "CS/Network/Network models/TCP IP & OSI.md",
-    "CS/Network/Network models/TCP/TCP & IP.md",
-    "CS/Network/Network models/TCP/Flow of TCP.md",
-    "back-end/Communications/Http and Comm/Http & Https.md",
     "front-end/JS Advanced/Advanced Objects/Execution Context.md",
-    "front-end/JS Advanced/Advanced Objects/JS object.md",
+    "front-end/JS Advanced/Parts of JS/Event Loop.md",
+    "CS/Programming Concepts/Hardware/CPU/Process vs Thread.md",
+    "front-end/TypeScript/Decorators.md",
+    "CS/Asynchronous/Lock, Mutex, Semaphore.md",
+    "CS/Asynchronous/Parallelism && Concurrency.md",
+    "front-end/JS Advanced/sync & async/Asynchronous.md",
+    "front-end/JS Advanced/sync & async/Multithreading in JS.md",
+    "HO Function && Closure.md",
+    "front-end/JS Advanced/Parts of JS/Advanced Iterators & Generators.md",
+    "CS/Asynchronous",
+    "CS/Programming Concepts/Hardware/CPU/Threads.md",
+    "CS/Design & Patterns/Design & Patterns.md",
+    "back-end/GO Base/Types & Variables/Generics.md",
+    "Some shit, idk where to put/Pasted image 20240902200427.png",
+    "front-end/React/Actual Components/Tittle component.md",
+    "back-end/GO Base/Interfaces & Generics/Interfaces.md",
+    "Math/Probability & Combinatorics.md",
     "back-end/GO advanced/GO under the hood/GO slices.md",
     "Math/Sets.md",
-    "Math/Logarithm.md",
-    "Math/Graphs.md",
-    "Math/Math.md",
     "Math/Coefficient.md",
+    "CS/Network/Network models/OSI/OSI model.md",
+    "CS/Programming Concepts/Software/Compiled VS Interpreted.md",
+    "CS/Programming Concepts/Software/Middleware.md",
+    "back-end/Communications/Http and Comm/CORS.md",
+    "back-end/Communications/Http and Comm/Http & Https.md",
+    "back-end/Communications/Communication.md",
+    "front-end/JS Advanced/Advanced Objects/JS object.md",
+    "Some shit, idk where to put/Template",
     "Pasted image 20240824204954.png",
-    "CS/Programming Concepts/Functions/Recursion.md",
-    "Interview/Back/Questions.md",
-    "Context.md",
-    "CS/Algos and DS/Data Structures/Hash.md",
-    "back-end/GO Base/GO Special Keywords.md",
-    "back-end/GO and Web/Configuration/File server.md",
-    "back-end/GO Base/Packages/Separate packages/FLAG.md",
-    "back-end/GO advanced/GO advanced.md",
     "back-end/GO advanced/GO under the hood",
     "back-end/GO and Web/Configuration",
     "back-end/GO advanced",
@@ -212,9 +215,7 @@
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821161117.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821153834.png",
     "Math",
-    "back-end/Databases/Theory",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240823221644.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240821023951.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

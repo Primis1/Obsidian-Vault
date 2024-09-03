@@ -5,10 +5,19 @@
 #### To know:
 ```ts
 function show() {
-    console.log(this); // returns a global object or undefined if in "use strict"
+    console.log(this); // logs a global object or undefined if in "use strict"
 }
 
-const obj= {
-    show: () => console.log(this) // returns {} after invoking
+show() // logs global object 
+
+
+const func = function() {
+	console.log(this)
+} 
+
+func()
+
+const obj = {
+    show: () => console.log(this) // logs {}, i.e the inheritet/outside area context 
 }
 ```

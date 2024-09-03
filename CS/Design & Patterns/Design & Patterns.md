@@ -1,7 +1,11 @@
 ***
 [[Computer Science]]
-Special values:
-1. 
+#### Special values:
 
-To know:
-1. 
+- Kinds of #design-patterns:
+	1. Creation 
+	2. 
+
+#### To know:
+
+##### Concepts:

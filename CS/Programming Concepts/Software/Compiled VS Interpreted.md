@@ -1,8 +1,8 @@
 ***
 Special values:
-1. #compiler  - is a translation program, that *translates* a PL code into the byte code, and checks its valid, before finishing the translation, if(err) compilation fails, if(!err) compilation success
-2. #interpreter  - is a translation program, that translates a PL into the output code, without any checks, because of it's line by line interpretation
-3. Translation - converting a code from PL A to PL B
+1. #compiler - is a translation program, that *translates* a PL code into the byte code, and checks its valid, before finishing the translation, if(err) compilation fails, if(!err) compilation success
+2. #interpreter - is a translation program, that translates a PL into the output code, without any checks, because of it's line by line interpretation
+3. `Translation` - converting a code from PL A to PL B
 
 To know:
 ![[Pasted image 20240814222133.png]]

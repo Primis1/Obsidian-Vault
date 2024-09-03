@@ -1,5 +1,5 @@
 ***
-[[Multithreading in JS]]
+[[Computer Science]]
 Special values:
 1. Concurrency - is the ability of the program to execute its code in ==asynchronous== ==manner==. Blocks of code won't wait one for another to fully execute 
 

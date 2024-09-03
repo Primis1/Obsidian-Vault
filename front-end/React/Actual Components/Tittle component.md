@@ -43,10 +43,11 @@ export const Title: React.FC<Props> = ({ size = "sm", text, className }) => {
     "2xl": "text-[48px] ys-display",
   };
 
-  return React.createElement(mapTagBySize[size], {
-    className: clsx(mapClassNameBySize[size], className),
-    text,
-  });
+  return React.createElement(
+	  mapTagBySize[size],
+	  { className: clsx(mapClassNameBySize[size], className)},
+	  text	  
+  );
 };
 
 ```

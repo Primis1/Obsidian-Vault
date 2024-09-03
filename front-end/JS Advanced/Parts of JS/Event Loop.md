@@ -33,7 +33,7 @@ To know:
 			- mutationObserver - 
 	
 	1. Web API:
-		1. Used for "registration" of events
+		1. Used for "registration" of events, and it's implementation. Do the work and send task into the queue 
 
 2. General flow:
-![[Pasted image 20240808005549.png]]
+![[Pasted image 20240902200427.png]]

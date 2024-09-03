@@ -1,10 +1,10 @@
 ***
 [[CPU]]
-Special values:
-1. process - is a program dispatched from the ready state and are scheduled in the CPU for the execution, process do NOT share the memory with other processes 
-2. #thread - is the segment of the process, which means that process can have multiple threads and these threads are stored within the process 
+#### Special values:
+1. #process - is a program dispatched from the ready state and are scheduled in the CPU for the execution, process do NOT share the memory with other processes 
 
-To know:
+2. #thread - is the segment of the process, which means that process can have multiple threads and these threads are `stored within the process`
+#### To know:
 1. States:
 	1. Process 
 		- new\
@@ -31,5 +31,5 @@ To know:
 		- Thread is a segment of process 
 		- It is generally faster than process, in most means like creation/termination/switching 
 		- They can actively share memory between each other 
-		- If, example, one user's thread is blocked, all other user threads are going to get blocked()
+		- If, example, one user's thread is blocked, all other user threads are going to get `blocked()`
 ![[Pasted image 20240817053209.png]]
