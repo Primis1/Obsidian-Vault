@@ -1,12 +1,12 @@
 ***
 [[TypeScript]]
 #### Special values:
-1. #decorator - is the `special function` that can be attached to class declaration
+1. #decorator - is the `special function` that can be attached to class declaration`
 	- often used for adding a metadata to the class properties
 
 #### To know:
 
-##### Concepts:
+##### Concepts:=
 1. #decorator can be declared before/to:
 	1. Class as JS object and its `constructor` 
 		1. replacement of `constructor` changes all properties of `class` 
