@@ -1,7 +1,8 @@
 ***
 [[JS object]]
 ### Special values:
-1. #prototype - is an object from which every object inherits properties  every object inherits properties from it's prototype, if there are any 
+1. #prototype - is an object from which every `object in JS` inherits properties. It is also a wrapper therefore "*==In JS everything is an== object*" exist 
+
 
 ### To know:
 

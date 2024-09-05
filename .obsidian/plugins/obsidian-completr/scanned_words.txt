@@ -1297,11 +1297,11 @@ irbLs
 invoke
 idex
 insertion
-instantiate
 inheriting
 incomming
+inherits
+instantiate
 instantiation
-inheritet
 string
 sorting
 set
@@ -1806,16 +1806,13 @@ safely
 symmetrically
 subsets
 scientific
-summarizing
-setter
-subscriptions
+suited
 surrounding
-supposed
-stable
 sealed
 seal
+setup
 semaphore
-shall
+stricter
 manipulation
 many
 mentioned
@@ -2614,7 +2611,7 @@ percent
 principle
 pairwise
 proper
-plain
+probability
 built
 baby
 brackets
@@ -3355,7 +3352,8 @@ escaped
 extended
 evenly
 edges
-exposing
+encourage
+extendibility
 PL
 POST
 PUT
@@ -4214,6 +4212,7 @@ TLu
 TaM
 Tqpd
 TfH
+Terminal
 know
 knows
 kind
@@ -4872,10 +4871,7 @@ tvP
 tjU
 tew
 templates
-triggering
 towards
-twelve
-treads
 find
 from
 for
@@ -5617,12 +5613,9 @@ attack
 accidently
 against
 attacker
-abstraction
-automatisation
 args
 age
 assumed
-area
 replace
 repeats
 repeat
@@ -6006,6 +5999,7 @@ rrEU
 rwo
 rehashing
 redistributed
+ran
 restricts
 of
 one
@@ -6295,7 +6289,6 @@ olq
 oAI
 otSj
 overfilling
-outer
 character
 computer
 classes
@@ -6817,10 +6810,11 @@ customizing
 capacity
 circles
 cross
-craeteElement
 closure
-composition
+calculating
 context
+checker
+composition
 digit
 default
 drop
@@ -7205,7 +7199,6 @@ decided
 dangerous
 directed
 decorators
-develop
 delegate
 door
 non
@@ -7764,6 +7757,7 @@ wnbj
 wag
 wbmd
 wSo
+wish
 Can
 Controlled
 Components
@@ -8106,8 +8100,11 @@ CCrp
 Capacity
 CORS
 Cross
-Creational
+Creation
 Class
+Constructor
+CAN
+Creational
 used
 user
 ui
@@ -8422,9 +8419,6 @@ upper
 uninterpreted
 undirected
 useless
-unordered
-useContext
-useReducer
 local
 look
 label
@@ -8737,7 +8731,9 @@ lpc
 llf
 leading
 logarithm
+likely
 logger
+leveled
 logs
 Input
 IS
@@ -9367,8 +9363,8 @@ Fmy
 FQJ
 Fny
 Forgery
-Formula
 Funtion
+FUNCTIONALITY
 DISCOVERY
 DELETE
 DDD
@@ -9669,8 +9665,6 @@ DeFV
 Does
 Decimal
 Drawbacks
-Defined
-Disasters
 has
 have
 hidden
@@ -9977,7 +9971,7 @@ heW
 hLnz
 htR
 hzr
-heavy
+hence
 ALOT
 API
 Application
@@ -10271,6 +10265,8 @@ AuL
 AQh
 Akkk
 Allow
+Arrow
+Arguments
 generally
 gRPC
 got
@@ -12210,6 +12206,7 @@ Muh
 Medicine
 Mgl
 MYw
+Meanwhile
 MyClass
 JSON
 JS
@@ -12490,7 +12487,6 @@ Jsss
 Jxqss
 JepM
 Jdl
-JSX
 XML
 XXXX
 XBqB
@@ -13085,6 +13081,7 @@ OwM
 ONyU
 Oeq
 Origin
+OBJECTS
 Validation
 Validate
 Va
@@ -13982,7 +13979,7 @@ Exx
 EoUP
 Eoe
 Execution
-Ensures
+EXTENDS
 Network
 NewWriter
 NewReader
@@ -14245,7 +14242,6 @@ NNNvvv
 NGG
 NNNo
 NzK
-Nodes
 BaaS
 Both
 Basic
@@ -14536,6 +14532,7 @@ BKguS
 BYcP
 BDe
 Base
+BUILD
 Behavioral
 Zeros
 Zod
