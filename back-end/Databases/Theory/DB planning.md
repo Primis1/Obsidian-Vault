@@ -1,16 +1,16 @@
 ***
 [[Databases in general]]
-#### Special values:
-##### Questions to ask yourself:
+### Special values:
+#### Questions to ask yourself:
 1. *==Why do i need storage?==(remember what Mr.Plawell said about describing/opening/explaining the statements)*
 2. *==What do I have?==* 
 3. *==What tables do I need?==*
 4. *==What columns do I need?==*
 5. *==What keys do I need?==*
 6. *==What relations do I need?==*
-#### To know:
+### To know:
 
-##### Questions to ask yourself:
+#### Questions to ask yourself:
 1. *==Why do I need storage?==* - "I need storage, because my users on a website can filter, sort and choose specific clothes by various parameters"
 
 2. *==What do I have?==* - existing database?(can fix existing problems instead of re-architecting them)

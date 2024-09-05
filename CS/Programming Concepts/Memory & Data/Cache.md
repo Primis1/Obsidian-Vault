@@ -1,9 +1,9 @@
 ***
 [[Memory & Data]]
-####  Special values:
+###  Special values:
 1. #cache - is an alternative data storage of the main memory. It stores frequently requested data somewhere, where the speed of its accessing should be faster and more efficient
 
-#### To know:
+### To know:
 
 - ==Cache is characteristics:==
 

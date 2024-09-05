@@ -1,5 +1,5 @@
 ***
-#### Special values:
+### Special values:
 Factors:
 1. Code base - `one codebase tracked in VMS, can have many deploys 
 `
@@ -25,16 +25,16 @@ Factors:
 
 12. Admin process - 
 
-#### To know:
+### To know:
 
-##### Concepts:
+#### Concepts:
 
-- ##### Code base: 
+- #### Code base: 
 	- There always ==one-to-one== relation between `app` and `codebase`. If there are multiple `codebases`, it is not an app - it is distributed system  
 
 	- There is single `codebase` per `app`
 
-- ##### Dependencies:
+- #### Dependencies:
 	-  Twelve factor app ==never== relies only on ==explicit existence== of "somewhere on the system" dependencies. We ==declare== our ==dependencies== and exactly, via a `dependency declaration manifest`   
 
 	- Furthermore we ==isolate== our dependencies, so during execution "==leak-in==" is not possible
@@ -43,7 +43,7 @@ Factors:
 	
 	- #twelve-factor dependencies are also not relying on system specific commands like `curl`  
 
-- ##### Config: 
+- #### Config: 
 	- `Config` should be separated from the `code`
 	
 	- Config stores: Resource handles to the DB, Backing services; Credentials to external services(like Twitter); Pre-`deploy` values, such as the canonical hostname for the deployment  
@@ -51,7 +51,7 @@ Factors:
 	- If app can be made as open source at any moment, and we did not compromise any credentials. `Config ` was successfully factored
 
 	- The data of config should be hidden, a good way to do so is to store it in something like `config.yml`, and ignore it by version control 
-- ##### Backing services:
+- #### Backing services:
 	
 	- They include `datastores`,  `messaging queries`, `SMTP` services, `caching` services
 	
@@ -59,7 +59,7 @@ Factors:
 	
 	- Administrator can attach and detach the *resources* by his with
 ![[Pasted image 20240828202022.png]]
-- ##### Build, release, run:
+- #### Build, release, run:
 	- Build: 
 		- It is a stage which converts the code repo into the executable
 	- Release:
@@ -69,7 +69,7 @@ Factors:
 	- Run:
 		- run the app in the environment
 ![[Pasted image 20240828205137.png]]
-- ##### Process - 
+- #### Process - 
 
 2. Port binding - 
 

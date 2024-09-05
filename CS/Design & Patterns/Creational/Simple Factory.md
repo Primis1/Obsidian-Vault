@@ -1,9 +1,9 @@
 ***
 [[Design Patterns]]
-#### To know:
+### To know:
 1. #simple-factory - pattern that generates an instance for client without exposing any inner logic 
 2. We shall apply it when creating an object is long, heavy weight process, and it repeats multiple times
-#### Implementation:
+### Implementation:
 ```ts 
 interface Door {
     getWidth(): number,

@@ -1,6 +1,6 @@
 ***
 [[Data Structures]]
-#### Special values:
+### Special values:
 - ==Hashing==:
 1. #hash-table - is assorted ==ABSTRACT== data structure that consist from key-value pairs    
 
@@ -8,7 +8,7 @@
 	
 	1. collision - term used for hash-table occurs when #hash-function gives the same value for different input (no- #deterministic cases)
 
-#### To know:
+### To know:
 1. How it works/Basics:
 	1. To add data into the hash table we have to specify our key, and value that is attached 
 		1. Key - after we define key we want to store, key goes through #hash-function

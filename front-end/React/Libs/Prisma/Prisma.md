@@ -1,5 +1,5 @@
 ***
-#### Special values:
+### Special values:
 1. #prisma - is an #ORM for JS/TS ecosystem. It can be used for `node` in general and `nextJS` in particular.
 2. Prisma application components:
 	- `prisma-client` - main object through which we do our queries, is generated based on schema. Queries are made over the `table`
@@ -8,7 +8,7 @@
 	- `prisma-CLI` - command line of prisma, `prisma init`, `prisma migrate`, `prisma generate`
 3. Prisma-client functions:
 
-#### To know:
+### To know:
 ```ts
 //             write
 	const newUser = await prisma.user.create({

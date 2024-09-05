@@ -1,10 +1,10 @@
 ***
 [[JS advanced]]
-#### Special values:
+### Special values:
 1. object - is data structure, that represents collection of properties(nested #hash-table)
-#### To know:
+### To know:
 
-##### Concepts:
+#### Concepts:
 1. Each primitive type (function, number, string, Regex, etc) can be be crated by using a constructor #new. In this case their type will be equal to #object, but not really the type it refers to
 	- can be useful, if we remember that ==strings are immutable==, so to make any manipulations with that 
 

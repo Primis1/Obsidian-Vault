@@ -1,11 +1,11 @@
 ***
 [[JS object]]
-#### Special values:
+### Special values:
 1. #prototype - is an object from which every object inherits properties  every object inherits properties from it's prototype, if there are any 
 
-#### To know:
+### To know:
 
-- ##### Concepts:
+- #### Concepts:
 1. `EVERY OBJECT IN JS HAS [[Prototype]]` attribute which contains a reference to its `prototype`. It means that every created/initialized `object` contains properties of `[[Prototype]]`
 
 2. Every prototype in JS is an object by itself, so the ==prototype will have its own prototypes==, producing the prototype chain 
@@ -15,7 +15,7 @@
 
 4. In `TS` `objects/prototypes` are implemented via interfaces, these interfaces can be `merged` with our own, hence, prototypes can be extend by new `methods`. 
 	1. *SO WE CAN EXTENDS FUNCTIONALITY OF BUILD IN TS OBJECTS*
-##### Practice:
+#### Practice:
 ```ts
 interface String {
   prefix(reo: string): string;

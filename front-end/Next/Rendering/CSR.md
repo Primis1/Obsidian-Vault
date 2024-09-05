@@ -1,8 +1,8 @@
 ***
 [[Types of Rendering]]
-#### Special values:
+### Special values:
 1. #CSR - client side rendering. Web page exist on a client and also on a server side. Client component can have a track of user "things", and be re-rendered without refreshing the page   
-#### To know: 
+### To know: 
 1. When user visits the page, he receives the *blank* page, with JS-functions, that fetch data from the server or API, and finish the render of 
 2. Through its existing on a client side, we can work with dynamic user data 
 3. Pros:

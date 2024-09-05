@@ -1,8 +1,8 @@
 ***
-#### Special values:
+### Special values:
 1. #deployment - process of delivering the application from developing to production
 	1. Also can be called as: *"Running instance of the app"*
-#### To know:
+### To know:
 
 - Kinds of #deployment:
 	1. `Blue/Green` - involves two running environments, where all the traffic is handled by "Blue" one and "Green" is responsible for implementing new features and technologies. When "Green" is fully developed and tested, we change the live traffic flow to "Green" by `router` or `load balancer`

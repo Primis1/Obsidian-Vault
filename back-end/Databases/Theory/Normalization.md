@@ -1,6 +1,6 @@
 ***
 [[Databases in general]]
-#### Special values:
+### Special values:
 1. #normalization - process of optimizing existing database, from it's relations to tables
 
 2. *anomaly* - issue with database that, perhaps, should not be there, or happen if DB is not normalized 
@@ -11,9 +11,9 @@
 		2. What filed can be used to uniquely identify the row 
 	2. 
 
-#### To know:
+### To know:
 
-##### Kinds of anomalies:
+#### Kinds of anomalies:
 1. Insert anomaly - possibility of adding incomplete rows into the DB
 ![[Pasted image 20240825050108.png]]
 2. Update anomaly - lack of single gateway for updates, like changing the `Biology` to `intro to biology` in every single columns instead of singleton

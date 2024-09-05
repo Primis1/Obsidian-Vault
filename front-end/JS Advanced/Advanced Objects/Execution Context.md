@@ -1,8 +1,8 @@
 ***
-#### Special values:
+### Special values:
 1. Execution Context - is something that stores information about environment, (or the thing that #this keyword returns)
 
-#### To know:
+### To know:
 - #this when called in function refers to `global-bject` 
 ```ts
 function show() {

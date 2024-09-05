@@ -1,12 +1,12 @@
 ***
 [[Math]]
-#### Special value:
+### Special value:
 1. #coefficient - the number of multiplications of the variable `variable` 
 	- *basically the `x` sign between the variable and the number* 
 2. #GCD - greater common divisor/factor. Means the greatest common number two number can be divided onto `12 and 18 GCD = 6`. Sometimes referred as GCF or HCF  
 3. #LCM - least common multiple. `4 and 5 LCM = 20` 
 
-#### To know: 
+### To know: 
 
 1. Examples #coefficient:
 $$5x^2y - \frac{4}{3}z + 7$$
@@ -39,7 +39,7 @@ z = 5
 ```
 - Basically we do repeat the process until the reminder is 0, the reminder before it is our #GCD 
 
-#### Code
+### Code
 ```go
 func gcd(a,b int) int {
     for b != 0 {

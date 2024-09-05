@@ -1,5 +1,5 @@
 ***
-#### Special values:
+### Special values:
 1. #flag - used for customizing the behavior of the program via terminal. 
 	- *We do add `suffixes` to `go or executable` terminal commands, to specify the program execution *
 2. `functions`: 
@@ -9,9 +9,9 @@
 	3. `.Bool(name, defaultValue, usage)`
 	
 	4. `.Parse()` - parse the flag into terminal  
-#### To know:
+### To know:
 
-##### Usage:
+#### Usage:
 ```go
 func main() {
 	// Define flags
@@ -33,7 +33,7 @@ func main() {
 }
 ```
 
-##### Terminal:
+#### Terminal:
 ```go
 go run -age=1213
 

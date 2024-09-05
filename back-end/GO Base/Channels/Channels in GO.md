@@ -1,6 +1,6 @@
 ***
 [[GO WEB]]
-#### Special values:
+### Special values:
 1. #channels - are conduits(турбопровід) through which you can send and receive values ==between== ==goroutines== 
 	1. `chan value` - is special keyword for creating a new channel. Its initialize in `make(chan int)`
 	2. `<-` - ==`operator`== used for sending or receiving information on channel 
@@ -11,7 +11,7 @@
 	4. They can be either buffered or unbuffered 
 	5. They are bi-directional 
 	6. Data can have only one initial receiver. Two channels can't take the same data  
-#### To know:
+### To know:
 
 1. Channels characteristics(detailed):
 	1. They are ==typed==. You send and receive value ==ONLY== of the same type. You ==can't send string and int over same channel(гаuшники блять)== 

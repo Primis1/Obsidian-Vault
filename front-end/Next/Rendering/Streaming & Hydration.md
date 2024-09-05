@@ -1,9 +1,9 @@
 ***
-#### Special values:
+### Special values:
 1. Streaming - painting the components of page, by chunks and   
 2. Hydration - adding interactivity to the page, ==via JS handlers== 
 
-#### To know:
+### To know:
 1. Streaming:
 	1. Streaming on *server-side*, allow to send HTML in chunks that the browser can progressively render as it is received
 	

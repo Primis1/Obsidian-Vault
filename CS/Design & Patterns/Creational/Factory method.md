@@ -1,8 +1,8 @@
 ***
 [[Design Patterns]]
-#### Special values:
+### Special values:
 1. #factory-method - 
 
-#### To know:
+### To know:
 
-##### Concepts:
+#### Concepts:
