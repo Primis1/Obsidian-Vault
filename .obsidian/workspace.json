@@ -4,35 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "10bc9382b2279f71",
+        "id": "b88e1013ba938cbf",
         "type": "tabs",
         "children": [
           {
-            "id": "e500c9fbf2b61074",
+            "id": "9c457cd4ed7ffc97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Programming Concepts/Hardware/CPU/Process vs Thread.md",
+                "file": "CS/Design & Patterns/Creational/Simple Factory.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "5627b92a2c2304cf",
+            "id": "bfa58d55469dc28d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "front-end/TypeScript/Decorators.md",
+                "file": "CS/Design & Patterns/Creational/Simple Factory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d80238b8bafa2203",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "front-end/JS Advanced/Advanced Objects/Execution Context.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: event lo",
+                "query": "file: contex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "front-end/TypeScript/Decorators.md",
+                "file": "front-end/JS Advanced/Advanced Objects/Execution Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "front-end/TypeScript/Decorators.md",
+                "file": "front-end/JS Advanced/Advanced Objects/Execution Context.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "front-end/TypeScript/Decorators.md"
+                "file": "front-end/JS Advanced/Advanced Objects/Execution Context.md"
               }
             }
           }
@@ -156,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,53 +181,53 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "5627b92a2c2304cf",
+  "active": "d80238b8bafa2203",
   "lastOpenFiles": [
-    "front-end/JS Advanced/Advanced Objects/Execution Context.md",
-    "front-end/JS Advanced/Parts of JS/Event Loop.md",
-    "CS/Programming Concepts/Hardware/CPU/Process vs Thread.md",
+    "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
     "front-end/TypeScript/Decorators.md",
-    "CS/Asynchronous/Lock, Mutex, Semaphore.md",
+    "CS/Design & Patterns/Creational/Simple Factory.md",
+    "CS/Design & Patterns/Design Patterns.md",
+    "CS/Design & Patterns/Creational/Factory method.md",
+    "back-end/Prisma/Querring.md",
+    "back-end/Prisma/Table Syntax.md",
+    "front-end/React/Libs/Prisma/Prisma.md",
+    "back-end/GO advanced/Concurrent/Mutex.md",
+    "back-end/GO advanced/Concurrent",
     "CS/Asynchronous/Parallelism && Concurrency.md",
-    "front-end/JS Advanced/sync & async/Asynchronous.md",
-    "front-end/JS Advanced/sync & async/Multithreading in JS.md",
-    "HO Function && Closure.md",
+    "CS/Design & Patterns/Methods/Developing Methodologies.md",
+    "CS/Design & Patterns/Meta Programming.md",
+    "CS/Design & Patterns/Behavioral",
+    "CS/Design & Patterns/Structural",
+    "CS/Design & Patterns/Creational",
     "front-end/JS Advanced/Parts of JS/Advanced Iterators & Generators.md",
-    "CS/Asynchronous",
-    "CS/Programming Concepts/Hardware/CPU/Threads.md",
-    "CS/Design & Patterns/Design & Patterns.md",
-    "back-end/GO Base/Types & Variables/Generics.md",
-    "Some shit, idk where to put/Pasted image 20240902200427.png",
-    "front-end/React/Actual Components/Tittle component.md",
-    "back-end/GO Base/Interfaces & Generics/Interfaces.md",
-    "Math/Probability & Combinatorics.md",
-    "back-end/GO advanced/GO under the hood/GO slices.md",
-    "Math/Sets.md",
-    "Math/Coefficient.md",
-    "CS/Network/Network models/OSI/OSI model.md",
-    "CS/Programming Concepts/Software/Compiled VS Interpreted.md",
-    "CS/Programming Concepts/Software/Middleware.md",
     "back-end/Communications/Http and Comm/CORS.md",
-    "back-end/Communications/Http and Comm/Http & Https.md",
-    "back-end/Communications/Communication.md",
-    "front-end/JS Advanced/Advanced Objects/JS object.md",
-    "Some shit, idk where to put/Template",
+    "back-end/GO advanced/GO under the hood/GO maps.md",
+    "Some shit, idk where to put/Pasted image 20240902200427.png",
+    "Math/Probability & Combinatorics.md",
+    "CS/Programming Concepts/Hardware/CPU/Threads.md",
+    "CS/Programming Concepts/Hardware/CPU/Process vs Thread.md",
+    "CS/Programming Concepts/Hardware/CPU/CPU.md",
+    "CS/Programming Concepts/Hardware/Types of memory.md",
+    "CS/Programming Concepts/Hardware/Hardware.md",
+    "CS/Programming Concepts/Hardware/CPU",
+    "CS/Programming Concepts/Hardware/BUS & mother-board.md",
+    "CS/Programming Concepts/Hardware",
+    "CS/Design & Patterns/Methods/Twelve Factor.md",
+    "CS/Design & Patterns/Methods",
+    "CS/Asynchronous",
+    "CS/Programming Concepts/Functions/Closure && HO Function.md",
+    "HO Function && Closure.md",
+    "Math/Sets.md",
     "Pasted image 20240824204954.png",
     "back-end/GO advanced/GO under the hood",
     "back-end/GO and Web/Configuration",
-    "back-end/GO advanced",
-    "back-end/Deploy/Deploy",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050428.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050108.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050215.png",
-    "Interview/Back",
-    "Interview/Front",
-    "Interview",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821162726.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821152843.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821161117.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821153834.png",
-    "Math",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240823221644.png",
     "Untitled.canvas",
     "Untitled 1.canvas",

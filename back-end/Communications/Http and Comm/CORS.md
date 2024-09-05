@@ -1,7 +1,7 @@
 ***
 [[Http & Https]]
 #### Special values:
-1. CORS - *Cross Origin Resource Sharing*, that mechanism allows the website request resources from other domain, that is different from its own 
+1. CORS - *Cross Origin Resource Sharing*, mechanism allows the website request resources from other domain, that is different from its own 
 
 #### To know:
 

@@ -9,7 +9,7 @@ function show() {
     return this // logs a global object or undefined if in "use strict"
 }
 ```
-- #this when called in function inside of object, refers to `object`
+- #this when called in `arrow function`, refers to context scope it is executed in, i.e because `arrow functions` does not have its own `this`
 ```ts
 const func = {
 	name: "Olaf",

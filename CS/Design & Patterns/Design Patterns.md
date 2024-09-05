@@ -10,4 +10,8 @@
 #### To know:
 
 ##### Creational:
-1. #simple-factory 
+1. #simple-factory - *object for creating other objects*
+	1. Function or method that return object `prototype` which assumed to be `new`
+
+2. #factory-method - it provide a way to delegate the instantiation of `object/class ` to its `child`
+	1. We have class `door` and do let the `child` specify what *kind* of door they want, or even allow such extendibility 
