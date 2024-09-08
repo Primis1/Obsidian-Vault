@@ -1,148 +1,8 @@
 {
   "files": [
     {
-      "path": "back-end/GO advanced/GO under the hood/GO maps.md",
-      "filename": "GO maps"
-    },
-    {
-      "path": "Interview/Back/Questions.md",
-      "filename": "Questions"
-    },
-    {
-      "path": "Math/Logarithm.md",
-      "filename": "Logarithm"
-    },
-    {
-      "path": "Math/Graphs.md",
-      "filename": "Graphs"
-    },
-    {
-      "path": "HO Function && Closure.md",
-      "filename": "HO Function && Closure"
-    },
-    {
-      "path": "Math/Probability & Combinatorics.md",
-      "filename": "Probability & Combinatorics"
-    },
-    {
-      "path": "CS/Design & Patterns/Design Patterns.md",
-      "filename": "Design Patterns"
-    },
-    {
-      "path": "back-end/GO Base/Interfaces & Generics/Interfaces.md",
-      "filename": "Interfaces"
-    },
-    {
-      "path": "front-end/React/Actual Components/Tittle component.md",
-      "filename": "Tittle component"
-    },
-    {
-      "path": "front-end/JS Advanced/Parts of JS/Event Loop.md",
-      "filename": "Event Loop"
-    },
-    {
-      "path": "Some shit, idk where to put/Pasted image 20240902200427.png",
-      "filename": "Pasted image 20240902200427"
-    },
-    {
-      "path": "back-end/GO Base/Types & Variables/Generics.md",
-      "filename": "Generics"
-    },
-    {
-      "path": "CS/Programming Concepts/Hardware/CPU/Threads.md",
-      "filename": "Threads"
-    },
-    {
-      "path": "CS/Programming Concepts/Hardware/CPU/Process vs Thread.md",
-      "filename": "Process vs Thread"
-    },
-    {
-      "path": "CS/Asynchronous/Lock, Mutex, Semaphore.md",
-      "filename": "Lock, Mutex, Semaphore"
-    },
-    {
-      "path": "front-end/JS Advanced/Parts of JS/Advanced Iterators & Generators.md",
-      "filename": "Advanced Iterators & Generators"
-    },
-    {
-      "path": "CS/Asynchronous/Parallelism && Concurrency.md",
-      "filename": "Parallelism && Concurrency"
-    },
-    {
-      "path": "front-end/TypeScript/Decorators.md",
-      "filename": "Decorators"
-    },
-    {
-      "path": "front-end/JS Advanced/Advanced Objects/Execution Context.md",
-      "filename": "Execution Context"
-    },
-    {
-      "path": "back-end/GO Base/Packages/Separate packages/FLAG.md",
-      "filename": "FLAG"
-    },
-    {
-      "path": "back-end/GO and Web/Configuration/Logging.md",
-      "filename": "Logging"
-    },
-    {
-      "path": "CS/Design & Patterns/Creational/Factory method.md",
-      "filename": "Factory method"
-    },
-    {
-      "path": "CS/Design & Patterns/Creational/Simple Factory.md",
-      "filename": "Simple Factory"
-    },
-    {
-      "path": "CS/Design & Patterns/Methods/Developing Methodologies.md",
-      "filename": "Developing Methodologies"
-    },
-    {
-      "path": "CS/Design & Patterns/Methods/Twelve Factor.md",
-      "filename": "Twelve Factor"
-    },
-    {
-      "path": "CS/Programming Concepts/Functions/Closure && HO Function.md",
-      "filename": "Closure && HO Function"
-    },
-    {
-      "path": "back-end/Communications/Http and Comm/CORS.md",
-      "filename": "CORS"
-    },
-    {
-      "path": "back-end/GO advanced/Concurrent/Mutex.md",
-      "filename": "Mutex"
-    },
-    {
-      "path": "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
-      "filename": "Object Prototype"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Hash.md",
-      "filename": "Hash"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
-      "filename": "Heap"
-    },
-    {
-      "path": "CS/Programming Concepts/Functions/Pure Function.md",
-      "filename": "Pure Function"
-    },
-    {
-      "path": "CS/Programming Concepts/Functions/Recursion.md",
-      "filename": "Recursion"
-    },
-    {
-      "path": "CS/Programming Concepts/Memory & Data/Cache.md",
-      "filename": "Cache"
-    },
-    {
-      "path": "Math/Coefficient.md",
-      "filename": "Coefficient"
-    },
-    {
-      "path": "Math/Sets.md",
-      "filename": "Sets"
+      "path": "back-end/GO and Web/Configuration/Dependency Injection.md",
+      "filename": "Dependency Injection"
     },
     {
       "path": "Some shit, idk where to put/Templ/Template.md",
@@ -151,6 +11,50 @@
     {
       "path": "Some shit, idk where to put/Template/Temp.md",
       "filename": "Temp"
+    },
+    {
+      "path": "back-end/GO and Web/Configuration/Logging.md",
+      "filename": "Logging"
+    },
+    {
+      "path": "CS/Programming Concepts/Hardware/Types of memory.md",
+      "filename": "Types of memory"
+    },
+    {
+      "path": "CS/Programming Concepts/Functions/Recursion.md",
+      "filename": "Recursion"
+    },
+    {
+      "path": "CS/Programming Concepts/Hardware/CPU/Process vs Thread.md",
+      "filename": "Process vs Thread"
+    },
+    {
+      "path": "CS/Programming Concepts/Memory & Data/Cache.md",
+      "filename": "Cache"
+    },
+    {
+      "path": "Interview/Back/Questions.md",
+      "filename": "Questions"
+    },
+    {
+      "path": "Math/Coefficient.md",
+      "filename": "Coefficient"
+    },
+    {
+      "path": "Math/Graphs.md",
+      "filename": "Graphs"
+    },
+    {
+      "path": "Math/Logarithm.md",
+      "filename": "Logarithm"
+    },
+    {
+      "path": "Math/Probability & Combinatorics.md",
+      "filename": "Probability & Combinatorics"
+    },
+    {
+      "path": "Math/Sets.md",
+      "filename": "Sets"
     },
     {
       "path": "back-end/Databases/Theory/DB planning.md",
@@ -169,12 +73,68 @@
       "filename": "Deployment"
     },
     {
+      "path": "Some shit, idk where to put/Programming.md",
+      "filename": "Programming"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Hash.md",
+      "filename": "Hash"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
+      "filename": "Heap"
+    },
+    {
+      "path": "CS/Asynchronous/Parallelism && Concurrency.md",
+      "filename": "Parallelism && Concurrency"
+    },
+    {
+      "path": "CS/Design & Patterns/Creational/Factory method.md",
+      "filename": "Factory method"
+    },
+    {
+      "path": "CS/Design & Patterns/Creational/Simple Factory.md",
+      "filename": "Simple Factory"
+    },
+    {
+      "path": "CS/Design & Patterns/Design Patterns.md",
+      "filename": "Design Patterns"
+    },
+    {
+      "path": "CS/Design & Patterns/Methods/Developing Methodologies.md",
+      "filename": "Developing Methodologies"
+    },
+    {
+      "path": "CS/Design & Patterns/Methods/Twelve Factor.md",
+      "filename": "Twelve Factor"
+    },
+    {
+      "path": "CS/Programming Concepts/Functions/Closure && HO Function.md",
+      "filename": "Closure && HO Function"
+    },
+    {
+      "path": "CS/Programming Concepts/Functions/Pure Function.md",
+      "filename": "Pure Function"
+    },
+    {
       "path": "back-end/GO Base/Channels/Channels in GO.md",
       "filename": "Channels in GO"
     },
     {
       "path": "back-end/GO Base/GO.md",
       "filename": "GO"
+    },
+    {
+      "path": "back-end/GO Base/Packages/Separate packages/FLAG.md",
+      "filename": "FLAG"
+    },
+    {
+      "path": "back-end/GO advanced/Concurrent/Mutex.md",
+      "filename": "Mutex"
+    },
+    {
+      "path": "back-end/GO advanced/GO under the hood/GO maps.md",
+      "filename": "GO maps"
     },
     {
       "path": "back-end/GO advanced/GO under the hood/GO slices.md",
@@ -189,8 +149,20 @@
       "filename": "http.Handlers"
     },
     {
+      "path": "front-end/JS Advanced/Advanced Objects/Execution Context.md",
+      "filename": "Execution Context"
+    },
+    {
       "path": "front-end/JS Advanced/Advanced Objects/JS object.md",
       "filename": "JS object"
+    },
+    {
+      "path": "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
+      "filename": "Object Prototype"
+    },
+    {
+      "path": "front-end/JS Advanced/Parts of JS/Advanced Iterators & Generators.md",
+      "filename": "Advanced Iterators & Generators"
     },
     {
       "path": "front-end/Next/Rendering/CSR.md",
@@ -223,6 +195,10 @@
     {
       "path": "front-end/React/React Docs/State & Func/Hooks.md",
       "filename": "Hooks"
+    },
+    {
+      "path": "front-end/TypeScript/Decorators.md",
+      "filename": "Decorators"
     }
   ]
 }
