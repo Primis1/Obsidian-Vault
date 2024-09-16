@@ -2,6 +2,7 @@
 [[TCP IP & OSI]]
 Special values: 
 1. #TCP - Transmission Control Protocol help to deliver HTTP messages, and do that in correct order
+		1. #UDP - User Datagram Protocol, does not provide reliable deliver over data, though delivers it faster
 2. #IP - Internet Protocol is the unique number of each computer that helps other computers to find it, it helps requests to deliver a message into the right place 
 
 To know: 

@@ -3,7 +3,6 @@
 ### Special values:
 1. #prototype - is an object from which every `object in JS` inherits properties. It is also a wrapper therefore "*==In JS everything is an== object*" exist 
 
-
 ### To know:
 
 - #### Concepts:

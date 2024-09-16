@@ -329,6 +329,7 @@ SurE
 Scientific
 Subsets
 Structural
+Struct
 values
 value
 variations
@@ -1303,6 +1304,9 @@ incomming
 instantiation
 inheritet
 isHovered
+injection
+instances
+inherits
 string
 sorting
 set
@@ -1820,6 +1824,9 @@ shall
 setup
 stroke
 setIsHovered
+separates
+stricter
+stopped
 manipulation
 many
 mentioned
@@ -3360,6 +3367,7 @@ extended
 evenly
 edges
 exposing
+encourage
 PL
 POST
 PUT
@@ -3649,6 +3657,7 @@ PvU
 POl
 Purpose
 Prevents
+Primitives
 yea
 your
 you
@@ -3937,6 +3946,7 @@ yZz
 ytL
 yAW
 yZf
+yield
 To
 TCP
 Transmission
@@ -4881,6 +4891,7 @@ towards
 twelve
 treads
 thanks
+taking
 find
 from
 for
@@ -5205,6 +5216,8 @@ formatting
 flag
 facilitates
 factory
+focuses
+fulfills
 and
 as
 any
@@ -5629,6 +5642,7 @@ age
 assumed
 area
 armed
+aware
 replace
 repeats
 repeat
@@ -6013,6 +6027,8 @@ rwo
 rehashing
 redistributed
 restricts
+removing
+rely
 of
 one
 or
@@ -6829,6 +6845,7 @@ craeteElement
 closure
 composition
 context
+checker
 digit
 default
 drop
@@ -7216,6 +7233,9 @@ decorators
 develop
 delegate
 door
+developers
+decide
+destructuring
 non
 name
 numbers
@@ -8117,6 +8137,8 @@ CORS
 Cross
 Creational
 Class
+Creates
+CAN
 used
 user
 ui
@@ -9061,6 +9083,7 @@ IEF
 IqM
 IXo
 Initialize
+Injector
 FCKN
 Front
 FTP
@@ -9379,6 +9402,7 @@ Fny
 Forgery
 Formula
 Funtion
+FUNCTIONALITY
 DISCOVERY
 DELETE
 DDD
@@ -9988,6 +10012,7 @@ hLnz
 htR
 hzr
 heavy
+hence
 ALOT
 API
 Application
@@ -10596,6 +10621,8 @@ gwC
 gIv
 graph
 graphs
+generators
+generator
 General
 GO
 GraphQL
@@ -13096,6 +13123,7 @@ OwM
 ONyU
 Oeq
 Origin
+OBJECTS
 Validation
 Validate
 Va
@@ -13995,6 +14023,7 @@ EoUP
 Eoe
 Execution
 Ensures
+EXTENDS
 Network
 NewWriter
 NewReader
@@ -14549,6 +14578,7 @@ BYcP
 BDe
 Base
 Behavioral
+BUILD
 Zeros
 Zod
 Zt
