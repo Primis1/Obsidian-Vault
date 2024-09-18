@@ -1,4 +1,5 @@
 ***
+[[Asynchronous]]
 ### Special values:
 1. #generators - are used for #concurrency  operations in JS/TS
 	1. `*functionName` - indicates declaration of generator 
@@ -36,4 +37,15 @@ it.next() //=> stopped execution
 bar() //=> do our stuff 
 
 it.next() // continue execution 
+```
+3. #yield can be used for additional arguments
+	1. only paused #yield can accept arguments 
+```ts 
+function *foo(x) {
+  x * (yield)
+  
+  console.log("x:", x);
+}
+
+foo(4).next()
 ```

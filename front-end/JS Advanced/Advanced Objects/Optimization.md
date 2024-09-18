@@ -1,4 +1,5 @@
 ***
+[[JS object]]
 ### Special values:
 1. #destructuring - taking returned properties/methods from an object, syntax sugar 
 

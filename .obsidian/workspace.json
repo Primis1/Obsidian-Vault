@@ -8,43 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa7026b180aec636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a69fe35cabd49759",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization.md",
+                "file": "CS/Network/Network.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c3a311c18a89dd94",
+            "id": "928e7ce8f40d9c97",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Network/Proxies.md",
+                "file": "CS/Terminal/Git commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: opt",
+                "query": "file: prox",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Network/Proxies.md",
+                "file": "CS/Terminal/Git commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Network/Proxies.md",
+                "file": "CS/Terminal/Git commands.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Network/Proxies.md"
+                "file": "CS/Terminal/Git commands.md"
               }
             }
           }
@@ -180,36 +169,36 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "c3a311c18a89dd94",
+  "active": "928e7ce8f40d9c97",
   "lastOpenFiles": [
+    "Proxies.md",
     "Pasted image 20240917111004.png",
     "Pasted image 20240917110808.png",
-    "Optimization.md",
     "CS/Network/Proxies.md",
-    "Generators.md",
+    "CS/Terminal/Git commands.md",
+    "CS/Network/Network.md",
+    "CS/Network/Browser.md",
+    "front-end/JS Advanced/Advanced Objects/Optimization.md",
+    "front-end/JS Advanced/Advanced Objects/Execution Context.md",
+    "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
     "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
+    "front-end/JS Advanced/Advanced Objects/JS object.md",
+    "front-end/JS Advanced/sync & async/Generators.md",
+    "front-end/JS Advanced/sync & async/Asynchronous.md",
+    "front-end/JS Advanced/sync & async/Web-Workers.md",
+    "front-end/JS Advanced/sync & async/Multithreading in JS.md",
+    "front-end/JS Advanced/sync & async/Async & Await.md",
+    "Context.md",
+    "back-end/GO Base/Types & Variables/Variables.md",
+    "front-end/JS Syntax/2 Types Chapter/Variables.md",
     "CS/Network/Network models/TCP/TCP & IP.md",
     "front-end/JS Advanced/Parts of JS/Advanced Iterators.md",
     "CS/Asynchronous/Parallelism && Concurrency.md",
-    "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
-    "front-end/JS Advanced/Advanced Objects/Execution Context.md",
-    "front-end/JS Advanced/Advanced Objects/JS object.md",
     "back-end/GO and Web/Configuration/Dependency Injection.md",
     "front-end/React/Libs/Prisma/Prisma.md",
     "CS/Programming Concepts/Functions/Recursion.md",
     "back-end/GO and Web/Configuration/File server.md",
-    "Some shit, idk where to put/Programming.md",
-    "CS/Design & Patterns/Creational/Simple Factory.md",
-    "Some shit, idk where to put/Templ/Template.md",
     "Some shit, idk where to put/Templ",
-    "back-end/GO and Web/Configuration/Logging.md",
-    "Some shit, idk where to put/Template/Temp.md",
-    "back-end/GO and Web/Configuration/File Server.md",
-    "CS/Programming Concepts/Hardware/Hardware.md",
-    "CS/Programming Concepts/Hardware/Types of memory.md",
-    "front-end/TypeScript/Decorators.md",
-    "CS/Design & Patterns/Design Patterns.md",
-    "CS/Design & Patterns/Creational/Factory method.md",
     "back-end/GO advanced/Concurrent",
     "CS/Design & Patterns/Behavioral",
     "CS/Design & Patterns/Structural",
@@ -227,7 +216,6 @@
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821162726.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821152843.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821161117.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240821153834.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
