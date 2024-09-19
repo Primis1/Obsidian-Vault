@@ -3,7 +3,7 @@
 Special values:
 1. ==executables== - in most compiled programming languages are the output points for the program, usually executable file is a binary, aka .exe 
 2. folders:
-	1. /==cmd== -  ==main== ==folder== the entire projects, should contain all ==executables== 
+	1. /==cmd== - ==main== ==folder== the entire projects, should contain all ==executables== 
 	
 	2. /==internal== - private applications and libraries, code from that place should not be imported into other libraires or packages
 	

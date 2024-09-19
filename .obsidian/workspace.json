@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "0828f2f71bd6797f",
+        "id": "f20da6a6c4fb77f1",
         "type": "tabs",
         "children": [
           {
-            "id": "a69fe35cabd49759",
+            "id": "42af45a40ff4c2f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Network/Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "928e7ce8f40d9c97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS/Terminal/Git commands.md",
+                "file": "back-end/GO and Web/GO Project Structure.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: prox",
+                "query": "file: go project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS/Terminal/Git commands.md",
+                "file": "back-end/GO and Web/GO Project Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CS/Terminal/Git commands.md",
+                "file": "back-end/GO and Web/GO Project Structure.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CS/Terminal/Git commands.md"
+                "file": "back-end/GO and Web/GO Project Structure.md"
               }
             }
           }
@@ -169,14 +156,20 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "928e7ce8f40d9c97",
+  "active": "42af45a40ff4c2f7",
   "lastOpenFiles": [
-    "Proxies.md",
-    "Pasted image 20240917111004.png",
-    "Pasted image 20240917110808.png",
-    "CS/Network/Proxies.md",
     "CS/Terminal/Git commands.md",
+    "back-end/GO and Web/GO Project Structure.md",
+    "back-end/GO and Web/MVC.md",
+    "back-end/GO and Web/Projects/DDOS in GO.md",
+    "back-end/GO and Web/Projects",
     "CS/Network/Network.md",
+    "CS/Network/Proxies.md",
+    "Context.md",
+    "Studios in Mississauga.md",
+    "Some shit, idk where to put/Pasted image 20240917110808.png",
+    "Some shit, idk where to put/Pasted image 20240917111004.png",
+    "Proxies.md",
     "CS/Network/Browser.md",
     "front-end/JS Advanced/Advanced Objects/Optimization.md",
     "front-end/JS Advanced/Advanced Objects/Execution Context.md",
@@ -188,16 +181,12 @@
     "front-end/JS Advanced/sync & async/Web-Workers.md",
     "front-end/JS Advanced/sync & async/Multithreading in JS.md",
     "front-end/JS Advanced/sync & async/Async & Await.md",
-    "Context.md",
     "back-end/GO Base/Types & Variables/Variables.md",
     "front-end/JS Syntax/2 Types Chapter/Variables.md",
     "CS/Network/Network models/TCP/TCP & IP.md",
     "front-end/JS Advanced/Parts of JS/Advanced Iterators.md",
     "CS/Asynchronous/Parallelism && Concurrency.md",
     "back-end/GO and Web/Configuration/Dependency Injection.md",
-    "front-end/React/Libs/Prisma/Prisma.md",
-    "CS/Programming Concepts/Functions/Recursion.md",
-    "back-end/GO and Web/Configuration/File server.md",
     "Some shit, idk where to put/Templ",
     "back-end/GO advanced/Concurrent",
     "CS/Design & Patterns/Behavioral",
@@ -209,7 +198,6 @@
     "CS/Design & Patterns/Methods",
     "CS/Asynchronous",
     "Pasted image 20240824204954.png",
-    "back-end/GO advanced/GO under the hood",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050428.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050108.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050215.png",
