@@ -15,12 +15,13 @@ To know:
 	3. Blank line - \\n indicates the end of header section 
 	4. Body - delivers the actual data, but not required for request to exist 
 3. Custom headers:
-	1. User-agent - client information (what kind of browser or OS used)
+	1. User-agent - client information (what kind of browser, OS used)
 	2. Accept - type of content client can process 
 	3. Cookie - 
-	4. Accept-Language - preferred language of the client  
-	5. Accept-Encoding -  preferred encoding 
-	6. Connections - options for connecting manager 
+	4. Content-length - my body is N bytes long 
+	5. Accept-Language - preferred language of the client  
+	6. Accept-Encoding -  preferred encoding 
+	7. Connections - options for connecting manager 
 4. Header attributes are parameters of headers
 
 ```ts

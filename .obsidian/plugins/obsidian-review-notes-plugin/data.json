@@ -63,6 +63,54 @@
     {
       "path": "CS/Terminal/Git commands.md",
       "filename": "Git commands"
+    },
+    {
+      "path": "back-end/Communications/Http and Comm/HTTP Body.md",
+      "filename": "HTTP Body"
+    },
+    {
+      "path": "back-end/Communications/Http and Comm/Http & Https.md",
+      "filename": "Http & Https"
+    },
+    {
+      "path": "back-end/Docker/Virtualization.md",
+      "filename": "Virtualization"
+    },
+    {
+      "path": "Docker.md",
+      "filename": "Docker"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
+      "filename": "Binary Search Tree"
+    },
+    {
+      "path": "Pasted image 20240919212833.png",
+      "filename": "Pasted image 20240919212833"
+    },
+    {
+      "path": "Pasted image 20240919213102.png",
+      "filename": "Pasted image 20240919213102"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
+      "filename": "AVL & R&B Trees"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
+      "filename": "Heap"
+    },
+    {
+      "path": "back-end/GO and Web/Configuration/Dependency Injection.md",
+      "filename": "Dependency Injection"
+    },
+    {
+      "path": "back-end/GO and Web/Configuration/Logging.md",
+      "filename": "Logging"
+    },
+    {
+      "path": "back-end/GO and Web/Configuration/File server.md",
+      "filename": "File server"
     }
   ]
 }

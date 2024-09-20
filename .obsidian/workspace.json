@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "42af45a40ff4c2f7",
+            "id": "6d08a330c6e50460",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/GO and Web/GO Project Structure.md",
+                "file": "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c9a7e01e49b48c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back-end/GO and Web/Configuration/Logging.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: go project",
+                "query": "file: depen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/GO and Web/GO Project Structure.md",
+                "file": "back-end/GO and Web/Configuration/Logging.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/GO and Web/GO Project Structure.md",
+                "file": "back-end/GO and Web/Configuration/Logging.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/GO and Web/GO Project Structure.md"
+                "file": "back-end/GO and Web/Configuration/Logging.md"
               }
             }
           }
@@ -156,15 +168,29 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "42af45a40ff4c2f7",
+  "active": "1c9a7e01e49b48c3",
   "lastOpenFiles": [
-    "CS/Terminal/Git commands.md",
+    "back-end/GO and Web/Configuration/Dependency Injection.md",
+    "back-end/GO and Web/Configuration/File server.md",
+    "back-end/GO and Web/Configuration/Logging.md",
+    "back-end/Communications/Http and Comm/Http & Https.md",
+    "back-end/Communications/Http and Comm/HTTP Body.md",
+    "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
+    "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
+    "CS/Algos and DS/Data Structures/Trees/Heap.md",
+    "CS/Algos and DS/Data Structures.md",
+    "back-end/Docker/Virtualization.md",
+    "CS/Network/Proxies.md",
+    "Pasted image 20240919213102.png",
+    "Pasted image 20240919212833.png",
+    "Docker.md",
+    "back-end/Docker/Http & Https.md",
     "back-end/GO and Web/GO Project Structure.md",
+    "CS/Terminal/Git commands.md",
     "back-end/GO and Web/MVC.md",
     "back-end/GO and Web/Projects/DDOS in GO.md",
     "back-end/GO and Web/Projects",
     "CS/Network/Network.md",
-    "CS/Network/Proxies.md",
     "Context.md",
     "Studios in Mississauga.md",
     "Some shit, idk where to put/Pasted image 20240917110808.png",
@@ -175,18 +201,6 @@
     "front-end/JS Advanced/Advanced Objects/Execution Context.md",
     "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
     "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
-    "front-end/JS Advanced/Advanced Objects/JS object.md",
-    "front-end/JS Advanced/sync & async/Generators.md",
-    "front-end/JS Advanced/sync & async/Asynchronous.md",
-    "front-end/JS Advanced/sync & async/Web-Workers.md",
-    "front-end/JS Advanced/sync & async/Multithreading in JS.md",
-    "front-end/JS Advanced/sync & async/Async & Await.md",
-    "back-end/GO Base/Types & Variables/Variables.md",
-    "front-end/JS Syntax/2 Types Chapter/Variables.md",
-    "CS/Network/Network models/TCP/TCP & IP.md",
-    "front-end/JS Advanced/Parts of JS/Advanced Iterators.md",
-    "CS/Asynchronous/Parallelism && Concurrency.md",
-    "back-end/GO and Web/Configuration/Dependency Injection.md",
     "Some shit, idk where to put/Templ",
     "back-end/GO advanced/Concurrent",
     "CS/Design & Patterns/Behavioral",
@@ -202,8 +216,6 @@
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050108.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050215.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821162726.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240821152843.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240821161117.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

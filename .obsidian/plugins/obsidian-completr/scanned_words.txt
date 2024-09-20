@@ -1836,6 +1836,7 @@ stricter
 stopped
 syl
 sjA
+self
 manipulation
 many
 mentioned
@@ -2997,6 +2998,8 @@ bzf
 blP
 bucket
 buckets
+backward
+balancing
 every
 except
 email
@@ -3675,6 +3678,7 @@ Prevents
 Primitives
 Pin
 Proxy
+Parent
 yea
 your
 you
@@ -4246,6 +4250,7 @@ TLu
 TaM
 Tqpd
 TfH
+Traversals
 know
 knows
 kind
@@ -4912,6 +4917,7 @@ treads
 thanks
 taking
 traffic
+traverse
 find
 from
 for
@@ -5241,6 +5247,7 @@ fulfills
 finalResult
 fKc
 forward
+follow
 and
 as
 any
@@ -7267,6 +7274,7 @@ developers
 decide
 destructuring
 destination
+deletion
 non
 name
 numbers
@@ -8805,6 +8813,8 @@ logger
 logs
 leveled
 logical
+lowest
+leaf
 Input
 IS
 It
@@ -9123,6 +9133,7 @@ IDATc
 IRHi
 IDATR
 Intercepts
+Insertion
 FCKN
 Front
 FTP
@@ -9744,6 +9755,7 @@ Decimal
 Drawbacks
 Defined
 Disasters
+Depth
 has
 have
 hidden
@@ -10347,6 +10359,7 @@ AuL
 AQh
 Akkk
 Allow
+AVL
 generally
 gRPC
 got
@@ -10928,6 +10941,7 @@ GjR
 GFh
 GChA
 GAm
+Graphical
 We
 Web
 When

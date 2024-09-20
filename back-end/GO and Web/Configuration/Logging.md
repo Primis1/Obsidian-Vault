@@ -3,7 +3,7 @@
 ### Special values:
 #### Env setup
 1. `os.Getenv("MYENVVARIABLE")` - returns the string of assigned env variable 
-	- `go env -w MYENVVARIABLE=/somwhere/else/bin`  - create a environment variable 
+	- `go env -w MYENVVARIABLE=/somwhere/else/bin` - create a environment variable 
 2. `go run main.go -addr=$MYENVVARIABLE` - another way to set up env variable 
 
 #### Leveled logging 
@@ -47,9 +47,4 @@
 
 	err := srv.ListenAndServe()
 	errorLog.Fatal(err)
-```
-
-3. logging into file, during runtime 
-```go
-
 ```

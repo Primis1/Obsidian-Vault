@@ -1,4 +1,5 @@
 ***
+
 Special values:
 1. Virtualization - allowing to set a "virtual" something on the computer, that allows to have one server with several OS as example
 2. #VPS/VDS - virtual dedicated server, hosting for the web applications. We can rent a virtualized chunk of server with where we are masters and gods  

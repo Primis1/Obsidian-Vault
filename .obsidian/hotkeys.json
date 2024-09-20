@@ -7,14 +7,6 @@
       "key": "B"
     }
   ],
-  "editor:toggle-bold": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "B"
-    }
-  ],
   "file-explorer:new-file": [],
   "editor:insert-wikilink": [
     {
@@ -83,6 +75,15 @@
         "Shift"
       ],
       "key": "X"
+    }
+  ],
+  "editor:save-file": [],
+  "editor:toggle-bold": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
     }
   ]
 }
