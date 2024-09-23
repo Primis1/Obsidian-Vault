@@ -3,7 +3,7 @@
   "baseFontSize": 14,
   "cssTheme": "Atom",
   "theme": "obsidian",
-  "textFontFamily": "Fira Code,Inter",
+  "textFontFamily": "Fira Code",
   "interfaceFontFamily": "Inter",
   "monospaceFontFamily": "Fira Code",
   "nativeMenus": false

@@ -1,7 +1,7 @@
 ***
 Special values:
 [[Channels in GO]]
-1. #goroutine - function in go that enables multithreading, concurrency. When go-runtime encounter the goroutine, it does not wait for it be executed
+1. #goroutine - function in go that enables multithreading, concurrency(==scheduler distributes `goroutines` across process cores, parallelism is possible==) . When go-runtime encounter the goroutine, it does not wait for it be executed
 	- Similar to JS promises, it firstly "skips" the execution of goroutine
 	- #goroutine is golang adaptation of `coroutines`, they are allow to pause and resume the flow within the thread 
 - ==work sharing / work stealing== - go uses dual model for task managing within multiple goroutines 

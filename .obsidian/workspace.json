@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6d08a330c6e50460",
+            "id": "42af45a40ff4c2f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
+                "file": "back-end/Docker/Virtualization.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1c9a7e01e49b48c3",
+            "id": "30e158c015b7cddc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/GO and Web/Configuration/Logging.md",
+                "file": "back-end/Docker/Docs/Docker-file.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: depen",
+                "query": "file: dock",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/GO and Web/Configuration/Logging.md",
+                "file": "back-end/Docker/Docs/Docker-file.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/GO and Web/Configuration/Logging.md",
+                "file": "back-end/Docker/Docs/Docker-file.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/GO and Web/Configuration/Logging.md"
+                "file": "back-end/Docker/Docs/Docker-file.md"
               }
             }
           }
@@ -168,31 +168,27 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "1c9a7e01e49b48c3",
+  "active": "801a4bac8f3dd1ae",
   "lastOpenFiles": [
-    "back-end/GO and Web/Configuration/Dependency Injection.md",
-    "back-end/GO and Web/Configuration/File server.md",
-    "back-end/GO and Web/Configuration/Logging.md",
-    "back-end/Communications/Http and Comm/Http & Https.md",
-    "back-end/Communications/Http and Comm/HTTP Body.md",
-    "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
-    "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
-    "CS/Algos and DS/Data Structures/Trees/Heap.md",
-    "CS/Algos and DS/Data Structures.md",
+    "back-end/Docker/Docs",
     "back-end/Docker/Virtualization.md",
-    "CS/Network/Proxies.md",
-    "Pasted image 20240919213102.png",
-    "Pasted image 20240919212833.png",
-    "Docker.md",
-    "back-end/Docker/Http & Https.md",
+    "back-end/Docker/Docs/Docker-file.md",
+    "back-end/Docker/Docker General.md",
+    "Math/Coefficient.md",
+    "Math/Sets.md",
+    "Math/Probability & Combinatorics.md",
+    "Studios in Mississauga.md",
+    "Context.md",
+    "Some shit, idk where to put/Pasted image 20240919213102.png",
     "back-end/GO and Web/GO Project Structure.md",
+    "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
+    "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
     "CS/Terminal/Git commands.md",
     "back-end/GO and Web/MVC.md",
     "back-end/GO and Web/Projects/DDOS in GO.md",
     "back-end/GO and Web/Projects",
     "CS/Network/Network.md",
-    "Context.md",
-    "Studios in Mississauga.md",
+    "CS/Network/Proxies.md",
     "Some shit, idk where to put/Pasted image 20240917110808.png",
     "Some shit, idk where to put/Pasted image 20240917111004.png",
     "Proxies.md",
@@ -201,6 +197,9 @@
     "front-end/JS Advanced/Advanced Objects/Execution Context.md",
     "front-end/JS Advanced/Advanced Objects/JS Value & Reference.md",
     "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
+    "front-end/JS Advanced/Advanced Objects/JS object.md",
+    "front-end/JS Advanced/sync & async/Generators.md",
+    "front-end/JS Advanced/sync & async/Asynchronous.md",
     "Some shit, idk where to put/Templ",
     "back-end/GO advanced/Concurrent",
     "CS/Design & Patterns/Behavioral",
@@ -216,6 +215,7 @@
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050108.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050215.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240821162726.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20240821152843.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

@@ -6,6 +6,12 @@
 2. #GCD - greater common divisor/factor. Means the greatest common number two number can be divided onto `12 and 18 GCD = 6`. Sometimes referred as GCF or HCF  
 3. #LCM - least common multiple. `4 and 5 LCM = 20` 
 
+***
+
+#### Decimals && Binary
+1. $decimal/2 = next-value$ 
+	- if there is a reminder we put 1
+
 ### To know: 
 
 1. Examples #coefficient:

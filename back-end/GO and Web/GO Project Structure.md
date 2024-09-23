@@ -25,7 +25,7 @@ To know:
 	2. /internal: 
 		1. Files ==could== ==not== be imported, because of ==Go compiler itself==  
 		2. ==Unsafe== to import, because it was NOT designed to be highly reusable and flexible 
-		3. Code in internal file can ==separated== into other sub-folders, i.e. `internal/app`  
+		3. Code in internal file can ==separated== into other sub-folders, i.e. `internal/config`
 	3. /pkg:
 		1. Code can be used in different applications
 		2. Used for grouping/organizing the project files. Commonly has only an organization purpose 

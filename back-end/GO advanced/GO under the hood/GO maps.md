@@ -7,7 +7,7 @@
 	1. #hash-function - settled key is managed by `hash-function`, and decided to what bucket the value is going to be stored  
 	2. buckets - small containers for the values, values should be evenly placed among existing buckets
 	3. collision manager - go avoids collision by `chaining` method 
-	4. growth and rehashing - when the amount values is close to specific capacity of the bucket, ==rehashing== begins. In that time elements are redistributed among new ==fresh== created buckets   
+	4. growth and rehashing - when amount of values is close to specific capacity of bucket, ==rehashing== begins. In that time elements are redistributed among new ==fresh== created buckets   
 ### To know: 
 #### Syntax:
 ```go
