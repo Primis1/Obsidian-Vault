@@ -65,24 +65,8 @@
       "filename": "Git commands"
     },
     {
-      "path": "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
-      "filename": "AVL & R&B Trees"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
-      "filename": "Binary Search Tree"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
-      "filename": "Heap"
-    },
-    {
-      "path": "back-end/Docker/Docker General.md",
-      "filename": "Docker General"
-    },
-    {
-      "path": "Some shit, idk where to put/Pasted image 20240919213102.png",
-      "filename": "Pasted image 20240919213102"
+      "path": "back-end/Communications/Http and Comm/HTTP Body.md",
+      "filename": "HTTP Body"
     },
     {
       "path": "back-end/Communications/Http and Comm/Http & Https.md",
@@ -93,24 +77,72 @@
       "filename": "Virtualization"
     },
     {
+      "path": "Docker.md",
+      "filename": "Docker"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
+      "filename": "Binary Search Tree"
+    },
+    {
+      "path": "Pasted image 20240919212833.png",
+      "filename": "Pasted image 20240919212833"
+    },
+    {
+      "path": "Pasted image 20240919213102.png",
+      "filename": "Pasted image 20240919213102"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
+      "filename": "AVL & R&B Trees"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
+      "filename": "Heap"
+    },
+    {
+      "path": "back-end/GO and Web/Configuration/Dependency Injection.md",
+      "filename": "Dependency Injection"
+    },
+    {
       "path": "back-end/GO and Web/Configuration/Logging.md",
       "filename": "Logging"
     },
     {
-      "path": "Math/Probability & Combinatorics.md",
-      "filename": "Probability & Combinatorics"
-    },
-    {
-      "path": "Math/Sets.md",
-      "filename": "Sets"
+      "path": "back-end/GO and Web/Configuration/File server.md",
+      "filename": "File server"
     },
     {
       "path": "Math/Coefficient.md",
       "filename": "Coefficient"
     },
     {
+      "path": "Some shit, idk where to put/Pasted image 20240919213102.png",
+      "filename": "Pasted image 20240919213102"
+    },
+    {
+      "path": "back-end/Docker/Docker General.md",
+      "filename": "Docker General"
+    },
+    {
       "path": "back-end/Docker/Docs/Docker-file.md",
       "filename": "Docker-file"
+    },
+    {
+      "path": "back-end/GO Base/Channels/Goroutine.md",
+      "filename": "Goroutine"
+    },
+    {
+      "path": "back-end/GO advanced/GO under the hood/GO maps.md",
+      "filename": "GO maps"
+    },
+    {
+      "path": "back-end/Docker/Docs/Building Process.md",
+      "filename": "Building Process"
+    },
+    {
+      "path": "back-end/Docker/Docs/Run Container.md",
+      "filename": "Run Container"
     }
   ]
 }

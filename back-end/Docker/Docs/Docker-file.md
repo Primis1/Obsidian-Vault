@@ -1,13 +1,19 @@
 ***
 ### Special values:
 1. #docker-file - blueprint where we set all needed instructions
-
+	- `directives` similar to comments things, we declare them at the top of `Dockerfile`, and only there 
 ### To know:
 
 #### Concepts: 
+1. Syntax is something between SQL and YAML files, where we got case sensitive `instruction` and argument to it
+	- In #docker-file we specify the actual docker image, ==it is place where job is going==. 
+2. We use 
 
 #### Implementation:
 ```ruby
+#  syntax=docker/dockerfile:1
+#  this is just a comment 
+
 // availiable instruction:
 
 ADD => Add local or remote files and dirs 
@@ -16,31 +22,31 @@ ARG => Use build-time variable
 
 CMD => Specify default commands 
 
-COPY => Copy files and dirs 
+COPY => Copy fs and dirs 
 
 ENTRYPOINT => specify default executable 
 
 ENV => Set envrionment variable 
 
-EXPOSE => Describe which 
+EXPOSE => Set which ports applc is listed on 
 
-FROM 
+FROM => Create new build stage from a base 
 
-LABEL 
+LABEL => Add metadata
 
-MAININER 
+MAININER => Specify the authour 
 
-ONBUILD
+ONBUILD => Specify instruction, when image used in build
 
-RUN 
+RUN => Executes the build commands 
 
-SHELL
+SHELL => Set the default shell image 
 
-STOPSIGN 
+STOPSIGN => Specify sys call signal for exiting container 
 
-USER 
+USER => Set user and group ID 
 
-VOLUME 
+VOLUME => Create volume mounts 
 
-WORKDIR
+WORKDIR => Change working directory 
 ```
