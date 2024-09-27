@@ -143,6 +143,14 @@
     {
       "path": "back-end/Docker/Docs/Run Container.md",
       "filename": "Run Container"
+    },
+    {
+      "path": "Interview/Back/Questions.md",
+      "filename": "Questions"
+    },
+    {
+      "path": "News-Bot.md",
+      "filename": "News-Bot"
     }
   ]
 }
