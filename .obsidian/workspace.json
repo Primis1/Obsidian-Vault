@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/Docker/Docs/Docker-file.md",
+                "file": "back-end/Docker/Docs/Building Process.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Back/Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46d67b457be9302a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "News-Bot.md",
+                "file": "CS/Network/Network models/TCP/TCP & IP.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +37,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/Docker/Docs/Run Container.md",
+                "file": "back-end/GO and Web/Configuration/Logging.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8c1486e8535c431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Advanced Logging.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +84,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#docker-file",
+                "query": "file: log",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "News-Bot.md",
+                "file": "back-end/Docker/Docs/Building Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "News-Bot.md",
+                "file": "back-end/Docker/Docs/Building Process.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "News-Bot.md"
+                "file": "back-end/Docker/Docs/Building Process.md"
               }
             }
           }
@@ -192,17 +191,20 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "46d67b457be9302a",
+  "active": "1c9a7e01e49b48c3",
   "lastOpenFiles": [
-    "Interview/Back/Questions.md",
     "News-Bot.md",
-    "Interview/Front/Questions.md",
     "back-end/Docker/Docs/Run Container.md",
     "back-end/Docker/Docs/Building Process.md",
     "back-end/Docker/Docs/Docker-file.md",
+    "Advanced Logging.md",
+    "back-end/GO and Web/Configuration/Logging.md",
+    "CS/Network/Network models/TCP/TCP & IP.md",
+    "back-end/GO Base/Packages/Separate packages/OS package.md",
+    "back-end/GO Base/Packages/Separate packages/NET.md",
+    "CS/Programming Concepts/Hardware/CPU/Process vs Thread.md",
     "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
     "back-end/Docker/Docker General.md",
-    "back-end/GO and Web/Configuration/Logging.md",
     "back-end/Docker/Docs",
     "Some shit, idk where to put/Pasted image 20240919213102.png",
     "back-end/GO and Web/Configuration/Dependency Injection.md",
@@ -221,10 +223,7 @@
     "back-end/GO and Web/GO Project Structure.md",
     "CS/Terminal/Git commands.md",
     "back-end/GO and Web/MVC.md",
-    "back-end/GO and Web/Projects/DDOS in GO.md",
     "back-end/GO and Web/Projects",
-    "CS/Network/Network.md",
-    "Context.md",
     "Some shit, idk where to put/Pasted image 20240917110808.png",
     "Some shit, idk where to put/Pasted image 20240917111004.png",
     "Some shit, idk where to put/Templ",

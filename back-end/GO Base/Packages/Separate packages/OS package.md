@@ -14,10 +14,16 @@ Special values:
 	3. 
 ***
 3. Env manipulation
-	1. os.Args[] .[]string - allows to make write command-line arguments==?==
+	1. os.Args[ index] - string - allows to get a terminal or standard input string, by its index  
 
 To know:
 1. Package provides:
 	1. #I/O file, functions
 	2. File directory manipulations 
 	3. Accessing environment variables  
+
+#### Implementation: 
+
+```go
+
+```

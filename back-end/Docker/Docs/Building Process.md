@@ -39,3 +39,34 @@ RUN CGO_ENABLED=0 GOOS=linux go build -o /docker-gs-ping
 ```go
 CMD ["/docker-gs-ping"]
 ```
+
+#### Multistage build 
+```ruby
+# syntax=docker/dockerfile:1 
+
+FROM golang:1.23.1 AS build-stage
+
+WORKDIR /app
+
+COPY /cmd/go.mod /cmd/go.sum ./
+
+RUN go mod donwload 
+
+COPY /cmd/*.go ./
+
+RUN CGO_ENABLED=0 GOOS=linux go build -o /docker
+
+FROM build-stage AS test-stage # we take our builded image, as default 
+
+RUN go test -v ./.. 
+
+FROM grc.io/distroless/base-debian11 AS final-stage 
+
+WORKDIR /
+
+COPY --from=build-stage /doc-image /doc-image
+
+USER nonroot:nonroot
+
+ENTRYPOINT ["/docker"]
+```
