@@ -1,7 +1,8 @@
 ***
 [[Docker General]]
 Special values:
-1. Virtualization - allowing to set a "virtual" something on the computer, that allows to have one server with several OS as example
+1. VM - virtual machine, fully #virtualized machine, which is fully isolated, has its own file system 
+	1. Virtualization - allowing to set a "virtual" something on the computer, that allows to have one server with several OS as example
 2. #VPS/VDS - virtual dedicated server, hosting for the web applications. We can rent a virtualized chunk of server where we are masters and gods  
 3. Types of VZ:
 	1. OPEN VZ - it can access only for Linux distributives, because it based on a single Linux core, dynamic memory resource usage

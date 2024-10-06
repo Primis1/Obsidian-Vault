@@ -4,59 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "f20da6a6c4fb77f1",
+        "id": "9f5c8e32b7b64544",
         "type": "tabs",
         "children": [
           {
-            "id": "1c9a7e01e49b48c3",
+            "id": "9306ab02c520c903",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/Docker/Docs/Docker-file.md",
+                "file": "front-end/JS Advanced/Parts of JS/JS Runtime's.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b6ee3d960be105ad",
+            "id": "2f99ae8c1bd57a28",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview/Back/Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46d67b457be9302a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "News-Bot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7e4106b397c98cde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/Docker/Docs/Run Container.md",
+                "file": "back-end/Docker/Docker General.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#docker-file",
+                "query": "file: doc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "News-Bot.md",
+                "file": "back-end/Docker/Docker General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "News-Bot.md",
+                "file": "back-end/Docker/Docker General.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -170,12 +147,11 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "News-Bot.md"
+                "file": "back-end/Docker/Docker General.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,39 +168,41 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "46d67b457be9302a",
+  "active": "2f99ae8c1bd57a28",
   "lastOpenFiles": [
-    "Interview/Back/Questions.md",
-    "News-Bot.md",
-    "Interview/Front/Questions.md",
-    "back-end/Docker/Docs/Run Container.md",
-    "back-end/Docker/Docs/Building Process.md",
     "back-end/Docker/Docs/Docker-file.md",
-    "CS/Algos and DS/Data Structures/Trees/Binary Search Tree.md",
     "back-end/Docker/Docker General.md",
-    "back-end/GO and Web/Configuration/Logging.md",
+    "back-end/Docker/Virtualization.md",
+    "back-end/Communications/Http and Comm/Http & Https.md",
+    "CS/Programming Concepts/Functions/Closure && HO Function.md",
+    "front-end/Next/NextJS.md",
+    "front-end/Next/Rendering/Reconsciliation.md",
+    "front-end/Next/Rendering/Streaming & Hydration.md",
+    "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
+    "front-end/JS Advanced/Advanced Objects/Null vs Undefined.md",
+    "front-end/JS Advanced/Parts of JS/JS Runtime's.md",
+    "front-end/JS Advanced/sync & async/Multithreading in JS.md",
+    "front-end/JS Syntax/7 Async JS/Asynchronous JS.md",
+    "front-end/React/React Docs/State & Func/JSX.md",
+    "front-end/React/React Docs/State & Func/State.md",
+    "front-end/JS Advanced/Parts of JS/Advanced Iterators.md",
+    "back-end/Databases/Theory/Normalization.md",
+    "back-end/Databases/Theory/DB planning.md",
+    "front-end/React/React Docs/State & Func/Hooks.md",
+    "front-end/React/React Docs/True Theory/DOM vs Virtual DOM.md",
+    "CS/Terminal/Git commands.md",
+    "CS/Terminal/Linux.md",
+    "Studios in Mississauga.md",
+    "Context.md",
+    "Some shit, idk where to put/Pasted image 20240930162659.png",
+    "front-end/Next/Data Fetching/Server Actions.md",
+    "Some shit, idk where to put/tips for querying.md",
+    "back-end/Projects",
     "back-end/Docker/Docs",
     "Some shit, idk where to put/Pasted image 20240919213102.png",
-    "back-end/GO and Web/Configuration/Dependency Injection.md",
-    "back-end/GO and Web/Configuration/File server.md",
-    "back-end/Communications/Http and Comm/Http & Https.md",
-    "back-end/Communications/Http and Comm/HTTP Body.md",
-    "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
-    "CS/Algos and DS/Data Structures/Trees/Heap.md",
-    "CS/Algos and DS/Data Structures.md",
-    "back-end/Docker/Virtualization.md",
-    "CS/Network/Proxies.md",
     "Pasted image 20240919213102.png",
     "Pasted image 20240919212833.png",
-    "Docker.md",
-    "back-end/Docker/Http & Https.md",
-    "back-end/GO and Web/GO Project Structure.md",
-    "CS/Terminal/Git commands.md",
-    "back-end/GO and Web/MVC.md",
-    "back-end/GO and Web/Projects/DDOS in GO.md",
     "back-end/GO and Web/Projects",
-    "CS/Network/Network.md",
-    "Context.md",
     "Some shit, idk where to put/Pasted image 20240917110808.png",
     "Some shit, idk where to put/Pasted image 20240917111004.png",
     "Some shit, idk where to put/Templ",
@@ -235,11 +213,9 @@
     "Some shit, idk where to put/Pasted image 20240902200427.png",
     "CS/Programming Concepts/Hardware/CPU",
     "CS/Programming Concepts/Hardware",
-    "CS/Design & Patterns/Methods",
     "Pasted image 20240824204954.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050428.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050108.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240825050215.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

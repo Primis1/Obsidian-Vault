@@ -1,6 +1,6 @@
 ***
 ### Special values:
-1. Streaming - painting the components of page, by chunks and   
+1. Streaming - painting the components of page, by chunks
 2. Hydration - adding interactivity to the page, ==via JS handlers== 
 
 ### To know:

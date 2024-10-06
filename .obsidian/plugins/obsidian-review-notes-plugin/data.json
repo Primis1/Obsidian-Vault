@@ -149,8 +149,48 @@
       "filename": "Questions"
     },
     {
-      "path": "News-Bot.md",
+      "path": "back-end/Projects/News-Bot.md",
       "filename": "News-Bot"
+    },
+    {
+      "path": "CS/Terminal/Linux.md",
+      "filename": "Linux"
+    },
+    {
+      "path": "Some shit, idk where to put/tips for querying.md",
+      "filename": "tips for querying"
+    },
+    {
+      "path": "Some shit, idk where to put/Pasted image 20240930162659.png",
+      "filename": "Pasted image 20240930162659"
+    },
+    {
+      "path": "front-end/React/React Docs/True Theory/DOM vs Virtual DOM.md",
+      "filename": "DOM vs Virtual DOM"
+    },
+    {
+      "path": "front-end/React/React Docs/State & Func/State.md",
+      "filename": "State"
+    },
+    {
+      "path": "front-end/React/React Docs/State & Func/Hooks.md",
+      "filename": "Hooks"
+    },
+    {
+      "path": "front-end/JS Advanced/Advanced Objects/Null vs Undefined.md",
+      "filename": "Null vs Undefined"
+    },
+    {
+      "path": "CS/Programming Concepts/Functions/Closure && HO Function.md",
+      "filename": "Closure && HO Function"
+    },
+    {
+      "path": "front-end/Next/Rendering/Streaming & Hydration.md",
+      "filename": "Streaming & Hydration"
+    },
+    {
+      "path": "front-end/Next/Rendering/Reconsciliation.md",
+      "filename": "Reconsciliation"
     }
   ]
 }

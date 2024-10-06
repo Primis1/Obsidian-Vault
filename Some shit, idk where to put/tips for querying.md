@@ -1,4 +1,4 @@
-In Prisma, the `findUnique()` method is used to retrieve a single unique record from the database. It does not inherently understand or enforce authorization; rather, it expects a specific unique property to identify the record you want to fetch, such as an `id` or `email` that is marked as unique in your schema.
+pIn Prisma, the `findUnique()` method is used to retrieve a single unique record from the database. It does not inherently understand or enforce authorization; rather, it expects a specific unique property to identify the record you want to fetch, such as an `id` or `email` that is marked as unique in your schema.
 
 If you want to incorporate authorization logic to determine which user properties to fetch, you would need to implement this logic separately in your application. This could involve checking if the user is authorized and then passing the appropriate unique property to the `findUnique()` method.
 

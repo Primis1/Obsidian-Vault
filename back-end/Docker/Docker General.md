@@ -9,3 +9,10 @@
 ### To know:
 
 #### Concepts:
+1. Similar to #virtualized  machines, docker isolates software in it's own, settled, environment to enable multiple deployment of service, on a single server's unit
+	- Containers can share or be based on other containers or images
+	- They are not isolated that good 
+```go 
+container with file system 
+	> 100+ containers who use it as default examplar 
+```

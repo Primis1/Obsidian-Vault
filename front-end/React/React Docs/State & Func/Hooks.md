@@ -1,10 +1,10 @@
 ***
 ### Special values:
 
-#### #hook - are created for "connecting" to lifecycle of `react-component` from functional components 
+##### #hook - are created for "connecting" to life cycle of `react-component` from functional components 
 
 - #useState - adds the state to the component
-- #useEffect - adds the lifecycle to the component with state, re-render it, give side effects like: API calls, subscriptions to something
+- #useEffect - adds the life cycle to the component with state, re-render it, give side effects like: API calls, subscriptions to something
 - #useContext - state manager, facilitates data access one of `react` build it `state-managment` things 
 - #useReducer - advanced version of #useContext , implemented by #reducer pattern
 
@@ -17,7 +17,7 @@
 	2. scope can be invoked through triggering the dependency state
 
 3. #useContext 
-	1. 
+	1. Reacts' native state manager. allows to efficiently pass the state in the component tree    
 
-4. #useReducer 
-	1. 
+4. #useRef
+	1. Used for adding initial state to and prevent future renders 
