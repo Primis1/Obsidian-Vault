@@ -1,7 +1,13 @@
 ***
 Special values:
 1. % - make a division of left operant over right operant, ==returns the remainder of from the dividing== 
-2. ^ - bitwise operator 
+2. ^ - XOR operator, returns the result of comparison
+```go
+0 or 0 = 0
+1 or 1 = 0
+
+0 or 1 = 1 
+```
 3. << / >> - ==left-shift==, ==right-shift==. They used for shifting the bits of left operand on the number of right operand. ==Whether right left or right== 
 
 To know:
@@ -9,7 +15,7 @@ To know:
 	1. If ==x== can't be divided by *divider*, it returns ==x== 
 	2. Can ==determine== does the number ==consists== from the ==divider== 
 	3. Can ==determine== does the number is ==even== or ==odd==
-	4. Every ==N==th operation, for something. Send a promo for discount, every 50 logins 
+	4. Every ==N==-th operation, for something. Send a promo for discount, every 50 logins 
 ```js
 1 % 5 = 1// 1 cannot be divided by 5, so the remainder is 1
 4 % 5 = 4// 4 cannot be divided by 5, so the remainder is 4
@@ -28,8 +34,14 @@ for(let i=1; i <= longList; i++ ) {
   }
 }
 ```
-2. XOR: 
-
+2. XOR:
+	1. used for identifying identical number
+```go
+	x := 12
+	y := 12
+	x ^ y = 12 
+	x ^ 0 = 12 // leaves the number unchanged 
+```
 3. Shift:
 	1. Can be used for more performance multiplication/division. Because of right bit access 
 		1. Basically all it does is ==a * 2^b== or ==a / 2^b==

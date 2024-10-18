@@ -1,7 +1,8 @@
 ***
 [[JS object]]
 ### Special values:
-1. #destructuring - taking returned properties/methods from an object, syntax sugar 
+1. #destructuring - taking returned properties/methods from an object, syntax sugar \
+	1. we usually destruct return values from functions
 
 ### To know:
 

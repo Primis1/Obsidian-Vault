@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9f5c8e32b7b64544",
+        "id": "c64d625438f8dd1e",
         "type": "tabs",
         "children": [
           {
-            "id": "9306ab02c520c903",
+            "id": "158f2cf023d5d33e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "front-end/JS Advanced/Parts of JS/JS Runtime's.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f99ae8c1bd57a28",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "back-end/Docker/Docker General.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: doc",
+                "query": "file: hea",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "back-end/Docker/Docker General.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/Docker/Docker General.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -134,29 +114,27 @@
             }
           },
           {
-            "id": "c3e008bee97d0c1d",
+            "id": "96bf649794789838",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "3ddc1277aaea990e",
             "type": "leaf",
             "state": {
               "type": "review-notes",
               "state": {}
             }
-          },
-          {
-            "id": "96bf649794789838",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "back-end/Docker/Docker General.md"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,36 +146,37 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "2f99ae8c1bd57a28",
+  "active": "158f2cf023d5d33e",
   "lastOpenFiles": [
-    "Advanced Logging.md",
-    "back-end/Docker/Docs/Docker-file.md",
+    "back-end/GO and Web/Projects/Advanced Logging.md",
+    "back-end/GO and Web/Projects/DDOS in GO.md",
+    "CS/Algos and DS/Data Structures/Trees/Heap.md",
+    "front-end/JS Advanced/Advanced Objects/JS object.md",
+    "front-end/JS Advanced/sync & async/Async & Await.md",
+    "front-end/JS Advanced/sync & async/Generators.md",
+    "front-end/JS Advanced/Advanced Objects/Optimization.md",
+    "Math/Graphs.md",
+    "Math/Coefficient.md",
+    "Math/Math.md",
+    "Math/Logarithm.md",
+    "Math/Probability & Combinatorics.md",
+    "Math/Sets.md",
+    "Math/Percentile.md",
+    "Math/Sums.md",
     "back-end/Docker/Docker General.md",
-    "back-end/Docker/Virtualization.md",
-    "back-end/Communications/Http and Comm/Http & Https.md",
-    "CS/Programming Concepts/Functions/Closure && HO Function.md",
-    "front-end/Next/NextJS.md",
-    "front-end/Next/Rendering/Reconsciliation.md",
-    "front-end/Next/Rendering/Streaming & Hydration.md",
-    "front-end/JS Advanced/Advanced Objects/Object Prototype.md",
-    "front-end/JS Advanced/Advanced Objects/Null vs Undefined.md",
-    "front-end/JS Advanced/Parts of JS/JS Runtime's.md",
-    "front-end/JS Advanced/sync & async/Multithreading in JS.md",
-    "front-end/JS Syntax/7 Async JS/Asynchronous JS.md",
-    "front-end/React/React Docs/State & Func/JSX.md",
-    "front-end/React/React Docs/State & Func/State.md",
-    "front-end/JS Advanced/Parts of JS/Advanced Iterators.md",
-    "back-end/Databases/Theory/Normalization.md",
-    "back-end/Databases/Theory/DB planning.md",
-    "front-end/React/React Docs/State & Func/Hooks.md",
-    "front-end/React/React Docs/True Theory/DOM vs Virtual DOM.md",
-    "CS/Terminal/Git commands.md",
-    "CS/Terminal/Linux.md",
-    "Studios in Mississauga.md",
-    "Context.md",
-    "Some shit, idk where to put/Pasted image 20240930162659.png",
-    "front-end/Next/Data Fetching/Server Actions.md",
+    "CS/Algos and DS/Modulo & Bitwise.md",
+    "back-end/Docker/Docs/Volume.md",
+    "back-end/GO and Web/Configuration/Logging.md",
+    "back-end/GO advanced/Concurrent/Context.md",
+    "Some shit, idk where to put/Pasted image 20241008084742.png",
+    "Some shit, idk where to put/Voc/Programming Voc.md",
+    "Pasted image 20241008084720.png",
+    "CS/Algos and DS/Data Structures/Linked-lists/Linked List.md",
+    "back-end/Docker/Docs/Building Process.md",
+    "back-end/Projects/News-Bot.md",
     "back-end/Projects",
+    "News-Bot.md",
+    "back-end/Docker/Docs/Run Container.md",
     "back-end/Docker/Docs",
     "Some shit, idk where to put/Pasted image 20240919213102.png",
     "Pasted image 20240919213102.png",
@@ -215,7 +194,6 @@
     "CS/Programming Concepts/Hardware",
     "Pasted image 20240824204954.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20240825050428.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240825050108.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

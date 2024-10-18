@@ -348,6 +348,7 @@ SqtE
 SEj
 Streaming
 Similar
+Sigma
 values
 value
 variations
@@ -625,6 +626,7 @@ vjzYK
 vNuP
 vWs
 vSZQ
+volumes
 Regex
 Rest
 REST
@@ -1377,6 +1379,10 @@ ijN
 iÄI
 iLya
 iuT
+inheritence
+iFL
+isolates
+identical
 string
 sorting
 set
@@ -1920,6 +1926,9 @@ snap
 shots
 statically
 scoped
+sycalls
+services
+settling
 manipulation
 many
 mentioned
@@ -2754,6 +2763,8 @@ pImbb
 pam
 pNboa
 progressively
+probability
+pray
 built
 baby
 brackets
@@ -3528,6 +3539,7 @@ eiy
 esk
 eKUl
 eUB
+eQr
 PL
 POST
 PUT
@@ -3828,6 +3840,9 @@ PvJ
 Ped
 PSn
 Patterns
+PlC
+Planning
+Packages
 yea
 your
 you
@@ -4124,6 +4139,7 @@ yyN
 yZx
 ybm
 ypq
+ybPe
 To
 TCP
 Transmission
@@ -4734,6 +4750,7 @@ kLb
 kVx
 kZr
 kmU
+killed
 technology
 things
 that
@@ -5108,6 +5125,7 @@ tRz
 tof
 tRS
 tLF
+target
 find
 from
 for
@@ -5448,6 +5466,7 @@ flF
 fsu
 fxm
 fcv
+fvQ
 and
 as
 any
@@ -6588,6 +6607,8 @@ oan
 oTA
 oIB
 oXq
+origin
+overloading
 character
 computer
 classes
@@ -7132,6 +7153,7 @@ cHr
 cwg
 cxV
 cpP
+calculating
 digit
 default
 drop
@@ -7540,6 +7562,10 @@ dVo
 determines
 definition
 delivered
+ddos
+distributed
+denial
+disability
 non
 name
 numbers
@@ -8107,6 +8133,7 @@ wMG
 wct
 wFT
 wgk
+whatever
 Can
 Controlled
 Components
@@ -8468,6 +8495,7 @@ CuS
 CDjD
 CAO
 CdP
+Containers
 used
 user
 ui
@@ -9131,6 +9159,7 @@ lYB
 lkWO
 lJp
 lyhz
+likely
 Input
 IS
 It
@@ -9461,6 +9490,7 @@ IpEkF
 InQi
 IeBT
 ITq
+IDATh
 FCKN
 Front
 FTP
@@ -10104,6 +10134,8 @@ DSp
 DGd
 DGl
 DzR
+Decimals
+Docker
 has
 have
 hidden
@@ -10729,6 +10761,9 @@ Ayza
 AMU
 Aby
 AWO
+Adjsut
+Adjectives
+Above
 generally
 gRPC
 got
@@ -11055,6 +11090,8 @@ gegaP
 gogJ
 gYXX
 gaa
+gHT
+gscH
 General
 GO
 GraphQL
@@ -11336,6 +11373,7 @@ GYT
 GLLD
 GwVy
 GONEM
+Goal
 We
 Web
 When
@@ -11889,6 +11927,7 @@ HNJA
 HdWBqT
 HcMN
 Hydration
+Hth
 query
 questions
 quality
@@ -12761,6 +12800,9 @@ MdN
 MMR
 MRO
 MSl
+Multistage
+Modify
+MbF
 JSON
 JS
 Jesus
@@ -13979,6 +14021,8 @@ VJt
 VLW
 VMRR
 VHv
+Verb
+Volumes
 Layers
 Link
 Listen
@@ -14879,6 +14923,7 @@ NON
 NhC
 NzZ
 NDk
+Nouns
 BaaS
 Both
 Basic
@@ -15186,6 +15231,8 @@ ByNTI
 BkC
 BRS
 BDD
+Binary
+Below
 Zeros
 Zod
 Zt
@@ -16233,6 +16280,7 @@ YkA
 YFo
 YZZj
 YUY
+YTa
 Know
 Ko
 KV

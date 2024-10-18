@@ -29,6 +29,7 @@
 2. For accessing right side node $$right(i)=2*i+1$$
 3. For accessing the parent node $$parent(i)=int(i/2)$$
 4. For accessing the ==leaves== of the tree(==those nodes who don't have any children==), `n` is equal to amount of elements in the heap $$leaves = A[int(n/2)+1]  \to  A[n]$$
+5. Find min/max numbers of elements in a heap, when we now its `height`: $$min  = height + 1$$ $$max = 2^{height+1}-1$$
 - According to formulas, we can try to access the "arrays" which represents the values of binary tree
 ```go
 right := 2 * i + 1 
