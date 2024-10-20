@@ -1,7 +1,7 @@
 ***
 ### Special values:
 1. #higher-order-function - function that take another function as argument or returns it 
-2. #closure - `замикания`, ability of function to remember its surrounding 
+2. #closure - `замикания`, ability of function to remember its lexical environment parameters 
 
 ### To know:
 

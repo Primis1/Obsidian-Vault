@@ -39,7 +39,6 @@ right(3) //=> 15
 ### Implementation In Go:
 1. We can convert the list of items into the heap by implementing the ==heap-interface== 
 2. container/heap library 
-3. 
 ```go
 
 ```

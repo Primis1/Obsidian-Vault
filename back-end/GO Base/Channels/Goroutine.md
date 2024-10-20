@@ -1,7 +1,8 @@
 ***
 Special values:
 [[Channels in GO]]
-1. #goroutine - function in go that enables multithreading, concurrency(==scheduler distributes `goroutines` across process cores, parallelism is possible==) . When go-runtime encounter the goroutine, it does not wait for it be executed
+1. #goroutine - function in go that enables multithreading, concurrency. When go-runtime encounter the goroutine, it does not wait for it be executed, and continues to read the file 
+	- Scheduler opens a goroutine pool across available system-processes or CPU-cores, enabling goroutine run in ==parallelism== 
 	- Similar to JS promises, it firstly "skips" the execution of goroutine
 	- #goroutine is golang adaptation of `coroutines`, they are allow to pause and resume the flow within the thread 
 - ==work sharing / work stealing== - go uses dual model for task managing within multiple goroutines 
@@ -11,7 +12,7 @@ Special values:
 	2. ==b)== GO does ==NOT== provide much utilities to adjust go-runtime*  
 
 To know:
-1. Go's goroutine are NOT system threads nor processes, they are ==*light-weight*== threads that are managed by ==GO== ==runtime== and ==queue's== within it 
+1. Go's goroutines are NOT system threads nor processes, they are ==*light-weight*== threads that are managed by ==GO== ==runtime== and ==queue's== within it 
 
 2. #goroutine have their own memory #call-stack (run time environment). Each gorotine starts from the small amount of memory and growth it during execution if needed 
 	1. It is not uncommon to have hundreds, thousands or even million gorotine running at the same time 

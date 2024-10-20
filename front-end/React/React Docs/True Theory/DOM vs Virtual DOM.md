@@ -3,6 +3,8 @@
 	
 2. Virtual DOM/React component tree - is lighter version of original DOM, it perhaps exist only within  the react environment 
 
+3. #reconciliation - process of comparing and replacing the elements in from DOM to changed in VDOM
+
 ### To know:
 1. VDOM is lighter and faster than DOM tree.
 2. VDOM has three different stages:

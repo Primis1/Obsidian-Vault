@@ -1,10 +1,13 @@
 ***
 [[Data Structures]]
-Special values:
-1. #Stack - is a linear data structure, that used for element execution. It uses a "last in, first out" approach.
+### Special values:
+1. #stack - is a linear data structure, that used for element execution. It uses a "last in, first out" approach.
+	1. min/max #stack - the same, but keep track on the min/max value in the stack, provide $$
 ![[Pasted image 20240526000642.png]]
+2. #queue - data-structure, which elements can be accessed by ONLY previous element. 
+### To know:
 
-To know:
+#### Stack:
 1. We can excess only the ==top== element of the stack(it consists from a vertical pointer).
 2. Types of stack:
 	1. ==Fixed Size Stack==:
@@ -15,4 +18,12 @@ To know:
 
 Implementation 
 ```ts
+
 ```
+
+#### Priority queue:
+1. Same as queue, but each element has its ==priority level==. therefore, elements are inserted based on that level
+
+2. Elements are re-ordered when changes
+
+3. Priority queues - can be implemented through heaps:

@@ -16,3 +16,14 @@
 
 6. MMC global
 	- 4275 Village Centre CourtL4Z 1V3
+
+
+7. Consensus Creative
+	- 18 King Street East, Suite 1400,  Toronto, Ontario, M5C 1C4  Canada
+
+8. func.media
+	- 60 Atlantic Ave. Toronto, ON, M6K 1X9
+
+9. 
+	- 111 Queen Street East South Building  Suite 450, Toronto,  ON M5C 1S2 Canada  
+[+1 (416) 720-1790](tel:+14167201790 "+1 (416) 720-1790")
