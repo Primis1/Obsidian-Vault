@@ -1,5 +1,5 @@
 ***
-[[Binary Search Tree]]
+[[Binary & Search Tree]]
 ### Special values:
 1. Heap - is based on a #binary-tree *like* data structure, that satisfies tree concept. The value of each ==node== is ==greater== or ==equal== to its ==children==. We should fill the heap from left to right
 	1. min #heap - Root node contains the ==minimum== value  

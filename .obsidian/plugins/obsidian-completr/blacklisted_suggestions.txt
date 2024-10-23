@@ -19,3 +19,4 @@ ACID
 work
 Work
 works
+SOLID

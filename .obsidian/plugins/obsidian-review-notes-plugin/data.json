@@ -7,6 +7,38 @@
     {
       "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
       "filename": "Heap"
+    },
+    {
+      "path": "back-end/Databases/DB caching/Caching Patterns.md",
+      "filename": "Caching Patterns"
+    },
+    {
+      "path": "CS/Design & Patterns/Methods/Developing Methodologies.md",
+      "filename": "Developing Methodologies"
+    },
+    {
+      "path": "CS/Design & Patterns/Methods/You don't know OOP.md",
+      "filename": "You don't know OOP"
+    },
+    {
+      "path": "CS/Design & Patterns/Methods/Twelve Factor.md",
+      "filename": "Twelve Factor"
+    },
+    {
+      "path": "CS/Design & Patterns/Methods/OOP & SOLID.md",
+      "filename": "OOP & SOLID"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
+      "filename": "AVL & R&B Trees"
+    },
+    {
+      "path": "і.md",
+      "filename": "і"
+    },
+    {
+      "path": "BFS & DFS.md",
+      "filename": "BFS & DFS"
     }
   ]
 }

@@ -23,4 +23,4 @@ To know:
 	![[Pasted image 20240821023931.png]]
 	5. Write-around 
 		1. involves the data to be written into the database. In this case, cache will be updated ONLY when data is read from it
-	![[Pasted image 20240821023951.png]]]]
+	![[Pasted image 20240821023951.png]]

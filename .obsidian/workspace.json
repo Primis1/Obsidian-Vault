@@ -4,18 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "c64d625438f8dd1e",
+        "id": "d6d0f41cbac5fe21",
         "type": "tabs",
         "children": [
           {
-            "id": "158f2cf023d5d33e",
+            "id": "4e4ecbcbf34d21f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "CS/Algos and DS/Algorithms/Big O/Speed of algos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speed of algos"
+            }
+          },
+          {
+            "id": "0b3b19f6e8401a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BFS & DFS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BFS & DFS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -35,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -44,13 +67,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: hea",
+                "query": "file: algo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byModifiedTime"
-              }
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -58,7 +83,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -81,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "back-end/GO advanced/Asynchronous/Context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +116,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Context"
             }
           },
           {
@@ -97,9 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "back-end/GO advanced/Asynchronous/Context.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Context"
             }
           },
           {
@@ -110,7 +143,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -118,7 +153,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "back-end/GO advanced/Asynchronous/Context.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Context"
             }
           },
           {
@@ -126,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "review-notes",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Review Notes"
             }
           }
         ],
@@ -134,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +188,23 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "158f2cf023d5d33e",
+  "active": "0b3b19f6e8401a6c",
   "lastOpenFiles": [
+    "CS/Algos and DS/Algorithms/Big O/Speed of algos.md",
+    "BFS & DFS.md",
+    "і.md",
+    "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
+    "CS/Design & Patterns/Methods/You don't know OOP.md",
+    "CS/Design & Patterns/Methods/OOP & SOLID.md",
+    "CS/Design & Patterns/Methods/Developing Methodologies.md",
+    "CS/Design & Patterns/Methods/Twelve Factor.md",
+    "front-end/React/React Docs/True Theory/Immutability In React.md",
+    "back-end/Databases/Theory/ORM's.md",
+    "CS/Design & Patterns/Design Patterns.md",
+    "back-end/Databases/DB caching/Caching Patterns.md",
+    "back-end/GO advanced/Asynchronous/Context.md",
+    "CS-Program & C++/OOP design and C++.md",
+    "back-end/GO advanced/Concurrent/Context.md",
     "back-end/GO and Web/Projects/Advanced Logging.md",
     "back-end/GO and Web/Projects/DDOS in GO.md",
     "CS/Algos and DS/Data Structures/Trees/Heap.md",
@@ -159,24 +216,9 @@
     "Math/Coefficient.md",
     "Math/Math.md",
     "Math/Logarithm.md",
-    "Math/Probability & Combinatorics.md",
-    "Math/Sets.md",
-    "Math/Percentile.md",
-    "Math/Sums.md",
-    "back-end/Docker/Docker General.md",
-    "CS/Algos and DS/Modulo & Bitwise.md",
-    "back-end/Docker/Docs/Volume.md",
-    "back-end/GO and Web/Configuration/Logging.md",
-    "back-end/GO advanced/Concurrent/Context.md",
     "Some shit, idk where to put/Pasted image 20241008084742.png",
-    "Some shit, idk where to put/Voc/Programming Voc.md",
     "Pasted image 20241008084720.png",
-    "CS/Algos and DS/Data Structures/Linked-lists/Linked List.md",
-    "back-end/Docker/Docs/Building Process.md",
-    "back-end/Projects/News-Bot.md",
     "back-end/Projects",
-    "News-Bot.md",
-    "back-end/Docker/Docs/Run Container.md",
     "back-end/Docker/Docs",
     "Some shit, idk where to put/Pasted image 20240919213102.png",
     "Pasted image 20240919213102.png",
