@@ -351,6 +351,11 @@ Similar
 Sigma
 Summary
 Social
+Search
+Shortest
+SRP
+Substitution
+Segregation
 values
 value
 variations
@@ -631,6 +636,9 @@ vSZQ
 volumes
 vary
 voices
+visited
+visit
+visiting
 Regex
 Rest
 REST
@@ -954,6 +962,7 @@ Releases
 Run
 Relevance
 Resistance
+Repeat
 is
 in
 informs
@@ -1953,6 +1962,8 @@ settling
 staging
 sufficient
 social
+shortest
+split
 manipulation
 many
 mentioned
@@ -2358,6 +2369,12 @@ mAo
 matters
 movements
 marginalized
+moving
+moves
+mazes
+methodology
+maintainable
+modifications
 pattern
 preceding
 put
@@ -2800,6 +2817,9 @@ practical
 perspectives
 primarily
 privilege
+parents
+puzzles
+paths
 built
 baby
 brackets
@@ -3180,6 +3200,10 @@ bye
 backing
 binding
 blog
+been
+backtracking
+breadth
+backtrack
 every
 except
 email
@@ -3587,6 +3611,8 @@ experiences
 emphasizing
 equality
 effectively
+explores
+exploration
 PL
 POST
 PUT
@@ -3897,6 +3923,10 @@ Polymorphism
 Provides
 Promotes
 Policy
+Pathfinding
+Preorder
+Postorder
+Principle
 yea
 your
 you
@@ -4488,6 +4518,7 @@ Tjc
 Tread
 Twelve
 Twitter
+Topological
 know
 knows
 kind
@@ -5186,6 +5217,9 @@ target
 tightly
 ties
 traditional
+traversal
+traversals
+treated
 find
 from
 for
@@ -5531,6 +5565,8 @@ factored
 fragile
 feminism
 feminist
+fundamental
+finding
 and
 as
 any
@@ -5972,6 +6008,8 @@ attach
 acknowledges
 advocacy
 addressing
+added
+algos
 replace
 repeats
 repeat
@@ -6378,6 +6416,9 @@ recognizes
 race
 resistance
 recognizing
+recursively
+restricting
+ruin
 of
 one
 or
@@ -6686,6 +6727,7 @@ overloading
 overcomplicated
 overlapping
 oppression
+opened
 character
 computer
 classes
@@ -7242,6 +7284,7 @@ contemporary
 centering
 considering
 crucial
+cousins
 digit
 default
 drop
@@ -7661,6 +7704,13 @@ differently
 diverse
 deeper
 dimensions
+distinct
+deep
+deepest
+detection
+deeply
+depth
+depend
 non
 name
 numbers
@@ -7942,6 +7992,7 @@ nsZ
 nFO
 nqU
 nmq
+neighbors
 white
 word
 we
@@ -8229,6 +8280,7 @@ wct
 wFT
 wgk
 whatever
+whereas
 Can
 Controlled
 Components
@@ -8596,6 +8648,10 @@ Composition
 Challenges
 Critiques
 Conclusion
+Continue
+Checking
+Cycle
+Closed
 used
 user
 ui
@@ -8926,6 +8982,8 @@ uTm
 uXkKg
 uIUTTk
 understanding
+unweighted
+unvisited
 local
 look
 label
@@ -9262,6 +9320,7 @@ lJp
 lyhz
 likely
 levels
+lever
 Input
 IS
 It
@@ -9599,6 +9658,10 @@ Intersectionality
 Importance
 Inclusive
 Influences
+Inorder
+ISP
+Instead
+Inversion
 FCKN
 Front
 FTP
@@ -9935,6 +9998,7 @@ Factors
 Furthermore
 Feminism
 Faces
+FSD
 DISCOVERY
 DELETE
 DDD
@@ -10250,6 +10314,13 @@ Decimals
 Docker
 Disposability
 Dev
+DFS
+Deep
+Directed
+DAGs
+Differences
+Dependency
+DIP
 has
 have
 hidden
@@ -10575,6 +10646,7 @@ hmD
 hostname
 his
 highlights
+hierarchy
 ALOT
 API
 Application
@@ -10886,6 +10958,7 @@ Administrator
 Abstraction
 Addressing
 Advocacy
+Acyclic
 generally
 gRPC
 got
@@ -11497,6 +11570,7 @@ GwVy
 GONEM
 Goal
 Gaps
+Graph
 We
 Web
 When
@@ -12930,6 +13004,7 @@ Modify
 MbF
 Multiple
 Movements
+Move
 JSON
 JS
 Jesus
@@ -13848,6 +13923,7 @@ OsWW
 OuA
 OGH
 Oppression
+OCP
 Validation
 Validate
 Va
@@ -14153,6 +14229,7 @@ VMRR
 VHv
 Verb
 Volumes
+Visit
 Layers
 Link
 Listen
@@ -14455,6 +14532,10 @@ LaUd
 Lbz
 Lexical
 Logs
+Level
+Last
+Liskov
+LSP
 Each
 Encapsualation
 Env
@@ -15368,6 +15449,10 @@ BDD
 Binary
 Below
 Backing
+BFS
+Breadth
+Backtrack
+Breath
 Zeros
 Zod
 Zt
