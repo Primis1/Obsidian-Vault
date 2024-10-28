@@ -8,14 +8,6 @@
     }
   ],
   "file-explorer:new-file": [],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Q"
-    }
-  ],
   "editor:toggle-highlight": [
     {
       "modifiers": [
@@ -84,6 +76,14 @@
         "Mod"
       ],
       "key": "S"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
     }
   ]
 }

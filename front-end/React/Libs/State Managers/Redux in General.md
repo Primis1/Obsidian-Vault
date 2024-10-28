@@ -23,7 +23,7 @@ To know:
 		
 	4. ==So how it all works==:
 		1. component creates an ==Action== 
-		2. It uses a ==Dispatch== method to deliver ==Action== to the ==Store==
+		2. We assign a dispatch method to deliver ==Action== to the ==Store==
 		3. In the ==Store== we have our ==Reducer== that describes in what way the ==new-state== should be changed according to ==old-state== and ==action== that was receive from the component
 		4. ==Store== updates its state
 		5. Components check its new values, and take this state to them 

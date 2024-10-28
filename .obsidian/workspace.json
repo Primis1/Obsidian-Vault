@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8bfe22d6c2e329cd",
+        "id": "160f80d80ddb7331",
         "type": "tabs",
         "children": [
           {
-            "id": "63e60206a8c3c867",
+            "id": "397532161c45c426",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS/Algos and DS/Algorithms/BFS & DFS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "BFS & DFS"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: BFS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,11 +174,17 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "801a4bac8f3dd1ae",
+  "active": "397532161c45c426",
   "lastOpenFiles": [
+    "front-end/React/Libs/State Managers/Redux in General.md",
+    "Finance/Finance.md",
+    "Finance/Sectors.md",
+    "Some shit, idk where to put/Pasted image 20241026002002.png",
+    "Pasted image 20241026002351.png",
+    "CS/Algos and DS/Algorithms/BFS & DFS.md",
+    "Finance",
     "CS/Algos and DS/Algorithms/Big O/Speed of algos.md",
     "CS/Design & Patterns/Methods/OOP & SOLID.md",
-    "BFS & DFS.md",
     "і.md",
     "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
     "CS/Design & Patterns/Methods/You don't know OOP.md",
@@ -194,9 +205,6 @@
     "front-end/JS Advanced/sync & async/Generators.md",
     "front-end/JS Advanced/Advanced Objects/Optimization.md",
     "Math/Graphs.md",
-    "Math/Coefficient.md",
-    "Math/Math.md",
-    "Math/Logarithm.md",
     "Some shit, idk where to put/Pasted image 20241008084742.png",
     "Pasted image 20241008084720.png",
     "back-end/Projects",
@@ -214,9 +222,6 @@
     "CS/Design & Patterns/Creational",
     "Some shit, idk where to put/Pasted image 20240902200427.png",
     "CS/Programming Concepts/Hardware/CPU",
-    "CS/Programming Concepts/Hardware",
-    "Pasted image 20240824204954.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20240825050428.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

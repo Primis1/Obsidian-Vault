@@ -37,8 +37,20 @@
       "filename": "і"
     },
     {
-      "path": "BFS & DFS.md",
+      "path": "CS/Algos and DS/Algorithms/BFS & DFS.md",
       "filename": "BFS & DFS"
+    },
+    {
+      "path": "Finance/Finance.md",
+      "filename": "Finance"
+    },
+    {
+      "path": "Finance/Sectors.md",
+      "filename": "Sectors"
+    },
+    {
+      "path": "front-end/React/Libs/State Managers/Redux in General.md",
+      "filename": "Redux in General"
     }
   ]
 }
