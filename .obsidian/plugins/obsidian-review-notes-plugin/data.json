@@ -37,16 +37,24 @@
       "filename": "і"
     },
     {
-      "path": "CS/Algos and DS/Algorithms/BFS & DFS.md",
+      "path": "BFS & DFS.md",
       "filename": "BFS & DFS"
     },
     {
-      "path": "Finance/Finance.md",
-      "filename": "Finance"
+      "path": "CS/Crypto/Blockchain.md",
+      "filename": "Blockchain"
     },
     {
-      "path": "Finance/Sectors.md",
-      "filename": "Sectors"
+      "path": "CS/Asynchronous/Parallelism && Concurrency.md",
+      "filename": "Parallelism && Concurrency"
+    },
+    {
+      "path": "CS/Crypto/Blockchain Architectures.md",
+      "filename": "Blockchain Architectures"
+    },
+    {
+      "path": "CS/Crypto/Cryptography.md",
+      "filename": "Cryptography"
     },
     {
       "path": "front-end/React/Libs/State Managers/Redux in General.md",
