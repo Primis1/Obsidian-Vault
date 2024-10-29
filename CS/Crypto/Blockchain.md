@@ -1,6 +1,6 @@
 
 ***
-[[Cryptography]]
+[[Cryptography algos]]
 ### Special values:
 1. #blockchain - distributed and immutable ledger of nodes, each of which contains transactions, 
 	- asset - all that appears on the internet can be stored within the blockchain
@@ -30,5 +30,16 @@
 2. Create operation which will put data to the block
 3. Hash the data, can use any encryption algorithm, like SHA-256
 4. Tide nodes together, in immutable order 
+#### Components:
+1. ==Node== - user/computer within the #blockchain-network (each has a copy of a ledger)
 
+2. ==Transaction== - smallest block of a blockchain system, because of transaction blockchain exists 
+
+3. ==Block== - DS used for keeping a set of transactions which is distributed to all nodes in network 
+
+4. ==Chain== - a sequence of blocks 
+
+5. ==Miners== - specific nodes(node also mean user, btw) which perform the block verification process before adding anything into the blockchain structure 
+
+6. ==Consensus== - a set of rules and arrangements to carry out blockchain operation 
 ![[BlockchainF1.webp]]

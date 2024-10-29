@@ -363,6 +363,8 @@ SKIM
 Sgc
 SVo
 Stable
+Smart
+SHA
 values
 value
 variations
@@ -649,6 +651,7 @@ visiting
 vaO
 viid
 volatility
+verification
 Regex
 Rest
 REST
@@ -1437,6 +1440,8 @@ iJK
 industries
 imaginable
 insurance
+infrastructure
+intermediaries
 string
 sorting
 set
@@ -2004,6 +2009,7 @@ stock
 supply
 segments
 staples
+shared
 manipulation
 many
 mentioned
@@ -2879,6 +2885,9 @@ products
 personal
 predictable
 paid
+peers
+participants
+peer
 built
 baby
 brackets
@@ -3268,6 +3277,9 @@ bfx
 businesses
 biotechnology
 beverage
+blockchain
+banks
+bitcoin
 every
 except
 email
@@ -3691,6 +3703,11 @@ essential
 extra
 economy
 expansion
+eliminating
+enforces
+encryption
+exists
+everyone
 PL
 POST
 PUT
@@ -4019,6 +4036,8 @@ Provide
 Pharmaceutical
 Pikes
 Perform
+Public
+Private
 yea
 your
 you
@@ -4622,6 +4641,8 @@ TvvG
 ToF
 TAV
 Treatment
+Tide
+Transaction
 know
 knows
 kind
@@ -4948,6 +4969,7 @@ kXJ
 kLz
 kXrt
 ktP
+keeping
 technology
 things
 that
@@ -5335,6 +5357,8 @@ tGS
 tobacco
 tech
 television
+temper
+together
 find
 from
 for
@@ -6139,6 +6163,8 @@ ajm
 airlines
 aimed
 approved
+asset
+arrangements
 replace
 repeats
 repeat
@@ -6559,6 +6585,8 @@ recession
 retails
 restaurants
 risky
+recorded
+replicas
 of
 one
 or
@@ -7448,6 +7476,9 @@ crisis
 customer
 cyber
 covitations
+centralized
+center
+carry
 digit
 default
 drop
@@ -8848,6 +8879,11 @@ CmGK
 Consumer
 Companies
 Communication
+Contracts
+Chain
+Consensus
+Consortium
+Consist
 used
 user
 ui
@@ -9527,6 +9563,7 @@ lJW
 logistic
 luxury
 leisure
+ledger
 Input
 IS
 It
@@ -10548,6 +10585,7 @@ DJUH
 Dxt
 Declines
 Down
+Distributed
 has
 have
 hidden
@@ -13294,6 +13332,7 @@ MBH
 MRRR
 Mbd
 May
+Miners
 JSON
 JS
 Jesus
@@ -15194,6 +15233,8 @@ EER
 EwlS
 Early
 Estate
+Explanation
+Etherium
 Network
 NewWriter
 NewReader
@@ -15803,6 +15844,9 @@ Bsu
 BUN
 BXyq
 Banks
+Blockchain
+Block
+Bitcoin
 Zeros
 Zod
 Zt

@@ -27,7 +27,7 @@
 6. Financial - businesses related to handling money. Banks, insurance companies, finance providers, ==fintech== companies 
 - Declines in recession periods
 	1. [BRK.B](https://finbox.com/NYSE:BRK.B)
-	2. [XLF](https://finbox.com/ARCA:XLF/)
+	2. [XLF](https://finbox.com/ARCA:XLF/) - index
 
 7. Consumer discretionary - things that aimed to consumer's ==extra== ==money==. Companies that sell higher price items: ==cars==, ==luxury goods==, ==leisure products==, e-commerce retails, ==hotels== and restaurants
 - Down during economy crisis and recession 
