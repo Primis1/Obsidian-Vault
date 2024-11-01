@@ -11,7 +11,7 @@
 1. Algorithms operates over blocks of 512 bits / 64 bytes and processes them iteratively through sequence of transformations:
 	1. **Padding** - message is padded to ensure it's a multiple of 512 bits. it involves appending "1" bit, followed by "0" bits, and finally appending the length of the original message (in bits) as a 64-bit value 
 	
-	2. **Initialization** - #SHA-256 uses `8` 32-bit initials hash values (`H0`, `H7`) derived from the fractional parts of the square roots of the first `8` ==prime numbers==
+	2. **Initialisation** - #SHA-256 uses `8` 32-bit initials hash values (`H0`, `H7`) derived from the fractional parts of the square roots of the first `8` ==prime numbers==
 	
 	3. **Message Schedule** - the padded message is divided into 512-bit blocks, each split into `16` 32-bit words. A message scheduler is created for each block, which extends these 16 words to 64 words, using #bitwise operations
 	

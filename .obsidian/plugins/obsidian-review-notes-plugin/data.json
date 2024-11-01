@@ -63,6 +63,14 @@
     {
       "path": "CS/Crypto/Cryptography algos.md",
       "filename": "Cryptography algos"
+    },
+    {
+      "path": "CS/Design & Patterns/Design Patterns.md",
+      "filename": "Design Patterns"
+    },
+    {
+      "path": "CS/Design & Patterns/Structural/Facade.md",
+      "filename": "Facade"
     }
   ]
 }
