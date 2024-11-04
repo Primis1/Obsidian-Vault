@@ -8,13 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0208fbe59d645a29",
+            "id": "bba51df3e6cbd768",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CS/Algos and DS/Algorithms/Quick Sort.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Quick Sort"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: pattern",
+                "query": "quick",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -169,19 +174,33 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "0208fbe59d645a29",
+  "active": "bba51df3e6cbd768",
   "lastOpenFiles": [
-    "CS/Design & Patterns/Structural/Facade.md",
+    "CS/Design & Patterns/Creational/Abstract Factory.md",
+    "Pasted image 20241104003646.png",
+    "Pasted image 20241104003455.png",
+    "Pasted image 20241104003000.png",
+    "CS/Design & Patterns/Creational/Simple Factory.md",
+    "CS/Design & Patterns/Behavioral/Command.md",
+    "Pasted image 20241103225036.png",
+    "Pasted image 20241103224545.png",
+    "CS/Design & Patterns/Structural/Singleton.md",
+    "CS/Design & Patterns/Behavioral",
     "CS/Design & Patterns/Design Patterns.md",
+    "CS/Crypto/Cryptography algos.md",
+    "CS/Crypto/POW.md",
+    "CS/Crypto/Blockchain.md",
+    "CS/Crypto/Blockchain Architectures.md",
+    "Some shit, idk where to put/BlockchainF1.webp",
+    "back-end/GO advanced/Asynchronous/Mutex and Defense Mechanisms.md",
+    "Mutex.md",
+    "CS/Design & Patterns/Structural/Facade.md",
+    "CS/Algos and DS/Algorithms/Quick Sort.md",
     "Finance/Finance.md",
     "Some shit, idk where to put/Pasted image 20241028212626.png",
     "CS/Design & Patterns/Structural",
-    "CS/Crypto/Cryptography algos.md",
-    "CS/Crypto/Blockchain Architectures.md",
-    "CS/Crypto/Blockchain.md",
     "Finance/Sectors.md",
     "Some shit, idk where to put/Pasted image 20241028212946.png",
-    "Some shit, idk where to put/BlockchainF1.webp",
     "CS/Crypto",
     "front-end/JS Syntax/5 Objects/Overall about the section.md",
     "CS/Algos and DS/Algorithms/BFS & DFS.md",
@@ -196,26 +215,12 @@
     "CS/Design & Patterns/Methods/You don't know OOP.md",
     "CS/Design & Patterns/Methods/Developing Methodologies.md",
     "CS/Design & Patterns/Methods/Twelve Factor.md",
-    "front-end/React/React Docs/True Theory/Immutability In React.md",
-    "back-end/Databases/Theory/ORM's.md",
-    "back-end/Databases/DB caching/Caching Patterns.md",
-    "back-end/GO advanced/Asynchronous/Context.md",
-    "CS-Program & C++/OOP design and C++.md",
-    "back-end/GO advanced/Concurrent/Context.md",
-    "back-end/GO and Web/Projects/Advanced Logging.md",
-    "back-end/GO and Web/Projects/DDOS in GO.md",
-    "Some shit, idk where to put/Pasted image 20241008084742.png",
-    "Pasted image 20241008084720.png",
     "back-end/Projects",
     "back-end/Docker/Docs",
-    "Some shit, idk where to put/Pasted image 20240919213102.png",
-    "Pasted image 20240919213102.png",
-    "Pasted image 20240919212833.png",
     "back-end/GO and Web/Projects",
     "Some shit, idk where to put/Templ",
     "back-end/GO advanced/Concurrent",
     "CS/Design & Patterns/Behavioral",
-    "CS/Design & Patterns/Structural",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

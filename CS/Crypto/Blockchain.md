@@ -8,8 +8,7 @@
 
 ##### *Blockchain is a public database distributed across blockchain-network peers* 
 
-#### Concepts:
-
+#### Concepts:   
 - #blockchain-network - infrastructure of participants, who maintain the blockchain 
 
 #### Key elements:

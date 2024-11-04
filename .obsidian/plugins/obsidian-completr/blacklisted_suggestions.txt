@@ -21,3 +21,5 @@ Work
 works
 SOLID
 front-matter
+command
+commands

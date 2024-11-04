@@ -71,6 +71,38 @@
     {
       "path": "CS/Design & Patterns/Structural/Facade.md",
       "filename": "Facade"
+    },
+    {
+      "path": "CS/Algos and DS/Algorithms/Quick Sort.md",
+      "filename": "Quick Sort"
+    },
+    {
+      "path": "CS/Design & Patterns/Structural/Singleton.md",
+      "filename": "Singleton"
+    },
+    {
+      "path": "Mutex.md",
+      "filename": "Mutex"
+    },
+    {
+      "path": "back-end/GO advanced/Asynchronous/Mutex and Defense Mechanisms.md",
+      "filename": "Mutex and Defense Mechanisms"
+    },
+    {
+      "path": "CS/Crypto/POW.md",
+      "filename": "POW"
+    },
+    {
+      "path": "CS/Design & Patterns/Behavioral/Command.md",
+      "filename": "Command"
+    },
+    {
+      "path": "CS/Design & Patterns/Creational/Simple Factory.md",
+      "filename": "Simple Factory"
+    },
+    {
+      "path": "CS/Design & Patterns/Creational/Abstract Factory.md",
+      "filename": "Abstract Factory"
     }
   ]
 }
