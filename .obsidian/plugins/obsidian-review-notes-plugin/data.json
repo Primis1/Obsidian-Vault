@@ -73,7 +73,7 @@
       "filename": "Facade"
     },
     {
-      "path": "CS/Algos and DS/Algorithms/Quick Sort.md",
+      "path": "CS/Algos and DS/Algorithms/Sorting/Quick Sort.md",
       "filename": "Quick Sort"
     },
     {
@@ -103,6 +103,18 @@
     {
       "path": "CS/Design & Patterns/Creational/Abstract Factory.md",
       "filename": "Abstract Factory"
+    },
+    {
+      "path": "CS/Algos and DS/Algorithms/Sorting/Introsort.md",
+      "filename": "Introsort"
+    },
+    {
+      "path": "back-end/GO advanced/Garbage Collector.md",
+      "filename": "Garbage Collector"
+    },
+    {
+      "path": "j.md",
+      "filename": "j"
     }
   ]
 }

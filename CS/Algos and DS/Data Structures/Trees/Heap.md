@@ -36,7 +36,7 @@ right := 2 * i + 1
 slice := []int{21, 16, 15, 14, 9, 12, 13}
 right(3) //=> 15 
 ```
-### Implementation In Go:
+### Heapsort:
 1. We can convert the list of items into the heap by implementing the ==heap-interface== 
 2. container/heap library 
 ```go

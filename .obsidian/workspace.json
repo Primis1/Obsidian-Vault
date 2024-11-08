@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bba51df3e6cbd768",
+            "id": "61fb246b493ad54f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS/Algos and DS/Algorithms/Quick Sort.md",
+                "file": "Garbage Collector.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Sort"
+              "title": "Garbage Collector"
+            }
+          },
+          {
+            "id": "f47760f26799f779",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Garbage Collector.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Garbage Collector"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -52,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "quick",
+                "query": "tag:#garbage-collector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +88,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,16 +188,22 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "bba51df3e6cbd768",
+  "active": "f47760f26799f779",
   "lastOpenFiles": [
+    "j.md",
+    "Garbage Collector.md",
+    "Some shit, idk where to put/Pasted image 20241104003000.png",
+    "CS/Algos and DS/Data Structures/Trees/Heap.md",
+    "Some shit, idk where to put/Pasted image 20241103225036.png",
+    "Some shit, idk where to put/Pasted image 20241104003455.png",
+    "CS/Algos and DS/Algorithms/Sorting/Introsort.md",
+    "CS/Algos and DS/Algorithms/Sorting",
+    "CS/Algos and DS/Algorithms/Sorting/Quick Sort.md",
     "CS/Design & Patterns/Creational/Abstract Factory.md",
-    "Pasted image 20241104003646.png",
-    "Pasted image 20241104003455.png",
-    "Pasted image 20241104003000.png",
+    "Some shit, idk where to put/Pasted image 20241104003646.png",
     "CS/Design & Patterns/Creational/Simple Factory.md",
     "CS/Design & Patterns/Behavioral/Command.md",
-    "Pasted image 20241103225036.png",
-    "Pasted image 20241103224545.png",
+    "Some shit, idk where to put/Pasted image 20241103224545.png",
     "CS/Design & Patterns/Structural/Singleton.md",
     "CS/Design & Patterns/Behavioral",
     "CS/Design & Patterns/Design Patterns.md",
@@ -195,7 +215,6 @@
     "back-end/GO advanced/Asynchronous/Mutex and Defense Mechanisms.md",
     "Mutex.md",
     "CS/Design & Patterns/Structural/Facade.md",
-    "CS/Algos and DS/Algorithms/Quick Sort.md",
     "Finance/Finance.md",
     "Some shit, idk where to put/Pasted image 20241028212626.png",
     "CS/Design & Patterns/Structural",
@@ -212,15 +231,11 @@
     "CS/Design & Patterns/Methods/OOP & SOLID.md",
     "і.md",
     "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
-    "CS/Design & Patterns/Methods/You don't know OOP.md",
-    "CS/Design & Patterns/Methods/Developing Methodologies.md",
-    "CS/Design & Patterns/Methods/Twelve Factor.md",
     "back-end/Projects",
     "back-end/Docker/Docs",
     "back-end/GO and Web/Projects",
     "Some shit, idk where to put/Templ",
     "back-end/GO advanced/Concurrent",
-    "CS/Design & Patterns/Behavioral",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
