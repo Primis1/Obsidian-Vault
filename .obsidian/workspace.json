@@ -8,35 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "61fb246b493ad54f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Garbage Collector.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Garbage Collector"
-            }
-          },
-          {
             "id": "f47760f26799f779",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Garbage Collector.md",
+                "file": "Finance/Sectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Garbage Collector"
+              "title": "Sectors"
+            }
+          },
+          {
+            "id": "359a3c9207c197ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Industries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Industries"
+            }
+          },
+          {
+            "id": "edfa2ca8ec5948e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary & Search Tree"
+            }
+          },
+          {
+            "id": "6b7592817cb7d448",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Finance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Finance"
+            }
+          },
+          {
+            "id": "09588aef10c1d4ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Reference Rate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Reference Rate"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -67,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#garbage-collector",
+                "query": "file: bina",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,22 +231,33 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "f47760f26799f779",
+  "active": "edfa2ca8ec5948e0",
   "lastOpenFiles": [
+    "Reference & Interest Rate.md",
+    "Finance/Industries.md",
+    "Finance/Finance.md",
+    "Finance/Sectors.md",
+    "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
+    "Love, Death and robots.md",
+    "Finance/Reference Rate.md",
+    "front-end/JS Syntax/5 Objects/Overall about the section.md",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241028212626.png",
+    "Some shit, idk where to put/Z Pictures/Programming.md",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241104003646.png",
+    "CS/Algos and DS/Algorithms/BFS & DFS.md",
     "j.md",
     "Garbage Collector.md",
-    "Some shit, idk where to put/Pasted image 20241104003000.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241104003000.png",
     "CS/Algos and DS/Data Structures/Trees/Heap.md",
-    "Some shit, idk where to put/Pasted image 20241103225036.png",
-    "Some shit, idk where to put/Pasted image 20241104003455.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241103225036.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241104003455.png",
     "CS/Algos and DS/Algorithms/Sorting/Introsort.md",
     "CS/Algos and DS/Algorithms/Sorting",
     "CS/Algos and DS/Algorithms/Sorting/Quick Sort.md",
     "CS/Design & Patterns/Creational/Abstract Factory.md",
-    "Some shit, idk where to put/Pasted image 20241104003646.png",
     "CS/Design & Patterns/Creational/Simple Factory.md",
     "CS/Design & Patterns/Behavioral/Command.md",
-    "Some shit, idk where to put/Pasted image 20241103224545.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241103224545.png",
     "CS/Design & Patterns/Structural/Singleton.md",
     "CS/Design & Patterns/Behavioral",
     "CS/Design & Patterns/Design Patterns.md",
@@ -211,26 +265,15 @@
     "CS/Crypto/POW.md",
     "CS/Crypto/Blockchain.md",
     "CS/Crypto/Blockchain Architectures.md",
-    "Some shit, idk where to put/BlockchainF1.webp",
+    "Some shit, idk where to put/Z Pictures/BlockchainF1.webp",
     "back-end/GO advanced/Asynchronous/Mutex and Defense Mechanisms.md",
     "Mutex.md",
-    "CS/Design & Patterns/Structural/Facade.md",
-    "Finance/Finance.md",
-    "Some shit, idk where to put/Pasted image 20241028212626.png",
     "CS/Design & Patterns/Structural",
-    "Finance/Sectors.md",
-    "Some shit, idk where to put/Pasted image 20241028212946.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241028212946.png",
     "CS/Crypto",
-    "front-end/JS Syntax/5 Objects/Overall about the section.md",
-    "CS/Algos and DS/Algorithms/BFS & DFS.md",
-    "front-end/React/Libs/State Managers/Redux in General.md",
-    "Some shit, idk where to put/Pasted image 20241026002002.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241026002002.png",
     "Pasted image 20241026002351.png",
     "Finance",
-    "CS/Algos and DS/Algorithms/Big O/Speed of algos.md",
-    "CS/Design & Patterns/Methods/OOP & SOLID.md",
-    "і.md",
-    "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
     "back-end/Projects",
     "back-end/Docker/Docs",
     "back-end/GO and Web/Projects",

@@ -6,7 +6,7 @@
 3. #dividends:
 	1. `yield` - shows how much money will be paid in dividends, in compare to stock price 
 	2. `rate` - dividend in ==dollars==. `Stock: 40; Dividends over Year: 2; Yield: 5%`
-4. #Bond - `облігації`, financially approved load, that you give to company
+4. #bond - `облігації`, financially approved load, that you give to company or government  
 5. 
 
 ### To know:

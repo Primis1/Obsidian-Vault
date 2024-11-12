@@ -115,6 +115,26 @@
     {
       "path": "j.md",
       "filename": "j"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
+      "filename": "Binary & Search Tree"
+    },
+    {
+      "path": "Love, Death and robots.md",
+      "filename": "Love, Death and robots"
+    },
+    {
+      "path": "Finance/Reference Rate.md",
+      "filename": "Reference Rate"
+    },
+    {
+      "path": "Finance/Industries.md",
+      "filename": "Industries"
+    },
+    {
+      "path": "Reference & Interest Rate.md",
+      "filename": "Reference & Interest Rate"
     }
   ]
 }
