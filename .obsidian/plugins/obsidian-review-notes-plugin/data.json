@@ -133,8 +133,16 @@
       "filename": "Industries"
     },
     {
-      "path": "Finance/Interest Rate.md",
-      "filename": "Interest Rate"
+      "path": "Reference & Interest Rate.md",
+      "filename": "Reference & Interest Rate"
+    },
+    {
+      "path": "Finance/Stock categories.md",
+      "filename": "Stock categories"
+    },
+    {
+      "path": "Finance/Benjamin Graham.md",
+      "filename": "Benjamin Graham"
     }
   ]
 }

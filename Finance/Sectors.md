@@ -1,5 +1,6 @@
 ***
 [[Finance]]
+#sector
 ### Special values:
 1. ==Energy sector== - companies that do business in ==oil== and ==gas== industry. Includes other consumable fuels like: coal, ethanol, ==wind, sun energy==  
 - Peaks during economic expansions, because it has things to **supply with energy**
