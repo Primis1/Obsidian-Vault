@@ -1,4 +1,4 @@
-[[Finance]]
+[[Finance Glossary]]
 ***
 ### Special values:
 1. #value investing - choose stock which are under-performing in current temporal period, but have reliable fundamental and/or value in the future 

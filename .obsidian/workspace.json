@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d086f0da4d9bb319",
+        "id": "7edd6c60b3413759",
         "type": "tabs",
         "children": [
           {
-            "id": "436e59399e473632",
+            "id": "fc0c197f27f0f560",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finance/Stock categories.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Stock categories"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: sec",
+                "query": "gross ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +148,7 @@
               "type": "review-notes",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Review Notes"
             }
           }
         ],
@@ -160,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,42 +168,45 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "436e59399e473632",
+  "active": "801a4bac8f3dd1ae",
   "lastOpenFiles": [
-    "Finance/Stock categories.md",
-    "Finance/Benjamin Graham.md",
-    "Finance/Finance.md",
+    "Finance/REITs analysis.md",
+    "Finance/Finance Glossary.md",
     "Finance/Sectors.md",
-    "Finance/Interest Rate.md",
-    "Some shit, idk where to put/Pasted image 20241106193534.png",
-    "CS/Design & Patterns/Behavioral/Template.md",
+    "Formulas.md",
+    "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
+    "CS/Design & Patterns/Structural/Singleton.md",
+    "CS/Algos and DS/Algorithms/Sorting/Quick Sort.md",
+    "CS/Design & Patterns/Structural/Facade.md",
+    "CS/Design & Patterns/Design Patterns.md",
+    "front-end/React/Libs/State Managers/Redux in General.md",
+    "CS/Algos and DS/Algorithms/BFS & DFS.md",
+    "CS/Design & Patterns/Methods/OOP & SOLID.md",
+    "CS/Design & Patterns/Methods/Twelve Factor.md",
+    "CS/Design & Patterns/Methods/You don't know OOP.md",
+    "back-end/Databases/DB caching/Caching Patterns.md",
+    "Finance/Sheets/Income Statement.md",
+    "Finance/Sheets/Benjamin Graham.md",
     "Finance/Industries.md",
+    "Finance/Interest Rate.md",
+    "Finance/Kinds",
+    "Finance/Sheets",
+    "Finance/Stock categories.md",
     "Finance/Reference Rate.md",
-    "Math/Probability & Combinatorics.md",
+    "Some shit, idk where to put/Pasted image 20241106193534.png",
     "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
-    "Reference & Interest Rate.md",
     "Love, Death and robots.md",
     "front-end/JS Syntax/5 Objects/Overall about the section.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241028212626.png",
     "Some shit, idk where to put/Z Pictures/Programming.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241104003646.png",
-    "CS/Algos and DS/Algorithms/BFS & DFS.md",
     "j.md",
-    "Garbage Collector.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241104003000.png",
-    "CS/Algos and DS/Data Structures/Trees/Heap.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241103225036.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241104003455.png",
-    "CS/Algos and DS/Algorithms/Sorting/Introsort.md",
     "CS/Algos and DS/Algorithms/Sorting",
-    "CS/Algos and DS/Algorithms/Sorting/Quick Sort.md",
-    "CS/Design & Patterns/Creational/Abstract Factory.md",
-    "CS/Design & Patterns/Creational/Simple Factory.md",
-    "CS/Design & Patterns/Behavioral/Command.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241103224545.png",
-    "CS/Design & Patterns/Structural/Singleton.md",
     "CS/Design & Patterns/Behavioral",
-    "CS/Design & Patterns/Design Patterns.md",
     "Some shit, idk where to put/Z Pictures/BlockchainF1.webp",
     "CS/Design & Patterns/Structural",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241028212946.png",
@@ -218,8 +216,6 @@
     "back-end/Projects",
     "back-end/Docker/Docs",
     "back-end/GO and Web/Projects",
-    "Some shit, idk where to put/Templ",
-    "back-end/GO advanced/Concurrent",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

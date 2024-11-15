@@ -1,30 +1,6 @@
 {
   "files": [
     {
-      "path": "back-end/GO and Web/Projects/DDOS in GO.md",
-      "filename": "DDOS in GO"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
-      "filename": "Heap"
-    },
-    {
-      "path": "back-end/Databases/DB caching/Caching Patterns.md",
-      "filename": "Caching Patterns"
-    },
-    {
-      "path": "CS/Design & Patterns/Methods/Developing Methodologies.md",
-      "filename": "Developing Methodologies"
-    },
-    {
-      "path": "CS/Design & Patterns/Methods/You don't know OOP.md",
-      "filename": "You don't know OOP"
-    },
-    {
-      "path": "CS/Design & Patterns/Methods/Twelve Factor.md",
-      "filename": "Twelve Factor"
-    },
-    {
       "path": "CS/Design & Patterns/Methods/OOP & SOLID.md",
       "filename": "OOP & SOLID"
     },
@@ -33,116 +9,12 @@
       "filename": "AVL & R&B Trees"
     },
     {
-      "path": "і.md",
-      "filename": "і"
+      "path": "Formulas.md",
+      "filename": "Formulas"
     },
     {
-      "path": "CS/Algos and DS/Algorithms/BFS & DFS.md",
-      "filename": "BFS & DFS"
-    },
-    {
-      "path": "Finance/Finance.md",
-      "filename": "Finance"
-    },
-    {
-      "path": "Finance/Sectors.md",
-      "filename": "Sectors"
-    },
-    {
-      "path": "front-end/React/Libs/State Managers/Redux in General.md",
-      "filename": "Redux in General"
-    },
-    {
-      "path": "CS/Crypto/Blockchain Architectures.md",
-      "filename": "Blockchain Architectures"
-    },
-    {
-      "path": "CS/Crypto/Blockchain.md",
-      "filename": "Blockchain"
-    },
-    {
-      "path": "CS/Crypto/Cryptography algos.md",
-      "filename": "Cryptography algos"
-    },
-    {
-      "path": "CS/Design & Patterns/Design Patterns.md",
-      "filename": "Design Patterns"
-    },
-    {
-      "path": "CS/Design & Patterns/Structural/Facade.md",
-      "filename": "Facade"
-    },
-    {
-      "path": "CS/Algos and DS/Algorithms/Sorting/Quick Sort.md",
-      "filename": "Quick Sort"
-    },
-    {
-      "path": "CS/Design & Patterns/Structural/Singleton.md",
-      "filename": "Singleton"
-    },
-    {
-      "path": "Mutex.md",
-      "filename": "Mutex"
-    },
-    {
-      "path": "back-end/GO advanced/Asynchronous/Mutex and Defense Mechanisms.md",
-      "filename": "Mutex and Defense Mechanisms"
-    },
-    {
-      "path": "CS/Crypto/POW.md",
-      "filename": "POW"
-    },
-    {
-      "path": "CS/Design & Patterns/Behavioral/Command.md",
-      "filename": "Command"
-    },
-    {
-      "path": "CS/Design & Patterns/Creational/Simple Factory.md",
-      "filename": "Simple Factory"
-    },
-    {
-      "path": "CS/Design & Patterns/Creational/Abstract Factory.md",
-      "filename": "Abstract Factory"
-    },
-    {
-      "path": "CS/Algos and DS/Algorithms/Sorting/Introsort.md",
-      "filename": "Introsort"
-    },
-    {
-      "path": "back-end/GO advanced/Garbage Collector.md",
-      "filename": "Garbage Collector"
-    },
-    {
-      "path": "j.md",
-      "filename": "j"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
-      "filename": "Binary & Search Tree"
-    },
-    {
-      "path": "Love, Death and robots.md",
-      "filename": "Love, Death and robots"
-    },
-    {
-      "path": "Finance/Reference Rate.md",
-      "filename": "Reference Rate"
-    },
-    {
-      "path": "Finance/Industries.md",
-      "filename": "Industries"
-    },
-    {
-      "path": "Reference & Interest Rate.md",
-      "filename": "Reference & Interest Rate"
-    },
-    {
-      "path": "Finance/Stock categories.md",
-      "filename": "Stock categories"
-    },
-    {
-      "path": "Finance/Benjamin Graham.md",
-      "filename": "Benjamin Graham"
+      "path": "Finance/Finance Glossary.md",
+      "filename": "Finance Glossary"
     }
   ]
 }
