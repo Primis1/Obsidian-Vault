@@ -18,3 +18,4 @@
 
 7. #gross-profit - revenue - sells **`price`** 
 
+8. #equity - or shareholders equity, can be measured as book value; is the amount of money and liquidated assets, minus company debt, **==paid to shareholders**== 

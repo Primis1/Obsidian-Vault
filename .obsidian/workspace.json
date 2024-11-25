@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7edd6c60b3413759",
+        "id": "46584c84e9c8b680",
         "type": "tabs",
         "children": [
           {
-            "id": "fc0c197f27f0f560",
+            "id": "69da2f6e26a2349b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "back-end/Databases/Caching & Security/Drizzle.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Drizzle"
             }
           }
         ]
@@ -48,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gross ",
+                "query": "tag:#drizzle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,11 +73,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -156,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,39 +175,44 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "801a4bac8f3dd1ae",
+  "active": "69da2f6e26a2349b",
   "lastOpenFiles": [
-    "Finance/REITs analysis.md",
+    "Pasted image 20241124205408.png",
+    "back-end/Databases/Caching & Security/Drizzle.md",
+    "Pasted image 20241124201940.png",
+    "Finance/Kinds/ETF's.md",
+    "Finance/Sheets/Cash flows/Cash.md",
+    "Finance/Sheets/Balance Sheet/Balance Sheet.md",
+    "SSL & TLS.md",
+    "front-end/React/Libs/ORMS/Prisma.md",
+    "back-end/Databases/Caching & Security/Caching Patterns.md",
+    "CS/Network/Network models/TCP IP & OSI.md",
+    "back-end/Databases/DB caching/In-Memory cache.md",
+    "back-end/Databases/Tables/Joints & Keys.md",
+    "back-end/Databases/Tables/Database relations.md",
+    "back-end/Databases/Databases in general.md",
+    "back-end/Databases/Supabase.md",
+    "back-end/Databases/Theory/ORM's.md",
+    "back-end/Databases/Theory/Normalization.md",
+    "back-end/Databases/Theory/Non & Relational DB.md",
+    "back-end/Databases/Theory/DB planning.md",
+    "front-end/React/Libs/ORMS",
+    "Finance/Sheets/Income statement/Income Statement.md",
     "Finance/Finance Glossary.md",
-    "Finance/Sectors.md",
-    "Formulas.md",
-    "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
-    "CS/Design & Patterns/Structural/Singleton.md",
-    "CS/Algos and DS/Algorithms/Sorting/Quick Sort.md",
-    "CS/Design & Patterns/Structural/Facade.md",
-    "CS/Design & Patterns/Design Patterns.md",
-    "front-end/React/Libs/State Managers/Redux in General.md",
-    "CS/Algos and DS/Algorithms/BFS & DFS.md",
-    "CS/Design & Patterns/Methods/OOP & SOLID.md",
-    "CS/Design & Patterns/Methods/Twelve Factor.md",
-    "CS/Design & Patterns/Methods/You don't know OOP.md",
-    "back-end/Databases/DB caching/Caching Patterns.md",
-    "Finance/Sheets/Income Statement.md",
+    "A.md",
+    "Ukrainian letters.md",
     "Finance/Sheets/Benjamin Graham.md",
-    "Finance/Industries.md",
-    "Finance/Interest Rate.md",
+    "Finance/Sheets/Income statement",
+    "Finance/Sheets/Cash flows",
+    "Finance/Sheets/Balance Sheet",
+    "Studios in Mississauga.md",
+    "Finance/Formulas.md",
+    "CS/Terminal/Git commands.md",
     "Finance/Kinds",
     "Finance/Sheets",
-    "Finance/Stock categories.md",
-    "Finance/Reference Rate.md",
     "Some shit, idk where to put/Pasted image 20241106193534.png",
-    "CS/Algos and DS/Data Structures/Trees/Binary & Search Tree.md",
-    "Love, Death and robots.md",
-    "front-end/JS Syntax/5 Objects/Overall about the section.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241028212626.png",
-    "Some shit, idk where to put/Z Pictures/Programming.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241104003646.png",
-    "j.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241104003000.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241103225036.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241104003455.png",
@@ -211,11 +223,6 @@
     "CS/Design & Patterns/Structural",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241028212946.png",
     "CS/Crypto",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241026002002.png",
-    "Finance",
-    "back-end/Projects",
-    "back-end/Docker/Docs",
-    "back-end/GO and Web/Projects",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

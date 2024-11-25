@@ -1,20 +1,48 @@
 {
   "files": [
     {
-      "path": "CS/Design & Patterns/Methods/OOP & SOLID.md",
-      "filename": "OOP & SOLID"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Trees/AVL & R&B Trees.md",
-      "filename": "AVL & R&B Trees"
-    },
-    {
-      "path": "Formulas.md",
-      "filename": "Formulas"
-    },
-    {
       "path": "Finance/Finance Glossary.md",
       "filename": "Finance Glossary"
+    },
+    {
+      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
+      "filename": "Heap"
+    },
+    {
+      "path": "Finance/Sheets/Balance Sheet/Balance Sheet.md",
+      "filename": "Balance Sheet"
+    },
+    {
+      "path": "Studios in Mississauga.md",
+      "filename": "Studios in Mississauga"
+    },
+    {
+      "path": "Finance/Sheets/Income statement/Income Statement.md",
+      "filename": "Income Statement"
+    },
+    {
+      "path": "Finance/Sheets/Cash flows/Cash.md",
+      "filename": "Cash"
+    },
+    {
+      "path": "Ukrainian letters.md",
+      "filename": "Ukrainian letters"
+    },
+    {
+      "path": "back-end/Databases/Caching & Security/Drizzle.md",
+      "filename": "Drizzle"
+    },
+    {
+      "path": "back-end/Databases/Databases in general.md",
+      "filename": "Databases in general"
+    },
+    {
+      "path": "SSL & TLS.md",
+      "filename": "SSL & TLS"
+    },
+    {
+      "path": "Finance/Kinds/ETF's.md",
+      "filename": "ETF's"
     }
   ]
 }
