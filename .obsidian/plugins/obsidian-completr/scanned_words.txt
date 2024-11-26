@@ -1089,6 +1089,7 @@ Revenue
 Related
 Retained
 Receivable
+Roles
 is
 in
 informs
@@ -6788,6 +6789,9 @@ annual
 assets
 administrative
 amortization
+authenticated
+authO
+authentication
 replace
 repeats
 repeat
@@ -7250,6 +7254,8 @@ responsibilities
 receipts
 retained
 reinvestment
+redirects
+resorce
 of
 one
 or
@@ -7592,6 +7598,7 @@ oXU
 obligations
 owned
 obtaining
+owner
 character
 computer
 classes
@@ -12316,6 +12323,7 @@ Agreement
 Administration
 Accrued
 Assets
+AuthO
 generally
 gRPC
 got
@@ -12676,6 +12684,7 @@ gDABVdA
 government
 gross
 graphical
+granting
 General
 GO
 GraphQL
@@ -15556,6 +15565,7 @@ Operating
 Ontario
 Other
 Operation
+OAuth
 Validation
 Validate
 Va

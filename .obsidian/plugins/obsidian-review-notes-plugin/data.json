@@ -43,6 +43,10 @@
     {
       "path": "Finance/Kinds/ETF's.md",
       "filename": "ETF's"
+    },
+    {
+      "path": "back-end/Authentication/OAuth 2.0.md",
+      "filename": "OAuth 2.0"
     }
   ]
 }

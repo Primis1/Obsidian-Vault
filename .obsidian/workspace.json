@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/Databases/Caching & Security/Drizzle.md",
+                "file": "back-end/Authentication/OAuth 2.0.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drizzle"
+              "title": "OAuth 2.0"
             }
           }
         ]
@@ -73,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -177,8 +175,10 @@
   },
   "active": "69da2f6e26a2349b",
   "lastOpenFiles": [
-    "Pasted image 20241124205408.png",
+    "back-end/Authentication/OAuth 2.0.md",
+    "back-end/Authentication/Authentication && Authorization.md",
     "back-end/Databases/Caching & Security/Drizzle.md",
+    "Pasted image 20241124205408.png",
     "Pasted image 20241124201940.png",
     "Finance/Kinds/ETF's.md",
     "Finance/Sheets/Cash flows/Cash.md",
@@ -207,7 +207,6 @@
     "Finance/Sheets/Balance Sheet",
     "Studios in Mississauga.md",
     "Finance/Formulas.md",
-    "CS/Terminal/Git commands.md",
     "Finance/Kinds",
     "Finance/Sheets",
     "Some shit, idk where to put/Pasted image 20241106193534.png",
@@ -221,7 +220,6 @@
     "CS/Design & Patterns/Behavioral",
     "Some shit, idk where to put/Z Pictures/BlockchainF1.webp",
     "CS/Design & Patterns/Structural",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241028212946.png",
     "CS/Crypto",
     "Untitled.canvas",
     "Untitled 1.canvas",
