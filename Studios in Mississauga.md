@@ -27,3 +27,6 @@
 9. 
 	- 111 Queen Street East South Building  Suite 450, Toronto,  ON M5C 1S2 Canada  
 [+1 (416) 720-1790](tel:+14167201790 "+1 (416) 720-1790")
+
+- Konrad:
+	- https://www.konrad.com/careers/job/software-developer-intern-may-2025-4-months_5997801003#qualifications

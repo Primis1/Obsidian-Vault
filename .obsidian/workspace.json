@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "back-end/Databases/Caching & Security/Drizzle.md",
+                "file": "Finance/Interest Rate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Drizzle"
+              "title": "Interest Rate"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#drizzle",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,13 +73,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -141,14 +139,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "back-end/GO advanced/Asynchronous/Context.md"
+                "file": "DIV.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Context"
+              "title": "Outline of DIV"
             }
           },
           {
-            "id": "3ddc1277aaea990e",
+            "id": "c8adf01e90a2718a",
             "type": "leaf",
             "state": {
               "type": "review-notes",
@@ -177,8 +175,22 @@
   },
   "active": "69da2f6e26a2349b",
   "lastOpenFiles": [
-    "Pasted image 20241124205408.png",
+    "Finance/Kinds/DIV.md",
+    "Some shit, idk where to put/Pasted image 20241204222021.png",
+    "Finance/Formulas.md",
+    "Some shit, idk where to put/Pasted image 20241204213131.png",
+    "Some shit, idk where to put/Pasted image 20241204210757.png",
+    "Some shit, idk where to put/Pasted image 20241204210458.png",
+    "Some shit, idk where to put/Pasted image 20241204210234.png",
+    "Some shit, idk where to put/Pasted image 20241204204720.png",
+    "Studios in Mississauga.md",
+    "Finance/Finance Glossary.md",
+    "Analysis",
+    "back-end/API's/REST/REST API Design.md",
+    "back-end/Communications/Http and Comm/Cookies.md",
+    "back-end/Communications/Http and Comm/CORS.md",
     "back-end/Databases/Caching & Security/Drizzle.md",
+    "Pasted image 20241124205408.png",
     "Pasted image 20241124201940.png",
     "Finance/Kinds/ETF's.md",
     "Finance/Sheets/Cash flows/Cash.md",
@@ -198,31 +210,16 @@
     "back-end/Databases/Theory/DB planning.md",
     "front-end/React/Libs/ORMS",
     "Finance/Sheets/Income statement/Income Statement.md",
-    "Finance/Finance Glossary.md",
-    "A.md",
-    "Ukrainian letters.md",
-    "Finance/Sheets/Benjamin Graham.md",
     "Finance/Sheets/Income statement",
     "Finance/Sheets/Cash flows",
     "Finance/Sheets/Balance Sheet",
-    "Studios in Mississauga.md",
-    "Finance/Formulas.md",
-    "CS/Terminal/Git commands.md",
     "Finance/Kinds",
     "Finance/Sheets",
     "Some shit, idk where to put/Pasted image 20241106193534.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241028212626.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241104003646.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241104003000.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241103225036.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241104003455.png",
     "CS/Algos and DS/Algorithms/Sorting",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241103224545.png",
     "CS/Design & Patterns/Behavioral",
-    "Some shit, idk where to put/Z Pictures/BlockchainF1.webp",
     "CS/Design & Patterns/Structural",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241028212946.png",
-    "CS/Crypto",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
