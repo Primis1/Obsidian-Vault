@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Interest Rate.md",
+                "file": "Finance/Kinds/DIV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interest Rate"
+              "title": "DIV"
+            }
+          },
+          {
+            "id": "bae66079e83ef048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Kinds/WCP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WCP"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -173,9 +189,11 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "69da2f6e26a2349b",
+  "active": "bae66079e83ef048",
   "lastOpenFiles": [
     "Finance/Kinds/DIV.md",
+    "Finance/Kinds/WCP.md",
+    "Finance/Interest Rate.md",
     "Some shit, idk where to put/Pasted image 20241204222021.png",
     "Finance/Formulas.md",
     "Some shit, idk where to put/Pasted image 20241204213131.png",
@@ -209,7 +227,6 @@
     "back-end/Databases/Theory/Non & Relational DB.md",
     "back-end/Databases/Theory/DB planning.md",
     "front-end/React/Libs/ORMS",
-    "Finance/Sheets/Income statement/Income Statement.md",
     "Finance/Sheets/Income statement",
     "Finance/Sheets/Cash flows",
     "Finance/Sheets/Balance Sheet",
