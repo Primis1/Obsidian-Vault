@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "46584c84e9c8b680",
+        "id": "97fc0ee0733512c3",
         "type": "tabs",
         "children": [
           {
-            "id": "69da2f6e26a2349b",
+            "id": "340397d9f26933bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Kinds/DIV.md",
+                "file": "Finance/Kinds/REITs analysis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DIV"
-            }
-          },
-          {
-            "id": "bae66079e83ef048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Finance/Kinds/WCP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WCP"
+              "title": "REITs analysis"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -92,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -189,10 +173,14 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "bae66079e83ef048",
+  "active": "340397d9f26933bb",
   "lastOpenFiles": [
-    "Finance/Kinds/WCP.md",
+    "Finance/Finance Glossary.md",
+    "Finance/Books",
     "Finance/Kinds/DIV.md",
+    "Finance/Books/Rules 1.md",
+    "Finance/Kinds/WCP.md",
+    "Some shit, idk where to put/Template/FIN.md",
     "Finance/Interest Rate.md",
     "Some shit, idk where to put/Pasted image 20241204222021.png",
     "Finance/Formulas.md",
@@ -202,7 +190,6 @@
     "Some shit, idk where to put/Pasted image 20241204210234.png",
     "Some shit, idk where to put/Pasted image 20241204204720.png",
     "Studios in Mississauga.md",
-    "Finance/Finance Glossary.md",
     "Analysis",
     "back-end/API's/REST/REST API Design.md",
     "back-end/Communications/Http and Comm/Cookies.md",
@@ -223,9 +210,6 @@
     "back-end/Databases/Databases in general.md",
     "back-end/Databases/Supabase.md",
     "back-end/Databases/Theory/ORM's.md",
-    "back-end/Databases/Theory/Normalization.md",
-    "back-end/Databases/Theory/Non & Relational DB.md",
-    "back-end/Databases/Theory/DB planning.md",
     "front-end/React/Libs/ORMS",
     "Finance/Sheets/Income statement",
     "Finance/Sheets/Cash flows",
@@ -236,7 +220,6 @@
     "Some shit, idk where to put/Z Pictures/Pasted image 20241028212626.png",
     "CS/Algos and DS/Algorithms/Sorting",
     "CS/Design & Patterns/Behavioral",
-    "CS/Design & Patterns/Structural",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

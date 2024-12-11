@@ -24,4 +24,7 @@
 #### **6. Financial Health and Risks**
 
 
+#### 7. Moats:
+
+
 #### **Conclusion**

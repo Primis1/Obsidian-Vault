@@ -423,6 +423,9 @@ Shareholder
 Scz
 Sheet
 Sas
+Saskatchewan
+Secret
+Switching
 values
 value
 variations
@@ -1099,6 +1102,7 @@ Realty
 ROE
 REDD
 Risks
+ROIC
 is
 in
 informs
@@ -2240,6 +2244,7 @@ steady
 screenshot
 sYZZ
 sxo
+sectors
 manipulation
 many
 mentioned
@@ -2726,6 +2731,7 @@ mmM
 mbsx
 mED
 mmE
+moat
 pattern
 preceding
 put
@@ -3252,6 +3258,10 @@ picture
 pssc
 psh
 produced
+partially
+paper
+people
+patent
 built
 baby
 brackets
@@ -4145,6 +4155,9 @@ engages
 earn
 eyg
 evaporates
+evolving
+expand
+efficiently
 PL
 POST
 PUT
@@ -5187,6 +5200,7 @@ TTM
 Tlm
 TIw
 ThK
+Toll
 know
 knows
 kind
@@ -5965,6 +5979,7 @@ tEXtSoftware
 tEXtCreation
 ttj
 taQq
+trust
 find
 from
 for
@@ -7320,6 +7335,7 @@ reward
 redeem
 rev
 rsvv
+ratios
 of
 one
 or
@@ -8311,6 +8327,10 @@ cjj
 cyJ
 ccS
 cmm
+castles
+compete
+cheap
+compared
 digit
 default
 drop
@@ -8801,6 +8821,7 @@ dkK
 dbb
 djbD
 diesel
+desirably
 non
 name
 numbers
@@ -9871,6 +9892,7 @@ Cost
 CDD
 CPP
 CyZ
+Columbia
 used
 user
 ui
@@ -10609,6 +10631,7 @@ loyalty
 learning
 locations
 lHxx
+little
 Input
 IS
 It
@@ -10986,6 +11009,7 @@ Intrinsic
 IKKSk
 IIM
 IWW
+Independent
 FCKN
 Front
 FTP
@@ -13440,6 +13464,7 @@ WVwI
 WRo
 WGVV
 Whitecap
+West
 HTTP
 HTTPS
 Http
@@ -14716,6 +14741,7 @@ MwC
 Mzz
 MFF
 Market
+Moats
 JSON
 JS
 Jesus
@@ -16764,6 +16790,7 @@ Enters
 Enums
 ESTU
 EVV
+Everyone
 Network
 NewWriter
 NewReader
@@ -17427,6 +17454,11 @@ BarBurrito
 BIKKc
 BMm
 Balance
+British
+Buy
+Business
+Brand
+BVPS
 Zeros
 Zod
 Zt
