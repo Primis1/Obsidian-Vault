@@ -424,6 +424,9 @@ Scz
 Sheet
 Sas
 Saskatchewan
+Smoky
+SASK
+Southeast
 Secret
 Switching
 values
@@ -737,6 +740,7 @@ viewers
 vaE
 vice
 versa
+valuable
 Regex
 Rest
 REST
@@ -2244,7 +2248,7 @@ steady
 screenshot
 sYZZ
 sxo
-sectors
+surplus
 manipulation
 many
 mentioned
@@ -2732,6 +2736,7 @@ mbsx
 mED
 mmE
 moat
+metric
 pattern
 preceding
 put
@@ -3259,6 +3264,7 @@ pssc
 psh
 produced
 partially
+pool
 paper
 people
 patent
@@ -4157,7 +4163,6 @@ eyg
 evaporates
 evolving
 expand
-efficiently
 PL
 POST
 PUT
@@ -4530,6 +4535,7 @@ Profits
 Path
 Peers
 PeXYXp
+PRA
 yea
 your
 you
@@ -6372,6 +6378,7 @@ fAiG
 fees
 franchisers
 fep
+flood
 and
 as
 any
@@ -7335,7 +7342,6 @@ reward
 redeem
 rev
 rsvv
-ratios
 of
 one
 or
@@ -8330,7 +8336,6 @@ cmm
 castles
 compete
 cheap
-compared
 digit
 default
 drop
@@ -9455,6 +9460,8 @@ wgv
 whn
 wRV
 weeks
+waterflood
+world
 Can
 Controlled
 Components
@@ -9893,6 +9900,9 @@ CDD
 CPP
 CyZ
 Columbia
+Central
+Carbon
+Capture
 used
 user
 ui
@@ -10631,6 +10641,7 @@ loyalty
 learning
 locations
 lHxx
+largest
 little
 Input
 IS
@@ -11009,7 +11020,6 @@ Intrinsic
 IKKSk
 IIM
 IWW
-Independent
 FCKN
 Front
 FTP
@@ -13465,6 +13475,8 @@ WRo
 WGVV
 Whitecap
 West
+WEYBURN
+Weyburn
 HTTP
 HTTPS
 Http
@@ -14384,6 +14396,7 @@ UVI
 Udp
 Unions
 USA
+Utilization
 Mostly
 Message
 Mkdir
@@ -16081,6 +16094,7 @@ Views
 VVVdf
 Vlll
 Valuation
+Valhalla
 Layers
 Link
 Listen
@@ -17100,6 +17114,7 @@ Nju
 Notes
 Nurse
 Nvv
+Northwest
 BaaS
 Both
 Basic
@@ -18902,6 +18917,7 @@ KRUuD
 KlWhE
 King
 Konrad
+Kaybob
 Query
 QueryClient
 Qt

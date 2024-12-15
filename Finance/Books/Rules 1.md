@@ -16,9 +16,12 @@
 2. Everyone is evolving, therefore business should always expand-protect its #moat s
 
 #### 4. Key number in Financial statement:
-1. #ROC - Return On investment capital
-2. #revenue growth rate  
-3. #EPS growth rate 
-4. #BVPS growth rate - book value per share 
+1. #ROIC - Return On investment capital
+*by importance*
+2. #EPS growth rate   
+3. #BVPS growth rate - book value per share
+4. #revenue growth rate
 5. #FCF growth rate 
-*desirably all these metrics should be at least 10% for last 10 years, then we can compare it to 1 and 5 years *
+*desirably all these metrics should be at **least 10%** for **last 10 years**, then we can compare it to 1 and 5 years*
+
+- #equity -growth rate is the most important metric, due to reason it *grew*; due to growing surplus of cash - and cash-flow what makes ***business*** valuable

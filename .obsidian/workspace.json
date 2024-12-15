@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "97fc0ee0733512c3",
+        "id": "46584c84e9c8b680",
         "type": "tabs",
         "children": [
           {
-            "id": "340397d9f26933bb",
+            "id": "69da2f6e26a2349b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Finance/Kinds/REITs analysis.md",
+                "file": "Finance/Kinds/DIV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "REITs analysis"
+              "title": "DIV"
+            }
+          },
+          {
+            "id": "bae66079e83ef048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Finance/Kinds/DIV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DIV"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -173,14 +188,13 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "340397d9f26933bb",
+  "active": "bae66079e83ef048",
   "lastOpenFiles": [
-    "Finance/Finance Glossary.md",
+    "Finance/Kinds/WCP.md",
+    "Finance/Books/Rules 1.md",
+    "Some shit, idk where to put/Template/FIN.md",
     "Finance/Books",
     "Finance/Kinds/DIV.md",
-    "Finance/Books/Rules 1.md",
-    "Finance/Kinds/WCP.md",
-    "Some shit, idk where to put/Template/FIN.md",
     "Finance/Interest Rate.md",
     "Some shit, idk where to put/Pasted image 20241204222021.png",
     "Finance/Formulas.md",
@@ -190,6 +204,7 @@
     "Some shit, idk where to put/Pasted image 20241204210234.png",
     "Some shit, idk where to put/Pasted image 20241204204720.png",
     "Studios in Mississauga.md",
+    "Finance/Finance Glossary.md",
     "Analysis",
     "back-end/API's/REST/REST API Design.md",
     "back-end/Communications/Http and Comm/Cookies.md",
@@ -210,6 +225,7 @@
     "back-end/Databases/Databases in general.md",
     "back-end/Databases/Supabase.md",
     "back-end/Databases/Theory/ORM's.md",
+    "back-end/Databases/Theory/Normalization.md",
     "front-end/React/Libs/ORMS",
     "Finance/Sheets/Income statement",
     "Finance/Sheets/Cash flows",
