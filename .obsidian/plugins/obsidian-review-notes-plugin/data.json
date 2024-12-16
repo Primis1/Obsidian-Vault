@@ -81,8 +81,20 @@
       "filename": "WCP"
     },
     {
+      "path": "Some shit, idk where to put/Template/FIN.md",
+      "filename": "FIN"
+    },
+    {
       "path": "Finance/Books/Rules 1.md",
       "filename": "Rules 1"
+    },
+    {
+      "path": "Finance/Books/Fin Statement/12 Principles.md",
+      "filename": "12 Principles"
+    },
+    {
+      "path": "Finance/Sheets/Cash flows/Cash Flow statement.md",
+      "filename": "Cash Flow statement"
     }
   ]
 }
