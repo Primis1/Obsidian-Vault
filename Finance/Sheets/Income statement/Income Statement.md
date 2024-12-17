@@ -1,5 +1,5 @@
 ***
-### To know
+### Key Metrics
 
 - #### #revenue - `often manipulated`, ==income inflows== which are already **`earned`** and **`realized`**  
 	- revenue located at the **top** of **income statement**  

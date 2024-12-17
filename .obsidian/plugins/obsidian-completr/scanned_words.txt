@@ -426,6 +426,8 @@ Sas
 Saskatchewan
 Secret
 Switching
+Statement
+Shareholders
 values
 value
 variations
@@ -1103,6 +1105,7 @@ ROE
 REDD
 Risks
 ROIC
+REAL
 is
 in
 informs
@@ -3273,6 +3276,7 @@ paper
 people
 patent
 purchased
+purchases
 built
 baby
 brackets
@@ -4173,6 +4177,7 @@ efficiently
 effectiveness
 earned
 expenditures
+expense
 PL
 POST
 PUT
@@ -4546,6 +4551,7 @@ Path
 Peers
 PeXYXp
 Portion
+Positive
 yea
 your
 you
@@ -7358,6 +7364,9 @@ rsvv
 ratios
 receivable
 research
+reports
+rusts
+reduces
 of
 one
 or
@@ -11044,6 +11053,8 @@ IWW
 Independent
 Inventory
 Insurance
+Increases
+Investing
 FCKN
 Front
 FTP
@@ -11418,6 +11429,7 @@ FZZ
 FNN
 Feeding
 Funds
+Financing
 DISCOVERY
 DELETE
 DDD
@@ -13188,6 +13200,7 @@ GfZW
 GEn
 Group
 GAAP
+GLOBAL
 We
 Web
 When
@@ -13809,6 +13822,7 @@ HAS
 Handshake
 HLJ
 Heavy
+Hence
 query
 questions
 quality
@@ -14785,6 +14799,7 @@ MFF
 Market
 Moats
 Marketing
+Metrics
 JSON
 JS
 Jesus
@@ -15787,6 +15802,8 @@ Oil
 OEr
 Overview
 Often
+Operations
+OBJECT
 Validation
 Validate
 Va

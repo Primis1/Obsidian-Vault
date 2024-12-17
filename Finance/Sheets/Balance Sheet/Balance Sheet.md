@@ -1,7 +1,7 @@
-***
+***
 ### What you have, minus what you owe = what you *worth*:
 
-- #### ==Assets== - resources owned or controlled by company 
+- #### ==Assets== - resources owned or controlled by company; Assets class can changed over time; *other assets => fixed assets* 
 
 	- ##### ==Current assets== (expected to convert into cash or used within a year):
 		- **Cash** **and** **Cash** **Equivalent** - amount of current cash company has
@@ -9,8 +9,9 @@
 		- **Receivable** - enforced **claims** for payment held by business, for goods or services that ordered, but money not in yet in the bank 
 			 - Account receivable - obligations of customers of a company for goods which are shipped to 'em by credit 
 
-		- **Inventory** - both finished products, which are ready to sale, and materials to be made into products 
+		- **Inventory** - both finished products, which are ready to sale, and materials to be made into products; **manufacturing salaries**;
 			- when finished goods are sold, it becomes an **account receivables**
+			- all manufacturing costs go into **inventory**
 		
 		- **Pre-paid expenses** - pre-paid bills. Insurance, phone calls, rent, salaries advances   
 			- added to current assets, coz company will not pay for it in near future   
@@ -35,7 +36,7 @@
 - #### Liability - responsibilities of company. what company `owes`, obligations to pay, deliver goods, contracted services  
 	
 	- ##### #Current-liabilities (within 1 year):
-		- **Account payable** - cost of goods, for use in company. Often purchased from another business and must be paid soon 
+		- **Account payable** - cost of goods, for use in company. Often purchased from another business and must be paid soon. Cash that we owe, and must pay in near future to keep business operating
 		
 		- **Short-term debt** - borrowing due within one year, such as loans   
 		
@@ -54,6 +55,10 @@
 		- Other Non-Current Liabilities: Long-term obligations not categorised above.
 
 - #### Equity (net cash after liquidating all liabilities)
+	- **Shareholders** #equity - money which are left from assets, after paying all liabilities
+		- owner's #equity, net-worth - are the same things   
+		- Increases with #net-income 
+	
 	- Common stock / Share capital - value of shares issued to common shareholder 
 	
 	- Preferred stock - shares with preferred rights to dividends or liquidating 
@@ -61,5 +66,3 @@
 	- Additional Paid In Capital - amount shareholders paid above nominal share value. Shows extra value contributed by shareholders 
 	
 	- Retained earnings - cumulative profit retained in the business after dividends. It reflects the company's reinvestment of profits
-
-	- share holders #equity, owner's #equity, net-worth - are the same things   
