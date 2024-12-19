@@ -12,7 +12,7 @@ To know:
 		
 		- Consistency(консистентність/послідовність) - ensures(запевняє) that DB is ==consisted== ==before== and ==after== ==transaction== is ==made==. If transaction occurs and the result in DB ==does not match the settled rules, transaction will be *rolled back*== to the previous "state"
 		
-		- Isolations - refers to the ==concurrent== ==execution==(обробка) of ==transaction==, process in one, will not affect the other 
+		- Isolation - refers to the ==concurrent== ==execution==(обробка) of ==transaction==, process in one, will not affect the other 
 		
 		- Durability - the updates of transactions is stored in the non-volatile(енергонезалежний)
 	

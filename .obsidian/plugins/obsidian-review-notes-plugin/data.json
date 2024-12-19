@@ -49,23 +49,23 @@
       "filename": "DIV"
     },
     {
-      "path": "Some shit, idk where to put/Pasted image 20241204204720.png",
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204204720.png",
       "filename": "Pasted image 20241204204720"
     },
     {
-      "path": "Some shit, idk where to put/Pasted image 20241204210234.png",
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204210234.png",
       "filename": "Pasted image 20241204210234"
     },
     {
-      "path": "Some shit, idk where to put/Pasted image 20241204210458.png",
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204210458.png",
       "filename": "Pasted image 20241204210458"
     },
     {
-      "path": "Some shit, idk where to put/Pasted image 20241204210757.png",
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204210757.png",
       "filename": "Pasted image 20241204210757"
     },
     {
-      "path": "Some shit, idk where to put/Pasted image 20241204213131.png",
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204213131.png",
       "filename": "Pasted image 20241204213131"
     },
     {
@@ -73,7 +73,7 @@
       "filename": "Formulas"
     },
     {
-      "path": "Some shit, idk where to put/Pasted image 20241204222021.png",
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204222021.png",
       "filename": "Pasted image 20241204222021"
     },
     {
@@ -93,8 +93,16 @@
       "filename": "12 Principles"
     },
     {
-      "path": "Finance/Sheets/Cash flows/Cash Flow Statement.md",
-      "filename": "Cash Flow Statement"
+      "path": "Finance/Sheets/Cash flows/Cash Flow statement.md",
+      "filename": "Cash Flow statement"
+    },
+    {
+      "path": "back-end/Databases/Theory/Non & Relational DB.md",
+      "filename": "Non & Relational DB"
+    },
+    {
+      "path": "Bernoulli's Equation.md",
+      "filename": "Bernoulli's Equation"
     }
   ]
 }
