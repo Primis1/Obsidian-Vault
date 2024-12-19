@@ -66,3 +66,26 @@
 	- Additional Paid In Capital - amount shareholders paid above nominal share value. Shows extra value contributed by shareholders 
 	
 	- Retained earnings - cumulative profit retained in the business after dividends. It reflects the company's reinvestment of profits
+
+
+### What to look at:
+- **Assets level relative to sales volume indicates:**
+	- **Efficiency of company's investments(machinery and inventory) generate revenue** 
+
+
+#### Liquidity Ratios:
+- **Current Ratio -** ratio determines, that the current assets are enough to cover current liabilities
+	- Ratio of 1.1, means that company *just* meets the upcoming payment  
+	- Value above 2, considered good for manufacturing company $$\frac{current assets}{current liabilities} = 2.7$$
+- **Quick Ratio** - same as **Current Ratio**, but excludes inventory
+	- $$\frac{cash + receivables}{current liabilities} = 1.9$$
+- **Assets turn** - ratio that measure how much profit/assets it can generate
+	- Indicates how much investments company requires to raise its sales$$\frac{annual sales}{assets} = 1.0$$
+	- High turns indicates that company can expand sales with low investments
+
+
+#### Leverage ratios:
+- **Debt-to-** #equity  **Ratio** - shows how much **debt** company has, relative to its investors #equity 
+	- Indicates that debt can be repaid, no matter what $$\frac{C/L \text{ Debt}}{\text{Shareholders Equity}} = 0.5$$
+- **Debt** **Ratio** - debt to total assets  
+	- Indicates the operating leverage$$\frac{C/L \text{ Debt}}{\text{Total Assets}} = 0.3$$

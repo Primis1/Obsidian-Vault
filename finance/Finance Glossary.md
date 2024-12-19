@@ -32,3 +32,8 @@
 	2. Good #ROIC (above 10%) indicates that company has some sort of #moat 
 
 12. #GAAP - generally accepted accounting principles 
+	1. **Conservative policies** - often raise expenses, so called "real estimates"
+	2. **Aggressive policies** - tend to raise earnings
+13. Nominal vs Real Dollar:
+	1. Nominal - actual money taken from wallet
+	2. Real - adjusted for inflation 

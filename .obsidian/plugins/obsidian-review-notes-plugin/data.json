@@ -1,108 +1,60 @@
 {
   "files": [
     {
-      "path": "Finance/Finance Glossary.md",
+      "path": "finance/Finance Glossary.md",
       "filename": "Finance Glossary"
-    },
-    {
-      "path": "CS/Algos and DS/Data Structures/Trees/Heap.md",
-      "filename": "Heap"
-    },
-    {
-      "path": "Finance/Sheets/Balance Sheet/Balance Sheet.md",
-      "filename": "Balance Sheet"
-    },
-    {
-      "path": "Studios in Mississauga.md",
-      "filename": "Studios in Mississauga"
-    },
-    {
-      "path": "Finance/Sheets/Income statement/Income Statement.md",
-      "filename": "Income Statement"
     },
     {
       "path": "Finance/Sheets/Cash flows/Cash.md",
       "filename": "Cash"
     },
     {
-      "path": "Ukrainian letters.md",
-      "filename": "Ukrainian letters"
-    },
-    {
-      "path": "back-end/Databases/Caching & Security/Drizzle.md",
-      "filename": "Drizzle"
-    },
-    {
-      "path": "back-end/Databases/Databases in general.md",
-      "filename": "Databases in general"
-    },
-    {
       "path": "SSL & TLS.md",
       "filename": "SSL & TLS"
     },
     {
-      "path": "Finance/Kinds/ETF's.md",
-      "filename": "ETF's"
+      "path": "finance/Sheets/Cash flows/Cash Flow Statement.md",
+      "filename": "Cash Flow Statement"
     },
     {
-      "path": "Finance/Kinds/DIV.md",
-      "filename": "DIV"
+      "path": "Aerospace/Fundamentals.md",
+      "filename": "Fundamentals"
     },
     {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204204720.png",
-      "filename": "Pasted image 20241204204720"
+      "path": "Aerospace/Aerodynamics/Aerodynamics.md",
+      "filename": "Aerodynamics"
     },
     {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204210234.png",
-      "filename": "Pasted image 20241204210234"
-    },
-    {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204210458.png",
-      "filename": "Pasted image 20241204210458"
-    },
-    {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204210757.png",
-      "filename": "Pasted image 20241204210757"
-    },
-    {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204213131.png",
-      "filename": "Pasted image 20241204213131"
-    },
-    {
-      "path": "Finance/Formulas.md",
+      "path": "finance/Formulas.md",
       "filename": "Formulas"
     },
     {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20241204222021.png",
-      "filename": "Pasted image 20241204222021"
+      "path": "finance/Sheets/Balance Sheet/Balance Sheet.md",
+      "filename": "Balance Sheet"
     },
     {
-      "path": "Finance/Kinds/WCP.md",
-      "filename": "WCP"
+      "path": "finance/Sheets/Income statement/Income Statement.md",
+      "filename": "Income Statement"
     },
     {
-      "path": "Some shit, idk where to put/Template/FIN.md",
-      "filename": "FIN"
+      "path": "Some shit, idk where to put/Template/Temp.md",
+      "filename": "Temp"
     },
     {
-      "path": "Finance/Books/Rules 1.md",
-      "filename": "Rules 1"
+      "path": "Some shit, idk where to put/Voc/English Voc.md",
+      "filename": "English Voc"
     },
     {
-      "path": "Finance/Books/Fin Statement/12 Principles.md",
-      "filename": "12 Principles"
-    },
-    {
-      "path": "Finance/Sheets/Cash flows/Cash Flow statement.md",
-      "filename": "Cash Flow statement"
+      "path": "Studios in Mississauga.md",
+      "filename": "Studios in Mississauga"
     },
     {
       "path": "back-end/Databases/Theory/Non & Relational DB.md",
       "filename": "Non & Relational DB"
     },
     {
-      "path": "Bernoulli's Equation.md",
-      "filename": "Bernoulli's Equation"
+      "path": "Aerospace/Jet Propulsion/Jet Engines Design.md",
+      "filename": "Jet Engines Design"
     }
   ]
 }

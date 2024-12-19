@@ -14,4 +14,8 @@
 - ##### Cash Flow from Financing - selling stock, borrowing money, paying dividends? 
 
 
-- ##### Free Cash Flow - 
+- ##### Free Cash Flow - amount of cash which left in a bank after outflows to `Cash Flow from Operations`. I.e available cash after all necessary payments were made
+
+### What to look at:
+- Cash available relative to level of payable indicates:
+	- Company can pay its bills and liabilities in the future

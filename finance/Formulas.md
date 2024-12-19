@@ -25,3 +25,9 @@
 
 ##### margin of safety - current price - #instinct-value 
 
+
+##### #NPV  Net Present Value; determines the income from investments with discount rate $$-C_0 + \sum_{t=1}^{n}\frac{\text{C}_y}{(1 + d)}$$
+- `-C` - cost of initial investment 
+- `Cy` - net cash flow for year `y` 
+- `d` - discount rate (value add each circle); we can take #WACC as a discount rate 
+$$-C_0 + \sum_{t=1}^{n}\frac{\text{C}_y}{(1 + d)} -> \sum_{t=1}^{n}\frac{\text{C}_y}{(1 + d)(1 + d)} $$

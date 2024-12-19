@@ -33,3 +33,8 @@
 
 - Cost - manufacturing expenditures to build inventories
 - Expenses - all expenses which were not included in **cost**
+
+### What to look at:
+- Gross margin, the bigger, the better 
+	- Indicates how much money company can spend on D&A and still make profits $$\frac{NetSales - COSG}{Net Sales} = 34$$
+	- Example, ratio of 80% tech stock, means that for each dollar of sales it requires only 20 cents of spends 
