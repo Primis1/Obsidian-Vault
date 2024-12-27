@@ -5,7 +5,7 @@
 ### Concepts:
 
 #### Forces of Flight:
-- **Thrust** - moves airplane forward. It comes from an engine, which turns propeller, what create jet propulsion
+- **Thrust** - moves airplane forward. It comes from an engine, which turns propeller, what create jet propulsion; Equation: $$F\text{ "thrust"} = (m \text{ "mass flow rate"} * V \text{ ""})_e  -  (m - V)0$$ 
 
 - **Drug** - *frictional* (friction - тертя) force which creates a *drug resisting*. It appears when object it going again air particles
 

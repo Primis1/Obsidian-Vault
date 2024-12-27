@@ -12,7 +12,7 @@
 #### **3. Balance Sheet**
 
 
-#### **4. Valuation**
+#### **4. Valuation/Ratios**
 
 
 #### **5. Market Performance**

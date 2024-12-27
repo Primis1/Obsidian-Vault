@@ -1,4 +1,4 @@
-*** 
+*** 
 *general things to always keep in mind*
 ### To know:
 

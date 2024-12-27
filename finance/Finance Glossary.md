@@ -2,7 +2,7 @@
 ### Special values:
 1. #P/E - `Price Per Share / Earnings Per Share (EPS)`, reflects how investors think about a stock, does it over-invested, and what expectations are there 
 	1. #EPS - `net income - dividends / number of shares` . Proportional profitability of company per share 
-2. #P/B
+2. #P/B - price per book. `price / equity`
 
 3. #volatility - difference between returns. Low volatility means stable/predictable returns. Higher, often counts as risky, because of often ratio change 
 	1. #beta - measure of volatility 
