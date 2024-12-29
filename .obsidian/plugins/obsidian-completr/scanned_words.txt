@@ -554,6 +554,8 @@ SBQu
 SOPS
 SRI
 Smy
+Stagnation
+Sold
 values
 value
 variations
@@ -3569,6 +3571,9 @@ miia
 mDR
 mOL
 mHwd
+mainly
+moats
+montney
 pattern
 preceding
 put
@@ -4238,6 +4243,7 @@ pjAK
 pIF
 pWWdXS
 provinces
+plans
 built
 baby
 brackets
@@ -4781,6 +4787,10 @@ bsv
 bCW
 boT
 billions
+bassein
+basin
+billion
+boe
 every
 except
 email
@@ -5940,6 +5950,7 @@ Pbc
 PJIQ
 PPYZ
 Projects
+Purchased
 yea
 your
 you
@@ -6879,6 +6890,7 @@ Tont
 TvV
 TUj
 TIfjCW
+Total
 know
 knows
 kind
@@ -9112,6 +9124,9 @@ aOJ
 aLB
 aQX
 aGhX
+aquatically
+ago
+annually
 replace
 repeats
 repeat
@@ -9691,6 +9706,7 @@ rvi
 rsf
 rFA
 renewable
+raised
 of
 one
 or
@@ -10958,6 +10974,8 @@ coil
 cER
 cxxx
 cid
+cent
+condensates
 digit
 default
 drop
@@ -13053,6 +13071,7 @@ Cmc
 CAGl
 CzN
 Canadian
+Commodity
 used
 user
 ui
@@ -14053,6 +14072,7 @@ lZhYg
 liH
 lPKP
 lii
+liquids
 Input
 IS
 It
@@ -14567,6 +14587,7 @@ Ilv
 IDATa
 Include
 Import
+Increase
 FCKN
 Front
 FTP
@@ -16531,6 +16552,7 @@ AJI
 ATbi
 AdL
 AQk
+ARC
 generally
 gRPC
 got
@@ -17015,6 +17037,7 @@ gRR
 gTp
 gfZf
 gwJ
+grammatically
 General
 GO
 GraphQL
@@ -17459,6 +17482,8 @@ GAN
 GWW
 Gah
 GiA
+Grow
+Going
 We
 Web
 When
@@ -21043,6 +21068,7 @@ ObE
 Oky
 OLF
 OnP
+Operates
 Validation
 Validate
 Va
@@ -21961,6 +21987,8 @@ LlY
 LAr
 LEG
 LSq
+Largest
+Larger
 Each
 Encapsualation
 Env
@@ -22894,6 +22922,8 @@ NVA
 NTP
 NpD
 NLV
+News
+Natural
 BaaS
 Both
 Basic
@@ -23414,6 +23444,8 @@ BLh
 BIa
 Bmu
 BTm
+Bought
+Bonavista
 Zeros
 Zod
 Zt
@@ -25059,6 +25091,7 @@ YsY
 YDR
 Yyx
 YlUx
+YoY
 Know
 Ko
 KV
