@@ -14,3 +14,5 @@
 
 3. However,  increase in #interest-rate slows the inflation, it also slows the economy, coz customers spend less, so businesses have less money 
 4. Than less money businesses have, than less innovation will be provided 
+
+#### Inflation protected businesses - logically those which require less capital and/or cash equivalent/requirements to operate 

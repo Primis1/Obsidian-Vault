@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "16b02304a7cd713e",
+            "id": "a21629bc182ba3e4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NVO.md",
+                "file": "finance/Researches/Healthcare/NVO.md",
                 "mode": "source",
                 "source": false
               },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "file: nvo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -173,10 +174,17 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "16b02304a7cd713e",
+  "active": "a21629bc182ba3e4",
   "lastOpenFiles": [
+    "finance/Interest Rate & Inflation.md",
+    "finance/Industries.md",
+    "finance/Stock categories.md",
+    "finance/Researches/Healthcare/NVO.md",
+    "finance/Researches/Healthcare",
     "ARX.md",
-    "NVO.md",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241229195546.png",
+    "Some shit, idk where to put/Z Pictures/Pasted image 20241229195352.png",
+    "NOVO.md",
     "TOU.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241229015611.png",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241222134354.png",
@@ -197,7 +205,6 @@
     "back-end/Authentication/OAuth 2.0.md",
     "finance/Finance Glossary.md",
     "finance/Formulas.md",
-    "Pasted image 20241222153904.png",
     "finance/Researches/Commodities",
     "Some shit, idk where to put/Template/Temp.md",
     "Some shit, idk where to put/Template/FIN.md",
@@ -208,11 +215,6 @@
     "finance/Researches/REITs analysis.md",
     "finance/Researches/Oil & Gas",
     "CS/Crypto/Blockchain.md",
-    "back-end/GO Base/Arrays Slices Iterations/Arrays vs Slices.md",
-    "Aerospace/Spacecraft Propulsion/Aerospace Engineering.md",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241220190731.png",
-    "Aerospace/Fundamentals.md",
-    "Aerospace/Bernoulli's Equation.md",
     "Aerospace/Spacecraft Propulsion",
     "Aerospace/Jet Propulsion",
     "Aerospace/Aerodynamics",
@@ -220,7 +222,6 @@
     "Finance/Books/Fin Statement",
     "Cycles",
     "finance/Books",
-    "Analysis",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

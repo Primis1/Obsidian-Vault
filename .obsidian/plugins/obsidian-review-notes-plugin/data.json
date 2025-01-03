@@ -113,8 +113,16 @@
       "filename": "TOU"
     },
     {
-      "path": "NVO.md",
+      "path": "NOVO.md",
+      "filename": "NOVO"
+    },
+    {
+      "path": "finance/Researches/Healthcare/NVO.md",
       "filename": "NVO"
+    },
+    {
+      "path": "finance/Interest Rate & Inflation.md",
+      "filename": "Interest Rate & Inflation"
     }
   ]
 }
