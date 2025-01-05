@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "08a26300bc9c884d",
+        "id": "013c922abb1d946a",
         "type": "tabs",
         "children": [
           {
-            "id": "a21629bc182ba3e4",
+            "id": "400e6f615ff7a90e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "finance/Researches/Healthcare/NVO.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "NVO"
+              "title": "New tab"
             }
           }
         ]
@@ -52,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: nvo",
+                "query": "Stops",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,12 +69,12 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -174,26 +170,31 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "a21629bc182ba3e4",
+  "active": "400e6f615ff7a90e",
   "lastOpenFiles": [
-    "finance/Interest Rate & Inflation.md",
-    "finance/Industries.md",
-    "finance/Stock categories.md",
+    "Demerit Points.md",
+    "Parking.md",
+    "Some shit, idk where to put/Pasted image 20250103032808.png",
+    "Some shit, idk where to put/Pasted image 20250103034109.png",
+    "Driving/Driving intersection & Stopping.md",
+    "Driving/Changing Directions  & Positions.md",
+    "front-end/JS Syntax/4 Operators/Transitions.md",
+    "Driving/Get ready to drive & Driving along.md",
+    "Some shit, idk where to put/Pasted image 20250103032831.png",
+    "Some shit, idk where to put/Pasted image 20250103031110.png",
+    "Some shit, idk where to put/Pasted image 20250103022817.png",
+    "Some shit, idk where to put/Pasted image 20250103021616.png",
+    "Some shit, idk where to put/Pasted image 20250103014147.png",
+    "Driving",
     "finance/Researches/Healthcare/NVO.md",
     "finance/Researches/Healthcare",
-    "ARX.md",
+    "finance/Interest Rate & Inflation.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241229195546.png",
+    "NVO.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241229195352.png",
-    "NOVO.md",
+    "ARX.md",
     "TOU.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241229015611.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241222134354.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241222145613.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241223040241.png",
-    "Some shit, idk where to put/Z Pictures/Pasted image 20241222155226.png",
-    "Some shit, idk where to put/Pasted image 20241225223235.png",
-    "Some shit, idk where to put/Pasted image 20241225225403.png",
-    "Some shit, idk where to put/Pasted image 20241225225512.png",
     "Energy Canada Takeaways.md",
     "NUV.md",
     "finance/Researches/Commodities/Commodity (Oil & Gas).md",
@@ -210,18 +211,13 @@
     "Some shit, idk where to put/Template/FIN.md",
     "finance/Sectors.md",
     "CS/Design & Patterns/Methods/Developing Methodologies.md",
-    "finance/Books/Rules 1.md",
-    "finance/Researches/ETF's.md",
-    "finance/Researches/REITs analysis.md",
     "finance/Researches/Oil & Gas",
-    "CS/Crypto/Blockchain.md",
     "Aerospace/Spacecraft Propulsion",
     "Aerospace/Jet Propulsion",
     "Aerospace/Aerodynamics",
     "Aerospace",
     "Finance/Books/Fin Statement",
     "Cycles",
-    "finance/Books",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
