@@ -8,7 +8,7 @@
 #### Punishments 
 - Two or more points - receive a warning letter
 
-- Six points - second warning letter, encourage to improve behaviour 
+- Six points - second warning letter, encourage to improve behavior 
 
 - Nine or more points - license **==suspected for 60 days==** from the date of surrender it to the ministry. 
 	- ==Loose for 2 years== - if surrender has failed 
