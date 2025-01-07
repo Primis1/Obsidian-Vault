@@ -24,4 +24,4 @@
 - Letters may be produced automatically, so don't bother if you fixed the issue
 
 ##### Penalties - in case of miss filing any tax sheet, therefore receiving penalties, fill RC4288 form, where you have to explain why mistake was done
-- It takes months for penalties to be canceled 
+- It takes months for penalties to be cancel  

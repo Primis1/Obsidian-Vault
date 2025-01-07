@@ -17,7 +17,30 @@
 
 #### Prices 
 - ##### Two points:
-	- Failing to obey signs, share the road, 
+	- Failing to obey signs, share the road
+	- Prohibit turns
+	- Towing ppl on toboggans, bicycles, skis for example 
+	- Improper left/right turns 
+	- Falling to signal 
+	- Unnecessary slow driving 
+	- Reversing on a highway 
+	- No seatbelt 
+
+- ##### Three points:
+	- Exceeding the limit by ==16 to 29 km==/==h==
+	
+	- Driving through/around/under ==railway barrier== 
+	
+	- Driving while using a hand-held wireless phone, or viewing a screen unrelated to driving task
+	
+	- Falling to **==yield==** ROW 
+	
+	- Failing to obey a: 
+		- stop sign 
+		- traffic light 
+		- railway crossing signal 
+	
+	- traffic control sign 
 	- 
 
 
