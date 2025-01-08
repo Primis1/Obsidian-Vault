@@ -576,6 +576,11 @@ SbS
 SXT
 Sag
 Six
+Stopping
+Streetcars
+Switch
+Speed
+Stop
 values
 value
 variations
@@ -1030,6 +1035,10 @@ vUt
 vjBG
 vah
 viewing
+visible
+vehicle
+villages
+vehicles
 Regex
 Rest
 REST
@@ -1551,6 +1560,8 @@ RIKsS
 RaL
 RSX
 Reversing
+Railway
+Roads
 is
 in
 informs
@@ -2224,6 +2235,8 @@ ibb
 iAH
 iMH
 iSP
+intersection
+illegal
 string
 sorting
 set
@@ -3016,6 +3029,14 @@ scanned
 skis
 seatbelt
 screen
+showing
+streetcar
+sudden
+seat
+sunset
+sunrise
+seconds
+stayed
 manipulation
 many
 mentioned
@@ -3697,6 +3718,11 @@ ministry
 medical
 mistake
 months
+meters
+metres
+member
+measuring
+meter
 pattern
 preceding
 put
@@ -4379,6 +4405,13 @@ pIJ
 patents
 payback
 penalties
+pedestrians
+passengers
+passenger
+parking
+permit
+prison
+police
 built
 baby
 brackets
@@ -4950,6 +4983,14 @@ bracket
 bother
 bicycles
 barrier
+behind
+buckle
+belt
+beam
+beams
+basses
+bus
+bay
 every
 except
 email
@@ -5606,6 +5647,8 @@ eUH
 erz
 erOHCt
 eDC
+elsewhere
+enter
 PL
 POST
 PUT
@@ -6140,6 +6183,9 @@ Punishments
 Prices
 Penalties
 Prohibit
+Pedestrian
+Parking
+Police
 yea
 your
 you
@@ -6632,6 +6678,7 @@ ynP
 ykg
 yje
 yLw
+yellow
 To
 TCP
 Transmission
@@ -7114,6 +7161,7 @@ TWp
 TYs
 Tax
 Towing
+TLTR
 know
 knows
 kind
@@ -8203,6 +8251,8 @@ tkWN
 tax
 tuition
 toboggans
+train
+town
 find
 from
 for
@@ -8738,6 +8788,9 @@ fKT
 feA
 fills
 filing
+fined
+flashing
+flashes
 and
 as
 any
@@ -9418,6 +9471,12 @@ aRE
 aiDE
 aPUv
 audits
+approached
+alert
+areas
+approaching
+accumulate
+amber
 replace
 repeats
 repeat
@@ -10016,6 +10075,10 @@ road
 revised
 revision
 railway
+red
+rear
+refused
+roads
 of
 one
 or
@@ -10524,6 +10587,7 @@ oIe
 oqn
 offence
 obey
+officer
 character
 computer
 classes
@@ -11321,8 +11385,18 @@ confirmation
 carried
 claimed
 canceled
-cancel
 crossing
+caution
+clear
+come
+came
+coming
+crossed
+crossover
+clock
+cities
+caught
+cyclists
 digit
 default
 drop
@@ -11993,6 +12067,12 @@ deducting
 donation
 docs
 driving
+demerit
+drivers
+driver
+distance
+deploy
+directions
 non
 name
 numbers
@@ -14520,6 +14600,8 @@ lnK
 latest
 logically
 license
+lights
+lane
 Input
 IS
 It
@@ -15057,6 +15139,7 @@ IBb
 ITc
 IHap
 Improper
+Interaction
 FCKN
 Front
 FTP
@@ -16093,6 +16176,9 @@ DYHz
 Dropped
 Demerit
 Driving
+Drive
+Diagram
+Drivers
 has
 have
 hidden
@@ -16603,6 +16689,9 @@ hbH
 hfI
 holds
 haven
+half
+hour
+headlights
 ALOT
 API
 Application
@@ -17114,6 +17203,7 @@ AHc
 AmC
 Allowed
 Arbitrarily
+Always
 generally
 gRPC
 got
@@ -17615,6 +17705,8 @@ gQT
 gisD
 gPt
 gov
+gear
+guard
 General
 GO
 GraphQL
@@ -18556,6 +18648,7 @@ WHc
 WIh
 WEMB
 WWTE
+Without
 HTTP
 HTTPS
 Http
@@ -19005,6 +19098,9 @@ HlO
 HUM
 HjU
 Hold
+Have
+Hand
+Hands
 query
 questions
 quality
@@ -19872,6 +19968,8 @@ UGN
 Undervaluation
 University
 Unnecessary
+Uncontrolled
+Upon
 Mostly
 Message
 Mkdir
@@ -20379,6 +20477,7 @@ Mcl
 MkX
 Mik
 Mä
+Municipal
 JSON
 JS
 Jesus
@@ -21811,6 +21910,7 @@ ObJdY
 OVL
 OsO
 Overtake
+Overhead
 Validation
 Validate
 Va
@@ -22288,6 +22388,7 @@ VrQxM
 VBV
 Vjj
 VPWW
+Various
 Layers
 Link
 Listen
@@ -23738,6 +23839,7 @@ NwW
 NZt
 NlN
 Nine
+Novice
 BaaS
 Both
 Basic
@@ -24277,6 +24379,8 @@ Bum
 BgEM
 BQY
 BGC
+Beams
+Buses
 Zeros
 Zod
 Zt
@@ -25985,6 +26089,8 @@ YCye
 YJW
 Ysf
 YGr
+Yield
+Yellow
 Know
 Ko
 KV
