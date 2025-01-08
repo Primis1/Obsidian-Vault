@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bad conditions & Emergencies.md",
+                "file": "Driving/Changing Directions  & Positions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bad conditions & Emergencies"
+              "title": "Changing Directions  & Positions"
             }
           }
         ],
@@ -67,8 +67,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: deme",
-                "matchingCase": false,
+                "query": "meters ",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -191,9 +191,10 @@
   },
   "active": "3fbc9c53aa642481",
   "lastOpenFiles": [
-    "Driving/Driving intersection & Stopping.md",
-    "Bad conditions & Emergencies.md",
     "Driving/Demerit Points.md",
+    "Driving/Bad conditions & Emergencies.md",
+    "Driving/Driving intersection & Stopping.md",
+    "Driving/Changing Directions  & Positions.md",
     "Driving/Get ready to drive & Driving along.md",
     "Driving/Parking.md",
     "finance/Taxes in Canada.md",
@@ -205,7 +206,6 @@
     "Some shit, idk where to put/Pasted image 20250103022817.png",
     "Some shit, idk where to put/Pasted image 20250103021616.png",
     "Some shit, idk where to put/Pasted image 20250103014147.png",
-    "Driving/Changing Directions  & Positions.md",
     "Driving",
     "202501050028.md",
     "finance/Researches/Healthcare/NVO.md",

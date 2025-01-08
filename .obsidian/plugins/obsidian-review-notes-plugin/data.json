@@ -133,8 +133,16 @@
       "filename": "Taxes in Canada"
     },
     {
-      "path": "Bad conditions & Emergencies.md",
+      "path": "Driving/Bad conditions & Emergencies.md",
       "filename": "Bad conditions & Emergencies"
+    },
+    {
+      "path": "Driving/Driving intersection & Stopping.md",
+      "filename": "Driving intersection & Stopping"
+    },
+    {
+      "path": "Driving/Changing Directions  & Positions.md",
+      "filename": "Changing Directions  & Positions"
     }
   ]
 }

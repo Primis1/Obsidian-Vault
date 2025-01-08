@@ -24,7 +24,6 @@
 
 #### Stopping 
 
-
 ##### Railway
 - If train is coming, stay at least 5 meters from the intersection 
 - Avoid shifting gear while crossing intersection 
@@ -37,9 +36,12 @@
 ##### Pedestrian crossover - where there is a sign but no lights
 - Yellow light will alert drivers for crossing pedestrians 
 - ROW is your only when road is clear 
+- Stop at least ==15 meters before controlled== intersection and ==9 meters before uncontrolled one==   
 ![[Pasted image 20250103031110.png]]
 
 #### Streetcars 
 - At streetcar stops, stay at least ==two metres behind the rear== door.
 - This rule does not apply at stops where an area has been set aside for streetcar passengers.
 	- Always pass these areas at a reasonable speed and be prepared for pedestrians to make sudden or unexpected moves.
+
+#### Do not park anywhere where you can't see in 125 meters, in both directions 

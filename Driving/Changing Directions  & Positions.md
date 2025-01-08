@@ -7,11 +7,8 @@
 - Signal way before the turn
 - Slow down before turn, the sharper the turn, the slower you should drive
 
-
 ##### On red light 
 - Unless sign tells you not to, you may make a right turn facing a red light, **if** you came to complete stop and wait until the way is clear
-
-
 
 ##### Roundabouts
 - Those is round have ROW 
@@ -37,6 +34,7 @@
 
 #### Passing 
 - Passing within 30 metres of a pedestrian crossover is not permitted
+- ==Move Over law== - emergency vehicle with lights turned on, you should adjust to free lane if possible. Slow down
 
 *On a right*
-- Possible on multi-single lane road when passing a streetcar or left turning vehicle  
+- Possible on multi-single lane road when passing a streetcar or left turning vehicle
