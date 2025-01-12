@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7116d0738e09ac20",
+        "id": "9aa54052a3cdca2f",
         "type": "tabs",
         "children": [
           {
-            "id": "d8a83d1290c6880d",
+            "id": "b0176b12ac3e373b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Driving/Driving intersection & Stopping.md",
+                "file": "finance/Books/Rules 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Driving intersection & Stopping"
+              "title": "Rules 1"
             }
           },
           {
-            "id": "3fbc9c53aa642481",
+            "id": "00fdcc5317daf757",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Driving/Changing Directions  & Positions.md",
+                "file": "APLD & Peers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Changing Directions  & Positions"
+              "title": "APLD & Peers"
             }
           }
         ],
@@ -189,15 +189,19 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "3fbc9c53aa642481",
+  "active": "00fdcc5317daf757",
   "lastOpenFiles": [
-    "Driving/Demerit Points.md",
-    "Driving/Bad conditions & Emergencies.md",
+    "finance/Books/Rules 1.md",
+    "APLD & Peers.md",
+    "finance/Economics/Stock categories.md",
+    "finance/Economics",
     "Driving/Driving intersection & Stopping.md",
     "Driving/Changing Directions  & Positions.md",
+    "Driving/Demerit Points.md",
+    "Driving/Bad conditions & Emergencies.md",
     "Driving/Get ready to drive & Driving along.md",
     "Driving/Parking.md",
-    "finance/Taxes in Canada.md",
+    "finance/Economics/Taxes in Canada.md",
     "Summative.md",
     "Some shit, idk where to put/Pasted image 20250103034109.png",
     "Some shit, idk where to put/Pasted image 20250103032831.png",
@@ -210,8 +214,7 @@
     "202501050028.md",
     "finance/Researches/Healthcare/NVO.md",
     "finance/Interest Rate & Inflation.md",
-    "finance/Industries.md",
-    "finance/Stock categories.md",
+    "finance/Economics/Industries.md",
     "finance/Researches/Healthcare",
     "ARX.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20241229195546.png",
@@ -227,8 +230,6 @@
     "finance/Researches/Oil & Gas/ARC.md",
     "finance/Researches/Oil & Gas/WCP.md",
     "back-end/Authentication/Passport Serialize & Deserialize.md",
-    "back-end/Authentication/OAuth 2.0.md",
-    "finance/Finance Glossary.md",
     "finance/Researches/Commodities",
     "finance/Researches/Oil & Gas",
     "Aerospace/Spacecraft Propulsion",
@@ -236,7 +237,6 @@
     "Aerospace/Aerodynamics",
     "Aerospace",
     "Finance/Books/Fin Statement",
-    "Cycles",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

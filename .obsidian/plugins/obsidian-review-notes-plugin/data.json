@@ -69,7 +69,7 @@
       "filename": "ARC"
     },
     {
-      "path": "finance/Sectors.md",
+      "path": "finance/Economics/Sectors.md",
       "filename": "Sectors"
     },
     {
@@ -129,7 +129,7 @@
       "filename": "Demerit Points"
     },
     {
-      "path": "finance/Taxes in Canada.md",
+      "path": "finance/Economics/Taxes in Canada.md",
       "filename": "Taxes in Canada"
     },
     {
@@ -143,6 +143,10 @@
     {
       "path": "Driving/Changing Directions  & Positions.md",
       "filename": "Changing Directions  & Positions"
+    },
+    {
+      "path": "APLD & Peers.md",
+      "filename": "APLD & Peers"
     }
   ]
 }
