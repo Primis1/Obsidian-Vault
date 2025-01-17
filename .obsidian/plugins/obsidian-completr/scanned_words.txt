@@ -2347,6 +2347,7 @@ iQZ
 ikv
 iAJ
 ikm
+international
 string
 sorting
 set
@@ -3191,6 +3192,7 @@ sXc
 svww
 ssy
 sWL
+studies
 manipulation
 many
 mentioned
@@ -3902,6 +3904,7 @@ mxM
 mvww
 mxk
 maturity
+macroeconomics
 pattern
 preceding
 put
@@ -5961,6 +5964,7 @@ eow
 edX
 eQw
 eiCc
+econ
 PL
 POST
 PUT
@@ -9288,6 +9292,7 @@ fSbm
 fZW
 fNF
 fund
+fluctuates
 and
 as
 any
@@ -10007,6 +10012,7 @@ axd
 att
 advisory
 accounts
+activity
 replace
 repeats
 repeat
@@ -10647,6 +10653,8 @@ rtt
 rcN
 regulates
 recessions
+region
+regards
 of
 one
 or
@@ -12029,6 +12037,8 @@ cHSM
 cnno
 cUWXcP
 card
+consumption
+currency
 digit
 default
 drop
@@ -12734,6 +12744,7 @@ dID
 dRHa
 depositors
 dependence
+domestic
 non
 name
 numbers
@@ -13211,6 +13222,7 @@ nszrB
 njT
 nso
 nnoX
+national
 white
 word
 we
@@ -14856,6 +14868,7 @@ uCW
 uSQ
 uSa
 uHMCQl
+unemployment
 local
 look
 label
@@ -18158,6 +18171,7 @@ ABx
 AHs
 AHC
 Accounting
+Answers
 generally
 gRPC
 got
@@ -19174,6 +19188,8 @@ GJB
 GKkKC
 Gggg
 Gss
+GDP
+Globalization
 We
 Web
 When
@@ -21079,6 +21095,7 @@ UMY
 UUQ
 UKG
 Underwriting
+Unemployment
 Mostly
 Message
 Mkdir

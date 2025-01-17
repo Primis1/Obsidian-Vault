@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a134490a95c3f70d",
+            "id": "a47ac3b11305b4b7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/Researches/Bank's Income.md",
+                "file": "finance/Economics/Macroeconomics/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bank's Income"
+              "title": "Introduction"
+            }
+          },
+          {
+            "id": "74512d57e000b71f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ]
@@ -173,8 +187,12 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "a134490a95c3f70d",
+  "active": "a47ac3b11305b4b7",
   "lastOpenFiles": [
+    "Untitled.md",
+    "finance/Economics/Macroeconomics/Introduction.md",
+    "finance/Researches/Bank's Income.md",
+    "finance/Economics/Macroeconomics",
     "Some shit, idk where to put/Pasted image 20250112165058.png",
     "finance/Researches/Tech/APLD & Peers.md",
     "Some shit, idk where to put/Pasted image 20250112182437.png",
@@ -182,7 +200,6 @@
     "Some shit, idk where to put/Pasted image 20250112165104.png",
     "finance/Books/Rules 1.md",
     "finance/Researches/REITs analysis.md",
-    "finance/Researches/Bank's Income.md",
     "finance/Researches/Tech",
     "finance/Economics/Stock categories.md",
     "finance/Economics",
@@ -213,13 +230,11 @@
     "NUV.md",
     "finance/Researches/Commodities/Commodity (Oil & Gas).md",
     "finance/Researches/DIV.md",
-    "back-end/Authentication/Authentication && Authorization.md",
     "finance/Researches/Commodities",
     "finance/Researches/Oil & Gas",
     "Aerospace/Spacecraft Propulsion",
     "Aerospace/Jet Propulsion",
     "Aerospace/Aerodynamics",
-    "Aerospace",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
