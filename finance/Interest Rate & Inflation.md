@@ -16,3 +16,10 @@
 4. Than less money businesses have, than less innovation will be provided 
 
 #### Inflation protected businesses - logically those which require less capital and/or cash equivalent/requirements to operate 
+
+#### Inflation inertia (unemployment)
+- Inflation expectations
+- Wage indexation - especially appliable for countries with long periods of inflation. When price of goods rises on 10%, wages automatically increase on 10% 
+- Long-term contracts - contract with employee on fixed rise of wages YoY
+
+#### Sacrifice Ratio - measures the effect of rising/falling inflation on country's production output  

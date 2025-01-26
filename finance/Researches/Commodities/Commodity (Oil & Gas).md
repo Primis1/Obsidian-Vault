@@ -5,10 +5,16 @@
 2. #MCF - gas **thousands cubic per feet**; 1 **mcf** = 1/6 energy of #BOE; hence 1 barrels of oil equivalent = 6 mcf's 
 3. #commodity - basic material, which fundamentally;  commodities not have any specific size or shape; it depends only time and place where they were obtained
 
+4. #source-curse - statement, that economy with large reserves of nat-commodities growth slower than the ==resource scare== economies. ***Volatility of Intrinsic value of nat-resources majorly impacts overall volatility of the country***   
 ### Concepts:
 
 #### Key characteristics 
 - Delivered globally, by sea, usually **in bulk/масса(оптом)**
+
+- Volatile Oil Window - range and temperature condition in subsurface oil reservoir,  ***hydrocarbons***(energy chemicals in oil and gas). 
+	- Reservoir contains significant amount of pressured natural gas, which released on a surface, **to the lower pressure** 
+	- Such windows contain high Gas-To-Oil proportion 
+	- **Oil is lighter in such reservoirs**, due to amount of hydrocarbons 
 
 - Scale economy favor bulk deliver. Cost of transportation makes location - **significant** price-factor
 

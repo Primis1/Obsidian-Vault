@@ -24,7 +24,7 @@
  - #expenses :
 	1. Selling expenses include - **promotions**, marketing, salaries of those who directly sell the product, **delivery** **costs**
 		
-	2. Administration  expenses include - **salaries** of **stuff** and **CEO**, #deprication, legal & professional **fees**, rent and utilities 
+	2. Administration  expenses include - **salaries** of **stuff** and **CEO**, #depriciated, legal & professional **fees**, rent and utilities 
 		
 	3. **operating expenses/income** :
 		1. Sales & Marketing 
