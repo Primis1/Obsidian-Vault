@@ -23,3 +23,7 @@
 - Long-term contracts - contract with employee on fixed rise of wages YoY
 
 #### Sacrifice Ratio - measures the effect of rising/falling inflation on country's production output  
+
+#### Market Predictions and Expectations on #interest-rate 
+- Depending on the increase or decrease business with existing debt can suffer or benefit in compare to it pears
+	- If company has low debt and interest rate fell, they can get cheap money for their expansions and repay them while they stay low 

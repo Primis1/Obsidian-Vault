@@ -8,7 +8,7 @@
 ### Concepts:
 
 - ##### Categories of industries within sector:
-1. cyclical - those whose return rely on something that is not necessary to buy or ppl's opportunities to purchase things . "==what i want=="
+1. cyclical - those whose return rely on something that is superfluous to buy or ppl's opportunities to purchase things . "==what i want=="
 
 2. defensive - ppl will buy it no-matter the economy is rn, in inflation, in crisis or in cataclysm. 
 

@@ -1,164 +1,56 @@
 {
   "files": [
     {
-      "path": "finance/Finance Glossary.md",
-      "filename": "Finance Glossary"
+      "path": "finance/Industries/Cargo & Shipment.md",
+      "filename": "Cargo & Shipment"
     },
     {
-      "path": "Finance/Sheets/Cash flows/Cash.md",
-      "filename": "Cash"
+      "path": "finance/Economics/Yield Curve.md",
+      "filename": "Yield Curve"
     },
     {
-      "path": "SSL & TLS.md",
-      "filename": "SSL & TLS"
+      "path": "finance/Economics/Industries.md",
+      "filename": "Industries"
     },
     {
-      "path": "finance/Sheets/Cash flows/Cash Flow Statement.md",
-      "filename": "Cash Flow Statement"
-    },
-    {
-      "path": "Aerospace/Fundamentals.md",
-      "filename": "Fundamentals"
-    },
-    {
-      "path": "Aerospace/Aerodynamics/Aerodynamics.md",
-      "filename": "Aerodynamics"
-    },
-    {
-      "path": "finance/Formulas.md",
-      "filename": "Formulas"
-    },
-    {
-      "path": "finance/Sheets/Balance Sheet/Balance Sheet.md",
-      "filename": "Balance Sheet"
-    },
-    {
-      "path": "finance/Sheets/Income statement/Income Statement.md",
-      "filename": "Income Statement"
-    },
-    {
-      "path": "Some shit, idk where to put/Template/Temp.md",
-      "filename": "Temp"
-    },
-    {
-      "path": "Some shit, idk where to put/Voc/English Voc.md",
-      "filename": "English Voc"
-    },
-    {
-      "path": "Studios in Mississauga.md",
-      "filename": "Studios in Mississauga"
-    },
-    {
-      "path": "back-end/Databases/Theory/Non & Relational DB.md",
-      "filename": "Non & Relational DB"
-    },
-    {
-      "path": "Aerospace/Jet Propulsion/Jet Engines Design.md",
-      "filename": "Jet Engines Design"
-    },
-    {
-      "path": "Aerospace/Spacecraft Propulsion/Aerospace Engineering.md",
-      "filename": "Aerospace Engineering"
-    },
-    {
-      "path": "finance/Books/Rules 1.md",
-      "filename": "Rules 1"
-    },
-    {
-      "path": "finance/Researches/Oil & Gas/ARC.md",
-      "filename": "ARC"
-    },
-    {
-      "path": "finance/Economics/Sectors.md",
-      "filename": "Sectors"
-    },
-    {
-      "path": "finance/Researches/Oil & Gas/WCP.md",
-      "filename": "WCP"
+      "path": "finance/Researches/TAl.md",
+      "filename": "TAl"
     },
     {
       "path": "Some shit, idk where to put/Template/FIN.md",
       "filename": "FIN"
     },
     {
-      "path": "finance/Researches/Commodities/Commodity (Oil & Gas).md",
-      "filename": "Commodity (Oil & Gas)"
-    },
-    {
-      "path": "back-end/Authentication/Passport Serialize & Deserialize.md",
-      "filename": "Passport Serialize & Deserialize"
-    },
-    {
-      "path": "NUV.md",
-      "filename": "NUV"
-    },
-    {
-      "path": "Energy Canada Takeaways.md",
-      "filename": "Energy Canada Takeaways"
-    },
-    {
-      "path": "Some shit, idk where to put/Pasted image 20241225225403.png",
-      "filename": "Pasted image 20241225225403"
-    },
-    {
-      "path": "Some shit, idk where to put/Pasted image 20241225225512.png",
-      "filename": "Pasted image 20241225225512"
-    },
-    {
-      "path": "ARX.md",
-      "filename": "ARX"
-    },
-    {
-      "path": "TOU.md",
-      "filename": "TOU"
-    },
-    {
-      "path": "NOVO.md",
-      "filename": "NOVO"
-    },
-    {
-      "path": "finance/Researches/Healthcare/NVO.md",
-      "filename": "NVO"
-    },
-    {
-      "path": "finance/Interest Rate & Inflation.md",
-      "filename": "Interest Rate & Inflation"
-    },
-    {
-      "path": "Driving/Demerit Points.md",
-      "filename": "Demerit Points"
-    },
-    {
-      "path": "finance/Economics/Taxes in Canada.md",
-      "filename": "Taxes in Canada"
-    },
-    {
-      "path": "Driving/Bad conditions & Emergencies.md",
-      "filename": "Bad conditions & Emergencies"
-    },
-    {
-      "path": "Driving/Driving intersection & Stopping.md",
-      "filename": "Driving intersection & Stopping"
-    },
-    {
-      "path": "Driving/Changing Directions  & Positions.md",
-      "filename": "Changing Directions  & Positions"
-    },
-    {
-      "path": "finance/Researches/Tech/APLD & Peers.md",
-      "filename": "APLD & Peers"
-    },
-    {
-      "path": "finance/Researches/Bank's Income.md",
-      "filename": "Bank's Income"
-    },
-    {
-      "path": "finance/Economics/Macroeconomics/Introduction.md",
-      "filename": "Introduction"
-    },
-    {
       "path": "Untitled.md",
       "filename": "Untitled"
+    },
+    {
+      "path": "Pasted image 20250202020021.png",
+      "filename": "Pasted image 20250202020021"
+    },
+    {
+      "path": "Pasted image 20250202020023.png",
+      "filename": "Pasted image 20250202020023"
+    },
+    {
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20250202020033.png",
+      "filename": "Pasted image 20250202020033"
+    },
+    {
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20250202020203.png",
+      "filename": "Pasted image 20250202020203"
+    },
+    {
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20250202020209.png",
+      "filename": "Pasted image 20250202020209"
+    },
+    {
+      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20250202022029.png",
+      "filename": "Pasted image 20250202022029"
+    },
+    {
+      "path": "Schedule.md",
+      "filename": "Schedule"
     }
   ]
 }
