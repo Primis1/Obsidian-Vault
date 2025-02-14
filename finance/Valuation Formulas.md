@@ -8,7 +8,7 @@
 - By company - for company to measure a profitability of funding a new project
 - By investor - to see their asset effectiveness. How much money they can generate for single dollar of assets (`Net Income / WACC`)
 
-##### #DFC  discounted cash flow, shows the current price of the share $$\sum_{t=1}^{n} \frac{\text{FCF}_t}{(1 + \text{WACC})^t} + \frac{\text{Terminal Value}}{(1 + \text{WACC})^n}$$
+##### #DFC  discounted cash flow,  $$\sum_{t=1}^{n} \frac{\text{FCF}_t}{(1 + \text{WACC})^t} + \frac{\text{Terminal Value}}{(1 + \text{WACC})^n}$$
 - 
 	- `FCF` - free cash flow 
 	- `WACC` - Weighted cost of capital 

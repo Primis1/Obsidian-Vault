@@ -40,3 +40,5 @@
 	2. Real - adjusted for inflation 
 
 14. CAGR - Compound Annual Growth Rate
+
+15. Goodwill - recorded when acquisition exceeds target's book value 

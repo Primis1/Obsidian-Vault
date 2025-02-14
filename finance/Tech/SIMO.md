@@ -1,10 +1,9 @@
-***
 ### Special values:
 
 
 
 #### 1. Company Overview
-- Small-cap business, operates through vessel chartering, using 'em
+
 
 #### 2. Industry
 
@@ -21,7 +20,7 @@
 #### 6. Financial Health and Risks
 
 
-#### 7. Moats:
+#### 7. Moats / Advantages to Peers:
 
 
 #### **Conclusion**
