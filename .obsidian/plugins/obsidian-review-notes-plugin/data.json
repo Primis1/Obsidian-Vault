@@ -65,8 +65,8 @@
       "filename": "SIMO"
     },
     {
-      "path": "Untitled.md",
-      "filename": "Untitled"
+      "path": "finance/Economics/Credit Rating.md",
+      "filename": "Credit Rating"
     },
     {
       "path": "finance/Finance Glossary.md",
@@ -75,6 +75,14 @@
     {
       "path": "finance/Valuation Formulas.md",
       "filename": "Valuation Formulas"
+    },
+    {
+      "path": "finance/Industries/Advertising.md",
+      "filename": "Advertising"
+    },
+    {
+      "path": "finance/Industries/NAND and SIMO.md",
+      "filename": "NAND and SIMO"
     }
   ]
 }

@@ -26,3 +26,6 @@ commands
 already
 EBITDA
 apl
+NaN
+Nan
+NAND
