@@ -32,4 +32,3 @@
 - `d` - discount rate (value add each circle); we can take #WACC as a discount rate 
 $$-C_0 + \sum_{t=1}^{n}\frac{\text{C}_y}{(1 + d)} -> \sum_{t=1}^{n}\frac{\text{C}_y}{(1 + d)(1 + d)} $$
 
-##### ==DCF (FCF Firm)== vs ==Business Components Approach== vs ==Economic Profit==(EP)
