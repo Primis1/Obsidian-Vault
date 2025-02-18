@@ -24,6 +24,8 @@
 
 - Long storing periods, often infinite 
 
+- Energy sector will continue to demand fossil fuels in this decade before decline. Meeting 40-60% of global energy demand up to 2050. 
+
 
 #### Main types
 - ##### Primary #commodity 
@@ -121,3 +123,4 @@ Where:
 - Lower price on commodity - benefits downstream business, unlike upstream 
 - Crack - spread in the differential between the price of crude oil and price of petroleum products **extracted** from it
 - The heavier oil, the harder to get a refined product such as gasoline; *lower **crack** spread*
+

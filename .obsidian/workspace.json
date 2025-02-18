@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4f2f12b19b41ed7e",
+        "id": "6d75a0b6da854109",
         "type": "tabs",
         "children": [
           {
-            "id": "41a4a2f9c38a4089",
+            "id": "dad6495a7305aff5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "finance/Industries/Advertising.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Advertising"
+              "title": "New tab"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: adver",
+                "query": "file: oil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +70,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -177,8 +175,10 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "801a4bac8f3dd1ae",
+  "active": "dad6495a7305aff5",
   "lastOpenFiles": [
+    "finance/Industries/Commodities/Commodity (Oil & Gas).md",
+    "Studios in Mississauga.md",
     "finance/Industries/Advertising.md",
     "Schedule.md",
     "finance/Valuation Formulas.md",
@@ -198,10 +198,8 @@
     "finance/Finance Glossary.md",
     "finance/Valuation/Value Creation.md",
     "Untitled.md",
-    "Studios in Mississauga.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20250206222718.png",
     "finance/Tech/SIMO.md",
-    "finance/Industries/Commodities/Commodity (Oil & Gas).md",
     "Some shit, idk where to put/Template/FIN.md",
     "Some shit, idk where to put/Template/Temp.md",
     "Some shit, idk where to put/Z Pictures/Pasted image 20250202022029.png",

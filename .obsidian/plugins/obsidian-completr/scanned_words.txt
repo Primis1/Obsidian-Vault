@@ -1791,6 +1791,7 @@ Reuben
 Revolutionizing
 Role
 Regulation
+Retailers
 is
 in
 informs
@@ -2554,6 +2555,7 @@ innovates
 integrates
 identifiers
 invasion
+inefficiency
 string
 sorting
 set
@@ -5176,6 +5178,8 @@ precise
 profile
 persistent
 plethora
+profiles
+painful
 built
 baby
 brackets
@@ -5852,6 +5856,8 @@ battles
 blend
 boundaries
 browsing
+behavioral
+brands
 every
 except
 email
@@ -7280,6 +7286,8 @@ Privacy
 Party
 Policies
 Persistent
+Platforms
+Publishers
 yea
 your
 you
@@ -8389,6 +8397,7 @@ TTD
 TPC
 Topics
 Transparency
+Traditional
 know
 knows
 kind
@@ -11097,6 +11106,9 @@ agreements
 anchored
 addresses
 activation
+ads
+advertisers
+aggressive
 replace
 repeats
 repeat
@@ -12397,6 +12409,7 @@ offload
 oversupply
 opting
 ongoing
+overlap
 character
 computer
 classes
@@ -13378,6 +13391,7 @@ campaigns
 comply
 compliant
 consent
+contextual
 digit
 default
 drop
@@ -14176,6 +14190,7 @@ disruptive
 dawn
 draw
 develops
+displaying
 non
 name
 numbers
@@ -15902,6 +15917,7 @@ California
 CCPA
 Continued
 Consent
+Contextual
 used
 user
 ui
@@ -20092,6 +20108,7 @@ Apple
 Advantage
 Announcements
 Approach
+Amazon
 generally
 gRPC
 got
@@ -20661,6 +20678,7 @@ gaming
 gesture
 gestures
 gamers
+granular
 General
 GO
 GraphQL
@@ -23813,6 +23831,8 @@ Marvell
 Macs
 MediaTek
 Moves
+Major
+Meta
 JSON
 JS
 Jesus
@@ -27085,6 +27105,7 @@ Edge
 Edged
 Effects
 Ecosystem
+Even
 Network
 NewWriter
 NewReader
