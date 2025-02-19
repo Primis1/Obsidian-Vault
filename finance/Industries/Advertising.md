@@ -19,7 +19,7 @@
 
 ##### Big-Data develops alternative to TPC which will comply with user's privacy
 - **Google's Privacy Sandbox** - Includes alternatives like Topics API
-- **Unified ID 2.0** - Privacy-focused identifiers (e.g., UID 2.0) allow tracking without third-party cookies.
+- **Unified ID 2.0**(TTD) - Privacy-focused identifiers (e.g., UID 2.0) allow tracking without third-party cookies.
 - **Server-Side Tracking** - Moves tracking from the browser to the backend, reducing reliance on client-side cookies
 - **First/Second Party agreements** - share of data between non-competitive entities
 
