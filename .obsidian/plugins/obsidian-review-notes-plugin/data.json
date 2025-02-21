@@ -1,84 +1,8 @@
 {
   "files": [
     {
-      "path": "finance/Industries/Cargo & Shipment.md",
-      "filename": "Cargo & Shipment"
-    },
-    {
-      "path": "finance/Economics/Yield Curve.md",
-      "filename": "Yield Curve"
-    },
-    {
-      "path": "finance/Economics/Industries.md",
-      "filename": "Industries"
-    },
-    {
-      "path": "finance/Researches/TAL.md",
-      "filename": "TAL"
-    },
-    {
-      "path": "Some shit, idk where to put/Template/FIN.md",
-      "filename": "FIN"
-    },
-    {
-      "path": "finance/Industries/BLBD.md",
-      "filename": "BLBD"
-    },
-    {
-      "path": "Pasted image 20250202020021.png",
-      "filename": "Pasted image 20250202020021"
-    },
-    {
-      "path": "Pasted image 20250202020023.png",
-      "filename": "Pasted image 20250202020023"
-    },
-    {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20250202020033.png",
-      "filename": "Pasted image 20250202020033"
-    },
-    {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20250202020203.png",
-      "filename": "Pasted image 20250202020203"
-    },
-    {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20250202020209.png",
-      "filename": "Pasted image 20250202020209"
-    },
-    {
-      "path": "Some shit, idk where to put/Z Pictures/Pasted image 20250202022029.png",
-      "filename": "Pasted image 20250202022029"
-    },
-    {
-      "path": "Schedule.md",
-      "filename": "Schedule"
-    },
-    {
-      "path": "finance/Industries/BLBD Insight.md",
-      "filename": "BLBD Insight"
-    },
-    {
-      "path": "finance/Industries/Commodities/Commodity (Oil & Gas).md",
-      "filename": "Commodity (Oil & Gas)"
-    },
-    {
-      "path": "finance/Tech/SIMO.md",
-      "filename": "SIMO"
-    },
-    {
-      "path": "finance/Valuation/Volatility & Pricing.md",
-      "filename": "Volatility & Pricing"
-    },
-    {
-      "path": "finance/Finance Glossary.md",
-      "filename": "Finance Glossary"
-    },
-    {
-      "path": "finance/Valuation Formulas.md",
-      "filename": "Valuation Formulas"
-    },
-    {
-      "path": "finance/Industries/Advertising.md",
-      "filename": "Advertising"
+      "path": "finance/Valuation/Volatility & Risk Assessment.md",
+      "filename": "Volatility & Risk Assessment"
     }
   ]
 }
