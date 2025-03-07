@@ -4,10 +4,10 @@
 ### Concepts:
 
 ### Value Creation: 
-#### Value - sum of present values of future cash-flows
+#### Value - *sum of present values of future cash*-*flows*
 
-#### Business which does decisions in regardless of building value, and in favor of "good statistics" - bad business. ==E.g anything that doesn't increase cash-flow, doesn't increase value== 
-#### Growth, ROIC, Cash Flow - the less company have to invest to generate profit/expand, the better is cash-flow, the better cash-flow, the better growth
+##### Business which does decisions in regardless of building value, and in favor of "good statistics" -> bad business. ==E.g anything that doesn't increase cash-flow, doesn't increase value== 
+#### Growth, Cash Flow, ROIC - the less company have to invest to generate profit/expand, the better is cash-flow, the better cash-flow, the better growth
 
 #### Alternative P/E - divide calculated value on its earnings 
 

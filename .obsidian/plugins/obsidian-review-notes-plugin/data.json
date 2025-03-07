@@ -1,24 +1,56 @@
 {
   "files": [
     {
-      "path": "finance/Valuation/Volatility & Risk Assessment.md",
-      "filename": "Volatility & Risk Assessment"
+      "path": "finance/Tech/TTD Transcripts.md",
+      "filename": "TTD Transcripts"
+    },
+    {
+      "path": "Life/Work/Interview.md",
+      "filename": "Interview"
+    },
+    {
+      "path": "finance/Economics/Credit.md",
+      "filename": "Credit"
+    },
+    {
+      "path": "finance/Industries/Commodities/Commodity (Oil & Gas).md",
+      "filename": "Commodity (Oil & Gas)"
+    },
+    {
+      "path": "Redundant, Utilities/Template/Temp.md",
+      "filename": "Temp"
+    },
+    {
+      "path": "finance/Books/Economic Cycles(Ray Dalio).md",
+      "filename": "Economic Cycles(Ray Dalio)"
     },
     {
       "path": "Schedule.md",
       "filename": "Schedule"
     },
     {
-      "path": "finance/Economics/Options Usage.md",
-      "filename": "Options Usage"
+      "path": "finance/Valuation/Value Creation.md",
+      "filename": "Value Creation"
     },
     {
-      "path": "Math/Math, Assign 1.md",
-      "filename": "Math, Assign 1"
+      "path": "finance/Valuation/Alternative Investment.md",
+      "filename": "Alternative Investment"
     },
     {
-      "path": "finance/Tech/TTD Transcripts.md",
-      "filename": "TTD Transcripts"
+      "path": "finance/Researches/Behavioral Biases.md",
+      "filename": "Behavioral Biases"
+    },
+    {
+      "path": "Untitled 1.md",
+      "filename": "Untitled 1"
+    },
+    {
+      "path": "Untitled 2.md",
+      "filename": "Untitled 2"
+    },
+    {
+      "path": "finance/Economics/Market Derivatives/Financial Engineering.md",
+      "filename": "Financial Engineering"
     }
   ]
 }

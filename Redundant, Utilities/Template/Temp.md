@@ -1,5 +1,5 @@
 ***
-### Special values:
+### Terms Recognition:
 
 ### Concepts:
 

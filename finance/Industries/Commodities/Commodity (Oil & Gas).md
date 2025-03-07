@@ -113,7 +113,7 @@ $$V=∑(Qi​×Pi​−Oi​−Ci​)×Di​+NA$$
 Where:
 
 - $Qi$​ = Net reserves (quantity) for period iii
-- $Pi = Estimated future price per unit for period iii
+- $Pi$ = Estimated future price per unit for period iii
 - $Oi$​ = Operating expenses for period iii
 - $Ci$​ = Capital expenditures for period iii
 - $Di$​ = Discount factor for period iii (based on discount rate)
