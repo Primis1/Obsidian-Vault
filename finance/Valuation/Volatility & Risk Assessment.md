@@ -33,7 +33,7 @@
 	- SPY - 0.45 
 	- Buffet - 0.74
 	- Hedge Fund - 2+
-- `High Sharp != Higher returns `
+- `High Sharp != Higher returns`
 	- With **leverage**, invested in high sharp(low volatility) portfolio, getting better returns with less risk 
 
 
@@ -55,11 +55,15 @@ $$𝑈(𝑦) = \frac{1}{R}(1-e^{Ry})$$
 - Opportunities for further expansion. What market can companies serve/improve, which still remain unserved? 
 - External threats: market share, competitors, industry disasters 
 
-Example:
-- **Strengths:** Tesla has a strong position in the EV market because of its strong brand recognition as an industry pioneer. The company's advanced battery technology allows for superior range in its vehicles. Tesla's extensive Supercharger network also provides a significant advantage in terms of charging infrastructure
- 
-- **Weaknesses:** Tesla has struggled with production capacity limitations, often failing to meet demand and delivery targets.3 Quality control issues have also been a recurring problem from time to time. Tesla's vehicles are generally priced higher than those of competitors, which may limit market penetration in more price-sensitive regions.
+- Example:
+	- **Strengths:** Tesla has a strong position in the EV market because of its strong brand recognition as an industry pioneer. The company's advanced battery technology allows for superior range in its vehicles. Tesla's extensive Supercharger network also provides a significant advantage in terms of charging infrastructure
+	 
+	- **Weaknesses:** Tesla has struggled with production capacity limitations, often failing to meet demand and delivery targets.3 Quality control issues have also been a recurring problem from time to time. Tesla's vehicles are generally priced higher than those of competitors, which may limit market penetration in more price-sensitive regions.
+	
+	- **Opportunities:** Tesla stands to benefit from the growing global demand for electric vehicles. The company has opportunities to expand beyond automotive into related fields such as energy storage and solar power, leveraging its battery expertise. The development of autonomous driving technology also presents another significant growth avenue, as Tesla has already begun implementing self-driving cars.4 Additionally, Tesla has the potential to tap into large, emerging markets like China and India where EV adoption could accelerate where it hasn't already.
+	
+	- **Threats:** The competitive landscape for Tesla is intensifying as traditional automakers and new entrants invest heavily in electric vehicle technology. This increased competition could erode Tesla's market share and profit margins. Economic factors such as economic downturns could impact sales of Tesla's primarily luxury-oriented vehicles. The company also faces risks related to supply chain disruptions, particularly for critical materials used in battery production where it may already have manufacturing constraints.
 
-- **Opportunities:** Tesla stands to benefit from the growing global demand for electric vehicles. The company has opportunities to expand beyond automotive into related fields such as energy storage and solar power, leveraging its battery expertise. The development of autonomous driving technology also presents another significant growth avenue, as Tesla has already begun implementing self-driving cars.4 Additionally, Tesla has the potential to tap into large, emerging markets like China and India where EV adoption could accelerate where it hasn't already.
-
-- **Threats:** The competitive landscape for Tesla is intensifying as traditional automakers and new entrants invest heavily in electric vehicle technology. This increased competition could erode Tesla's market share and profit margins. Economic factors such as economic downturns could impact sales of Tesla's primarily luxury-oriented vehicles. The company also faces risks related to supply chain disruptions, particularly for critical materials used in battery production where it may already have manufacturing constraints.
+### Market risk & Sentiments:
+- Reminder about global market sentiments reflected in #yield-curve,  reflecting institutional fear/greed 
+- #equity-risk premium over risk-free rate(bond yield), the more premium investors require for risk taken, the bigger likelihood of crash/bear market

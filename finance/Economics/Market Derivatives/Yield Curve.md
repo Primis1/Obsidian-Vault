@@ -1,7 +1,7 @@
 ***
 ### Special values:
 
-- Yield curve - associated with economic recession and overall optimism/pessimism on the market. Curve displays correlation of interest rates and bond maturities of bonds
+- #yield-curve - associated with economic recession and overall optimism/pessimism on the market. Curve displays correlation of interest rates and bond maturities of bonds
 
 ### Concepts:
 

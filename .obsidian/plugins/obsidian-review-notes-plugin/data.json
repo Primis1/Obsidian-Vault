@@ -1,56 +1,36 @@
 {
   "files": [
     {
-      "path": "finance/Tech/TTD Transcripts.md",
-      "filename": "TTD Transcripts"
+      "path": "finance/Portfolio & Stocks/Active Management.md",
+      "filename": "Active Management"
     },
     {
-      "path": "Life/Work/Interview.md",
-      "filename": "Interview"
+      "path": "Building Investment Thesis.md",
+      "filename": "Building Investment Thesis"
     },
     {
-      "path": "finance/Economics/Credit.md",
-      "filename": "Credit"
+      "path": "finance/Valuation/Volatility & Risk Assessment.md",
+      "filename": "Volatility & Risk Assessment"
     },
     {
-      "path": "finance/Industries/Commodities/Commodity (Oil & Gas).md",
-      "filename": "Commodity (Oil & Gas)"
-    },
-    {
-      "path": "Redundant, Utilities/Template/Temp.md",
-      "filename": "Temp"
-    },
-    {
-      "path": "finance/Books/Economic Cycles(Ray Dalio).md",
-      "filename": "Economic Cycles(Ray Dalio)"
+      "path": "finance/Sheets/Balance Sheet/Balance Sheet.md",
+      "filename": "Balance Sheet"
     },
     {
       "path": "Schedule.md",
       "filename": "Schedule"
     },
     {
-      "path": "finance/Valuation/Value Creation.md",
-      "filename": "Value Creation"
+      "path": "finance/Economics/Market Derivatives/Options Usage.md",
+      "filename": "Options Usage"
     },
     {
-      "path": "finance/Valuation/Alternative Investment.md",
-      "filename": "Alternative Investment"
+      "path": "finance/Economics/Market Derivatives/Yield Curve.md",
+      "filename": "Yield Curve"
     },
     {
-      "path": "finance/Researches/Behavioral Biases.md",
-      "filename": "Behavioral Biases"
-    },
-    {
-      "path": "Untitled 1.md",
-      "filename": "Untitled 1"
-    },
-    {
-      "path": "Untitled 2.md",
-      "filename": "Untitled 2"
-    },
-    {
-      "path": "finance/Economics/Market Derivatives/Financial Engineering.md",
-      "filename": "Financial Engineering"
+      "path": "finance/Economics/Tariffs.md",
+      "filename": "Tariffs"
     }
   ]
 }

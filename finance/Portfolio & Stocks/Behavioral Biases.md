@@ -73,5 +73,15 @@
 	- *Who pays* - does company, insurance or government
 	- *Who profits* - does the product have **substantial value, if yes for what sides?**
 - **Determine business ==value== drivers**
+- **Contract** the thesis and reevaluate it with time   
 
-*The key to that kind of due diligence(without valuation) is making it tough. Investments should **not be** **ease***
+#### Think critically towards ratios, what they reflect and what can influence their underlying drivers. ==Bad cash flow is the consequence of low consumption or gross margin, which is emerged from lack of sales==   
+
+*The key to that kind of due diligence(without valuation) is making it tough. Investments should **not be** **easy***
+
+
+Consumer discretionary firms are cyclical in earnings and in economic conditions, they don’t wait to perform bad when market performs well, stock price is only reflection of sentiments and macro/micro factors. Why does sector perform bad? Because there are no cash flows, why there aren’t? Lack of customers or their bargaining power. Why spent less? Because economy is struggling and consumer don’t have money… 
+What to watch? How much excess consumer has and what can influence that 
+
+Cash flow is just a number of customers 
+

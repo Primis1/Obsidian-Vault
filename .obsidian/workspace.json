@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6dc7ac58e17107",
+        "id": "b303e4f2f061cbaf",
         "type": "tabs",
         "children": [
           {
-            "id": "ebbaad3d0af5afa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schedule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schedule"
-            }
-          },
-          {
-            "id": "49332b8eb5c7dbb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "finance/Economics/Stock categories.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Stock categories"
-            }
-          },
-          {
-            "id": "b174ec8b5012bc55",
+            "id": "415714b984581b6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -49,8 +21,7 @@
               "title": "Schedule"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,9 +53,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Distribution Function\"",
+                "query": "",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -179,7 +150,7 @@
             }
           },
           {
-            "id": "260e042f3131fe21",
+            "id": "a280d5ffe16df5d4",
             "type": "leaf",
             "state": {
               "type": "review-notes",
@@ -206,39 +177,40 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "b174ec8b5012bc55",
+  "active": "415714b984581b6b",
   "lastOpenFiles": [
-    "finance/Economics/Market Derivatives/Financial Engineering.md",
+    "finance/Economics/Tariffs.md",
+    "Building Investment Thesis.md",
+    "finance/Valuation/Volatility & Risk Assessment.md",
+    "finance/Economics/Market Derivatives/Yield Curve.md",
     "finance/Economics/Market Derivatives/Options Usage.md",
+    "Schedule.md",
+    "finance/Sheets/Balance Sheet/Balance Sheet.md",
+    "finance/Portfolio & Stocks/Active Management.md",
+    "finance/Economics/Market Derivatives/Financial Engineering.md",
+    "finance/Portfolio & Stocks/Behavioral Biases.md",
+    "finance/Valuation/Value Creation.md",
+    "finance/Books/Economic Cycles(Ray Dalio).md",
+    "Redundant, Utilities/Template/Temp.md",
+    "finance/Industries/Commodities/Commodity (Oil & Gas).md",
+    "finance/Economics/Credit.md",
+    "finance/Tech/TTD Transcripts.md",
+    "Life/Work/Interview.md",
+    "finance/Portfolio & Stocks",
     "finance/Economics/Stock categories.md",
     "finance/Economics/Market Derivatives",
     "front-end/React/Libs/Clsx.md",
-    "Schedule.md",
-    "finance/Researches/Behavioral Biases.md",
     "Untitled 1.md",
     "Untitled 2.md",
     "finance/Valuation/Alternative Investment.md",
-    "finance/Economics/Credit.md",
-    "finance/Books/Economic Cycles(Ray Dalio).md",
-    "finance/Valuation/Value Creation.md",
-    "Life/Work/Interview.md",
     "finance/Books/Rules 1.md",
-    "finance/Industries/Commodities/Commodity (Oil & Gas).md",
-    "Redundant, Utilities/Template/Temp.md",
-    "finance/Tech/TTD Transcripts.md",
     "Math/Math, Assign 1.md",
-    "finance/Valuation/Volatility & Risk Assessment.md",
     "Life/Driver School/Bad conditions & Emergencies.md",
     "Life/Work",
     "Life/Driver School",
     "Studios in Mississauga.md",
-    "Redundant, Utilities/Voc/Programming Voc.md",
-    "Redundant, Utilities/Voc/English Voc.md",
-    "Redundant, Utilities/Formatting/Dots as the shortcut.md",
     "Redundant, Utilities/Pictures/Pasted image 20250225134751.png",
     "Pasted image 20250224192202.png",
-    "finance/Valuation/Competition.md",
-    "finance/Industries/Advertising.md",
     "Redundant, Utilities/Pictures/Pasted image 20250206222718.png",
     "Redundant, Utilities/Pictures/Pasted image 20250202022029.png",
     "Redundant, Utilities/Pictures/Pasted image 20250202020209.png",
@@ -253,7 +225,6 @@
     "finance/Tech",
     "finance/Economics",
     "Life",
-    "finance/Researches/Healthcare",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

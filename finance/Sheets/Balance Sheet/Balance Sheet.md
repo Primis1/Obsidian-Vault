@@ -76,7 +76,8 @@
 #### Liquidity Ratios:
 - **Current Ratio -** ratio determines, that the current assets are enough to cover current liabilities
 	- Ratio of 1.1, means that company *just* meets the upcoming payment  
-	- Value above 2, considered good for manufacturing company $$\frac{current assets}{current liabilities} = 2.7$$
+	- Value above 2, considered good for manufacturing company
+		- From **old school point**, ratio below 1 indicates troubles with meeting fin obligations, **however**, companies earnings power **may cover their short-term obligations** $$\frac{current assets}{current liabilities} = 2.7$$
 - **Quick Ratio** - same as **Current Ratio**, but excludes inventory
 	- $$\frac{cash + receivables}{current liabilities} = 1.9$$
 - **Assets turn** - ratio that measure how much profit/assets it can generate

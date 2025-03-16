@@ -1,10 +1,10 @@
 {
   "accentColor": "#5cf596",
-  "baseFontSize": 14,
+  "baseFontSize": 12,
   "cssTheme": "Atom",
   "theme": "obsidian",
   "textFontFamily": "Fira Code",
-  "interfaceFontFamily": "Inter",
+  "interfaceFontFamily": "",
   "monospaceFontFamily": "Fira Code",
   "nativeMenus": false
 }

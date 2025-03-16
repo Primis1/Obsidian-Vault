@@ -18,12 +18,22 @@ Researches/Reports:
 Courses:
 - [ ] Risk Management(single lecture) - https://ocw.mit.edu/courses/15-997-practice-of-finance-advanced-corporate-risk-management-spring-2009/pages/readings/
 - [ ] Youtube playlist 
-- [ ] Derivatives - https://www.coursera.org/specializations/financialengineering#courses
+- [x] Derivatives - https://www.coursera.org/specializations/financialengineering#courses
+- [ ] Risk-Management-Financial-Institutions(PDF) - overlook with remaining time 
+
 
 Vocab:
-- deceased. census metropolitan area. Corporal. bail out. denominated. debasement. constrictive. constraints. contrary. expedient. Recognition. peg, monetize. diverge. distinguish. implication. convey. huge implication forall aspects. warant. decadant. immense tomb. daft. quelled. subjugation. toughest. jeopardy
+- deceased. bail out. denominated. **debasement**. . **expedient**. Recognition. peg, monetize. diverge. distinguish. **implication**. convey. forall aspects. **warrant**. immense tomb. daft. quelled. subjugation. jeopardy. **integrity** 
+- arm peddler. cretin. ushered. gouge. entrust. descendants . suffocating. whim. sheath
 
-Today:
+Mar 9:
+- [x] Apparel Industry report/article - 10 + 30 p 
+- [x] Technological Disruption and comment on value investing 
+- [x] Retail business models and key ratios
+- [ ] Semiconductor KPI 
+- [x] Notes from books
 
-- [ ] 8 page leverage PDF - 1h 
-- [ ] 
+
+Revenue is the amount of customers and their margin 
+
+

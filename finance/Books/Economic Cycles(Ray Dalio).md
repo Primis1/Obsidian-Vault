@@ -76,12 +76,12 @@ Those Cycles naturally repeat themselves, each cycle often lasts 70-90 years on 
 
 *In most scenarios, most terrible war appears when both countries have **existential reasons for a fight**. However "stupid" wars still happen, when country will loose much more from the conflict than it will gain after/maybe it wins === **retarded wars***
  - One war tends to produce another; Economic \War -> Military War
-#### People always choose the conflict in under bad circumstances
 
+#### People always choose the ==conflict in under bad circumstances==
 
 #### Market Drivers: ==growth, risk premium, discount rate and inflation==
 
 ### Monetary Cycles 
 - Country goes from **intrinsic money -> claims on intrinsic money -> claims without intrinsic back up, which hold solely on faith in the currency** 
-- During third stage, country tends to print **a lot of money** which devalues the currency, but debt as well. Usually recession, default or restructuring is followed by it  
+- During third stage, country tends to print **a lot of money** which devalues the currency, ==but debt as== well. Usually recession, default or restructuring is followed by it  
 
