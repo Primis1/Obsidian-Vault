@@ -31,6 +31,18 @@
     {
       "path": "finance/Economics/Tariffs.md",
       "filename": "Tariffs"
+    },
+    {
+      "path": "finance/Industries/IT/Semies & KPI.md",
+      "filename": "Semies & KPI"
+    },
+    {
+      "path": "finance/Industries/IT/NAND and SIMO.md",
+      "filename": "NAND and SIMO"
+    },
+    {
+      "path": "finance/Portfolio & Stocks/Behavioral Biases.md",
+      "filename": "Behavioral Biases"
     }
   ]
 }

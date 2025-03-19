@@ -7,6 +7,16 @@
 3. *Halo Effect* - **feeling about one aspect** of the entity influence the opinion **about the whole**(yep, women)
 	1. Pharmaceutical business may have promising trial results, but garbage management, brand and everything else
 
+4. Cash flow is just a number of customers 
+
+5. *Focusing Illusion* - focusing on something insignificant that becomes, from your perspective, extremely important 
+
+6. **Endowment effect** - value your property more than someone else's
+	1. "*My swamp is always better than neighbor's*"
+	2. Putting **premium into something that we own **
+
+
+
 ### Concepts:
 
 #### Protect yourself form System 1 thinking during fin decisions
@@ -76,12 +86,26 @@
 - **Contract** the thesis and reevaluate it with time   
 
 #### Think critically towards ratios, what they reflect and what can influence their underlying drivers. ==Bad cash flow is the consequence of low consumption or gross margin, which is emerged from lack of sales==   
+- Consumer discretionary firms are cyclical in earnings and in economic conditions, **but** **they don’t wait to perform bad when market performs bad**
+	- **Stock market is forward looking machine, which only reflection of sentiments and macro/micro factors**. 
+	- *Why does sector perform bad? -> Because there are no cash flows, why there aren’t? -> Lack of customers or their bargaining power?
+	- **Why spent less**? -> Because economy is struggling and **==targeted== consumer don’t have money**…* 
+	- What to watch? ->  How **much excess consumer has and what can influence that** 
 
-*The key to that kind of due diligence(without valuation) is making it tough. Investments should **not be** **easy***
+#### Avoid anchoring, action out of favor of ==probabilities==, stereotypes and ==throwing good-money-for-bad== 
+- Have a due diligence as back for turbulence 
+- Don't stick to specific price or market timing **perfectly**. It's normal to have **justified** loses, rather than **unjustified**
+- With more trades **probability of being wrong increases**
+- Don't **double-down**, but think about other opportunities with similar risk profit. Where you can put 1$ more effectively
+- Avoid temptation to **break-even with benchmark**, think long term 
+
+#### *The key to that kind of due diligence(without valuation) is making it tough. Investments should **not be** **easy***
+
+#### House money behaviour - when you win(lose) you may be thinking about adding(decreasing) position as "gamble effect"
+- Threat all your dollars and gains **the same way**
+
+#### Determine areas where mistakes are most likely to happen and when stakes are higher 
+#### Complacency Bias - don't get too comfortable with "stable" stocks. *If it's a google, it doesn't mean that it can't become a garbage company, ==review your thesis periodically==*  
 
 
-Consumer discretionary firms are cyclical in earnings and in economic conditions, they don’t wait to perform bad when market performs well, stock price is only reflection of sentiments and macro/micro factors. Why does sector perform bad? Because there are no cash flows, why there aren’t? Lack of customers or their bargaining power. Why spent less? Because economy is struggling and consumer don’t have money… 
-What to watch? How much excess consumer has and what can influence that 
-
-Cash flow is just a number of customers 
 

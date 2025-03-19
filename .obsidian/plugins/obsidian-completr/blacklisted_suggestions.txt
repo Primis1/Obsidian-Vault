@@ -29,3 +29,4 @@ apl
 NaN
 Nan
 NAND
+HDD

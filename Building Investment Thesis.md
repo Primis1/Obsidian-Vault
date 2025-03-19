@@ -1,6 +1,0 @@
-***
-### Terms Recognition:
-
-### Concepts:
-
-#### 

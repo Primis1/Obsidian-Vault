@@ -3,6 +3,7 @@
 
 ### Concepts:
 - Corporate Venture Funds 
+- Roll up - merging of multiple small companies within the industry into one company  
 
 #### Alpha with hedge fund managers 
 - Over last 15 years HF's generated alpha declined, from 50% of outperforming HF M to just 20% in 2025
@@ -72,14 +73,43 @@
 	- Adjust it to specific scenario. Be reasonable and think outside of the box,  
 
 	- ##### Have a process and follow investing tenets. Understand why you make decisions
+
 	- ##### Repeatable process, construct it and repeat it until perfection 
+
 	- ##### Avoid behavioral biases 
+	
 	- ##### Analyse historical decisions 
+	
 	- ##### Avoid the noise, focus on fundamental and actual studies. Speak with experts and avoid opinions of someone who ==wants to engage you into something==
+	
 	- ##### Take information-advantage. Knowing that snowstorm will be on Black Friday, may be a good chance to ==short retailers==
 
-- ### Security Selection 
-	- Ability to grow revenue and generate value
-- #### Create ***buy and sell target***
+- ### Security Selection:
+	- Selecting a company based **only** on valuation will **not generate superior alpha**. For greater performance **we should find business with good valuation, superior business mode and one which trades for cheap**
+	
+	- #### To identify superior business model look/compare:
+		- What type of **metrics** demonstrated superior BM in the past 
+		- What type of **companies** are more **apt** to have sustainable **ROE**
+		- What type of **companies** can **be quickly deleted from search**
+			- **Heavily regulated companies & Dying Industries/companies without expertise** - companies which hold non-cyclical **monopolistic** assets will **not** generate returns over its cost of capital due regulation(**if they do, regulator will shut down the window**). Industries like **utilities, roads and other infrastructure businesses** 
+
+	- #### Timing the cycle:
+		- Selecting outperformer in disrupted industry where your expertise show paradigm shift **may be a good investment**. However I should understand how industry **manages stages** of market cycle and **what drives it**
+			
+			- How much **demand on product/service** will **drop/rise** in **downwards/upside** curve?
+			
+			- How much **CapEx** was **spent/prepared** in the **industry** -> **creating supply capacity during the up cycle**. CapEx intensive companies will surge during bad economic conditions/downward cycle. 
+				- *Paradigm shift may make inventory obsolete*
+			
+			- Is there **rational** competition?
+			
+			- Will some **businesses go bankrupt, consolidating the industry?**
+	
+			- Concerned about *roll-ups*
+		- Understand the reasons for volatility of **Cash Flow**
+
+
+- #### Create ***buy and sell target*** 
+
 - #### **Invest**
 

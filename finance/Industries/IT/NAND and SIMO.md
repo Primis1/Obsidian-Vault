@@ -8,7 +8,7 @@
 2. Memory - ROM, RAM 
 3. DAO - Discrete, analogue, optoelectronic. Simplified chips which often have sole role and purpose
 
-Each product prioritises different aspects of: **price, size, speed, efficiency, reliability and security**. Therefore businesses're managing drawbacks in its design 
+Each product prioritizes different aspects of: **price, size, speed, efficiency, reliability and security**. Therefore businesses're managing drawbacks in its design 
 
 #### NAND & DRAM - the high-volume, commodity memory semi-components
 - DRAM manages data on a fly, requires power(volatile)
@@ -16,7 +16,7 @@ Each product prioritises different aspects of: **price, size, speed, efficiency,
 
 #### Demand, Usage & Industry(NAND concentrated):
 - Mobile Phones - T. Price & Size 
-- Data Centres - L, M. Efficiency & Speed 
+- Data Centers - L, M. Efficiency & Speed 
 - PC & Laptops - L, D. Price & Size 
 - Basic electronics, industrial, A&D and automotive(mostly EVs) - L, D. Reliability & Security
 
