@@ -1,14 +1,6 @@
 {
   "files": [
     {
-      "path": "finance/Portfolio & Stocks/Active Management.md",
-      "filename": "Active Management"
-    },
-    {
-      "path": "Building Investment Thesis.md",
-      "filename": "Building Investment Thesis"
-    },
-    {
       "path": "finance/Valuation/Volatility & Risk Assessment.md",
       "filename": "Volatility & Risk Assessment"
     },
@@ -29,7 +21,7 @@
       "filename": "Yield Curve"
     },
     {
-      "path": "finance/Economics/Tariffs.md",
+      "path": "finance/Economics/GM & Economics/Tariffs.md",
       "filename": "Tariffs"
     },
     {
@@ -43,6 +35,30 @@
     {
       "path": "finance/Portfolio & Stocks/Behavioral Biases.md",
       "filename": "Behavioral Biases"
+    },
+    {
+      "path": "finance/Portfolio & Stocks/Corporate FInance.md",
+      "filename": "Corporate FInance"
+    },
+    {
+      "path": "finance/Industries/Finance/Bank's Income.md",
+      "filename": "Bank's Income"
+    },
+    {
+      "path": "finance/Portfolio & Stocks/Active Management P2.md",
+      "filename": "Active Management P2"
+    },
+    {
+      "path": "finance/Portfolio & Stocks/Competitive Advantage & Risk.md",
+      "filename": "Competitive Advantage & Risk"
+    },
+    {
+      "path": "finance/Portfolio & Stocks/Debt and Restructuring.md",
+      "filename": "Debt and Restructuring"
+    },
+    {
+      "path": "finance/Valuation/Valuation..md",
+      "filename": "Valuation."
     }
   ]
 }

@@ -1,6 +1,11 @@
 ***
 ### Special values:
-
+- Risk - danger + opportunity; deviation of expected returns to actual returns 
+	- PE and other risk metrics describe ***uncertainty in future cash-flow*** and any disruption into cash-flow, for company with high valuation/multiples(**PE**) will punish the stock
+	- Risk is not a **loss** it **unpredictability**, if firm promises good future cash-flow, stock will rise, if business fails - price drops
+![[Pasted image 20250322022620.png]]
+- Don't expect to be rewarded for all taken risk
+- Hurdle rate - Risk free rate + Equity Risk Premium * company beta 
 ### Concepts:
 
 #### Risk categories:
@@ -8,6 +13,7 @@
 - Credit  - risk of default. `Debt-to-Equity, interest coverage`
 - Liquidity risk - volumes, easiness of buy/sell
 - Operating - risk from business operations 
+
 
 ##### Equity & Volatility Risk 
 - Historical Volatility - past market fluctuations; calculated by standard deviation
@@ -67,3 +73,8 @@ $$𝑈(𝑦) = \frac{1}{R}(1-e^{Ry})$$
 ### Market risk & Sentiments:
 - Reminder about global market sentiments reflected in #yield-curve,  reflecting institutional fear/greed 
 - #equity-risk premium over risk-free rate(bond yield), the more premium investors require for risk taken, the bigger likelihood of crash/bear market
+
+- Risk is only in the future, but we can measure it only from past
+- Risk-Profile is not the same for every company 
+
+

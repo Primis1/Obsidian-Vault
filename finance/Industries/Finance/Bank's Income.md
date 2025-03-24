@@ -3,7 +3,7 @@
 
 ### Concepts:
 
-#### Basic way - banks borrow money from lenders, by paying 'em interest rate
+#### Loan arbitrage - borrow long, lend short for higher interest. VIce versa until it doesn't work
 
 ***
 #### Interest income

@@ -4,6 +4,7 @@
 ### Concepts:
 - Corporate Venture Funds 
 - Roll up - merging of multiple small companies within the industry into one company  
+- Steer-up-growth - unlike linear, company sacrifices margins in short-term, and 
 
 #### Alpha with hedge fund managers 
 - Over last 15 years HF's generated alpha declined, from 50% of outperforming HF M to just 20% in 2025
@@ -87,29 +88,65 @@
 - ### Security Selection:
 	- Selecting a company based **only** on valuation will **not generate superior alpha**. For greater performance **we should find business with good valuation, superior business mode and one which trades for cheap**
 	
-	- #### To identify superior business model look/compare:
-		- What type of **metrics** demonstrated superior BM in the past 
-		- What type of **companies** are more **apt** to have sustainable **ROE**
-		- What type of **companies** can **be quickly deleted from search**
-			- **Heavily regulated companies & Dying Industries/companies without expertise** - companies which hold non-cyclical **monopolistic** assets will **not** generate returns over its cost of capital due regulation(**if they do, regulator will shut down the window**). Industries like **utilities, roads and other infrastructure businesses** 
+- #### To identify superior business model look/compare:
+	- What type of **metrics** demonstrated superior BM in the past 
+	- What type of **companies** are more **apt** to have sustainable **ROE**
+	- What type of **companies** can **be quickly deleted from search**
+		- **Heavily regulated companies & Dying Industries/companies without expertise** - companies which hold non-cyclical **monopolistic** assets will **not** generate returns over its cost of capital due regulation(**if they do, regulator will shut down the window**). Industries like **utilities, roads and other infrastructure businesses** 
 
-	- #### Timing the cycle:
-		- Selecting outperformer in disrupted industry where your expertise show paradigm shift **may be a good investment**. However I should understand how industry **manages stages** of market cycle and **what drives it**
+- #### Timing the cycle:
+	- Selecting outperformer in disrupted industry where your expertise show paradigm shift **may be a good investment**. However I should understand how industry **manages stages** of market cycle and **what drives it**
 			
-			- How much **demand on product/service** will **drop/rise** in **downwards/upside** curve?
+	- How much **demand on product/service** will **drop/rise** in **downwards/upside** curve?
 			
-			- How much **CapEx** was **spent/prepared** in the **industry** -> **creating supply capacity during the up cycle**. CapEx intensive companies will surge during bad economic conditions/downward cycle. 
-				- *Paradigm shift may make inventory obsolete*
+	- How much **CapEx** was **spent/prepared** in the **industry** -> **creating supply capacity during the up cycle**. CapEx intensive companies will surge during bad economic conditions/downward cycle. 
+		- *Paradigm shift may make inventory obsolete*
+		
+		- Is there **rational** competition?
 			
-			- Is there **rational** competition?
-			
-			- Will some **businesses go bankrupt, consolidating the industry?**
+		- Will some **businesses go bankrupt, consolidating the industry?**
 	
-			- Concerned about *roll-ups*
-		- Understand the reasons for volatility of **Cash Flow**
+		- Concerned about *roll-ups*
+
+	- Understand the reasons for volatility of **Cash Flow**
+
+- #### Recommended to avoid 
+	- Hot stocks with high volatility. They are in on a watch list of hedge funds and momentum investors(NVDA, TSLA). 
+	- Highly leveraged(or those with **competitive advantage**) companies in the end of market cycle will suffer from lack of credit and margins
+		![[New Project.jpg]]
 
 
-- #### Create ***buy and sell target*** 
+- #### Define the sustainable growth driver, or what lead to that
+	- Is there any whitespaces(areas with unharvested growth) or is it mature and businesses have to fight for each dollar with someone else 
+		- It may be easier if a company is an industry disruptor or can penetrate the market share 
+	- In emerging market it isn't necessary to take market share in competitor, but the demand for the product may be different(BK in Brazil 102 p)
+
+	- ##### Unit growth - business with sustainable competitive advantage tends to have easily ==projected & low CapEx==. In emerging market(==with income and population growth==) where business can create something once and then don't re-invent the wheel to stay competitive is a ==good business==   
+		- Once we can project capex, it's much simpler to project revenue growth  
+
+	- ##### Product and sku growth - how much it can scale up without lowering it's margins +Relationships with distribution channels 
+		- Does channels have a negotiation power? Where are they located? Can they intimidate in happen
+
+	- ##### Vertical industry growth - expanding from one vertical to another(industry) much tougher and unpredictable. Business like `Saleforces` provide best-in-industry ==solutions, but most companies don't==  
+
+	- ##### Best in Class human-capital - company which build ==culture== and therefore attacks talented individuals(Goldman Sachs) has a competitive advantage. ==BUT== it's hard to determine and more often it's centered over single person(Elon, Steve) 
+
+	- ##### Future investing - high expectation; valuation; volatility is ==not== a combination for sustainable success
+		- Pioneer of entirely new market(most often VC) which is just **suppose** to exist, is **most often** a bad idea. Unless you an expertise 
+
+- #### Operating Margins
+	1. ***Will operating margins increase with sales?
+	2. ***Where is the business model leverage?***
+	3. ***How sustainable margin improvements?***
+
+	- Betting on **increasing margins(optimize its operations**) in company which has a brand or some-kind of competitive advantage **will generate alpha
+		- **Increased margins(8% -> 14%) === doubled FCF margin -> doubled value over time**
+	- *G&A - will naturally grow with increased revenue, in rare cases may be improved* 
+	- Customer satisfaction/Sales without leveraging S&A -> lever advertising expenses === competitive advantage  
+
+
+
+- ### Create ***buy and sell target*** 
 
 - #### **Invest**
 
