@@ -42,3 +42,6 @@
 14. CAGR - Compound Annual Growth Rate
 
 15. Goodwill - recorded when acquisition exceeds target's book value 
+
+16. Velocity of Money - country's monetary turnover; the rate at which money are exchanged between participants withing the country $$\text{GDP / Money Supply(MI/M2)}$$
+17. CCC - cash conversion cycle, the time required for asset to be converted into cash 

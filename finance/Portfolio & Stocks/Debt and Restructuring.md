@@ -42,3 +42,7 @@
 - It's easier to value different parts of the business, than whole
 
 ##### Stalking Horse Bid - buying business for `debt + 1$`, requires EI to shore up working capital  
+
+##### Risk aversion:
+- In DM & EM with stable government, bank financing causes bigger risk aversion of firms, which operations are focused on technological growth 
+- On a flip side, **equity financing** can  

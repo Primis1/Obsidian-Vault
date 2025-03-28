@@ -1,52 +1,8 @@
 {
   "files": [
     {
-      "path": "finance/Valuation/Volatility & Risk Assessment.md",
-      "filename": "Volatility & Risk Assessment"
-    },
-    {
-      "path": "finance/Sheets/Balance Sheet/Balance Sheet.md",
-      "filename": "Balance Sheet"
-    },
-    {
-      "path": "Schedule.md",
-      "filename": "Schedule"
-    },
-    {
-      "path": "finance/Economics/Market Derivatives/Options Usage.md",
-      "filename": "Options Usage"
-    },
-    {
-      "path": "finance/Economics/Market Derivatives/Yield Curve.md",
-      "filename": "Yield Curve"
-    },
-    {
-      "path": "finance/Economics/GM & Economics/Tariffs.md",
-      "filename": "Tariffs"
-    },
-    {
-      "path": "finance/Industries/IT/Semies & KPI.md",
-      "filename": "Semies & KPI"
-    },
-    {
-      "path": "finance/Industries/IT/NAND and SIMO.md",
-      "filename": "NAND and SIMO"
-    },
-    {
-      "path": "finance/Portfolio & Stocks/Behavioral Biases.md",
-      "filename": "Behavioral Biases"
-    },
-    {
-      "path": "finance/Portfolio & Stocks/Corporate FInance.md",
-      "filename": "Corporate FInance"
-    },
-    {
-      "path": "finance/Industries/Finance/Bank's Income.md",
-      "filename": "Bank's Income"
-    },
-    {
-      "path": "finance/Portfolio & Stocks/Active Management P2.md",
-      "filename": "Active Management P2"
+      "path": "finance/Economics/GM & Economics/Value Chain.md",
+      "filename": "Value Chain"
     },
     {
       "path": "finance/Portfolio & Stocks/Competitive Advantage & Risk.md",
@@ -57,8 +13,8 @@
       "filename": "Debt and Restructuring"
     },
     {
-      "path": "finance/Valuation/Valuation..md",
-      "filename": "Valuation."
+      "path": "finance/Valuation/Value Creation.md",
+      "filename": "Value Creation"
     }
   ]
 }

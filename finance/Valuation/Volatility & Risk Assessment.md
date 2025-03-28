@@ -1,6 +1,6 @@
 ***
 ### Special values:
-- Risk - danger + opportunity; deviation of expected returns to actual returns 
+- Risk - excess returns / danger or likelihood of deviation; deviation of expected returns to actual returns 
 	- PE and other risk metrics describe ***uncertainty in future cash-flow*** and any disruption into cash-flow, for company with high valuation/multiples(**PE**) will punish the stock
 	- Risk is not a **loss** it **unpredictability**, if firm promises good future cash-flow, stock will rise, if business fails - price drops
 ![[Pasted image 20250322022620.png]]

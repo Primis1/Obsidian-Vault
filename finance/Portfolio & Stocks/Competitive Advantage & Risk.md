@@ -5,7 +5,7 @@
 	2. Presence/Absence and combination of both can **indicate** that behind company's performance we can see **competitive advantage**
 
 	3. Risk - chance of underperforming 
-			1. Always should be higher for **greater returns**
+			1. Always should be higher for **greater returns**, not for lower
 ### Concepts:
 
 #### Value of the business is value its future cash-flows, i.e earnings power. CA provides reliability of those CF and its lusting
