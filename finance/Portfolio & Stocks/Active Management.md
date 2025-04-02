@@ -147,6 +147,4 @@
 
 
 - ### Create ***buy and sell target*** 
-
-- #### **Invest**
-
+	- It should be based on inner economics of the business and sensitive model should give the exact number 

@@ -5,7 +5,9 @@
 	- Risk is not a **loss** it **unpredictability**, if firm promises good future cash-flow, stock will rise, if business fails - price drops
 ![[Pasted image 20250322022620.png]]
 - Don't expect to be rewarded for all taken risk
-- Hurdle rate - Risk free rate + Equity Risk Premium * company beta 
+- Hurdle rate - benchmark of return which are required for business to do the make a profitable investment. I.e, if hurdle rate is 11%, investing into stock with price target of 9% **does not make sense**.
+	- Hurdle rate can be contracted based on personal calculations, it isn't a standard model or formula
+	- CAPM + Size factor + Sector 
 ### Concepts:
 
 #### Risk categories:
@@ -19,7 +21,14 @@
 - Historical Volatility - past market fluctuations; calculated by standard deviation
 - Implied Volatility - forecasts of future volatility(derived from ***options pricing model***)
 
-- Beta - correlation of stock movement to the general market (-1 opposite to the market, 2 twice as much)
+- Beta - correlation of stock movement to the general market (-1 opposite to the market, 2 twice as much). Beta comes **not from efficient market theory, but from choices that management does**
+	- In what region & verticals business operates
+	- Its leverage level 
+	- It's cost structure (fixed vs variable)
+
+- Unleveraged Beta - can be used to determine beta under different debt levels 
+
+
 - VIX - volatility, known as "fear index". Market's expectation of 30-day volatility and is constructed using the *implied volatility* of S&P 500 option index
 - Risk premium - demand of higher returns for higher risk(mostly does not work)
 - Leverage - increases the return/loss of an portfolio(*obviously*)

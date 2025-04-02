@@ -45,3 +45,11 @@
 
 16. Velocity of Money - country's monetary turnover; the rate at which money are exchanged between participants withing the country $$\text{GDP / Money Supply(MI/M2)}$$
 17. CCC - cash conversion cycle, the time required for asset to be converted into cash 
+
+18. Operating leverage - how much fixed against variable expenses company has. High operating leverage magnifies higher returns in bull market and terrific returns in bear markets. **Used in measuring beta**
+	- $\text{EBIT Variable Measure = Percentage Change In EBIT / Percentage Change in Revenue}$
+
+19. Tax shield - deduction thanks to specific, tax deductible expenses $$\text{Value of Tax-Deductible Expense x Tax Rate (deciaml) }$$
+	- Reduces company’s tax liability by deducting certain expenses from its taxable income
+	
+	- *if a company earns $100 in operating income, pays $20 in interest, and faces a 30% tax rate, its taxable income drops from $100 to $80. Without the shield, it would pay $30 in taxes (30% of $100); with the shield, it pays $24 (30% of $80), saving $6. Other shields include depreciation or operating losses, which similarly lower taxable income.*

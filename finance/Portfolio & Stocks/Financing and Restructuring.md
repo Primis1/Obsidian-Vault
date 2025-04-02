@@ -12,6 +12,11 @@
 	- Grants **super priority of repaying**
 	- High interest rates 
 
+- Debt Criteria:
+	- Commitment to make fixed payments in the future 
+	- Fixed payments are tax deductible 
+	- Failure to make payments *can* lean to default, restructuring and/or loose control over firm  
+
 ### Concepts:
 
 #### Restructuring causes:

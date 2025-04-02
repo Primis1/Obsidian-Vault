@@ -1,20 +1,40 @@
 {
   "files": [
     {
-      "path": "finance/Economics/GM & Economics/Value Chain.md",
-      "filename": "Value Chain"
+      "path": "Schedule.md",
+      "filename": "Schedule"
     },
     {
-      "path": "finance/Portfolio & Stocks/Competitive Advantage & Risk.md",
-      "filename": "Competitive Advantage & Risk"
+      "path": "finance/Finance Glossary.md",
+      "filename": "Finance Glossary"
     },
     {
-      "path": "finance/Portfolio & Stocks/Debt and Restructuring.md",
-      "filename": "Debt and Restructuring"
+      "path": "finance/Valuation/Cash Flow & Models/Valuation Formulas.md",
+      "filename": "Valuation Formulas"
     },
     {
-      "path": "finance/Valuation/Value Creation.md",
-      "filename": "Value Creation"
+      "path": "finance/Portfolio & Stocks/Financing and Restructuring.md",
+      "filename": "Financing and Restructuring"
+    },
+    {
+      "path": "finance/Valuation/Statements/Operating Financing.md",
+      "filename": "Operating Financing"
+    },
+    {
+      "path": "finance/Valuation/Statements/Rebuilding Balance Sheet.md",
+      "filename": "Rebuilding Balance Sheet"
+    },
+    {
+      "path": "finance/Valuation/Cash Flow & Models/Cost of Capital.md",
+      "filename": "Cost of Capital"
+    },
+    {
+      "path": "finance/Valuation/Cash Flow & Models/NOPLAT.md",
+      "filename": "NOPLAT"
+    },
+    {
+      "path": "finance/Portfolio & Stocks/Active Management.md",
+      "filename": "Active Management"
     }
   ]
 }

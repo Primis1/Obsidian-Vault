@@ -30,3 +30,7 @@ NaN
 Nan
 NAND
 HDD
+\Coloneq
+\Coloneqq
+\Colonsim
+EBIT

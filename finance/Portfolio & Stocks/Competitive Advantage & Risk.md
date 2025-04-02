@@ -11,7 +11,17 @@
 #### Value of the business is value its future cash-flows, i.e earnings power. CA provides reliability of those CF and its lusting
 - Macro/Micro hazards may be facilitated or mitigated by competitive advantage and lower risk of investment
 
-### Consistency in each of metric is crucial. ==Company can sustains its metrics for a reason== 
+### Consistency in each of metric is crucial. ==Company can sustains its metrics for a reason==
+#### ROIC and CA
+- ROIC indicates firm's position within its industry and its competitiveness. If, for example, economy experienced a headwind/crisis which affected a company/economy for extended time period, what can happen:
+	
+	- Competitors were given time to entry/take advantage of weak state of the company 
+	
+	- Experienced a technological disruption, because of weaker position cant keep up with changes
+
+	- ##### Therefore ROIC will permanently drop to lower levels. 18% Crisis -> 9.6% ?= Expansion on its "S" curve, Entrance of competitors, Technological Disruption  -> 14% reversion to better position, but permanently(or not) taken market share and competitive position
+
+- ROIC above cost of equity indicates a competitive advantage and high ROIC often sustains for long time periods
 
 ## Competitive Advantage Across Fin-Statements:
 
