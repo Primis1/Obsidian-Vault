@@ -1,18 +1,6 @@
 {
   "files": [
     {
-      "path": "Schedule.md",
-      "filename": "Schedule"
-    },
-    {
-      "path": "finance/Finance Glossary.md",
-      "filename": "Finance Glossary"
-    },
-    {
-      "path": "finance/Valuation/Cash Flow & Models/Valuation Formulas.md",
-      "filename": "Valuation Formulas"
-    },
-    {
       "path": "finance/Portfolio & Stocks/Financing and Restructuring.md",
       "filename": "Financing and Restructuring"
     },
@@ -21,20 +9,32 @@
       "filename": "Operating Financing"
     },
     {
-      "path": "finance/Valuation/Statements/Rebuilding Balance Sheet.md",
-      "filename": "Rebuilding Balance Sheet"
+      "path": "finance/Valuation/Core Valuation Techniques/Analytical Issues.md",
+      "filename": "Analytical Issues"
     },
     {
-      "path": "finance/Valuation/Cash Flow & Models/Cost of Capital.md",
-      "filename": "Cost of Capital"
+      "path": "finance/Valuation/Core Valuation Techniques/Competitive Advantage & Performance.md",
+      "filename": "Competitive Advantage & Performance"
+    },
+    {
+      "path": "Schedule.md",
+      "filename": "Schedule"
+    },
+    {
+      "path": "finance/Valuation/Statements/Forecasting Financial Performance.md",
+      "filename": "Forecasting Financial Performance"
     },
     {
       "path": "finance/Valuation/Cash Flow & Models/NOPLAT.md",
       "filename": "NOPLAT"
     },
     {
-      "path": "finance/Portfolio & Stocks/Active Management.md",
-      "filename": "Active Management"
+      "path": "finance/Valuation/Statements/Reorganizing Fin-Statements.md",
+      "filename": "Reorganizing Fin-Statements"
+    },
+    {
+      "path": "finance/Valuation/Cash Flow & Models/Cost of Capital.md",
+      "filename": "Cost of Capital"
     }
   ]
 }

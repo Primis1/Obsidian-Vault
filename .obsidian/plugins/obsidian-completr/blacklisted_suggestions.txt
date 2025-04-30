@@ -34,3 +34,5 @@ HDD
 \Coloneqq
 \Colonsim
 EBIT
+EBITA
+REAL

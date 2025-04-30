@@ -50,7 +50,7 @@
 
 
 
-#### WACC  - the problem with excluding Tm(marginal tax rate) is that it isolates company's capital structure(we remove tax shield from equation) and focus solely on company operations. But tax shield has adds value, if it has value it can be used in cash-flow valuation   $$\frac{D}{D+E}k_d (1-T_m) +\frac{E}{D+E}k_e$$
+#### WACC  - the problem with excluding Tm(marginal tax rate) is that it isolates company's capital structure(we remove tax shield from equation) and focus solely on company operations. But tax shield adds value, if it has value it can be used in cash-flow valuation   $$\frac{D}{D+E}k_d (1-T_m) +\frac{E}{D+E}k_e$$
 - D - debt 
 - E - equity 
 - T - marginal tax rate

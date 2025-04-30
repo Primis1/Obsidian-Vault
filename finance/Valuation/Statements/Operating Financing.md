@@ -9,7 +9,7 @@
 
 #### Understanding company's current valuation and what market discounts the stock
 - If stock is cheap from #P/E , but not from anything else, ***maybe there is a specific tax-structure***
-#### Owner's Yield - emphasises cash-flow, which cuts through any accounting issues
+#### Owner's Yield - emphasizes cash-flow, which cuts through any accounting issues
 - Separates cash needed to **maintain current**, and those **growth** cash-flows which are needed for generating new streams $$\frac{\text{Cash Flow  - Maintenance CapEx + Glowth related expenses}}{Market Cap}$$
 - It is a yield which can be compared to: 
 	- Bond curve

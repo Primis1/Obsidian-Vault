@@ -1,8 +1,8 @@
 ***
 ### Terms Recognition:
+- Cash taxes - actual payments made to authorities
 
-- #### ROIC $$\frac{NOPLAT}{\text{Invested Capital}}$$
-
+- #### ROIC $$=\text{(1-Operating `Cash` Tax Rate)}* \frac{EBITA}{Revenue} * \frac{Revenue}{Invested Capital}$$
 
 ### Concepts:
 
@@ -12,6 +12,8 @@
 
 - ##### Security selection should be based on ROIC, growth, CF from operations and ROE of ==new== projects
 
+*Operational and de-leveraged ROE:
+![[Pasted image 20250405180321.png]]
 #### Operating & Non Operating Assets:
 - Receivable
 - Inventory 
@@ -21,7 +23,7 @@
 - Prepaid pension assets
 - Non consolidated 
 - Other long term investments which are not connected to business operations 
-
+ 
 #### Operating & Non Operating Liabilities:
 - Account payable 
 - Accrued salaries 
@@ -63,4 +65,3 @@
 |                                               |                                            |
 |                                               | (3,986)                                    |
 | **NOPLAT**                                    | 6,245                                      |
- 

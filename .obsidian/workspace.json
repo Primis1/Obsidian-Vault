@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ac6dc7ac58e17107",
+        "id": "c73f4d69a59c8df7",
         "type": "tabs",
         "children": [
           {
-            "id": "df502c6bb2d8f238",
+            "id": "002c96bac40ce6ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/Valuation/Statements/Operating Financing.md",
+                "file": "Schedule.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating Financing"
+              "title": "Schedule"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: NO",
+                "query": "unlev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "back-end/GO advanced/Asynchronous/Context.md",
-                "linksCollapsed": true,
+                "file": "finance/Valuation/Statements/Reorganizing Fin-Statements.md",
+                "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Context"
+              "title": "Outgoing links from Reorganizing Fin-Statements"
             }
           },
           {
@@ -128,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Options Usage.md",
-                "followCursor": false,
+                "file": "finance/Valuation/Statements/Reorganizing Fin-Statements.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Options Usage"
+              "title": "Outline of Reorganizing Fin-Statements"
             }
           },
           {
@@ -164,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 224.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -177,41 +179,46 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "df502c6bb2d8f238",
+  "active": "002c96bac40ce6ca",
   "lastOpenFiles": [
-    "Schedule.md",
-    "finance/Valuation/Cash Flow & Models/NOPLAT.md",
-    "finance/Valuation/Statements/Operating Financing.md",
-    "finance/Valuation/Statements/Rebuilding Balance Sheet.md",
     "finance/Valuation/Cash Flow & Models/Cost of Capital.md",
+    "Schedule.md",
+    "finance/Valuation/Core Valuation Techniques/Competitive Advantage & Performance.md",
+    "finance/Valuation/Statements/Reorganizing Fin-Statements.md",
+    "finance/Valuation/Core Valuation Techniques/Analytical Issues.md",
+    "finance/Valuation/Statements/Operating Financing.md",
+    "finance/Portfolio & Stocks/Financing and Restructuring.md",
+    "finance/Valuation/Cash Flow & Models/NOPLAT.md",
+    "back-end/Deploy/Deployment.md",
+    "CS/Design & Patterns/Methods/Twelve Factor.md",
+    "finance/Portfolio & Stocks/Competitive Advantage & Risk.md",
+    "finance/Valuation/Statements/Forecasting Financial Performance.md",
+    "finance/Valuation/Competition.md",
+    "finance/Valuation/Volatility & Risk Assessment.md",
+    "finance/Valuation/Value Creation.md",
+    "Untitled.md",
+    "finance/Economics/Market Derivatives/Interest Rate & Inflation.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250408224224.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250408225250.png",
+    "finance/Valuation/Core Valuation Techniques",
+    "finance/Portfolio & Stocks/Active Management.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250405180321.png",
+    "PPP.md",
     "finance/Valuation/Cash Flow & Models/Valuation Formulas.md",
     "finance/Portfolio & Stocks/Behavioral Biases.md",
-    "finance/Portfolio & Stocks/Financing and Restructuring.md",
     "finance/Portfolio & Stocks/Corporate FInance.md",
-    "finance/Portfolio & Stocks/Active Management.md",
-    "finance/Portfolio & Stocks/Competitive Advantage & Risk.md",
-    "finance/Valuation/Competition.md",
     "finance/Valuation/Cash Flow & Models",
     "finance/Economics/Books/Economic Cycles(Ray Dalio).md",
     "finance/Economics/GM & Economics/Value Chain.md",
     "Redundant, Utilities/Pictures/Pasted image 20250401223448.png",
-    "finance/Valuation/Volatility & Risk Assessment.md",
     "finance/Valuation/Statements",
-    "finance/Valuation/Value Creation.md",
     "Redundant, Utilities/Pictures/Pasted image 20250402002032.png",
     "finance/Economics/GM & Economics/Taxes in Canada.md",
     "finance/Finance Glossary.md",
-    "back-end/Docker/Docs/Volume.md",
-    "finance/Economics/GM & Economics/Credit.md",
     "Redundant, Utilities/Pictures/Pasted image 20250322022620.png",
     "Redundant, Utilities/Pictures/Pasted image 20250325022528.png",
-    "finance/Researches/ETF's.md",
-    "finance/Researches/IT/TTD Transcripts.md",
-    "finance/Researches/IT/SIMO.md",
-    "finance/Researches/IT/APLD & Peers.md",
     "finance/Researches/IT",
     "finance/Portfolio & Stocks",
-    "finance/Industries/Industries.md",
     "finance/Industries/Industrial",
     "finance/Industries/IT",
     "finance/Industries/Finance",
@@ -220,10 +227,6 @@
     "Redundant, Utilities/Pictures/Pasted image 20250320224818.png",
     "Redundant, Utilities/Pictures/Pasted image 20250319115938.png",
     "Redundant, Utilities/Pictures/New Project.jpg",
-    "Life/Interviews",
-    "Redundant, Utilities/Pictures/Pasted image 20250225134751.png",
-    "Pasted image 20250224192202.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250206222718.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
