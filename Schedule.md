@@ -4,15 +4,10 @@ Studies:
 - [ ] [Private equity pricing](https://forgeglobal.com/insights/reports/private-market-swells-with-optimistic-ipo-pipeline/)
 
 Books: 
-- [ ] Investment Management: A Modern Guide to Security Analysis and Stock Selection
-
-- [x] *Petroleum Refining: Technology, Economics, and Markets, Sixth Edition
 
 Researches/Reports:
 
 Courses:
-
-- [x] Corporate Finance YouTube  
 
 Vocab:
 - deceased. bail out. denominated. **debasement**. **expedient**. Recognition. peg, monetize. diverge. distinguish. **implication**. convey. forall aspects. **warrant**. immense tomb. daft. quelled. subjugation. jeopardy. **integrity** 
@@ -31,12 +26,17 @@ Vocab:
 - [ ] Letters on being right 5 pages(approx)
 
 
-April 29
-- [ ] [Carry trade](https://www.investopedia.com/carry-trade-definition-4682656) 
-- [ ] Forecast template, McKinsey Chapter 9
-- [ ] [FCF yield](https://grok.com/share/bGVnYWN5_6fa7370f-a488-41c8-ab0c-4793f1e4ec68), research 
+April 30
 
-- [ ] Sleep
+- [ ] Realtor / Call for roomate 
+- [ ] Forecast template, McKinsey Chapter 9(17 page) + excel  
+## Force yourself
+
+- [ ] Book FCF and SY (59 pages) + notes on concepts 
+- [ ] Graham 50/50
+ 
+
+
 
 
 
