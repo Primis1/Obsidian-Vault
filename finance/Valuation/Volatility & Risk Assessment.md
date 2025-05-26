@@ -27,6 +27,7 @@
 	- It's cost structure (fixed vs variable)
 
 - Unleveraged Beta - can be used to determine beta under different debt levels 
+- ##### Beta reflects weighted volatility of large cap stocks, if volatile IT sector starts to dominate the index(market portfolio), betas rise 
 
 
 - VIX - volatility, known as "fear index". Market's expectation of 30-day volatility and is constructed using the *implied volatility* of S&P 500 option index

@@ -3,6 +3,8 @@
 ### Terms Recognition:
 
 - NOL - is deductible only in region where it's recognized
+- Operating items tend to go in line with revenue, thus, one-in-a-decade plant closure should **not** be treated as operating item, even though it's connected to CapEx which **is an operating expense** 
+
 ### Concepts:
 
 #### Working Capital - total operating assets - total operating liabilities
@@ -44,3 +46,11 @@
 ##### Nondeductible intangibles - when company acquires another company(thus its intangibles) it recognizes amortization on *indefinable or separable intangible assets*. However they are nondeductible for tax statements, thus should be treated as *NOA* 
 
 * DTA and DTL are *not* considered as part of invested capital, because they are flowing through cash tax via NOPLAT, thus they are equity  
+
+#### Non-recurring items - in large profitable companies, likelihood of, restructuring for instance, one time items is substantial to include it on a repeatable basis. 
+- Thus, they should be included into FCF 
+- Management may slowly shift their operating expenses into "non-persistent" items to reach certain earnings target 
+- #### Example of items: asset write off(goodwill and purchased R&D); restructuring charges; litigation charges; gain/loss on sale of asset; 
+
+#### Asset write off - it reduces total amount invested by shareholder, which artificially increases ROIC 
+- To counter that, add write-off back to total invested capital 

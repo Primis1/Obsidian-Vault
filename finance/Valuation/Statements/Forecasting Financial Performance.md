@@ -23,3 +23,7 @@
 
 #### Retained Earnings:
 - Retained Earning$_{2009}$ + Net Income$_{2010}$ - Dividends Paid$_{2010}$
+
+
+#### Duration - value stocks provide cash flows much sooner than growth stocks(majority of which justify their price and borrow money in exchange for *future cash*), thus small change into current interest/inflation rates will influence value and drastically influence growth
+- Thus discount rate(or any other denominator) at each forecasting year influence value of growth stock more than it does 

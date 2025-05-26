@@ -7,7 +7,7 @@
 ### Concepts:
 
 #### Decomposition of P/E 
-- Company's P/E ratio is depended on future value creation, **which is dependent on ROIC, Growth and ==Expected Growth== ***
+- Company's P/E ratio is depended on future value creation(==confidence in that creation, i.e expectations==), **which is dependent on ROIC, Growth and ==Expected Growth== ***
 - Business can only **a) do qualitative or b) quantitative expansions**
 - Growth is a stream and ROIC is a bottleneck, which produce value. Influence on **a) market expansion or b) efficiency/margins c) certainty of future cash flows -> lesser growth & ROIC -> lesser P/E -> lesser divided value** 
 ![[Pasted image 20250408224224.png]]

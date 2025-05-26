@@ -3,6 +3,7 @@
 - Debt - negative revenue; **it's someone else's asset**
 	- Interconnection - paying loan, default or taking liability - actions have effect on both lender and borrower. By paying debt - **borrower destroys assets of lender**; **Entity's spendings, are someone else's income**
 - Money - storehold of wealth 
+- Debit/Credit 
 
 ### Concepts:
 

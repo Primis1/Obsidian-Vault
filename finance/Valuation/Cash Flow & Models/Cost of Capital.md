@@ -56,3 +56,7 @@
 - T - marginal tax rate
 - K d, e - cost of debt and equity
 - How much money they can generate for single dollar of assets (`Net Income / WACC`)
+
+#### Market Value of Debt 
+$$\text{Interest Expense}* (\frac{1-\frac{1}{1 + CoD^{maturity}}}{Cost of Debt})+\frac{Debt}{1 + CoD^{maturity}}+Operating leases$$
+- Cost of Debt is pretax 

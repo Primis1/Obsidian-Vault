@@ -1,9 +1,12 @@
 Ctrl + Shift + K
 
-Studies: 
-- [ ] [Private equity pricing](https://forgeglobal.com/insights/reports/private-market-swells-with-optimistic-ipo-pipeline/)
-
-Books: 
+Stuff: 
+- [Private equity pricing](https://forgeglobal.com/insights/reports/private-market-swells-with-optimistic-ipo-pipeline/)
+- [Bond/Credit/True economic outlook & insights](https://www.oaktreecapital.com/)
+- [Bunch of insights](https://www.msci.com/)
+- [Buying the business](https://www.amazon.ca/Search-Funds-Entrepreneurial-Acquisitions-Business/dp/0228861764)
+- [# Expected Returns: An Investor's Guide to Harvesting Market Rewards](https://www.amazon.ca/gp/product/1119990726?smid=A1XDN6BPGGT1Q6&psc=1)
+- Michael J. Mauboussin books
 
 Researches/Reports:
 
@@ -26,30 +29,46 @@ Vocab:
 - [ ] Letters on being right 5 pages(approx)
 
 
-April 30
-
-- [ ] Realtor / Call for roomate 
-- [ ] Forecast template, McKinsey Chapter 9(17 page) + excel  
+May 4
+- [x] 10 & 11 McKinsey 
+- [x] 12 ch
+- [x] Dostoevskyi
+- [x] Land lord call
+- [x] Finish BG 40~ pages
+- [x] Gym 
 ## Force yourself
 
-- [ ] Book FCF and SY (59 pages) + notes on concepts 
-- [ ] Graham 50/50
- 
+May 18 
+- [ ] IRR spread sheet
+- [x] Case study first 
+- [x] Configure Forecasts
+	- [ ] Identify all needed items both for FCF and WACC
+	- [ ] Integration of WACC and forecasted ratios  
+	- [ ] Keep in mind chain/domino effect 
+- [ ] Configure DCF 
+
+May 21 
+- [x] Finish Market speak
+- [ ] Event ticketing industry **research**
+- [x] Roommate application 
+
+May 23
+- [x] Gym
+- [ ] [Energy & Inflation](https://cepr.org/voxeu/columns/inflationary-impact-energy-prices)
+- [x]  100p stocks for long run 
+
+May 25
+- [ ] 95p stocks for long run 
+- [ ] 3 reports of BIDU
+- [ ] 
 
 
 
+ `People love saying some stock didn't work because of "execution" as some sort of pass-the-buck excuse instead of the real answer: the business sucks and is unworkable for a bunch of structural reasons that we were too foolish to identify in advance
+`
+Hi Matt, are you still looking for a room or a place to stay?
 
+I’m also on the hunt, and I was thinking—would you be interested in teaming up to rent something bigger, like a 2 bedroom basement or an apartment?
+It’s usually cheaper when you split the rent, and it’s a lot more comfortable than squeezing into a small room in a house or condo 
 
-
-I don't know how long I can last and struggle *just* with hatred, it fuels me well from time to time and generally i am honestly disgusted by ppl, however the less care the less feel the anger for the unfairness and less I have the ballistic power in pursing anything I need. "*HATE HATE HATE HATE*" - in my head gives me less and less, at least that what i think in moments of prosperity. *I need to find something else, I already know what, but i think i am not strong enough for it*. Maybe like Nietzsche said "*Give some hatred for enemies of yours*". Ubermench is not fueled by hatred or envies, but by share willpower towards his values     
-
-
-p 187
-
-
-Какие книги были полезними для лучшего понимая индустрии/вертикали в которой находиться компания. Cruise - Cruise Industry Handbook, Gambling - Addiction By Design, Marketing - Digital Marketing, Damian Rayan   
-
-
-if PE is a reflection of ROIC, G and RR. What happens during better than anticipated Q-report with the same guided ROIC, G and RR? 
-
-What happens: good Q-1, higher revenue, lower PE(because denominator became bigger)? But market will price-in that better quarter and P/E should stay the same(market rose up the share price, bigger nominator). But considering that projections stayed the same from time before Q-1, will P/E rise, drop or fall after that one positive Q-report in more than a year? 
+If you are interested can you share what regions are most convenient for you, so we may search for rents?

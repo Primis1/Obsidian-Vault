@@ -27,3 +27,26 @@
 #### Market Predictions and Expectations on #interest-rate 
 - Depending on the increase or decrease business with existing debt can suffer or benefit in compare to it pears
 	- If company has low debt and interest rate fell, they can get cheap money for their expansions and repay them while they stay low 
+
+### Effect on businesses:
+
+#### Direct:
+- Higher cost of capital 
+- Weaker demand for products in higher end of cost-structure 
+
+#### Indirect: 
+- Higher CapEx and OpEx 
+
+#### Businesses which successfully passed expenses on consumers, their ROIC and CF rises, however it's artificial increase in performance. In reality company barely managed to sustain its margins 
+- Some companies **pass through 100% of inflation** (think utilities, monopolies, luxury brands).
+    
+- Others **eat the cost** (commodities producers, low-margin manufacturers, retailers).
+    
+- Some **actually benefit** (debt-heavy firms with fixed-rate liabilities and pricing power).
+
+#### Industries like banks, benefit from post inflation environment(higher interest rates)
+
+#### Competitive advantage, pricing power and capital reserves will benefit companies in IE(inflation environment)
+
+#### Valuation in nominal and real cash should not be different
+- However mixing two will distort valuation 

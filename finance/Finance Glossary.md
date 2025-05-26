@@ -31,6 +31,7 @@
 	1. Can be compared to #WACC (`if ROIC > WACC == making value`)
 	2. Good #ROIC (above 10%) indicates that company has some sort of #moat 
 
+	3. ROIC decomposition: `fixed assets -> PP&E + year CapEx + Operating Intagibles - D&A` 
 12. #GAAP - generally accepted accounting principles 
 	1. **Conservative policies** - often raise expenses, so called "real estimates"
 	2. **Aggressive policies** - tend to raise earnings

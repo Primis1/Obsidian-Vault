@@ -36,3 +36,5 @@ HDD
 EBIT
 EBITA
 REAL
+\Colonapprox
+\MTThinColon

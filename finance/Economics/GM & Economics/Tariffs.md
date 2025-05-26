@@ -35,5 +35,4 @@
 - ##### Higher Cost of Equity - rate of returns that investors demands
 - ##### Cost of Debt - cost of borrowed money; Tariffs add to inflation -> what rises interest rates -> what lowers equity premiums over risk free-rate; higher effect on riskier & highly-leveraged firms 
 
-
 ### Move towards smaller "local" companies which are really-really good at narrow field; `Broad, Large cap` -> `Niche, Small cap` businesses 

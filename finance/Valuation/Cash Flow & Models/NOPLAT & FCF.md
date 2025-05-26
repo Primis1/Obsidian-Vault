@@ -3,6 +3,8 @@
 - Cash taxes - actual payments made to authorities
 
 - #### ROIC $$=\text{(1-Operating `Cash` Tax Rate)}* \frac{EBITA}{Revenue} * \frac{Revenue}{Invested Capital}$$
+- EBITA != Operating Income/Loss - accountant often include non-operating items, which usually understates EBITA and make earning more volatile
+	- They often include non-recurring charges  
 
 ### Concepts:
 
@@ -65,3 +67,11 @@
 |                                               |                                            |
 |                                               | (3,986)                                    |
 | **NOPLAT**                                    | 6,245                                      |
+
+### FCF yield, represents all cash available to generate shareholder's yield or firm growth yield 
+
+- High free cash flow yield indicates high leverage capacities
+- Room for *firm growth* even after interest payments or debt debt reduction
+- It indicates how much money has left after funding all expenses required for generating revenue 
+- Purpose of FCF is -> determine funds available for immediate, discretionary, strategic use by a business 
+- FCF yield is still vulnerable to accounting mistakes(FF and depreciation) 

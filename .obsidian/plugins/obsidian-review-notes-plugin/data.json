@@ -1,40 +1,20 @@
 {
   "files": [
     {
-      "path": "finance/Portfolio & Stocks/Financing and Restructuring.md",
-      "filename": "Financing and Restructuring"
-    },
-    {
-      "path": "finance/Valuation/Statements/Operating Financing.md",
-      "filename": "Operating Financing"
-    },
-    {
-      "path": "finance/Valuation/Core Valuation Techniques/Analytical Issues.md",
-      "filename": "Analytical Issues"
-    },
-    {
-      "path": "finance/Valuation/Core Valuation Techniques/Competitive Advantage & Performance.md",
-      "filename": "Competitive Advantage & Performance"
+      "path": "finance/Industries/Discretionary/Heineken; Case study.md",
+      "filename": "Heineken; Case study"
     },
     {
       "path": "Schedule.md",
       "filename": "Schedule"
     },
     {
+      "path": "finance/Valuation/Value Creation.md",
+      "filename": "Value Creation"
+    },
+    {
       "path": "finance/Valuation/Statements/Forecasting Financial Performance.md",
       "filename": "Forecasting Financial Performance"
-    },
-    {
-      "path": "finance/Valuation/Cash Flow & Models/NOPLAT.md",
-      "filename": "NOPLAT"
-    },
-    {
-      "path": "finance/Valuation/Statements/Reorganizing Fin-Statements.md",
-      "filename": "Reorganizing Fin-Statements"
-    },
-    {
-      "path": "finance/Valuation/Cash Flow & Models/Cost of Capital.md",
-      "filename": "Cost of Capital"
     }
   ]
 }
