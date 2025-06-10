@@ -6,9 +6,10 @@ Stuff:
 - [Bunch of insights](https://www.msci.com/)
 - [Buying the business](https://www.amazon.ca/Search-Funds-Entrepreneurial-Acquisitions-Business/dp/0228861764)
 - [# Expected Returns: An Investor's Guide to Harvesting Market Rewards](https://www.amazon.ca/gp/product/1119990726?smid=A1XDN6BPGGT1Q6&psc=1)
-- Michael J. Mauboussin books
 
 Researches/Reports:
+- [Energy & Inflation](https://cepr.org/voxeu/columns/inflationary-impact-energy-prices)
+- James O'Shaughnessy & Marks
 
 Courses:
 
@@ -29,46 +30,15 @@ Vocab:
 - [ ] Letters on being right 5 pages(approx)
 
 
-May 4
-- [x] 10 & 11 McKinsey 
-- [x] 12 ch
-- [x] Dostoevskyi
-- [x] Land lord call
-- [x] Finish BG 40~ pages
-- [x] Gym 
-## Force yourself
-
-May 18 
-- [ ] IRR spread sheet
-- [x] Case study first 
-- [x] Configure Forecasts
-	- [ ] Identify all needed items both for FCF and WACC
-	- [ ] Integration of WACC and forecasted ratios  
-	- [ ] Keep in mind chain/domino effect 
-- [ ] Configure DCF 
-
-May 21 
-- [x] Finish Market speak
-- [ ] Event ticketing industry **research**
-- [x] Roommate application 
-
-May 23
-- [x] Gym
-- [ ] [Energy & Inflation](https://cepr.org/voxeu/columns/inflationary-impact-energy-prices)
-- [x]  100p stocks for long run 
-
-May 25
-- [ ] 95p stocks for long run 
-- [ ] 3 reports of BIDU
-- [ ] 
+- [x] Interview for Zumiez
+- [x] Standard deviation
+	- [x] Implement re-calculation for all portfolio holdings
 
 
+***
+I hope this message finds you well. I'm reaching out regarding the room and would like to schedule a viewing if it's still available.
 
- `People love saying some stock didn't work because of "execution" as some sort of pass-the-buck excuse instead of the real answer: the business sucks and is unworkable for a bunch of structural reasons that we were too foolish to identify in advance
-`
-Hi Matt, are you still looking for a room or a place to stay?
+I'm a working student and interested in renting the place. I’d also like to ask if double occupancy is allowed, as that would be important for my situation.
 
-I’m also on the hunt, and I was thinking—would you be interested in teaming up to rent something bigger, like a 2 bedroom basement or an apartment?
-It’s usually cheaper when you split the rent, and it’s a lot more comfortable than squeezing into a small room in a house or condo 
-
-If you are interested can you share what regions are most convenient for you, so we may search for rents?
+Looking forward to your response.
+Best regards,

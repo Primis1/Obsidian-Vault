@@ -1,6 +1,6 @@
 ***
 ### Terms Recognition:
-1. Shareholder's yield - free money returned back to steak holders (**Value Concept**)
+1. Shareholder's yield - free money returned(amount of dividends, buybacks and debt reduction / market cap) back to steak holders (**Value Concept**)
 	1. Firm growth yield - free money which are spend on expanding business beyond its current core (**Growth Concept**)
 	2. Lack of revenue growth can be offset by enhancement in company operation and leveraging shareholder's yield, which can lead outperformance
 2. Stock price is a market's assessment of company's future cash flows
@@ -15,15 +15,17 @@
 
 **(Shareholder's Yield**)
 - Dividends 
-- Buy-backs 
-- *Deb reduction* - value of business does not change in regards of capital structure, **but ownership does** (by reducing debt we raise equity, and transfer value from debtors to investors)
+- Net Buy-backs 
+- *Net Deb reduction* - value of business does not change in regards of capital structure, **but ownership does** (by reducing debt we raise equity, and transfer value from debtors to investors)
+	- Change in long+short term debt
 
-Business which can't create value by growth/expansion from its cash-flows, **has to return those money back to investors in form of Shareholders Yield** 
+### Business which can't create value by growth/expansion from its cash-flows, **has to return those money back to investors in form of Shareholders Yield** 
+- Also, during assessment numbers should be netted to find real SY, because of share dilution/debt borrowing
 
 
 (**Firm Growth/Expansion Yield)**
-- Acquisitions 
-- Reinvestment in company ***capital projects**
+- ### Inorganic growth - M&As 
+- ### Organic growth - reinvestment in company ***capital projects**(R&D or OP CapEx)
 
 If ROIC or efficiency improvements **are real**, growth stocks, reinvest all their 'free cash' into expansion which
 
@@ -46,7 +48,7 @@ Value = (1 + P/E Change) * (1 + EPS Growth) * (1 + Dividends)
 - Value of financial economy(market) is driven by prospects and events in real economy 
 ![[Pasted image 20250430202003.png]]
 - P/E is driven(and therefore fluctuates) through inflation expectation 
-- Inflation --> drives interest rates --> interest rates (capital) are drivers business growth/expansion
+- Inflation --> drives interest rates --> interest rates (capital) are drivers business growth/expansion(*in good case scenario*)
 	- Long term interest rates are used as **discounter** of future cash-flows, and cash-flow are drivers of P/E expansion. 
 		- **I.e compression of multiplicator or increase of denominator
 

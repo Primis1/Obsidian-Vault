@@ -92,7 +92,7 @@
 	- It may be costly, but new technologies may **force the switch and/or make it less painful**
 	- ==Switching allow pricing power==
 	
-- ##### **Domino** **Effect** - when each new user/customer adds another one
+- ##### Network effect** - when each new user/customer adds another one
 	- In PM work for DE was already done, therefor business expects to receive benefits from those investments
 	- In VC **it does not work**, customer base haven't reach that point yet
 	- Hard to build and assess, ***but example: LinkedIn, won a competition and each member brings another into the club -> causing relience  -> switching costs ---> simultaneous bringing new customers(Domino effect) 
@@ -100,7 +100,7 @@
 - ##### Barriers of entry which protect ==growth== - there maybe a barrier, but there are no growth. KO hasn't grown for decade behind their massive barriers. 
 	- **Barrier are made for decline protection, but not for growth production**
 
-
+- Efficient scale - efficiently consolidated industry players in which don't fight for margins. Through high capital investments - entry is pointless 
 ### Management - with size, influence of management decreases
 
 

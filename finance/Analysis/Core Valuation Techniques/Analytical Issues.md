@@ -18,18 +18,26 @@ $$\text{Asset Value = } \frac{\text{Rental Expense}}{k_d + \frac{1}{Asset-Life}}
 
 
 
-Our business is _businesses_ and target prices _on businesses_
-
-Consider Simo's before reciprocal tariff price target of 75-80$ per share, with reduced gross margins of their main buyers(Gadgets and soon Industrial for which we have a great hope) we should not expect dramatic change in investment thesis(SIMO will suffer indirect effect), because  
-
-- Only sales-market of SIMO is affected
-- SIMO's controllers are commodities, but highly demanding(from both perspectives: required for memory chips to function and be equally advanced to keep up with new chip generations) commodities
-
-We should check the chunk of US revenue in SIMO's largest buyers and then calculate their margin reduction +guidance from upcomming report season(if their production will reduce === demand on chips will be less === less revenue )
+#### When estimating buy/hold/sell thesis for company we should regard level of uncertainty in DCF calculation. If uncertainty is high, we should demand higher margin of safety(bigger discount in regards of `stock price/fair value`) 
+- Systematic risk + Company specific risk = Uncertainty Rating
+- SR - Cost of equity, `Revenue beta to economy `, operating leverage, financial leverage
+- CSR:
+	- regulatory changes
+	- large contract/licence/patent expirations
+	- High customer concentrations 
+	- Changing client preference(in both industry and product line)
+	- Unpredictable management 
+	- Questionable capital allocation
+	- Risk of disruption
 
 ### Explicit forecast period
 - While time horizon does not change the ending value of company, extending explicit forecast period leads to omission of **ROIC --> WACC**, therefore such forecast are most likely *overoptimistic*
 - However each of those assumption should be backed-up by economic trends(KO and PP won't likely loose their ROIC, because of strength of their brand names)
+- #### Multi stage DCF(Morning-star approach): 
+	- Stage 1
+	- Stage 2 
+	- Stage 3 
+	- Depending on economic moat, economic profit may erode faster or slower. 
 
 #### Earnings surprise affect the share price only and only when it's grounded by improvements/worsens in future values of cash flows
 

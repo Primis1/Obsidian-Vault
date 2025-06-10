@@ -1,4 +1,4 @@
-***
+ ***
 ### Terms Recognition:
 1. Success of a business is determined by its produced value(for society/clients)
 	1. Companies have to generate better value from each transaction by optimising their **value-chain** 

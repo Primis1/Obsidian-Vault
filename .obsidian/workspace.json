@@ -4,35 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "70461a21668f0d2e",
+        "id": "79a53afbfe441111",
         "type": "tabs",
         "children": [
           {
-            "id": "a6519db2c64dc8b2",
+            "id": "91b9aaa0802a541c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/Valuation/Statements/Forecasting Financial Performance.md",
+                "file": "finance/Industries/Industries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forecasting Financial Performance"
+              "title": "Industries"
             }
           },
           {
-            "id": "708098d69f68c914",
+            "id": "a2ed54c2706ee3c7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Schedule.md",
+                "file": "finance/Industries/Strength by Sectors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schedule"
+              "title": "Strength by Sectors"
             }
           }
         ],
@@ -56,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: value",
+                "query": "file: hei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,54 +194,54 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "708098d69f68c914",
+  "active": "a2ed54c2706ee3c7",
   "lastOpenFiles": [
-    "finance/Valuation/Statements/Forecasting Financial Performance.md",
-    "finance/Valuation/Value Creation.md",
-    "back-end/GO Base/Types & Variables/Zero values.md",
-    "Schedule.md",
-    "finance/Industries/Discretionary/Heineken; Case study.md",
+    "finance/Industries/Industries.md",
+    "finance/Industries/Strength by Sectors.md",
+    "Untitled",
     "finance/Industries/Commodities/Commodity (Oil & Gas).md",
-    "finance/Industries/Discretionary",
-    "finance/Finance Glossary.md",
-    "finance/Valuation/Core Valuation Techniques/Analytical Issues.md",
-    "finance/Sheets/Balance Sheet.md",
-    "finance/Portfolio & Stocks/Competitive Advantage & Risk.md",
-    "finance/Valuation/Core Valuation Techniques/Multiples and Peer Comparison.md",
-    "finance/Valuation/Cash Flow & Models/Reorganizing Fin-Statements.md",
-    "finance/Economics/Market Derivatives/Interest Rate & Inflation.md",
-    "Inflation.md",
-    "finance/Valuation/Cash Flow & Models/NOPLAT & FCF.md",
-    "finance/Valuation/Core Valuation Techniques/Competitive Advantage & Performance.md",
-    "finance/Valuation/Cash Flow & Models/Cost of Capital.md",
-    "Non-operating expenses.md",
-    "finance/Valuation/Business economics/M&A.md",
-    "finance/Valuation/Business economics/Managing Performance.md",
-    "Untitled 1.md",
-    "finance/Valuation/Business economics",
-    "finance/Valuation/Business economics/Capital Structure.md",
-    "finance/Portfolio & Stocks/Financing and Restructuring.md",
-    "finance/Economics/GM & Economics/Credit.md",
-    "finance/Economics/GM & Economics/Tariffs.md",
+    "finance/Industries/Discretionary/Heineken; Case study.md",
+    "finance/Portfolio & Stocks/Shareholders Yield, Value & Growth.md",
+    "finance/Analysis/Core Valuation Techniques/Analytical Issues.md",
+    "finance/Analysis/Business economics/Competitive analysis/Moats Analysis.md",
+    "Analyzing Revenue Sensitivity to the Economy and Quantifying Non-Systematic Risk.md",
+    "finance/Analysis/Business economics/Competitive analysis/Uncertainty.md",
+    "finance/Analysis/Business economics/Competitive analysis/Competitive Advantage & Risk.md",
+    "finance/Analysis/Business economics/Competitive analysis/Competitive Advantage & Performance.md",
+    "finance/Analysis/Business economics/Competitive analysis/Moat Trends.md",
     "finance/Economics/GM & Economics/Value Chain.md",
+    "finance/Analysis/Competition.md",
+    "finance/Economics/Market Derivatives/Financial Engineering.md",
+    "finance/Analysis/Business economics/Competitive analysis",
+    "finance/Analysis/Business economics/Capital Structure.md",
+    "finance/Analysis/Business economics/Managing Performance.md",
+    "finance/Analysis/Volatility & Risk Assessment.md",
+    "back-end/Docker/Docs/Run Container.md",
+    "CS/Network/Network.md",
+    "back-end/GO Base/Packages/Separate packages/NET.md",
+    "CS/Crypto/Blockchain Architectures.md",
+    "Schedule.md",
+    "finance/Analysis/Statements/Forecasting Financial Performance.md",
+    "finance/Analysis/Cash Flow & Models/NOPLAT & FCF.md",
+    "finance/Economics/Market Derivatives/Interest Rate, Inflation & Stimulus.md",
+    "finance/Industries/Discretionary",
+    "finance/Analysis/Business economics",
     "Redundant, Utilities/Pictures/Pasted image 20250430204151.png",
     "Redundant, Utilities/Pictures/Pasted image 20250430202003.png",
     "Redundant, Utilities/Pictures/Pasted image 20250430201218.png",
     "Redundant, Utilities/Pictures/Pasted image 20250408224224.png",
     "Redundant, Utilities/Pictures/Pasted image 20250408225250.png",
-    "finance/Valuation/Core Valuation Techniques",
+    "finance/Analysis/Core Valuation Techniques",
     "Redundant, Utilities/Pictures/Pasted image 20250405180321.png",
-    "finance/Valuation/Cash Flow & Models",
+    "finance/Analysis/Cash Flow & Models",
     "Redundant, Utilities/Pictures/Pasted image 20250401223448.png",
-    "finance/Valuation/Statements",
+    "finance/Analysis/Statements",
     "Redundant, Utilities/Pictures/Pasted image 20250402002032.png",
     "Redundant, Utilities/Pictures/Pasted image 20250322022620.png",
     "Redundant, Utilities/Pictures/Pasted image 20250325022528.png",
     "finance/Researches/IT",
     "finance/Portfolio & Stocks",
     "finance/Industries/Industrial",
-    "finance/Industries/IT",
-    "finance/Industries/Finance",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

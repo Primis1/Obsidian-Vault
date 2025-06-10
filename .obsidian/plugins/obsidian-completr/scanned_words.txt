@@ -781,6 +781,10 @@ Swiss
 Speculation
 Speculators
 Strong
+Shaughnessy
+Sustainability
+SaaS
+Systematic
 values
 value
 variations
@@ -1352,6 +1356,7 @@ visitors
 virus
 vulnerabilities
 vigilant
+vapes
 Regex
 Rest
 REST
@@ -2046,6 +2051,9 @@ Recognize
 Regions
 Reorganize
 Roommate
+Rock
+RPU
+ROICs
 is
 in
 informs
@@ -2929,6 +2937,9 @@ interplay
 interconnectedness
 indexes
 interested
+infant
+itw
+interconnection
 string
 sorting
 set
@@ -4101,6 +4112,11 @@ sustainability
 subsidiary
 speak
 squeezing
+sooner
+subcategories
+scrutinize
+shortening
+subscription
 manipulation
 many
 mentioned
@@ -5003,6 +5019,15 @@ marketplace
 mood
 mandate
 monitors
+monopolies
+mixing
+minds
+meaningful
+monopoly
+manifest
+modest
+monetization
+markedly
 pattern
 preceding
 put
@@ -5966,6 +5991,12 @@ publishes
 promoting
 plant
 provision
+pharma
+powers
+pepsi
+pointless
+preference
+pipelines
 built
 baby
 brackets
@@ -6744,6 +6775,11 @@ beared
 bidder
 bedroom
 basement
+barely
+born
+burden
+batteries
+belonged
 every
 except
 email
@@ -7681,6 +7717,12 @@ exposed
 exclusion
 explained
 endeavor
+eat
+evidence
+effort
+evaluated
+expirations
+equilibrium
 PL
 POST
 PUT
@@ -8401,6 +8443,8 @@ Pound
 Proactive
 Pick
 Provisions
+Paris
+Prove
 yea
 your
 you
@@ -9619,6 +9663,7 @@ Tourism
 Tensions
 Turkish
 Takeaways
+Tuesday
 know
 knows
 kind
@@ -11028,6 +11073,10 @@ trigger
 tightening
 ticketing
 teaming
+translate
+tasting
+tempted
+timely
 find
 from
 for
@@ -11750,6 +11799,8 @@ feasible
 frame
 fostering
 fine
+falsificates
+finite
 and
 as
 any
@@ -12719,6 +12770,11 @@ artificially
 artificial
 accruals
 apartment
+accountant
+analog
+addressable
+amid
+amazon
 replace
 repeats
 repeat
@@ -13579,6 +13635,11 @@ regularly
 relatedness
 repeatable
 reorganized
+regulate
+renting
+recognizable
+renewal
+recoup
 of
 one
 or
@@ -15382,6 +15443,14 @@ counter
 consolidate
 classify
 condo
+conquer
+conveys
+coke
+constitute
+century
+curren
+cigarettes
+concentrations
 digit
 default
 drop
@@ -16335,6 +16404,9 @@ divestiture
 diluted
 domino
 disposals
+drastically
+differentiate
+drink
 non
 name
 numbers
@@ -16880,6 +16952,8 @@ nuanced
 negatively
 nation
 necessitates
+networks
+netted
 white
 word
 we
@@ -18305,6 +18379,7 @@ Conference
 Consolidate
 Competitor
 Configure
+Changing
 used
 user
 ui
@@ -18976,6 +19051,9 @@ unlocking
 utilize
 unconventional
 unity
+understates
+undercut
+undergo
 local
 look
 label
@@ -19642,6 +19720,10 @@ latter
 lingering
 leg
 litigation
+locomotive
+loosing
+lengthening
+licence
 Input
 IS
 It
@@ -20357,6 +20439,10 @@ Improved
 Inconsequential
 Improve
 Indirect
+Inorganic
+Interview
+Implement
+ITunes
 FCKN
 Front
 FTP
@@ -21026,6 +21112,7 @@ Floating
 Float
 Flexibility
 Fluctuations
+Frederica
 DISCOVERY
 DELETE
 DDD
@@ -21721,6 +21808,8 @@ Doc
 Differentials
 Deficit
 Drop
+Duration
+Decline
 has
 have
 hidden
@@ -22387,6 +22476,7 @@ hedging
 havens
 heightened
 hunt
+holdings
 ALOT
 API
 Application
@@ -23078,6 +23168,8 @@ Africa
 Anticipation
 Article
 Articles
+Airlines
+Airport
 generally
 gRPC
 got
@@ -23714,6 +23806,7 @@ guiding
 governmental
 gold
 goal
+geographic
 General
 GO
 GraphQL
@@ -25456,6 +25549,7 @@ Hlc
 HNNF
 History
 Heineken
+Havenwood
 query
 questions
 quality
@@ -26542,6 +26636,7 @@ USPAP
 Utilize
 Uncertainty
 Uncertain
+Unpredictable
 Mostly
 Message
 Mkdir
@@ -27202,6 +27297,7 @@ Michael
 Mauboussin
 Mid
 Matt
+Marks
 JSON
 JS
 Jesus
@@ -27761,6 +27857,7 @@ Jkik
 Japanese
 JPY
 Japan
+James
 XML
 XXXX
 XBqB
@@ -28934,6 +29031,8 @@ Objectivity
 Opinion
 Outlook
 OpEx
+Others
+Organic
 Validation
 Validate
 Va
@@ -30093,6 +30192,8 @@ Lsnj
 LqQ
 Land
 Lira
+Logistic
+Lesser
 Each
 Encapsualation
 Env
@@ -30792,6 +30893,7 @@ Eurozone
 European
 Expediting
 Evaluate
+Explain
 Network
 NewWriter
 NewReader
@@ -32027,6 +32129,9 @@ Bases
 Businesses
 Bullish
 BIDU
+Brands
+Benefit
+Bloor
 Zeros
 Zod
 Zt
@@ -32554,6 +32659,7 @@ ZUQAb
 ZdS
 ZPU
 ZAR
+Zumiez
 just
 js
 jN
@@ -33074,6 +33180,7 @@ jTz
 jkv
 jiS
 justification
+justify
 zero
 zw
 zuj
@@ -35070,6 +35177,7 @@ QIRg
 Qqq
 QQpss
 QTTD
+Questionable
 xs
 xl
 xR

@@ -25,7 +25,7 @@
 #### Probability of default is not linear, rather it slowly growths from AAA to B, and then spikes 
 
 
-#### Types of leverage:
+#### Types of debt:
 
 
 

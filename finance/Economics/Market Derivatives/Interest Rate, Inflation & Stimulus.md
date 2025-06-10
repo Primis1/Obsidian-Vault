@@ -1,12 +1,13 @@
 ***
 ### Special values:
 1. #interest-rate - `amount a lender charges a borrower`. I.e percentage under which you take a credit in ==main== bank
-
+2. long run inflation - rate is defined as excess monetary supply over the growth of GDP
 ### To know:
 
 #### Concepts:
 
 1. High #interest-rate lead to lower inflation, ==higher bonds and deposits== income, and ==decreasing the price for stocks== 
+### FED - can tighten or expand M1/M2 supplies, i.e regulate credit accessible for banks to lend population 
 
 ##### Why increasing rate #interest-rate slower the inflation? 
 1. People start to spend more on credits and mortgages, so they have less money to spend on something else 
@@ -36,6 +37,7 @@
 
 #### Indirect: 
 - Higher CapEx and OpEx 
+- Moving towards higher corporate tax bracket
 
 #### Businesses which successfully passed expenses on consumers, their ROIC and CF rises, however it's artificial increase in performance. In reality company barely managed to sustain its margins 
 - Some companies **pass through 100% of inflation** (think utilities, monopolies, luxury brands).
@@ -50,3 +52,4 @@
 
 #### Valuation in nominal and real cash should not be different
 - However mixing two will distort valuation 
+

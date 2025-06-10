@@ -1,20 +1,40 @@
 {
   "files": [
     {
-      "path": "finance/Industries/Discretionary/Heineken; Case study.md",
-      "filename": "Heineken; Case study"
+      "path": "finance/Analysis/Business economics/Competitive analysis/Competitive Advantage & Risk.md",
+      "filename": "Competitive Advantage & Risk"
     },
     {
-      "path": "Schedule.md",
-      "filename": "Schedule"
+      "path": "finance/Analysis/Business economics/Competitive analysis/Moats Analysis.md",
+      "filename": "Moats Analysis"
     },
     {
-      "path": "finance/Valuation/Value Creation.md",
-      "filename": "Value Creation"
+      "path": "finance/Analysis/Business economics/Capital Structure.md",
+      "filename": "Capital Structure"
     },
     {
-      "path": "finance/Valuation/Statements/Forecasting Financial Performance.md",
-      "filename": "Forecasting Financial Performance"
+      "path": "finance/Economics/GM & Economics/Value Chain.md",
+      "filename": "Value Chain"
+    },
+    {
+      "path": "finance/Analysis/Business economics/Competitive analysis/Moat Trends.md",
+      "filename": "Moat Trends"
+    },
+    {
+      "path": "finance/Analysis/Business economics/Competitive analysis/Uncertainty.md",
+      "filename": "Uncertainty"
+    },
+    {
+      "path": "finance/Analysis/Core Valuation Techniques/Analytical Issues.md",
+      "filename": "Analytical Issues"
+    },
+    {
+      "path": "Analyzing Revenue Sensitivity to the Economy and Quantifying Non-Systematic Risk.md",
+      "filename": "Analyzing Revenue Sensitivity to the Economy and Quantifying Non-Systematic Risk"
+    },
+    {
+      "path": "finance/Industries/Strength by Sectors.md",
+      "filename": "Strength by Sectors"
     }
   ]
 }
