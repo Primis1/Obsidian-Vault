@@ -16,7 +16,7 @@
 3. However,  increase in #interest-rate slows the inflation, it also slows the economy, coz customers spend less, so businesses have less money 
 4. Than less money businesses have, than less innovation will be provided 
 
-#### Inflation protected businesses - logically those which require less capital and/or cash equivalent/requirements to operate 
+#### Inflation protected businesses - logically those which require less capital and/or cash requirements to operate 
 
 #### Inflation inertia (unemployment)
 - Inflation expectations
@@ -53,3 +53,4 @@
 #### Valuation in nominal and real cash should not be different
 - However mixing two will distort valuation 
 
+#### Influence of energy price hikes has a modest effect on consumer basket, however inflated energy prices influence *all* businesses segments(cost of transportation, operation, etc)

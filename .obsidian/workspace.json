@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "79a53afbfe441111",
+        "id": "97b53ce622e79b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "91b9aaa0802a541c",
+            "id": "d25ae8be1e85ea4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/Industries/Industries.md",
+                "file": "finance/Analysis/Business economics/Competitive Strategy/Industry evolution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Industries"
-            }
-          },
-          {
-            "id": "a2ed54c2706ee3c7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "finance/Industries/Strength by Sectors.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Strength by Sectors"
+              "title": "Industry evolution"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: hei",
+                "query": "file: ",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -89,11 +74,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 250.5,
+    "collapsed": true
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -194,54 +181,53 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "a2ed54c2706ee3c7",
+  "active": "d25ae8be1e85ea4a",
   "lastOpenFiles": [
-    "finance/Industries/Industries.md",
-    "finance/Industries/Strength by Sectors.md",
-    "Untitled",
-    "finance/Industries/Commodities/Commodity (Oil & Gas).md",
-    "finance/Industries/Discretionary/Heineken; Case study.md",
-    "finance/Portfolio & Stocks/Shareholders Yield, Value & Growth.md",
-    "finance/Analysis/Core Valuation Techniques/Analytical Issues.md",
-    "finance/Analysis/Business economics/Competitive analysis/Moats Analysis.md",
-    "Analyzing Revenue Sensitivity to the Economy and Quantifying Non-Systematic Risk.md",
-    "finance/Analysis/Business economics/Competitive analysis/Uncertainty.md",
-    "finance/Analysis/Business economics/Competitive analysis/Competitive Advantage & Risk.md",
-    "finance/Analysis/Business economics/Competitive analysis/Competitive Advantage & Performance.md",
-    "finance/Analysis/Business economics/Competitive analysis/Moat Trends.md",
-    "finance/Economics/GM & Economics/Value Chain.md",
-    "finance/Analysis/Competition.md",
-    "finance/Economics/Market Derivatives/Financial Engineering.md",
-    "finance/Analysis/Business economics/Competitive analysis",
-    "finance/Analysis/Business economics/Capital Structure.md",
-    "finance/Analysis/Business economics/Managing Performance.md",
-    "finance/Analysis/Volatility & Risk Assessment.md",
-    "back-end/Docker/Docs/Run Container.md",
-    "CS/Network/Network.md",
-    "back-end/GO Base/Packages/Separate packages/NET.md",
-    "CS/Crypto/Blockchain Architectures.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Moats/Competitive Advantage & Risk.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Structural analysis.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Customers, Suppliers & Value.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Competitive Strategies & Analysis.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Structural analysis of industries.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Competitive Advantage & Performance.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Moats/Moats Analysis.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Moats/Moat Trends.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Industry evolution.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Moats",
+    "A Strategic Analysis of the Pharmaceutical Industry Navigating Innovation, Regulation, and Market Dynamics.md",
+    "Untitled.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250629214253.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250629231311.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250629215404.png",
     "Schedule.md",
-    "finance/Analysis/Statements/Forecasting Financial Performance.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250629112947.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250629130937.png",
+    "finance/Analysis/Business economics/Capital Structure.md",
+    "finance/Analysis/Core Valuation Techniques/Multiples and Peer Comparison.md",
+    "finance/Analysis/Core Valuation Techniques/Factors notes.md",
+    "finance/Analysis/Core Valuation Techniques/Analytical Issues.md",
+    "finance/Analysis/Cash Flow & Models/Reorganizing Fin-Statements.md",
+    "finance/Analysis/Cash Flow & Models/WACC.md",
     "finance/Analysis/Cash Flow & Models/NOPLAT & FCF.md",
+    "finance/Analysis/Value Creation.md",
+    "finance/Analysis/Volatility & Risk Assessment.md",
     "finance/Economics/Market Derivatives/Interest Rate, Inflation & Stimulus.md",
+    "finance/Industries/Industrial/BLBD Insight.md",
+    "CS/Algos and DS/Data Structures/Linked-lists/Arrays && Linked lists.md",
+    "finance/Portfolio & Stocks/Active Management.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250619210253.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250619210818.png",
+    "Redundant, Utilities/Pictures/Screenshot From 2025-06-19 19-42-12.png",
+    "finance/Analysis/Business economics/Competitive Strategy",
+    "Redundant, Utilities/Pictures/Pasted image 20250614130333.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250614112348.png",
+    "finance/Analysis/Business economics/Competitive analysis",
     "finance/Industries/Discretionary",
     "finance/Analysis/Business economics",
-    "Redundant, Utilities/Pictures/Pasted image 20250430204151.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250430202003.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250430201218.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250408224224.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250408225250.png",
     "finance/Analysis/Core Valuation Techniques",
-    "Redundant, Utilities/Pictures/Pasted image 20250405180321.png",
     "finance/Analysis/Cash Flow & Models",
-    "Redundant, Utilities/Pictures/Pasted image 20250401223448.png",
     "finance/Analysis/Statements",
-    "Redundant, Utilities/Pictures/Pasted image 20250402002032.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250322022620.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250325022528.png",
     "finance/Researches/IT",
     "finance/Portfolio & Stocks",
-    "finance/Industries/Industrial",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

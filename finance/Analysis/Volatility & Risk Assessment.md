@@ -1,10 +1,13 @@
 ***
 ### Special values:
 - Risk - excess returns / danger or likelihood of deviation; deviation of expected returns to actual returns 
-	- PE and other risk metrics describe ***uncertainty in future cash-flow*** and any disruption into cash-flow, for company with high valuation/multiples(**PE**) will punish the stock
-	- Risk is not a **loss** it **unpredictability**, if firm promises good future cash-flow, stock will rise, if business fails - price drops
+	- PE and other risk metrics describe ***uncertainty in future cash-flow*** and any **uncertainty** into cash-flow, for company with high valuation/multiples(**PE**) will punish the stock
+	
+	- Risk is **unpredictability and chances to realize that *loss*** , if firm promises good future cash-flow, stock will rise, if business fails - price drops
 ![[Pasted image 20250322022620.png]]
-- Don't expect to be rewarded for all taken risk
+
+- Don't expect to be rewarded for all taken risk. Securities which were "**priced to perfection**" leave no room for further positive views or outperformance, **however any disaster has yet to be reflected into the price, when occurred   
+
 - Hurdle rate - benchmark of return which are required for business to do the make a profitable investment. I.e, if hurdle rate is 11%, investing into stock with price target of 9% **does not make sense**.
 	- Hurdle rate can be contracted based on personal calculations, it isn't a standard model or formula
 	- CAPM + Size factor + Sector 

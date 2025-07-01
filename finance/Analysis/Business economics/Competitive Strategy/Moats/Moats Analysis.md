@@ -53,3 +53,4 @@
 	6.  Efficient scale:
 	- **Define limits of market. Is the addressable market finite or has blur boundaries?** - in pipeline business, oil producers need to transport 250 bbl a day, capacity of pipelines is 275. What market share can you capture with perfect supply/demand equilibrium? 
 	- **What are sink costs of entering the market? How much market share new competitor have to capture in order to recoup the costs?** 
+	- Does it oligopoly? If yes, firm will consider actions in regard to other competitors, because any unpleasant move may cause retaliation across entire industry 

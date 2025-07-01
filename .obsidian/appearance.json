@@ -1,10 +1,10 @@
 {
   "accentColor": "#5cf596",
-  "baseFontSize": 12,
+  "baseFontSize": 13,
   "cssTheme": "Atom",
   "theme": "obsidian",
-  "textFontFamily": "Fira Code",
+  "textFontFamily": "Verdana",
   "interfaceFontFamily": "",
-  "monospaceFontFamily": "Fira Code",
+  "monospaceFontFamily": "Verdana",
   "nativeMenus": false
 }
