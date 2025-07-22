@@ -11,14 +11,21 @@
 - Hurdle rate - benchmark of return which are required for business to do the make a profitable investment. I.e, if hurdle rate is 11%, investing into stock with price target of 9% **does not make sense**.
 	- Hurdle rate can be contracted based on personal calculations, it isn't a standard model or formula
 	- CAPM + Size factor + Sector 
+
 ### Concepts:
 
 #### Risk categories:
-- Market risk - market's sentiments towards industry and how it influences the stock
-- Credit  - risk of default. `Debt-to-Equity, interest coverage`
-- Liquidity risk - volumes, easiness of buy/sell
-- Operating - risk from business operations 
+- Macro(Environmental) 
+	- Credit 
+	- Liquidity
+	- Policies 
+- Micro(Industry/Company)
+	- Consumer preferences 
+	- Industry innovation/disruption 
+	- Management execution 
+	- Room to grow
 
+#### High performance or valuation is essentially borrowed from the future
 
 ##### Equity & Volatility Risk 
 - Historical Volatility - past market fluctuations; calculated by standard deviation
@@ -90,4 +97,27 @@ $$𝑈(𝑦) = \frac{1}{R}(1-e^{Ry})$$
 - Risk is only in the future, but we can measure it only from past
 - Risk-Profile is not the same for every company 
 
+
+### Way to analyze risks 
+
+```
+Risk/Deviation of returns during valuation and revenue/fcf forecasts:
+
+1. Simlply taking average value among weighted-probabilties of returns is not going to work. There is always only one outcome and only one descended future/present. Thus utility formula - sucks. 
+
+2. However, # Monte Carlo Simulation is useful in describing prosperity/disaster of outcomes and display it numbers/%
+
+3. Based on variety and worseness of those outcome(also proportion of worst case scenario to best, i.e risk premium; i.e how much i will get in proportion of possible disaster), we may assign the level of risk which goes beyond of simple SD or beta. They are also useful, to some extend, becase volatility reflects implact of past events and/or disasters  
+
+4. For instance: we calculated that with our thesis, Carnival cruise sales will have 90% backlog +growth in sales of 20% = 29$ price per share by our DCF model, we then assess bottom-up outcomes which will impact fundamentals in regards to company's ability to bear the devastation 
+	1. (worst/best case scenario or Monte Carlo which will reflect intinsic value in regard to fcf/revenue/margin variations)
+	2. Based on certaintly of bad outcomes and their loss-impact, we pick risk rating
+	3. To continues: ...share price of 29$, justified by 90% backlog +growth in sales of 20%, however there may be a headwind in changing consumer preferences, thus drop in revenue, in that case forecasted price is 23$
+	*Risk is only in the future 
+
+5. Hence, it's all depends on the price we buy asset. If all bad outcomes were priced into stock, even risky one, risk reduces - ********margin of safety********
+
+*Risk managing is key goal of portfolio construction
+	*How much room for risk we have? Is it too much? Is it diversified? Or maybe we can invest more into higher risk assets for sake of higher returns?
+```
 

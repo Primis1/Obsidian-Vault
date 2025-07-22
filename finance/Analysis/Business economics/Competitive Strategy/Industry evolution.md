@@ -63,3 +63,30 @@
 #### Government policies - change in regulations, credits, subsidiaries, etc -> influences the course of industry
 
 #### Entry and Exit - high growth often lures companies to enter the industry, however high costs of entry barriers may slow down the migration(thus for existing firms it's good to keep those barriers high) 
+
+
+### Industry Maturity - intensified cost warfare and fight for market share. Customer is more and more sophisticated, thus considers a product like commodity 
+- Danger of overcapacity and shifting mobility barriers 
+- Innovation and new product roll-outs aren't keys anymore. In matured industries management should focus on a) **cost control** b) **customer service** c) **true marketing** 
+- Existing **growth pockets** - segment which aren't vulnerable to decline. Premium brands in tobacco 
+- Change from *new-customer*, to juicing as much dollar from *existing customers* 
+- ##### Shift from 3 common strategies to just two(focus & costs)
+
+-  *DO NOT INVEST INTO NEW CAPACITY*
+
+### Industry Decline:
+- Product absolutely perceived as a commodity 
+- Fixed costs are high
+- High exit barriers:
+	- Low liquidation costs for assets(if in case of high working capital or niche assets)
+	- Vertical integration 
+	- Is a part of conglomerate, thus important for other businesses in the firm(high strategic stakes)
+- Government support bails out weak firms and thus **keeping oversupply in the industry**
+
+-  *DO NOT INVEST INTO NEW CAPACITY*
+
+- ##### In attempt to harvest above WACC returns, leader firm may try to consolidate the industry, gradually reducing capacity and removing adversaries(reducing chance of price war) or creating an exit barriers 
+
+![[Pasted image 20250706013025.png]]
+
+

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "97b53ce622e79b3e",
+        "id": "956e8307d4b32daa",
         "type": "tabs",
         "children": [
           {
-            "id": "d25ae8be1e85ea4a",
+            "id": "56595a8c4768ef63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/Analysis/Business economics/Competitive Strategy/Industry evolution.md",
+                "file": "finance/Analysis/Volatility & Risk Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Industry evolution"
+              "title": "Volatility & Risk Assessment"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: ",
+                "query": "file: risk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -144,17 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Heineken; Case study.md",
+                "file": "Working Capital Dynamics in DCF Valuation and Risk Assessment.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Heineken; Case study"
+              "title": "Outline of Working Capital Dynamics in DCF Valuation and Risk Assessment"
             }
           },
           {
-            "id": "109d253095d685d4",
+            "id": "b9917a73df67e0fc",
             "type": "leaf",
             "state": {
               "type": "review-notes",
@@ -181,8 +180,20 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "d25ae8be1e85ea4a",
+  "active": "56595a8c4768ef63",
   "lastOpenFiles": [
+    "finance/Analysis/Business economics/Working Capital & Leverage.md",
+    "A Strategic Analysis of the Pharmaceutical Industry Navigating Innovation, Regulation, and Market Dynamics.md",
+    "Working Capital Dynamics in DCF Valuation and Risk Assessment.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250711165243.png",
+    "finance/Analysis/Business economics/Vertical Integration.md",
+    "Schedule.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250710235402.png",
+    "finance/Analysis/Business economics/Competitive Strategy/Industry evolution.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250706013025.png",
+    "finance/Analysis/Business economics/Competitive Strategy/Fragmented & Emerging Industries.md",
+    "Industries in Maturity & Decline.md",
+    "finance/Analysis/Volatility & Risk Assessment.md",
     "finance/Analysis/Business economics/Competitive Strategy/Moats/Competitive Advantage & Risk.md",
     "finance/Analysis/Business economics/Competitive Strategy/Structural analysis.md",
     "finance/Analysis/Business economics/Competitive Strategy/Customers, Suppliers & Value.md",
@@ -191,14 +202,10 @@
     "finance/Analysis/Business economics/Competitive Strategy/Competitive Advantage & Performance.md",
     "finance/Analysis/Business economics/Competitive Strategy/Moats/Moats Analysis.md",
     "finance/Analysis/Business economics/Competitive Strategy/Moats/Moat Trends.md",
-    "finance/Analysis/Business economics/Competitive Strategy/Industry evolution.md",
     "finance/Analysis/Business economics/Competitive Strategy/Moats",
-    "A Strategic Analysis of the Pharmaceutical Industry Navigating Innovation, Regulation, and Market Dynamics.md",
-    "Untitled.md",
     "Redundant, Utilities/Pictures/Pasted image 20250629214253.png",
     "Redundant, Utilities/Pictures/Pasted image 20250629231311.png",
     "Redundant, Utilities/Pictures/Pasted image 20250629215404.png",
-    "Schedule.md",
     "Redundant, Utilities/Pictures/Pasted image 20250629112947.png",
     "Redundant, Utilities/Pictures/Pasted image 20250629130937.png",
     "finance/Analysis/Business economics/Capital Structure.md",
@@ -209,17 +216,9 @@
     "finance/Analysis/Cash Flow & Models/WACC.md",
     "finance/Analysis/Cash Flow & Models/NOPLAT & FCF.md",
     "finance/Analysis/Value Creation.md",
-    "finance/Analysis/Volatility & Risk Assessment.md",
-    "finance/Economics/Market Derivatives/Interest Rate, Inflation & Stimulus.md",
-    "finance/Industries/Industrial/BLBD Insight.md",
-    "CS/Algos and DS/Data Structures/Linked-lists/Arrays && Linked lists.md",
-    "finance/Portfolio & Stocks/Active Management.md",
     "Redundant, Utilities/Pictures/Pasted image 20250619210253.png",
     "Redundant, Utilities/Pictures/Pasted image 20250619210818.png",
-    "Redundant, Utilities/Pictures/Screenshot From 2025-06-19 19-42-12.png",
     "finance/Analysis/Business economics/Competitive Strategy",
-    "Redundant, Utilities/Pictures/Pasted image 20250614130333.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250614112348.png",
     "finance/Analysis/Business economics/Competitive analysis",
     "finance/Industries/Discretionary",
     "finance/Analysis/Business economics",
