@@ -23,47 +23,54 @@ Check list for next 73 days(until August 31):
 	1. Value Regeneron || EB || ?
 5. Complete website 
 
-6. Security course 
+6. course? 
 
 
-## MY LIFE PLAN:
+### TO-DO:
+- [ ] Change the header + footer 
+- [ ] Import shadcn components
+- [x] Remove unnecessary, payload, things(logos, color themes)
+- [x] Pick fonts, Create an animation(with my name)
+- [ ] Pages:
+	- [ ] / Home - build a custom feature for text editor
+		- [ ] https://payloadcms.com/docs/rich-text/overview
+		- [ ] https://payloadcms.com/docs/rich-text/custom-features
+	- [ ] / Portfolio **- created by cms**  
+		- [ ] / Hover Cards with separate - small description page**- created by cms**  
+	- [ ] Articles-Reviews **- created by cms**  
+		- [ ] / hover cards with book review or something **- created by cms**  
+	
+	- [ ] Contact page (contact info will be saved into db... collection, than once a day or so captured and send to me through GO-lang bot) - self crafted
+
+## MY LIFE PLAN(in construction):
 - [ ] #### Have a reasons to wake up no matter the age. Have values which i want to sustain. Goals to pursue 
-	- [ ] Have a craft-goal to achieve, where i can work with worthy people| ==Knowledge, Intelligence, Hard Work & Passions==
+	- [ ] Have a craft-goal to achieve, where i can work with worthy people|
 		- [ ] Be intelligent / extraordinary. To attract worth liking people = i should be worth liking 
 		- [ ] If i love someone, why should i be a parasite or burden? Will i be satisfied with myself? Will deserve it? 
 			- [ ] You should give to get back, if people are *those people* everyone will be giving and getting even more 
 	- [ ] Have a person i want to make happy, and who is interested in me and consider *me* important 
-		- [ ] If the world is pointless and dark, your existence is important for you and you alone, nothing you can do about it, you can't cherish yourself double as much and thus it's importance in one's life is unique and single. However, other *unique* person can give you that *candle* 
+		- [ ] If the world is pointless and dark, your existence is important for you and you alone, nothing you can do about it, you can't cherish yourself double as much and thus it's importance in one's life is unique and singular. 
 	- [ ] Able to do activities which i like with those who i love 
-		- [ ] I need to have resources(wealth = power) ==Knowledge, Intelligence, Hard Work==
+		- [ ] I need to have resources(wealth = power) 
 		- [ ] Be able to make those people happy 
 		- [ ] Have access to pleasures and able to share 'em 
-			- [ ] I need productivity and opportunities(risky or not) ==Knowledge, Intelligence, Hard Work==
-			- [ ] I need to extract maximum ability from body of mine(muscles, hormones & brain)
+			- [ ] I need productivity and opportunities 
+			- [ ] I need to extract maximum ability from body 
 
 - ## **Have `the` WILL & thus POWER to follow and accomplish above**
 
-#### Life which is worth living should contain: someone special, surrounded by those who like and love, be able to do what interesting things/complex things that you like *with* people you like AND don't confuse *real* values with just imitation, fake and hollowness  
-
-## Rule of thumb -> ==be focused on schedule below and *not* distort your== ==concentration== on anything else(even i may seem useful). Study as hard as your can and then rest as much as you want or build another schedule
-
-- [ ] Re-launch mongo DB 
-	- [ ] Ensure working connection 
+#### Life which is worth living should contain: someone special, surrounded by those who like and love, be able to do what interesting things/complex things that you like *with* people you like AND don't confuse *real* values with just imitation, fakes and hollows   
 
 ***
 Books, To-Read:
 
-Before July 22
-1. Competitive Strategy 
-2. Working Capital 
-3. Market Cycles 
 
 After July 22
-4. Missing Billionaires - 290 
-5. Essays of Warren Buffet - 240
-6. Security Analysis - Fucked, 700  
-7. Quality Investing - 250
-8. Basic Economics - 600
+
+4. Essays of Warren Buffet - 240
+5. Security Analysis - Fucked, 700  
+6. Quality Investing - 250
+7. Basic Economics - 600
 
 
 Vocab:
@@ -77,3 +84,5 @@ Vocab:
 - subtle. reconciliation. virtue. vigorous. rigid. rigour. scorned. distinguish. dispatch. t. contempt. subtle. preemption. subtext. loaded. explicit. implicit. refinement. unambiguously. restrain. render. appropriate. promtply. rigour. trumps. **intimation**. peril. 
 
 
+
+i have lost it, all my life i was working as hard as no one, i had unbending will to not become something that i don't want. 
