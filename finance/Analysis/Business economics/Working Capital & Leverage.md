@@ -12,6 +12,8 @@
 
 *Important line items for DCF calibration. Should be added to Operating Assets(OA) 
 
+#### Negative working capital - possible if business day-to-day operations are funded by recurring revenue(upfront expenses by customers), with high inventory turnover or posses a bargaining power against suppliers
+
 Components of working capital and its forecasting formulas:
 
 | Working Capital Component | Primary P&L Linkage                      | Key Metric/Driver                | Formula for Forecasted Balance (Example) |

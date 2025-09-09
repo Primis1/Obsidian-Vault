@@ -9,38 +9,11 @@ Stuff:
 - [Bond/Credit/True economic outlook & insights(OakTree)](https://www.oaktreecapital.com/)
 - [Antitrust insights](https://www.cliffordchance.com/home.html)
 
-
 Researches/Reports:
 - James O'Shaughnessy & Marks
 
-Check list for next 73 days(until August 31):
-1.  [Valuation MBA](https://www.youtube.com/watch?v=eIcyARH3FiM&list=PLUkh9m2BorqkgpNyRpP-NL3BS4yvFabXk&index=26&ab_channel=AswathDamodaran)
-2. More-Gold Course 
 
-3. Read 1-2 equity researches weekly
-
-4. Complete valuation spread sheet/finish prototype 
-	1. Value Regeneron || EB || ?
-5. Complete website 
-
-6. course? 
-
-
-### TO-DO:
-- [ ] Change the header + footer 
-- [ ] Import shadcn components
-- [x] Remove unnecessary, payload, things(logos, color themes)
-- [x] Pick fonts, Create an animation(with my name)
-- [ ] Pages:
-	- [ ] / Home - build a custom feature for text editor
-		- [ ] https://payloadcms.com/docs/rich-text/overview
-		- [ ] https://payloadcms.com/docs/rich-text/custom-features
-	- [ ] / Portfolio **- created by cms**  
-		- [ ] / Hover Cards with separate - small description page**- created by cms**  
-	- [ ] Articles-Reviews **- created by cms**  
-		- [ ] / hover cards with book review or something **- created by cms**  
-	
-	- [ ] Contact page (contact info will be saved into db... collection, than once a day or so captured and send to me through GO-lang bot) - self crafted
+To-do:
 
 ## MY LIFE PLAN(in construction):
 - [ ] #### Have a reasons to wake up no matter the age. Have values which i want to sustain. Goals to pursue 
@@ -62,15 +35,6 @@ Check list for next 73 days(until August 31):
 #### Life which is worth living should contain: someone special, surrounded by those who like and love, be able to do what interesting things/complex things that you like *with* people you like AND don't confuse *real* values with just imitation, fakes and hollows   
 
 ***
-Books, To-Read:
-
-
-After July 22
-
-4. Essays of Warren Buffet - 240
-5. Security Analysis - Fucked, 700  
-6. Quality Investing - 250
-7. Basic Economics - 600
 
 
 Vocab:
@@ -82,7 +46,3 @@ Vocab:
 - Hampering
 - lofty pedestal very gratifying of vanity . Herzen. obscure. merit, inanimate. tinge. haste. catty. ***succinctly***. discern 
 - subtle. reconciliation. virtue. vigorous. rigid. rigour. scorned. distinguish. dispatch. t. contempt. subtle. preemption. subtext. loaded. explicit. implicit. refinement. unambiguously. restrain. render. appropriate. promtply. rigour. trumps. **intimation**. peril. 
-
-
-
-i have lost it, all my life i was working as hard as no one, i had unbending will to not become something that i don't want. 

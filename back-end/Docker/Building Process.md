@@ -2,6 +2,9 @@
 ### Special values:
 1. Multi-stage builds - process of separating images into leaner one
 	- First build can contain unnecessary dependencies, but second could contain the actual project 
+2. Volumes and alternative for `build-mounts`, because they exist within the docker container, what makes them more isolated and managed by docker itself, they are preferred way to store data inside of container
+3. Volumes, as a directory, does exist on a host machine, so they won't be deleted when container is killed, but can be accessed by docker just like a regular directory 
+
 ### To know:
 
 #### Concepts:
@@ -69,4 +72,49 @@ COPY --from=build-stage /doc-image /doc-image
 USER nonroot:nonroot
 
 ENTRYPOINT ["/docker"]
+```
+
+***
+
+#### Implementation:
+```ruby 
+
+#  syntax=docker/dockerfile:1
+#  this is just a comment 
+
+// availiable instruction:
+
+ADD => Add local or remote files and dirs 
+
+ARG => Use build-time variable 
+
+CMD => Specify default commands 
+
+COPY => Copy fs and dirs 
+
+ENTRYPOINT => specify default executable 
+
+ENV => Set envrionment variable 
+
+EXPOSE => Set which ports applc is listed on 
+
+FROM => Create new build stage from a base 
+
+LABEL => Add metadata
+
+MAININER => Specify the authour 
+
+ONBUILD => Specify instruction, when image used in build
+
+RUN => Executes the build commands 
+
+SHELL => Set the default shell image 
+
+STOPSIGN => Specify sys call signal for exiting container 
+
+USER => Set user and group ID 
+
+VOLUME => Create volume mounts 
+
+WORKDIR => Change working directory 
 ```

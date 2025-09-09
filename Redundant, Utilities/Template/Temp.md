@@ -1,6 +1,5 @@
 ***
-### Terms Recognition:
-
-### Concepts:
-
-#### 
+### Fuck Ups:
+1. 
+***
+### 
