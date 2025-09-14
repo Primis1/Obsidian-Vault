@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "810c3b4fc842cdab",
+        "id": "b388f607a7621401",
         "type": "tabs",
         "children": [
           {
-            "id": "5cb7dee7d6d40a01",
+            "id": "e961eb58ae1a3a08",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "modal factor",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -152,8 +153,8 @@
             "state": {
               "type": "review-notes",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Review Notes"
+              "icon": "lucide-ghost",
+              "title": "review-notes"
             }
           }
         ]
@@ -174,12 +175,23 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "5cb7dee7d6d40a01",
+  "active": "e961eb58ae1a3a08",
   "lastOpenFiles": [
-    "Redundant, Utilities/Pictures/Pasted image 20250909225110.png",
+    "finance/Insurance Prep/Life Insurace/LI Ch 6.md",
+    "finance/Insurance Prep/Life Insurace/Li Ch 7.md",
+    "finance/Insurance Prep/Life Insurace/LI Ch 5.md",
     "finance/Insurance Prep/Life Insurace/LI Ch 4.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 2.md",
+    "Schedule.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250913011429.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250911212735.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250911212054.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250911211819.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250911201607.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250911201139.png",
     "finance/Insurance Prep/Life Insurace/LI Ch 3.md",
+    "finance/Insurance Prep/Life Insurace/LI Ch 2.md",
+    "finance/Insurance Prep/Life Insurace/LI Ch 4 1.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250909225110.png",
     "finance/Insurance Prep/Life Insurace/LI Ch 1.md",
     "Untitled",
     "finance/Insurance Prep/A&S/Flash Cards.md",
@@ -199,25 +211,14 @@
     "Redundant, Utilities/Pictures/Pasted image 20250903223112.png",
     "finance/Insurance Prep/A&S/A&S Ch 1.md",
     "Redundant, Utilities/Pictures/Pasted image 20250902214252.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250902214154.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250902214014.png",
     "A Strategic Analysis of the Pharmaceutical Industry Navigating Innovation, Regulation, and Market Dynamics.md",
     "finance/Analysis/Volatility & Risk Assessment.md",
     "finance/Insurance Prep/Ethics",
     "finance/Insurance Prep/A&S",
-    "Schedule.md",
     "finance/Insurance Prep/Ethics/Ethics Ch 2.md",
-    "finance/Insurance Prep/Ethics/Ethics Ch 3.md",
-    "finance/Insurance Prep/Ethics/Ethics Ch 1.md",
     "finance/Insurance Prep",
-    "Untitled 1.md",
-    "finance/Analysis/Value Creation.md",
     "finance/Analysis/Quality Analysis",
-    "Redundant, Utilities/Pictures/Pasted image 20250711165243.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250710235402.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250706013025.png",
     "finance/Analysis/Business economics/Competitive Strategy/Moats",
-    "Redundant, Utilities/Pictures/Pasted image 20250629214253.png",
     "finance/Analysis/Business economics/Competitive Strategy",
     "finance/Analysis/Business economics/Competitive analysis",
     "finance/Industries/Discretionary",

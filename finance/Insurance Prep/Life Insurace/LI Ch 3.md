@@ -34,7 +34,7 @@
 
 #### Investment returns - insurer invests money obtained through premiums. Bonds + Low Volatile stocks. Insurance company required to have capital surplus in case of run for death benefit(Life Insurance Capital Adequacy Test [LICAT])
 
-#### *Modal Factor?* 
+#### *Modal Factor? - insurance can charge a lil more depending on frequency of deposits, to compensate for opportunity cost from investment returns 
 
 #### Premium options:
 1. Ongoing - fixed premium(traditional) over duration of contract 
