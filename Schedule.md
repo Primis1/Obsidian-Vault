@@ -14,11 +14,7 @@ Researches/Reports:
 
 
 To-do:
-1. Gym 
-2. Meals, shakes + other high protein stuff 
-3. Costco 
-4. 70-90 pages 
-5. All required quizzes(7 so far) 
+1. 70-90 pages 
 
 
 ## MY LIFE PLAN(in construction):

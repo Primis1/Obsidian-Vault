@@ -19,4 +19,30 @@
 
 ***
 ### Key Person LI
+#### Split-dollar coverage - policy owned by two parties. 
+1. Employee can own a DB while employer control over policy and its CSV, or vice versa
+	1. Policy gain can occur in case of employee departure, when employer transfers ownership to worker 
+	2. Taxation is equal to interest of party 
 
+
+#### Taking a loan may require bundle purchase of LI, if it's mandatory by lender -> premiums are tax-deductible 
+
+***
+
+### Buy-Sell agreement - controls scenario of owner's retirement/death 
+
+#### Cross-purchase - on death of one owner, another receives a DB and purchases deceased stake 
+- **Share redemption** plans annihilate deceased shares(buybacks)
+- ![[Pasted image 20250914103123.png]]
+
+- Death benefit is tax free, but premiums are **not** tax deductible business expense
+- **Significant difference in premiums for each party**
+
+#### In deceased scenario, as mentioned, upon death disposition occurs and capital gain is triggered for life insured. Stake is sold and FMV just prior to death, chunk of capital gain can be sheltered in Lifetime Capital Gain Exemption (LCGE) used for small businesses with cap of 1.25m
+1. Other owner acquire tax-free DB and purchase business interest from estate
+![[Pasted image 20250914101947.png]]
+- Insurance can be business-owned
+#### Capital Dividend Account - account which holds various non-taxable income, such as DB, and then distributes it to shareholders on tax-free basis 
+- After death, DB transferred to corporation's account and then those funds are used to purchase stake from deceased estate 
+	- Promissory note is used 
+![[Pasted image 20250914102843.png]]
