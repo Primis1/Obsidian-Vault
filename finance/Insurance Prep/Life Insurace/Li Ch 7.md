@@ -1,6 +1,8 @@
 ***
 ### Fuck Ups:
-1. 
+1. **Relevant section(s) of the textbook:** 7.6.3.1 Increasing the face amount
+2. **Relevant section(s) of the textbook:** 7.1.4 Adjusted cost basis (ACB)
+3. **Relevant section(s) of the textbook:** 7.10 Naming a charity as the beneficiary
 ***
 ### Taxation:
 

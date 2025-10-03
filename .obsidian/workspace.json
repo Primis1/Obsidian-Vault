@@ -4,20 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "ada81039f2e0156f",
+        "id": "a09b9c16ee572d96",
         "type": "tabs",
         "children": [
           {
-            "id": "84c49f1a3b7a6165",
+            "id": "72ba4832e950168f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "finance/Insurance Prep/Segregate Fund/SF Ch 3.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "SF Ch 3"
+            }
+          },
+          {
+            "id": "13131c2ac0b167b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schedule.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schedule"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "modal factor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -174,45 +193,47 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "84c49f1a3b7a6165",
+  "active": "13131c2ac0b167b1",
   "lastOpenFiles": [
-    "Redundant, Utilities/Pictures/Pasted image 20250914103123.png",
-    "LI Ch 9.md",
+    "finance/Insurance Prep/Segregate Fund/SF Ch 8.md",
+    "finance/Insurance Prep/Segregate Fund/SF Ch 3.md",
+    "finance/Insurance Prep/Segregate Fund/SF Ch 4.md",
+    "finance/Insurance Prep/Segregate Fund/SF Ch 2.md",
+    "finance/Insurance Prep/Segregate Fund/SF Ch 6.md",
+    "finance/Insurance Prep/Segregate Fund/SF Ch 5.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250923000825.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250923000100.png",
+    "finance/Insurance Prep/Segregate Fund/SF Ch 1.md",
+    "finance/Insurance Prep/Segregate Fund",
+    "finance/Insurance Prep/Life Insurace/LI Ch 12.md",
+    "finance/Insurance Prep/Life Insurace/Li Ch 11.md",
+    "finance/Insurance Prep/Life Insurace/LI Ch 10.md",
+    "finance/Insurance Prep/Life Insurace/LI Ch 9.md",
     "finance/Insurance Prep/Life Insurace/LI Ch 8.md",
-    "Redundant, Utilities/Pictures/Pasted image 20250914102843.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250914101947.png",
     "finance/Insurance Prep/Life Insurace/Li Ch 7.md",
-    "Schedule.md",
-    "A Strategic Analysis of the Pharmaceutical Industry Navigating Innovation, Regulation, and Market Dynamics.md",
-    "Redundant, Utilities/Pictures/Pasted image 20250913215013.png",
     "finance/Insurance Prep/Life Insurace/LI Ch 6.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250918234256.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250918234922.png",
     "finance/Insurance Prep/Life Insurace/LI Ch 5.md",
     "finance/Insurance Prep/Life Insurace/LI Ch 4.md",
-    "Redundant, Utilities/Pictures/Pasted image 20250913011429.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250911212735.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250911212054.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250911211819.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250911201607.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250911201139.png",
     "finance/Insurance Prep/Life Insurace/LI Ch 3.md",
     "finance/Insurance Prep/Life Insurace/LI Ch 2.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 4 1.md",
     "finance/Insurance Prep/Life Insurace/LI Ch 1.md",
-    "Untitled",
+    "finance/Insurance Prep/Taxation/Tax Ch 2 & 3 & 4.md",
+    "finance/Insurance Prep/Taxation/Tax Ch 1.md",
+    "finance/Portfolio & Stocks/Shareholders Yield, Value & Growth.md",
+    "Redundant, Utilities/Pictures/Pasted image 20250917185135.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250917000703.png",
+    "finance/Insurance Prep/Taxation",
+    "Redundant, Utilities/Pictures/Pasted image 20250916205743.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250915224524.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250915223524.png",
+    "Redundant, Utilities/Pictures/Pasted image 20250915223339.png",
+    "Schedule.md",
+    "A Strategic Analysis of the Pharmaceutical Industry Navigating Innovation, Regulation, and Market Dynamics.md",
+    "finance/Insurance Prep/Life Insurace/LI Ch 4 1.md",
     "finance/Insurance Prep/A&S/Flash Cards.md",
     "finance/Insurance Prep/Life Insurace",
-    "finance/Insurance Prep/A&S/A&S Ch 8.md",
-    "finance/Insurance Prep/A&S/A&S Ch 7.md",
-    "finance/Insurance Prep/A&S/A&S Ch 6.md",
-    "finance/Insurance Prep/A&S/A&S Ch 5.md",
-    "finance/Insurance Prep/A&S/A&S Ch 4.md",
-    "Redundant, Utilities/Template/Temp.md",
-    "finance/Insurance Prep/Ethics/Ethics Ch 4.md",
-    "finance/Insurance Prep/Ethics/Flash Cards.md",
-    "finance/Insurance Prep/A&S/A&S Ch 3.md",
-    "finance/Insurance Prep/A&S/A&S Ch 2 Part 2.md",
-    "finance/Insurance Prep/A&S/A&S Ch 2.md",
-    "finance/Insurance Prep/A&S/A&S Ch 1.md",
     "finance/Insurance Prep/Ethics",
     "finance/Insurance Prep/A&S",
     "finance/Insurance Prep",
@@ -220,7 +241,6 @@
     "finance/Analysis/Business economics/Competitive Strategy/Moats",
     "finance/Analysis/Business economics/Competitive Strategy",
     "finance/Analysis/Business economics/Competitive analysis",
-    "finance/Industries/Discretionary",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

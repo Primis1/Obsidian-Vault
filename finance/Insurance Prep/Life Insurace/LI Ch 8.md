@@ -1,6 +1,7 @@
 ***
 ### Fuck Ups:
-1. 
+1. **Relevant section(s) of the textbook:** 8.4
+2. **Relevant section(s) of the textbook:** 8.4.4.1 Role of the capital dividends account (CDA)
 ***
 ### Impacts on a business:
 1. Loss of skill / key employee

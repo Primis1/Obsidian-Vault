@@ -14,7 +14,9 @@ Researches/Reports:
 
 
 To-do:
-1. 70-90 pages 
+- [x] Linux 
+- [x] 50 pages 
+- [ ] 
 
 
 ## MY LIFE PLAN(in construction):
@@ -48,3 +50,4 @@ Vocab:
 - Hampering
 - lofty pedestal very gratifying of vanity . Herzen. obscure. merit, inanimate. tinge. haste. catty. ***succinctly***. discern 
 - subtle. reconciliation. virtue. vigorous. rigid. rigour. scorned. distinguish. dispatch. t. contempt. subtle. preemption. subtext. loaded. explicit. implicit. refinement. unambiguously. restrain. render. appropriate. promtply. rigour. trumps. **intimation**. peril. 
+- ambiguous, redeem, remedy, obsculiar. perceptual. tilted. apt. thugs. trunk. devised  
