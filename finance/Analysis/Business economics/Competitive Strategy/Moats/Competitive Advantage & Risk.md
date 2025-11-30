@@ -35,7 +35,7 @@
 	- **R&D** -  inventing/designing new technologies/patents which **may give company a sustainable advantage(SIMO is ahead of the game rn)**, but if they don't put money into - **they will vanish** 
 
 	- **Depreciation** - period charges for PP&E, **but cash goes upfront**. The lower depreciation cost as % of gross profits - the better 
-		- Maybe be foolish to ignore, consider that everything should be replaced at some point. Most horrible is that heavily invested firms may experience **outdating of their machinery**
+		- May be foolish to ignore, consider that everything should be replaced at some point. Most horrible is that heavily invested firms may experience **outdating of their machinery**, suffering large impairment charges
 	
 	- **interest Expenses** - the less the better, indicates that there is no need for debt, due to **a) big earnings power, b) good scalability c) low CapEx requirements**
 		- **It's credit rating and interest % is important**

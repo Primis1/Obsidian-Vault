@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d2b046a57e90d6df",
+        "id": "b929a58d6aec184d",
         "type": "tabs",
         "children": [
           {
-            "id": "c71c8e7e122887cc",
+            "id": "64f85027dbd8dcae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/Insurance Prep/A&S/Fuck Ups A&S.md",
+                "file": "finance/Insurance/RIBO/Chapter 3, Fiduciary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fuck Ups A&S"
+              "title": "Chapter 3, Fiduciary"
+            }
+          },
+          {
+            "id": "ab5443a2c5193aeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "finance/Insurance/RIBO/Chapter 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "speculative risk",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -78,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "3dbb6878a46038ec",
@@ -178,54 +194,54 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "c71c8e7e122887cc",
+  "active": "ab5443a2c5193aeb",
   "lastOpenFiles": [
-    "finance/Insurance Prep/Ethics/Fuck Ups Ethics.md",
-    "Pasted image 20251003121032.png",
-    "finance/Insurance Prep/Segregate Fund/SF Ch 3.md",
+    "finance/Insurance/RIBO/Chapter 4.md",
+    "finance/Insurance/RIBO/Chapter 3, Fiduciary.md",
+    "finance/Insurance/RIBO/Chapter 2.md",
+    "finance/Insurance/RIBO/Chapter 1, General Insurance.md",
+    "Screen Shot 2025-11-29 at 12.48.39.png",
+    "finance/Insurance/RIBO/RIB Act/Section 1.md",
+    "Section 2.md",
     "Schedule.md",
-    "finance/Insurance Prep/Segregate Fund/SF Ch 8.md",
-    "finance/Insurance Prep/Segregate Fund/SF Ch 4.md",
-    "finance/Insurance Prep/Segregate Fund/SF Ch 2.md",
-    "finance/Insurance Prep/Segregate Fund/SF Ch 6.md",
-    "finance/Insurance Prep/Segregate Fund/SF Ch 5.md",
+    "finance/Insurance/RIBO/RIB Act",
+    "finance/Insurance/LLQP",
+    "finance/Researches/Fin/VIC Kaspi report.md",
+    "finance/Insurance/RIBO",
+    "finance/Researches/Fin/WeBull.md",
+    "finance/Industries/Finance/Bank's Income.md",
+    "finance/ER Notes/Accounting.md",
+    "finance/Analysis/Business economics/Competitive Strategy/Moats/Competitive Advantage & Risk.md",
+    "finance/Finance Glossary.md",
+    "finance/Analysis/Statements/Forecasting Financial Performance.md",
+    "finance/Analysis/Cash Flow & Models/NOPLAT & FCF.md",
+    "finance/Analysis/Cash Flow & Models/Reorganizing Fin-Statements.md",
+    "finance/Sheets/Balance Sheet.md",
+    "finance/ER Notes",
+    "finance/Researches/IT/TTD Transcripts.md",
+    "finance/Researches/Fin",
+    "A Strategic Analysis of the Pharmaceutical Industry Navigating Innovation, Regulation, and Market Dynamics.md",
+    "Books/Influence.md",
+    "Books",
+    "finance/Analysis/Business economics/Working Capital & Leverage.md",
+    "KSPI.md",
+    "finance/Analysis/Business economics/Vertical Integration.md",
+    "finance/Analysis/Business economics/Managing Performance.md",
+    "finance/Analysis/Business economics/M&A.md",
+    "finance/Industries/Strength by Sectors.md",
+    "Pasted image 20251003121032.png",
+    "Pasted image 20251008000913.png",
     "Redundant, Utilities/Pictures/Pasted image 20250923000825.png",
     "Redundant, Utilities/Pictures/Pasted image 20250923000100.png",
-    "finance/Insurance Prep/Segregate Fund/SF Ch 1.md",
-    "finance/Insurance Prep/Segregate Fund",
-    "finance/Insurance Prep/Life Insurace/LI Ch 12.md",
-    "finance/Insurance Prep/Life Insurace/Li Ch 11.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 10.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 9.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 8.md",
-    "finance/Insurance Prep/Life Insurace/Li Ch 7.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 6.md",
+    "finance/Insurance/LLQP/Segregate Fund",
     "Redundant, Utilities/Pictures/Pasted image 20250918234256.png",
     "Redundant, Utilities/Pictures/Pasted image 20250918234922.png",
-    "finance/Insurance Prep/Life Insurace/LI Ch 5.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 4.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 3.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 2.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 1.md",
-    "finance/Insurance Prep/Taxation/Tax Ch 2 & 3 & 4.md",
-    "finance/Insurance Prep/Taxation/Tax Ch 1.md",
-    "finance/Portfolio & Stocks/Shareholders Yield, Value & Growth.md",
     "Redundant, Utilities/Pictures/Pasted image 20250917185135.png",
     "Redundant, Utilities/Pictures/Pasted image 20250917000703.png",
-    "finance/Insurance Prep/Taxation",
+    "finance/Insurance/LLQP/Taxation",
     "Redundant, Utilities/Pictures/Pasted image 20250916205743.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250915224524.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250915223524.png",
-    "A Strategic Analysis of the Pharmaceutical Industry Navigating Innovation, Regulation, and Market Dynamics.md",
-    "finance/Insurance Prep/Life Insurace/LI Ch 4 1.md",
-    "finance/Insurance Prep/Life Insurace",
-    "finance/Insurance Prep/Ethics",
-    "finance/Insurance Prep/A&S",
-    "finance/Insurance Prep",
-    "finance/Analysis/Quality Analysis",
-    "finance/Analysis/Business economics/Competitive Strategy/Moats",
-    "finance/Analysis/Business economics/Competitive Strategy",
-    "finance/Analysis/Business economics/Competitive analysis",
+    "finance/Insurance/LLQP/Life Insurace",
+    "finance/Insurance/LLQP/Ethics",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

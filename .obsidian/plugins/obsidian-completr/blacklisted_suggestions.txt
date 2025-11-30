@@ -39,3 +39,8 @@ REAL
 \Colonapprox
 \MTThinColon
 NAME
+ebT
+EBt
+EbT
+EBT
+Ebt
