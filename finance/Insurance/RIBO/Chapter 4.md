@@ -46,12 +46,165 @@
 
 ### Quiz 
 1. c
-2. b
+2. a
 3. c
-4. d
+4. a - d
+5. c
+6. b
+7. d
+8. d
+9. b
+10. c - a
+11. d
+12. a
+13. c
+14. b
+15. d
+16. c
+17. c
+18. d
+19. a
+20. c
+21. a
+22. b
+23. a
+24. a - b
+25. b
+
+***
+### Quiz 
+1. b - hard market is time of scrutiny and scarcity of capital 
+2. b 
+3. b
+4. c
 5. b
-6. c - a
-7. c
-8. a
+6. c
+7. a
+8. c - OSFI monitors national solvency 
 9. c
+10. c - If it isn’t written, it didn’t happen.
+11. b
+12. с
+13. b
+14. b
+15. d - 15 days for registered mail 
+16. b
+17. c
+18. b
+19. b
+20. b
+21. c
+22. b
+23. b
+24. a
+25. c
+****
+### Quiz 
+1. d
+2. c
+3. d
+4. b
+5. a
+6. d
+7. d
+8. c
+9. b - d) out of *Canada* License category requires to provide residency(live there), licensed in the same class of insurance, provide evidence that this class of license is exempt from their local jurisdiction 
+10. a
+11. c
+12. b
+13. c
+14. d
+15. b
+16. a
+17. b
+18. b - a) Liability covers damage made by minors in custody 
+19. d
+20. c - d) Motorized vehicle(ownership or use) is covered under Homeowner liability 
+21. c
+22. c
+23. d
+24. d
+25. d
+26. b
+27. c
+28. d
+29. c
+30. b
+31. a
+32. c
+33. d
+34. c
+35. a
+36. d
+37. c
+38. d
+39. c
+40. a
+
+***
+
+1. d - c
+2. d
+3. a
+4. d - a
+5. d
+6. a
+7. c
+8. d - c
+9. a - c
 10. c
+11. c
+12. d
+13. c
+14. b
+15. d
+16. b
+17. d
+18. c
+19. c - d 
+20. a
+21. d - a
+22. d
+23. c
+24. a
+25. d
+26. b
+27. d
+28. d
+29. a
+30. d
+
+***
+
+31. a
+32. b
+33. b
+34. b * 
+35. c - b
+36. c - b
+37. a
+38. c
+39. a
+40. c
+41. c
+42. c
+43. c - a
+44. d
+45. d
+46. c 
+47. c - d
+48. b
+49. c
+50. c - closer look
+51. a - b
+52. a - b
+53. b 
+54. d - b
+55. d - b
+56. c - d
+57. b
+58. b - d 
+59. c - a
+60. c
+
+***

@@ -122,3 +122,59 @@
 
 #### Loss or Damage (Physical Damage, or PD) is not mandatory - covers single auto accidents 
 
+***
+### Endorsements:
+#### OPCF 5 - for lease of vehicle, allows individuals to extend their auto policy to leased vehicle 
+
+#### OPCF 20 - coverage for replacement car 
+
+#### OPCF 23 A & B - debtor protection 
+#### OPCF 27 - coverage for non-owned vehicle 
+
+#### OPCF 32 - recreational vehicle by unlicensed operator. Under Statutory Condition 4(1) - driving such vehicle is prohibited - however endorsement covers it +anyone under age 16 
+
+#### OPCF 38 - electronic accessories, increase limit to 1500$
+
+#### OPCF 43 - removing depreciation from claim; insurer pays lesser of a) purchase price b) manufacturer list price at time of purchase 
+
+#### OPCF 44R - family extension for bodily injury coverage. Pays difference between own liability coverage(1m), claim & underinsured coverage(200k) = 800k of compensation for physical damage or death of a family member  
+
+#### OPCF 49 - opt out of DCPD; premium economy 
+
+***
+
+### OAP 4 (bailee or car handlers) - created specifically for those who service, repair, store, sell, park vehicle 
+
+- Under OAP 1 garage employees aren't covered, because they represent commercial coverage rather than personal line insurance 
+
+***
+
+### Quiz:
+1. d 
+2. a -d 
+3. c
+4. b
+5. b - c) snowmobile is an automobile.
+6. c - a) because snowmobile is a classified *automobile*, best way to insure is - standard(like any other vehicle) OAP 1  
+7. a
+8. b
+9. a - b) OAP 1 automatically covers cost sharing and friend hop-ins 
+10. a 
+11. b
+12. d
+13. c 
+14. d
+15. d
+16. d - c) income replacement is not covered in case of material misrepresentation 
+17. d
+18. d
+19. d
+20. c - b) collateral damages are taking funds, firstly, from other sources of funds 
+21. d - b) owner of the vehicle pays for accidents related to the vehicle, despite giving it to someone else(friend) - if liability is over the limit - personal(one who drives) coverage applies
+22. a
+23. d * - b) split to bodily injuries and PD(95/5) = 150$(injuries) = 150*.95 || 150*.05 = 142.5 & 7.5
+24. b 
+25. a
+26. d
+27. a - d) OAP is a standard policy for all automobiles 
+

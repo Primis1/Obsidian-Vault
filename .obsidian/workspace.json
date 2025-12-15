@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79325ad6c017c7ce",
+        "id": "4efb0fdae877c4a4",
         "type": "tabs",
         "children": [
           {
-            "id": "b3f80f4bd6a0f8a7",
+            "id": "5a66a04548b34b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "finance/Insurance/RIBO/Chapter 9.md",
+                "file": "Quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 9"
+              "title": "Quiz"
             }
           }
         ]
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabeticalReverse",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file: untit",
+                "query": "Facultative",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -179,54 +179,54 @@
       "obsidian-review-notes-plugin:View Recent Notes": false
     }
   },
-  "active": "b3f80f4bd6a0f8a7",
+  "active": "5a66a04548b34b1d",
   "lastOpenFiles": [
-    "Untitled.md",
-    "finance/Insurance/RIBO/Chapter 9.md",
     "Schedule.md",
+    "Quiz.md",
+    "finance/Insurance/RIBO/Chapter 1, General Insurance.md",
+    "finance/Insurance/RIBO/Chapter 4.md",
+    "finance/Insurance/RIBO/Chapter 5.md",
+    "Untitled.md",
+    "finance/Insurance/RIBO/Chapter 11.md",
+    "finance/Insurance/RIBO/Chapter 3, Fiduciary.md",
+    "finance/Insurance/RIBO/Chapter 2.md",
+    "finance/Insurance/RIBO/Compacted/By Laws/BLN 1.md",
+    "finance/Insurance/RIBO/Compacted/By Laws/By-Law 3.md",
+    "finance/Insurance/RIBO/Chapter 6.md",
+    "finance/Insurance/RIBO/Compacted/OAP/OAP 8.md",
+    "finance/Insurance/RIBO/Compacted/By Laws",
+    "finance/Insurance/RIBO/Compacted/OAP",
+    "finance/Insurance/RIBO/Compacted/OAP/OAP 7.md",
+    "Redundant, Utilities/Pictures/Pasted image 20251207222433.png",
+    "finance/Insurance/RIBO/Compacted/OAP/OAP 6.md",
+    "finance/Insurance/RIBO/Compacted/OAP/OAP 5.md",
+    "finance/Insurance/RIBO/Compacted/OAP/OAP 1.md",
+    "finance/Insurance/RIBO/Compacted/OAP/OAP 2.md",
+    "finance/Insurance/RIBO/Compacted/OAP/OAP 3.md",
+    "finance/Insurance/RIBO/Compacted/OAP/OAP 4.md",
+    "Redundant, Utilities/Pictures/Pasted image 20251207220124.png",
+    "finance/Insurance/RIBO/Chapter 10.md",
+    "finance/Insurance/RIBO/Compacted/Section 2.md",
+    "finance/Insurance/RIBO/Compacted/Section 1.md",
+    "finance/Insurance/RIBO/Chapter 9.md",
     "30DD243A-97E3-4097-81B1-3CC455F50340.jpg",
     "finance/Insurance/RIBO/Chapter 7.md",
     "finance/Insurance/RIBO/Chapter 8.md",
-    "IBAO screen/Untitled.md",
-    "IBAO screen/Untitled 2.md",
-    "IBAO screen/Untitled 3.md",
-    "IBAO screen/Untitled 1.md",
     "IBAO screen/Untitled.txt",
     "IBAO screen/Untitled.md.txt",
-    "finance/Insurance/RIBO/RIB Act/Section 2.md",
     "Redundant, Utilities/Pictures/Screen Shot 2025-11-29 at 12.48.39.png",
     "IBAO screen",
-    "finance/Insurance/RIBO/Chapter 6.md",
-    "finance/Insurance/RIBO/Chapter 5.md",
-    "finance/Insurance/RIBO/Chapter 4.md",
-    "finance/Insurance/RIBO/Chapter 3, Fiduciary.md",
-    "finance/Insurance/RIBO/Chapter 2.md",
-    "finance/Insurance/RIBO/Chapter 1, General Insurance.md",
-    "finance/Insurance/RIBO/RIB Act/Section 1.md",
-    "finance/Insurance/RIBO/RIB Act",
+    "finance/Insurance/RIBO/Compacted",
     "finance/Insurance/LLQP",
-    "finance/Researches/Fin/VIC Kaspi report.md",
     "finance/Insurance/RIBO",
-    "finance/Researches/Fin/WeBull.md",
-    "finance/Industries/Finance/Bank's Income.md",
-    "finance/ER Notes/Accounting.md",
-    "finance/Analysis/Business economics/Competitive Strategy/Moats/Competitive Advantage & Risk.md",
-    "finance/Finance Glossary.md",
-    "finance/Analysis/Statements/Forecasting Financial Performance.md",
-    "finance/Analysis/Cash Flow & Models/NOPLAT & FCF.md",
-    "finance/Analysis/Cash Flow & Models/Reorganizing Fin-Statements.md",
     "finance/ER Notes",
     "finance/Researches/Fin",
-    "Books",
     "Pasted image 20251003121032.png",
     "Pasted image 20251008000913.png",
     "Redundant, Utilities/Pictures/Pasted image 20250923000825.png",
     "Redundant, Utilities/Pictures/Pasted image 20250923000100.png",
-    "finance/Insurance/LLQP/Segregate Fund",
     "Redundant, Utilities/Pictures/Pasted image 20250918234256.png",
     "Redundant, Utilities/Pictures/Pasted image 20250918234922.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250917185135.png",
-    "Redundant, Utilities/Pictures/Pasted image 20250917000703.png",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas"

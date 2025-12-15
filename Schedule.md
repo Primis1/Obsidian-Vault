@@ -25,27 +25,25 @@ To-do:
 		- [x] Estimate price target 
 	- [ ] Top-Bottom q3. 
 	- [ ] Compare to KSPI report 
-- [ ] ***Answer "how to write an investment thesis/analysis"***
 
 
-- [x] Purchase IIC course 
-	- [x] +exam booking 
-	- [x] Start?
+- Dec 12
+- [x] Finish quiz 40
+- [x] Tinker with prompt for better explanation 
+- [x] Homeowner(7 & 8) - Again ~90p 
 
-- [x] Call Beata 
-- [x] Gym 
-- [x] PB ~20p 
+- Dec 13 
+- [x] Write Platform Quiz 
+- [x] Car insurance chapter
+	- [x] Chapter Quiz 
+- [x] Complete Review of book quiz 1-100
 
-Nov 23
-- [x] Gym 
-	- [x] Costco 
-- [x] PB ~20
-- [x] ~3 modules IBAO course 
-	- [ ] Books sections? 
-- [ ] Research analyst 
-- [x] Ali phone call 
-- [x] WP extension 
-- [x] Excel Fundamentals 
+- Dec 14 
+- [ ] Mock exam RIBO 
+
+- Dec 15 
+- [ ] Review IIC Automobile insurance  
+
 
 
 ***
@@ -116,7 +114,135 @@ Nov 23
 	5. **Continue with education** - trust the process 
 
 ***
+### Useful prompts:
 
+```
+# Conversation with Gemini
+
+generate a prompt for quiz analysis. It should be reusable regardless of chapter the quiz is written on.
+
+  
+
+requirements:
+
+  
+
+analyze answer and compare them to correct(provided)
+
+  
+
+CRITICAL
+
+  
+
+write an explanation for why EACH option(a-d) is correct & incorrect
+
+  
+
+format should include 1) full question 2) all options, and next to it explanation for why they are right/wrong
+
+  
+
+if my answer was incorrect provide suggestion on improvement and gaps in knowledge
+
+You stopped this response
+
+generate a prompt for quiz analysis. It should be reusable regardless of chapter the quiz is written on.
+
+  
+
+requirements:
+
+  
+
+analyze answer and compare them to correct(provided)
+
+  
+
+CRITICAL
+
+  
+
+write an explanation for why EACH option(a-d) is correct & incorrect. Information for explanation should be taken MAINLY from provided files, unless information there is incomplete or question complicated
+
+  
+
+format should include 1) full question 2) all options, and next to it explanation for why they are right/wrong
+
+  
+
+if my answer was incorrect provide suggestion on improvement and gaps in knowledge
+
+Here is a reusable prompt designed to be pasted into an AI along with your quiz data and study materials. It is structured to force the AI to adhere to your critical requirement of analyzing _every_ option using your provided text.
+
+---
+
+### The "Universal Quiz Analyzer" Prompt
+
+**System Role:** You are an expert tutor and subject matter analyst. Your goal is to analyze quiz performance by comparing user answers to a correct key, using _specific evidence_ from provided reference materials.
+
+**Context:** I will provide:
+
+1. **The Quiz Data:** A list of questions, the options (A-D), my selected answer, and the correct answer.
+    
+2. **The Reference Material:** Attached files/text (chapters, notes, or articles).
+    
+
+**Task:** For EACH question, generate a detailed analysis report following the strict format below.
+
+**CRITICAL INSTRUCTIONS:**
+
+- **Source of Truth:** You must derive explanations MAINLY from the provided reference material. Only use external knowledge if the provided text is missing the specific information or if the logic requires outside context.
+    
+- **Complete Analysis:** You must explain why **EACH** option (A, B, C, D) is either correct or incorrect. Do not skip the incorrect options; explain _why_ they are distractors.
+    
+- **Gap Analysis:** If my answer was wrong, you must identify the specific gap in my logic.
+    
+
+---
+
+### **Required Output Format (Repeat for every question)**
+
+**1. Question:**
+
+> [Insert Full Question Text]
+
+**2. Option Analysis:**
+
+- **A) [Insert Option Text]**
+    
+    - **Status:** [Correct / Incorrect]
+        
+    - **Explanation:** [Explain strictly why this is right/wrong based on the provided text. Quote or reference specific sections if possible.]
+        
+- **B) [Insert Option Text]**
+    
+    - **Status:** [Correct / Incorrect]
+        
+    - **Explanation:** [Detailed explanation from text.]
+        
+- **C) [Insert Option Text]**
+    
+    - **Status:** [Correct / Incorrect]
+        
+    - **Explanation:** [Detailed explanation from text.]
+        
+- **D) [Insert Option Text]**
+    
+    - **Status:** [Correct / Incorrect]
+        
+    - **Explanation:** [Detailed explanation from text.]
+        
+
+**3. Performance Review (Only if user answered incorrectly):**
+
+- **Your Answer:** [Insert User's Choice]
+    
+- **The Gap:** Explain the specific misunderstanding that led to this error (e.g., "You confused concept X with concept Y").
+    
+- **Improvement Strategy:** Provide a specific actionable step or topic to review to fix this gap.
+```
+***
 
 Vocab:
 - deceased. bail out. denominated. **debasement**. **expedient**. Recognition. peg, monetize. diverge. distinguish. **implication**. convey. forall aspects. **warrant**. immense tomb. daft. quelled. subjugation. jeopardy. **integrity** 

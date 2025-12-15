@@ -36,12 +36,12 @@
 	- Provide protection and "back-up" 
 	- IC established measures for loss prevention & reduction, by employing representatives who make an in-person assessment 
 
-#### Reinsurance - insurance for insurance companies
+#### Reinsurance - insurance for insurance companies. Forms:
 - Facultative - transfer of individual risk to reinsurer. With large clients, IC can transfer some risk to reinsurer 
 - Treaty - annual portion of portfolio is transferred to reinsurer 
 
 
-##### Types:
+##### Basis:
 - Proportional reinsurance - reinsurer receives a prorated share or negotiated % of all policy premiums sold
 	- When claim occurs, reinsurer also bears portion of the compensation 
 - Non-Proportional - reinsurer *reimburses* for losses over the specific amount
