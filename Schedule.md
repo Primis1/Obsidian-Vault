@@ -1,37 +1,160 @@
  Ctrl + Shift + K
 
 Stuff: 
-- [Private equity pricing](https://forgeglobal.com/insights/reports/private-market-swells-with-optimistic-ipo-pipeline/)
+- [IPO Calendar/News](https://forgeglobal.com/insights/reports/private-market-swells-with-optimistic-ipo-pipeline/)
 
-- [Buying the business](https://www.amazon.ca/Search-Funds-Entrepreneurial-Acquisitions-Business/dp/0228861764)
-- [Construction Report](https://www.irmi.com/)
-
-- [Bond/Credit/True economic outlook & insights(OakTree)](https://www.oaktreecapital.com/)
-- [Antitrust insights](https://www.cliffordchance.com/home.html)
 - Moody & S&P provide ***TONS*** of analytical guides 
+- [Michael porter](https://www.deloitte.com/us/en/insights.html)
+
+- Look into -->>> https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/enduring-ideas-the-business-system#/
 
 
 Researches/Reports:
-- [Strategies](https://www.stratechi.com/fcf-and-roic/)
 - James O'Shaughnessy & Marks
 - [Few ER](https://cfmequityresearch.com/Analysis%20Archive.html)
 
 
 To-do:
 
-- [ ] WeBull research:
-	- [x] Pin-point valuation metrics(assets & users )
-	- [ ] Peer Comparison (Robinhood)
-	- [x] Excess return approach + dcf 
-		- [x] Estimate price target 
-	- [ ] Top-Bottom q3. 
-	- [ ] Compare to KSPI report 
+- [x] What happened with calgary, why is it an emerging city right now 
+	- [x] What type of property will be of value and what do you think about raw land 
+	- [x] If it's land, what about spruces? Form of dividends, and tax advantage 
+- [x] Starting construction business, how, when and what should i do first 
+- [ ] Real estate market, what deals you are looking for right now?
+- [ ] Do you have any corporation in Dubai
+
+***
+Jan 2 
+- [x] Industry research 
+	- [x] McKinsey & Nestle 
+	- [x] Gemini Value chain & last 3 years market events 
+- [x] CA & SA 50p in total 
+
+Jan 3 
+- [x] Gym - recovered from soreness 
+- [x] Start on transferring data from sec into excel 
+	- [x] Make adjustments (foot notes)
+	- [x] Breakdown growth rates for expenses and revenues 
+	- [x] Determine 5 years averages 
+- [x] Porter 50p
+
+Jan 5 
+- [x] Gym 
+- [x] Sheets:
+	- [x] ROIC 
+	- [x] WACC 
+	- [x] Bottom up unit sale
+	- [x] Working capital
+- [ ] 
+
+Jan 6
+- [x] Growth in perpetuity + sanity check formulas 
+- [x] Unit sale/cost linkage to balance sheet for DCF 
+- [ ] Draft Initial sections for report 
+- [x] https://www.youtube.com/watch?v=oSSRcLhum1s&list=PLUkh9m2BorqkgpNyRpP-NL3BS4yvFabXk&index=7
+	- [x] How the fuck am i suppose to do that actually?
+
+Jan 7
+- [x] Call the broker 
+- [x] Gym 
+- [x] 3 lectures Valuation MBA 
+	- [ ] +Notes 
+- [ ] Sheets
+	- [x] Something is off with line items close to bottom
+	- [ ] Reinvestment rate lookup
+	- [x] Create a plan to value from quarterly reports 
+	- [x] Conference Call 
+- [x] n8n / payload - if fan will arrive 
+
+
+Jan 8 
+- [x] 2 lectures + Notes 
+- [x] Get info from Broker 
+- [x] Add LTM column 
+- [x] Link FCF to ROIC & Balance sheet 
+- [x] Setup Nginx for both website & n8n
+
+Jan 9 
+- [x] 2 lectures 
+- [ ] Equity analysis MM 1-2h
+- [x] Call Sergiy 
+- [ ] Polish Sheet 
+	- [ ] Conclude final assessments. Incorporate Top-Down approach in making assumptions 
+	- [ ] Estimate tables for reinvestments 
+- [x] RE income sheet
+
+Jan 10 
+- [x]  -> Finish Reinvestment rate 
+- [x] Text kyrylo 
+- [ ] Text Hary 
+- [ ] Make website launch again 
+	- [ ] Configure Nginx tls certificates 
+- [ ] Lecture growth 
+- [ ] MM finish equity industry analysis lecture 
+
+Jan 11 
+- [x] Collect Data for adobe 
+	- [ ] Configure non-operating income 
+- [ ] Write a short/thesis report for CALM
+- [x] Read Calm Writeup(vic) 
+- [x] Read ADBE writeup(vic + morningstar)
+- [ ] Gym 
+- [x] Growth Lecture 
+- [x] MM 1:20
+
+Jan 12 
+- [x] Gym 
+- [ ] Overview of Adobe 
+- [x] CALM qualitative draft 
+- [x] Session 11 
+
+Jan 14
+- [ ] Books - power broker is a strong role model, 
+- [x] Go to service Ontario
+- [ ] Notes for adobe last 3 presentations 
+- [x] TRN notes for last 3 presentations, figure out reason for depressed valuation
+	- [x] Listen to FY calls
+- [x] Gym 
+
+Jan 15 
+- [ ] Write questions to mortgage broker 
+- [ ] Write questions to wealth advisor 
+- [x] Session 13 
+- [x] WP 
+- [x] Read 50p
+
+Jan 16 
+- [ ] 50 p 
+- [x] Write questions to ali
+- [x] Adjust data for adobe
+
+Jan 18 
+
+- [x] Gym 
+	- [x] Costco 
+- [x] Session 16
+
+Jan 19
+- [ ] BYD Approx valuation 
+	- [x] Report about EVs
+	- [x] Aswath Damodaran article 
+- [x] ADBE finish adjustments 
+- [ ] Start Excel sheet for bridal show 
+- [ ] 50p EWB
+***
+#### Why?
+
+1. I want to complete my valuation model based on needs/issues i encounter with "straight-forward" business 
+2. I want to diversify into less correlated(with IT and broad S&P) sector
+3. I want to practice writing financial reports & submit new application into vic + substack 
+4. I will invest only after upcoming report & potential upside of over 30-40%  
+5. Apply knowledge from SA & CS
+
+#### Thesis - 
 
 
 #### Critique:
-1. I want to change SCHG into QQQ, and sooner or later build position with SPY instead of SCHD 
- -> SCHG is even heavier in IT sector, i want to diversify my portfolio on about 10%, however i don't want to be SPY only, because i still believe that there are enough room to grow for FAANG 
- -> as a hedge or safer measure i choose regular spy, SCHD holds too many unfavorable businesses 
+- 
 
 ***
 ## Timeline:
@@ -39,44 +162,35 @@ To-do:
 - #### Long term studies/to-do
 	- Sales & Autobiographies: 
 		- [ ] Ziger -20
+
 		- [ ] How to Sell Anything to Anybody -0
-		- [x] Influence 
 		- [ ] Power Broker 
 		- [ ] French 2026-Summer
 	- Equity research:
+	    - [ ] Search Funds & Entrepreneurial Acquisitions
 		- [ ] Financial Shenanigans
-		- [ ] Porter 
+		- [ ] Competitive advantage 
 		- [ ] Best Practices For Equity Research Analysts
 		- [ ] Security analysis 
 		- [ ] Easton, McAnally, Sommers: _Financial Statement Analysis & Valuation_
 		- [ ] Valuation: University edition 
 	
-		- [x] Enroll into FE program; 	
-		- [ ] Practice report-writing 
 
-
-
-- #### Nov & Dec 
-	- [ ] Ali's website 
-	- [x] Change receipts for books 
-	- [ ] Bench 225
-
-	- [x] Driving license -800$
-	- [x] Work Permit -350$
-	- [x] LI license and E&O -560$
 
 - #### 2026 Winter-Early Summer
 
 
-	- [ ] Study-Practice French
+
 	- [ ] ?Implement scheme with foreign employment 
 		- -0-100$ +Favor from Ali
 
 
 - #### 2026 Summer-End 
 	- Apply for Estimator -1600$
+
+
 - #### 2027
-	- Complete college course 
+
 	- ?Pass English & French test
 	- ?Apply for EE -1525$
 

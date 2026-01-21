@@ -47,7 +47,7 @@
 16. Velocity of Money - country's monetary turnover; the rate at which money are exchanged between participants withing the country $$\text{GDP / Money Supply(MI/M2)}$$
 17. CCC - cash conversion cycle, the time required for asset to be converted into cash 
 
-18. Operating leverage - how much fixed against variable expenses company has. High operating leverage magnifies higher returns in bull market and terrific returns in bear markets. **Used in measuring beta**
+18. Operating leverage - fixed against variable expenses. High operating leverage magnifies higher returns in bull market and terrific returns in bear markets. **Used in measuring beta**
 	- $\text{EBIT Variable Measure = Percentage Change In EBIT / Percentage Change in Revenue}$
 
 19. Tax shield - deduction thanks to specific, tax deductible expenses $$\text{Value of Tax-Deductible Expense x Tax Rate (deciaml) }$$
