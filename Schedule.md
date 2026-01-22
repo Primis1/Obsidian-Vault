@@ -135,12 +135,24 @@ Jan 18
 - [x] Session 16
 
 Jan 19
-- [ ] BYD Approx valuation 
+- [x] BYD Approx valuation 
 	- [x] Report about EVs
 	- [x] Aswath Damodaran article 
 - [x] ADBE finish adjustments 
-- [ ] Start Excel sheet for bridal show 
+- [x] Start Excel sheet for bridal show 
 - [ ] 50p EWB
+
+Jan 22 
+- [ ] Gym 
+- [ ] BYD unit economics 
+	- [ ] Okay, it's so big that i got lost +plus my addiction stood in the way. Bottom Up approach -> What it sells? Cars, Equipment, Other(Write it down) -> Where it sells? (assign weights) -> Who is the competitor there? (in niche producer, specific sub-segment would be enough, but BYD sells cars of all calibers; compare product functionality) -> who is end consumer? (does company do the right thing to connect ) how sticky & price sensitive they are? -> what is their current market share and how much they and industry in those regions can grow? -> are they expanding into other segments (repeat all previous questions +will they have an edge thanks to their core business)
+	- [ ] Among them you can discover competitive advantages & economies of scale 
+- [ ] Postgress db
+- [ ] Payload project
+- [ ] Nginx 
+- [ ] n8n Container 
+
+
 ***
 #### Why?
 
