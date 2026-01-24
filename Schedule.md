@@ -144,15 +144,16 @@ Jan 19
 
 Jan 22 
 - [ ] Gym 
+- [x] Postgress db
+	- [x] Payload project
+- [x] Nginx 
+- [x] n8n Container 
+
+Jan 24
 - [ ] BYD unit economics 
 	- [ ] Okay, it's so big that i got lost +plus my addiction stood in the way. Bottom Up approach -> What it sells? Cars, Equipment, Other(Write it down) -> Where it sells? (assign weights) -> Who is the competitor there? (in niche producer, specific sub-segment would be enough, but BYD sells cars of all calibers; compare product functionality) -> who is end consumer? (does company do the right thing to connect ) how sticky & price sensitive they are? -> what is their current market share and how much they and industry in those regions can grow? -> are they expanding into other segments (repeat all previous questions +will they have an edge thanks to their core business)
 	- [ ] Among them you can discover competitive advantages & economies of scale 
-- [ ] Postgress db
-- [ ] Payload project
-- [ ] Nginx 
-- [ ] n8n Container 
-
-
+- [ ] Access website through phone 
 ***
 #### Why?
 
